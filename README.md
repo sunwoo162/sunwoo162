@@ -3,9 +3,10 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunwoo162)
 
+
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sunwoo162&utm_content=line">
   <img
-    src="https://render.gitanimals.org/lines/sunwoo162?pet-id=739659192230265541"
+    src="https://render.gitanimals.org/lines/sunwoo162?pet-id=739658362164930699"
     width="600"
     height="120"
   />
