@@ -6,6 +6,14 @@
       {
         "kind": "commit",
         "date": "2026-10-16",
+        "time": "08:43",
+        "title": "feat: render 7-row GitHub-style interactive contribution heatmap",
+        "repo": "sunwoo162/sunwoo162",
+        "url": "https://github.com/sunwoo162/sunwoo162/commit/9efbb81a12b77628e6e6d2e57a93a194379e9ce1"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-10-16",
         "time": "08:42",
         "title": "ci: include contribution grass SVG in automatic README refresh",
         "repo": "sunwoo162/sunwoo162",
@@ -15824,14 +15832,6 @@
         "title": "docs: record social profile lock boundary",
         "repo": "sunwoo162/iseol-bot",
         "url": "https://github.com/sunwoo162/iseol-bot/commit/7d5c94dcdc0a2449d14f4e93afa7a4441211b808"
-      },
-      {
-        "kind": "commit",
-        "date": "2026-09-28",
-        "time": "14:48",
-        "title": "feat: serialize social profile mutations",
-        "repo": "sunwoo162/iseol-bot",
-        "url": "https://github.com/sunwoo162/iseol-bot/commit/27df2c39be9273cec5f786b485747c7e54837445"
       },
       {
         "kind": "pr",
