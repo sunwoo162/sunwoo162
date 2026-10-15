@@ -42,8 +42,11 @@ jobs:
             git push
           fi
       - uses: actions/configure-pages@v5
+        if: github.event.repository.private == false
       - uses: actions/upload-pages-artifact@v3
+        if: github.event.repository.private == false
         with:
           path: docs
       - uses: actions/deploy-pages@v4
+        if: github.event.repository.private == false
         id: deployment
