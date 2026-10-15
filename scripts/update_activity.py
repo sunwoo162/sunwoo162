@@ -67,29 +67,50 @@ def rows(items):
         out.append("| "+x["time"]+" | "+x["kind"].upper()+" | ["+title+"]("+x["url"]+") | "+x["repo"]+" |")
     if not items:out.append("| — | — | 공개 활동 없음 | — |")
     return "\n".join(out)
+def grass(data):
+    """Generate 7-row, week-aligned GitHub-style activity heatmap."""
+    start=TODAY-dt.timedelta(days=364)
+    start-=dt.timedelta(days=(start.weekday()+1)%7)
+    weeks=(TODAY-start).days//7+1
+    cell=12
+    step=16
+    left=37
+    top=30
+    width=left+weeks*step+15
+    height=top+7*step+13
+    colors=["#161b22","#0e4429","#006d32","#26a641","#39d353"]
+    def level(n):
+        return 0 if n==0 else 1 if n<=2 else 2 if n<=5 else 3 if n<=9 else 4
+    parts=[
+      f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}" role="img" aria-label="GitHub activity calendar">',
+      f'<rect width="{width}" height="{height}" fill="#0d1117" rx="10"/>'
+    ]
+    for day,label in ((1,"Mon"),(3,"Wed"),(5,"Fri")):
+        parts.append(f'<text x="8" y="{top+day*step+10}" fill="#7d8590" font-family="Arial,sans-serif" font-size="10">{label}</text>')
+    last_month=None
+    for i in range(weeks*7):
+        date=start+dt.timedelta(days=i)
+        if date>TODAY:break
+        week=i//7
+        row=(date.weekday()+1)%7
+        if row==0 and date.month!=last_month:
+            last_month=date.month
+            parts.append(f'<text x="{left+week*step}" y="19" fill="#8b949e" font-family="Arial,sans-serif" font-size="11">{date.month}월</text>')
+        count=len(data.get(date.isoformat(),[]))
+        parts.append(f'<rect x="{left+week*step}" y="{top+row*step}" width="{cell}" height="{cell}" rx="3" fill="{colors[level(count)]}"><title>{date.isoformat()}: {count} activities</title></rect>')
+    parts.append("</svg>")
+    return "\n".join(parts)+"\n"
+
 def readme(data):
-    head=["# Development Log","","> 📅 GitHub 공개 활동을 한국 시간(KST) 기준으로 기록합니다.","",
-      "## Activity Calendar · "+TODAY.strftime("%Y.%m"),"",
-      "| 일 | 월 | 화 | 수 | 목 | 금 | 토 |","|:--:|:--:|:--:|:--:|:--:|:--:|:--:|"]
-    for week in calendar.Calendar(6).monthdayscalendar(TODAY.year,TODAY.month):
-        cells=[]
-        for day in week:
-            if not day:cells.append(" ");continue
-            date=f"{TODAY.year}-{TODAY.month:02d}-{day:02d}"
-            n=len(data.get(date,[]))
-            mark="⬜" if n==0 else "🟩" if n<4 else "🟢" if n<10 else "💚"
-            cell=str(day)+" "+mark
-            if date==TODAY.isoformat():cell="**"+cell+"**"
-            cells.append("["+cell+"]("+SITE+"?date="+date+")")
-        head.append("| "+" | ".join(cells)+" |")
     items=data.get(TODAY.isoformat(),[])
     counts={k:sum(x["kind"]==k for x in items) for k in ("commit","pr","issue")}
-    head+=["","날짜를 클릭하면 해당 날짜의 작업 목록을 바로 확인할 수 있습니다.","",
-       "## Today's Work · "+TODAY.isoformat(),"",
-       "**"+str(counts["commit"])+" Commits** · **"+str(counts["pr"])+" PRs** · **"+str(counts["issue"])+" Issues** · **"+str(len(set(x["repo"] for x in items)))+" Repositories**","",
-       rows(items),"","### [↗ 전체 기록 달력 보기]("+SITE+")","",
-       "<sub>매시간 자동 업데이트 · 공개 저장소만 수집 · 커밋 시간과 Push 시간은 다를 수 있습니다. GitHub 검색 제한에 따라 일부 항목이 누락될 수 있습니다.</sub>",""]
-    return "\n".join(head)
+    return "\n".join([
+      "[![Activity](docs/grass.svg)]("+SITE+")","",
+      "### Today · "+TODAY.isoformat(),"",
+      "**"+str(counts["commit"])+" Commits** · **"+str(counts["pr"])+" PRs** · **"+str(counts["issue"])+" Issues**","",
+      rows(items),"",
+      "[View all activity →]("+SITE+")",""
+    ])
 def main():
     data_path=BASE/"docs"/"activity.json"
     old={}
@@ -100,6 +121,7 @@ def main():
     days={day:sorted({(x["kind"],x["url"]):x for x in items}.values(),key=lambda x:x["time"],reverse=True) for day,items in sorted(days.items(),reverse=True)}
     data_path.parent.mkdir(exist_ok=True,parents=True)
     data_path.write_text(json.dumps({"user":USER,"timezone":"Asia/Seoul","days":days},ensure_ascii=False,indent=2)+"\n",encoding="utf8")
+    (BASE/"docs"/"grass.svg").write_text(grass(days),encoding="utf8")
     (BASE/"README.md").write_text(readme(days),encoding="utf8")
     archive=BASE/"activity"
     archive.mkdir(exist_ok=True)
