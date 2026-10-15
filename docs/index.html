@@ -1,52 +1,142 @@
 <!doctype html>
-<html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Development Log · sunwoo162</title>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#0d1117">
+<title>Activity · sunwoo162</title>
 <style>
-:root{color-scheme:dark;font-family:Inter,system-ui,sans-serif;background:#0b1017;color:#e9f0f7}*{box-sizing:border-box}body{margin:0;background:radial-gradient(ellipse at top,#1a483c55,transparent 65%),#0b1017}
-main{max-width:870px;margin:0 auto;padding:42px 20px 90px}a{color:inherit;text-decoration:none}header,.heading{display:flex;align-items:center;justify-content:space-between;gap:15px}header{font-size:13px;color:#93b1bb}header strong{color:#70dbac;letter-spacing:.12em}
-h1{font-size:clamp(33px,6vw,53px);letter-spacing:-.065em;line-height:1.1;margin:45px 0 16px}p{color:#92a6b7;line-height:1.7;font-size:14px;margin-bottom:32px}
-section{background:#111b25;border:1px solid #2a3946;border-radius:20px;padding:25px;margin-bottom:18px}.overline{letter-spacing:.12em;text-transform:uppercase;font-size:11px;color:#8ba4b3;font-weight:680}.title{font-size:20px;font-weight:750;margin-top:6px}
-.nav{display:flex;gap:7px}button{font:inherit;cursor:pointer}.nav button,.filters button{color:#dae4ea;background:#20303e;border:1px solid #344553;padding:9px 13px;border-radius:10px}.nav button:hover,.filters button:hover{background:#294736}.calendar{display:grid;grid-template-columns:repeat(7,minmax(0,1fr));gap:7px;margin-top:25px}
-.weekday{color:#92a5b4;text-align:center;padding:9px 2px;font-size:12px}.cell{height:78px;display:flex;flex-direction:column;justify-content:space-between;align-items:flex-start;border:1px solid #304250;border-radius:11px;background:#172631;color:#ecf4f8;padding:11px;cursor:pointer}.cell small{font-size:11px;color:#acc2c8}.cell:hover{border-color:#66dbab}.cell.active{border:2px solid #68e1ac;background:#24483f}.cell.l1{background:#19362e}.cell.l2{background:#20523d}.cell.l3{background:#286d4f}.legend{font-size:11px;color:#92a4b0;margin-top:13px}
-.stats{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin-top:23px}.stat{background:#172732;border:1px solid #2c3e4b;padding:17px 12px;border-radius:12px}.stat strong{display:block;font-size:26px}.stat span{color:#8ba0b0;font-size:12px}
-.filters{display:flex;flex-wrap:wrap;gap:7px;margin-top:21px}.filters button{font-size:12px}.filters button.active{background:#245340;border-color:#62cc98}
-.record{display:flex;gap:13px;align-items:center;padding:17px 0;border-bottom:1px solid #2b3b47}.record:last-child{border-bottom:0}.record-icon{background:#253d40;color:#89e8b7;display:grid;place-items:center;width:40px;height:40px;border-radius:12px;flex-shrink:0}.record-main{flex:1;min-width:0}.record-title{font-size:14px;font-weight:700;overflow-wrap:anywhere}.record-title:hover{color:#71eab2}.meta{margin-top:5px;color:#8da5b5;font-size:12px;overflow-wrap:anywhere}.time{color:#8297a8;font-size:12px}.empty{padding:38px 8px;color:#90a6b5;text-align:center;font-size:13px}
-footer{color:#8094a4;font-size:12px;line-height:1.8}footer a{text-decoration:underline}
-@media(max-width:560px){main{padding:25px 12px 60px}section{padding:16px}.calendar{gap:4px}.cell{height:57px;padding:8px 6px}.cell small{font-size:10px}.stats{grid-template-columns:repeat(2,1fr)}.title{font-size:17px}}
-</style></head><body><main>
-<header><strong>● DEVELOPMENT LOG</strong><a href="https://github.com/sunwoo162">GitHub Profile ↗</a></header>
-<h1>Every commit.<br>Every day.</h1><p>작업한 커밋, PR, Issue를 날짜별로 확인하고,<br>작업 제목을 눌러 실제 GitHub 기록으로 이동합니다.</p>
-<section><div class="heading"><div><div class="overline">Activity Calendar · KST</div><div class="title" id="month"></div></div><div class="nav"><button id="prev" aria-label="이전 달">←</button><button id="today">오늘</button><button id="next" aria-label="다음 달">→</button></div></div>
-<div class="calendar" id="calendar"></div><div class="legend">⬜ 활동 없음 · 🟩 적음 · 🟢 보통 · 💚 많음</div></section>
-<section><div class="heading"><div><div class="overline">Selected Activity</div><div class="title" id="day"></div></div><span id="total" class="meta"></span></div><div class="stats" id="stats"></div><div class="filters" id="filters"></div><div id="timeline"></div></section>
-<footer>GitHub Actions 자동 수집 · 한국시간(KST) · 공개 저장소만 포함 · 커미터 시각은 Push 시각과 다를 수 있음<br><a href="https://github.com/sunwoo162/sunwoo162">GitHub Repository</a></footer>
+:root{color-scheme:dark;font-family:Inter,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;background:#0d1117;color:#e6edf3}
+*{box-sizing:border-box}
+body{margin:0;background:#0d1117}
+a{color:inherit;text-decoration:none}
+button{font:inherit;cursor:pointer}
+.shell{max-width:1050px;margin:0 auto;padding:34px 22px 80px}
+.top,.head,.stat-row,.scale,.filterbar{display:flex;align-items:center;justify-content:space-between}
+.top{color:#8b949e;font-size:13px;margin-bottom:24px}
+.top strong{color:#c9d1d9;font-size:14px;letter-spacing:.02em}
+.top a:hover,.worktitle:hover{color:#58a6ff}
+.panel{border:1px solid #30363d;border-radius:12px;padding:24px;background:#0d1117;margin-bottom:16px}
+.head{gap:16px;flex-wrap:wrap;margin-bottom:20px}
+h1,h2{font-size:18px;letter-spacing:-.02em;font-weight:650;margin:0}
+.nav{display:flex;gap:7px}
+.nav button{background:#21262d;border:1px solid #30363d;border-radius:7px;color:#c9d1d9;padding:7px 11px;font-size:12px}
+.nav button:hover{background:#30363d}
+.nav button:disabled{opacity:.4;cursor:default}
+.heatmap-scroll{overflow-x:auto;overflow-y:hidden;padding:2px 2px 10px;scrollbar-color:#30363d transparent}
+.graph{display:flex;min-width:max-content;gap:8px}
+.weeklabels{width:29px;padding-top:22px;display:grid;grid-template-rows:repeat(7,13px);gap:4px;flex-shrink:0;font-size:10px;color:#8b949e;align-items:center}
+.weeklabels span:nth-child(1),.weeklabels span:nth-child(3),.weeklabels span:nth-child(5),.weeklabels span:nth-child(7){visibility:hidden}
+.heatwrap{width:max-content;max-width:none}
+.months{height:22px;position:relative;color:#8b949e;font-size:11px}
+.months span{position:absolute;top:0;white-space:nowrap}
+.grass{display:grid;grid-auto-flow:column;grid-template-rows:repeat(7,13px);grid-auto-columns:13px;gap:4px}
+.square{display:block;width:13px;height:13px;padding:0;border:1px solid #ffffff09;border-radius:3px;transition:transform .12s}
+.square:hover{outline:1px solid #b0bac4;outline-offset:1px;transform:scale(1.14)}
+.square:focus-visible{outline:2px solid #58a6ff;outline-offset:2px}
+.square.selected{outline:2px solid #e6edf3;outline-offset:2px}
+.level0{background:#161b22}.level1{background:#0e4429}.level2{background:#006d32}.level3{background:#26a641}.level4{background:#39d353}
+.scale{justify-content:flex-end;gap:5px;margin-top:10px;font-size:11px;color:#8b949e}
+.scale i{width:12px;height:12px;border-radius:2px}
+.stat-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:10px}
+.stat{border:1px solid #30363d;background:#161b22;padding:15px;border-radius:9px}
+.stat strong{font-size:24px;font-weight:680;display:block}
+.stat small{font-size:12px;color:#8b949e;display:block;margin-top:4px}
+.note{color:#8b949e;font-size:12px}
+.filterbar{justify-content:flex-start;gap:8px;flex-wrap:wrap;margin-top:22px}
+.filterbar button{background:transparent;border:1px solid #30363d;border-radius:7px;padding:7px 13px;color:#8b949e;font-size:12px}
+.filterbar button.active{color:#e6edf3;background:#21262d;border-color:#47525e}
+.timeline{margin-top:7px}
+.entry{display:flex;gap:12px;align-items:center;padding:16px 3px;border-bottom:1px solid #21262d}
+.entry:last-child{border-bottom:0}
+.entry-icon{display:flex;justify-content:center;align-items:center;width:33px;height:33px;flex-shrink:0;border:1px solid #30363d;border-radius:8px;color:#3fb950;font-size:16px}
+.entry-body{flex:1;min-width:0}
+.worktitle{font-size:14px;font-weight:600;line-height:1.5;overflow-wrap:anywhere}
+.meta{color:#8b949e;font-size:12px;margin-top:4px;overflow-wrap:anywhere}
+.entry-time{color:#8b949e;font-size:12px;flex-shrink:0}
+.empty{padding:38px 12px;text-align:center;color:#8b949e;font-size:13px}
+@media(max-width:600px){.shell{padding:18px 12px 60px}.panel{padding:16px}.stat-grid{grid-template-columns:repeat(2,1fr)}}
+</style>
+</head>
+<body>
+<main class="shell">
+<header class="top"><strong>sunwoo162 / Activity</strong><a href="https://github.com/sunwoo162">GitHub ↗</a></header>
+<section class="panel">
+<div class="head">
+<h1>Activity</h1>
+<nav class="nav" aria-label="날짜 탐색"><button id="prev" aria-label="이전 기간">←</button><button id="today">Today</button><button id="next" aria-label="다음 기간">→</button></nav>
+</div>
+<div class="heatmap-scroll" id="scroller"><div class="graph">
+<div class="weeklabels"><span>Sun</span><span>Mon</span><span>Tue</span><span>Wed</span><span>Thu</span><span>Fri</span><span>Sat</span></div>
+<div class="heatwrap"><div id="months" class="months"></div><div id="grass" class="grass"></div></div>
+</div></div>
+<div class="scale"><span>Less</span><i class="level0"></i><i class="level1"></i><i class="level2"></i><i class="level3"></i><i class="level4"></i><span>More</span></div>
+</section>
+<section class="panel">
+<div class="head"><h2 id="dateTitle">Today</h2><span class="note" id="dayCount"></span></div>
+<div class="stat-grid" id="stats"></div>
+<div class="filterbar" id="filters"></div>
+<div class="timeline" id="timeline"></div>
+</section>
 </main>
 <script>
 (function(){
-const $=id=>document.getElementById(id), params=new URLSearchParams(location.search);
-function kst(){const a=new Intl.DateTimeFormat("en-US",{timeZone:"Asia/Seoul",year:"numeric",month:"2-digit",day:"2-digit"}).formatToParts(new Date()),b={};a.forEach(x=>b[x.type]=x.value);return b.year+"-"+b.month+"-"+b.day}
-const today=kst();let chosen=params.get("date");if(!/^\d{4}-\d{2}-\d{2}$/.test(chosen||"")||isNaN(Date.parse(chosen+"T00:00:00Z")))chosen=today;
-let year=+chosen.slice(0,4),month=+chosen.slice(5,7)-1,filter="all",data={};
-function elem(tag,cls,txt){let n=document.createElement(tag);if(cls)n.className=cls;if(txt!==undefined)n.textContent=txt;return n}
-function key(i){return year+"-"+String(month+1).padStart(2,"0")+"-"+String(i).padStart(2,"0")}
-function list(k){return data[k]||[]}
-function calendar(){const box=$("calendar");box.replaceChildren();$("month").textContent=year+"년 "+(month+1)+"월";
-["일","월","화","수","목","금","토"].forEach(x=>box.append(elem("span","weekday",x)));
-const first=new Date(Date.UTC(year,month,1)).getUTCDay(),days=new Date(Date.UTC(year,month+1,0)).getUTCDate();
-for(let i=0;i<first;i++)box.append(elem("span"));
-for(let i=1;i<=days;i++){let date=key(i),n=list(date).length,level=n?Math.min(3,Math.ceil(n/4)):0,b=elem("button","cell l"+level+(date===chosen?" active":""));
-b.setAttribute("aria-label",date+" 활동 "+n+"건");b.append(elem("strong","",i),elem("small","",n?n+"건":"·"));
-b.onclick=()=>{chosen=date;filter="all";history.replaceState(null,"","?date="+date);render()};box.append(b)}}
-function details(){const all=list(chosen);$("day").textContent=chosen+" 활동 기록";$("total").textContent=all.length+" activities";const s=$("stats");s.replaceChildren();
-[[all.filter(x=>x.kind==="commit").length,"Commits"],[all.filter(x=>x.kind==="pr").length,"Pull Requests"],[all.filter(x=>x.kind==="issue").length,"Issues"],[new Set(all.map(x=>x.repo)).size,"Repositories"]].forEach(x=>{let b=elem("div","stat");b.append(elem("strong","",x[0]),elem("span","",x[1]));s.append(b)});
-const fs=$("filters");fs.replaceChildren();[["all","전체"],["commit","Commits"],["pr","PRs"],["issue","Issues"]].forEach(x=>{let b=elem("button",filter===x[0]?"active":"",x[1]);b.onclick=()=>{filter=x[0];details()};fs.append(b)});
-const timeline=$("timeline");timeline.replaceChildren();let matches=all.filter(x=>filter==="all"||x.kind===filter);
-if(!matches.length){timeline.append(elem("div","empty","이 날짜에 해당하는 공개 활동이 없습니다."));return}
-matches.forEach(x=>{let row=elem("article","record"),icon=elem("span","record-icon",x.kind==="commit"?"●":x.kind==="pr"?"⑂":"◇"),m=elem("div","record-main"),a=elem("a","record-title",x.title);
-a.href=x.url;a.target="_blank";a.rel="noopener noreferrer";m.append(a,elem("div","meta",x.repo+" · "+x.kind.toUpperCase()));row.append(icon,m,elem("span","time",x.time));timeline.append(row)})}
-function render(){calendar();details()}
-function move(step){const date=new Date(Date.UTC(year,month+step,1));year=date.getUTCFullYear();month=date.getUTCMonth();calendar()}
-$("prev").onclick=()=>move(-1);$("next").onclick=()=>move(1);$("today").onclick=()=>{chosen=today;year=+today.slice(0,4);month=+today.slice(5,7)-1;filter="all";history.replaceState(null,"","?date="+today);render()};
-render();fetch("./activity.json",{cache:"no-store"}).then(r=>{if(!r.ok)throw Error(r.status);return r.json()}).then(j=>{data=j.days||{};render()}).catch(()=>{$("timeline").replaceChildren(elem("div","empty","데이터를 불러오지 못했습니다."))})
+"use strict";
+const $=id=>document.getElementById(id),query=new URLSearchParams(location.search);
+function todayKST(){const p={};new Intl.DateTimeFormat("en-US",{timeZone:"Asia/Seoul",year:"numeric",month:"2-digit",day:"2-digit"}).formatToParts(new Date()).forEach(x=>p[x.type]=x.value);return p.year+"-"+p.month+"-"+p.day}
+const today=todayKST();
+let selected=query.get("date");
+if(!/^\d{4}-\d{2}-\d{2}$/.test(selected||"")||Number.isNaN(Date.parse(selected+"T00:00:00Z")))selected=today;
+let filter="all",offset=0,data={},anchor=selected<today?selected:today;
+function dateObj(key){return new Date(key+"T00:00:00Z")}
+function dateKey(d){return d.toISOString().slice(0,10)}
+function elem(tag,cls,value){let x=document.createElement(tag);if(cls)x.className=cls;if(value!==undefined)x.textContent=value;return x}
+function list(key){return data[key]||[]}
+function level(n){return n===0?0:n<=2?1:n<=5?2:n<=9?3:4}
+function drawGrass(){
+const end=dateObj(anchor);
+end.setUTCMonth(end.getUTCMonth()+offset);
+const start=new Date(end);start.setUTCDate(start.getUTCDate()-364);start.setUTCDate(start.getUTCDate()-start.getUTCDay());
+const numWeeks=Math.floor((end-start)/604800000)+1;
+const box=$("grass"),months=$("months");box.replaceChildren();months.replaceChildren();
+let monthIndex=-1,lastMonthX=-100;
+for(let i=0;i<numWeeks*7;i++){
+const date=new Date(start);date.setUTCDate(start.getUTCDate()+i);
+let key=dateKey(date),week=Math.floor(i/7),n=list(key).length;
+if(i%7===0&&date.getUTCMonth()!==monthIndex){monthIndex=date.getUTCMonth();const x=week*17;if(x-lastMonthX>32){const label=elem("span","",(date.getUTCMonth()+1)+"월");label.style.left=x+"px";months.append(label);lastMonthX=x}}
+const square=elem("button","square level"+level(n)+(key===selected?" selected":""));
+square.title=key+" · "+n+" activities";
+square.setAttribute("aria-label",key+" 활동 "+n+"건");square.setAttribute("aria-pressed",key===selected?"true":"false");
+if(date>end){square.style.visibility="hidden";square.disabled=true}
+else square.onclick=()=>{selected=key;filter="all";history.replaceState(null,"","?date="+key);drawGrass();drawDay()};
+box.append(square)
+}
+$("next").disabled=offset===0;
+}
+function drawDay(){
+const listForDay=list(selected),stats=$("stats"),timeline=$("timeline"),filters=$("filters");
+$("dateTitle").textContent=selected;$("dayCount").textContent=listForDay.length+" activities";
+stats.replaceChildren();
+[[listForDay.filter(x=>x.kind==="commit").length,"Commits"],[listForDay.filter(x=>x.kind==="pr").length,"Pull Requests"],[listForDay.filter(x=>x.kind==="issue").length,"Issues"],[new Set(listForDay.map(x=>x.repo)).size,"Repositories"]].forEach(item=>{
+const cell=elem("div","stat");cell.append(elem("strong","",String(item[0])),elem("small","",item[1]));stats.append(cell)});
+filters.replaceChildren();
+[["all","All"],["commit","Commits"],["pr","Pull Requests"],["issue","Issues"]].forEach(item=>{
+const b=elem("button",filter===item[0]?"active":"",item[1]);b.setAttribute("aria-pressed",filter===item[0]?"true":"false");b.onclick=()=>{filter=item[0];drawDay()};filters.append(b)});
+timeline.replaceChildren();
+const rows=listForDay.filter(x=>filter==="all"||x.kind===filter);
+if(!rows.length){timeline.append(elem("div","empty","No activity on this date"));return}
+rows.forEach(x=>{
+const row=elem("div","entry"),ic=elem("span","entry-icon",x.kind==="pr"?"⑂":x.kind==="issue"?"◇":"●"),body=elem("div","entry-body"),a=elem("a","worktitle",x.title);
+a.href=x.url;a.target="_blank";a.rel="noopener noreferrer";
+body.append(a,elem("div","meta",x.repo+" · "+x.kind.toUpperCase()));
+row.append(ic,body,elem("span","entry-time",x.time));timeline.append(row)});
+}
+$("prev").onclick=()=>{offset-=3;drawGrass()};
+$("next").onclick=()=>{if(offset<0){offset=Math.min(0,offset+3);drawGrass()}};
+$("today").onclick=()=>{anchor=today;offset=0;selected=today;filter="all";history.replaceState(null,"","?date="+today);drawGrass();drawDay()};
+drawGrass();drawDay();
+fetch("./activity.json",{cache:"no-store"}).then(r=>{if(!r.ok)throw Error("Data unavailable");return r.json()}).then(j=>{data=j.days||{};drawGrass();drawDay()}).catch(e=>{const timeline=$("timeline");timeline.replaceChildren(elem("div","empty",e.message))});
 })();
-</script></body></html>
+</script>
+</body>
+</html>
