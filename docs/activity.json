@@ -6060,6 +6060,14 @@
         "url": "https://github.com/sunwoo162/iseol-bot/commit/062fa443e289c43295ee3102791edd82b5a7d2d5"
       },
       {
+        "kind": "commit",
+        "date": "2026-09-30",
+        "time": "15:13",
+        "title": "fix: synchronize contest audience feed state",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/3b86bd4f37f2d024a2a27e62ae968822609dff4a"
+      },
+      {
         "kind": "pr",
         "date": "2026-09-30",
         "time": "15:13",
@@ -6114,6 +6122,22 @@
         "title": "fix: synchronize contest feed state",
         "repo": "sunwoo162/iseol-bot",
         "url": "https://github.com/sunwoo162/iseol-bot/commit/4bfffac609a7e7f337c29dd13113c4bf26951fa8"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-30",
+        "time": "15:06",
+        "title": "Merge pull request #287 from sunwoo162/codex/docs-music-playlists",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/a0c0cfeee6455edf946a3b0f112f3853d72d3b8b"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-30",
+        "time": "15:05",
+        "title": "docs: record music playlist state synchronization",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/d8689ee1255b282db0cb7ceed69998920768fcfe"
       },
       {
         "kind": "pr",
@@ -6236,6 +6260,22 @@
         "url": "https://github.com/sunwoo162/iseol-bot/pull/283"
       },
       {
+        "kind": "commit",
+        "date": "2026-09-30",
+        "time": "14:51",
+        "title": "Merge pull request #282 from sunwoo162/codex/lock-daily-scrum",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/d98ec48061bae86b454345cfdaa453319d27d45b"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-30",
+        "time": "14:50",
+        "title": "fix: synchronize daily scrum state",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/8574aaf3d718e122720ec24ae8880cf38ce1516e"
+      },
+      {
         "kind": "pr",
         "date": "2026-09-30",
         "time": "14:50",
@@ -6258,6 +6298,22 @@
         "title": "fix : validate calibration CLI timestamps",
         "repo": "sunwoo162/claimlatch",
         "url": "https://github.com/sunwoo162/claimlatch/pull/209"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-30",
+        "time": "14:47",
+        "title": "Merge pull request #281 from sunwoo162/codex/docs-service-projects",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/c4d8564657a6973267168b1f65a257338d67447c"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-30",
+        "time": "14:46",
+        "title": "docs: record service project state synchronization",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/6413915450578b0d42a9f4218a48d50ebb9d7ef0"
       },
       {
         "kind": "pr",
@@ -6482,6 +6538,22 @@
         "title": "docs: record review state synchronization",
         "repo": "sunwoo162/iseol-bot",
         "url": "https://github.com/sunwoo162/iseol-bot/commit/43cc1101258ba67885acc3bcc80d7ad5812b2ded"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-30",
+        "time": "14:17",
+        "title": "Merge pull request #272 from sunwoo162/codex/lock-review-state-store",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/830e78ae50fc3e5bef48fcfa6a90ce5a78aae366"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-30",
+        "time": "14:16",
+        "title": "fix: serialize review state updates",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/21826a6844cccf0c189730e29b0a77badc3c7f9e"
       },
       {
         "kind": "pr",
@@ -7262,10 +7334,26 @@
       {
         "kind": "commit",
         "date": "2026-09-30",
+        "time": "12:59",
+        "title": "Merge pull request #249 from sunwoo162/codex/docs-desktop-job-reads",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/79c9ec60a00e09d554953a660785f06fe96a61f4"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-30",
         "time": "12:58",
         "title": "chore : prepare 0.3.78 release",
         "repo": "sunwoo162/claimlatch",
         "url": "https://github.com/sunwoo162/claimlatch/commit/20925b330e918fe8285b4887315e2d01d832e2be"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-30",
+        "time": "12:58",
+        "title": "docs: record desktop job read synchronization",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/cb3c15185fe4971d9c110c520c12da7132485a55"
       },
       {
         "kind": "pr",
@@ -7292,12 +7380,28 @@
         "url": "https://github.com/sunwoo162/claimlatch/commit/cdf4585d9fe8e3249368c229f31c5ea704246fb9"
       },
       {
+        "kind": "commit",
+        "date": "2026-09-30",
+        "time": "12:56",
+        "title": "Merge pull request #248 from sunwoo162/codex/lock-desktop-job-reads",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/dfa187564752a293c9cbe8f0d8f136fb6a46aba8"
+      },
+      {
         "kind": "pr",
         "date": "2026-09-30",
         "time": "12:56",
         "title": "fix: synchronize Desktop Job reads",
         "repo": "sunwoo162/iseol-bot",
         "url": "https://github.com/sunwoo162/iseol-bot/pull/248"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-30",
+        "time": "12:55",
+        "title": "fix: synchronize desktop job reads",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/6c16f1e80dd6e276edc7e9e84beeb24f246750f2"
       },
       {
         "kind": "pr",
@@ -12662,6 +12766,22 @@
         "url": "https://github.com/sunwoo162/claimlatch/pull/35"
       },
       {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "15:03",
+        "title": "Merge pull request #86 from sunwoo162/codex/shared-memory-read-hardening",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/f67ff0634acf425fa3d77811579dc6ab8e530ac6"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "15:03",
+        "title": "fix: synchronize shared memory reads",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/bf7defbd0125726c2e8eedb320ab83b56f664038"
+      },
+      {
         "kind": "pr",
         "date": "2026-09-29",
         "time": "15:03",
@@ -12678,12 +12798,36 @@
         "url": "https://github.com/sunwoo162/claimlatch/commit/0be147bc80fefb330910052ae5f9dd8068ceb3b8"
       },
       {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "15:00",
+        "title": "Merge pull request #85 from sunwoo162/codex/docs-record-platform-user-email-read-hardening",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/adfd52a2d94d48fcb02c148286c1c8756ae049b6"
+      },
+      {
         "kind": "pr",
         "date": "2026-09-29",
         "time": "15:00",
         "title": "docs: record platform user email read synchronization",
         "repo": "sunwoo162/iseol-bot",
         "url": "https://github.com/sunwoo162/iseol-bot/pull/85"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "14:59",
+        "title": "Merge pull request #84 from sunwoo162/codex/platform-user-email-read-hardening",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/21c1024c43a2694921e1988ba26106e92f7dbe52"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "14:59",
+        "title": "docs: record platform user email read synchronization",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/d13b481e7a918fa0dd2a8f0c2e0b47b4c2585101"
       },
       {
         "kind": "pr",
@@ -12702,6 +12846,14 @@
         "url": "https://github.com/sunwoo162/claimlatch/commit/2c50d64f77b23409aaa4fa6f120dd593813d3d54"
       },
       {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "14:58",
+        "title": "fix: synchronize platform user email lookups",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/45d478e4062f4876ab02f88ef3258dedb50cf465"
+      },
+      {
         "kind": "pr",
         "date": "2026-09-29",
         "time": "14:58",
@@ -12718,6 +12870,14 @@
         "url": "https://github.com/sunwoo162/claimlatch/pull/33"
       },
       {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "14:53",
+        "title": "Merge pull request #83 from sunwoo162/codex/docs-record-platform-user-read-hardening",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/24e80855ab09e34457f98f582975c1c936957905"
+      },
+      {
         "kind": "pr",
         "date": "2026-09-29",
         "time": "14:53",
@@ -12732,6 +12892,14 @@
         "title": "chore : prepare 0.3.6 release",
         "repo": "sunwoo162/claimlatch",
         "url": "https://github.com/sunwoo162/claimlatch/commit/f78dea9e238b4718a84c9b87cac979e04e46bd41"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "14:52",
+        "title": "docs: record platform user read synchronization",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/f2b41be3f9e6e72b127ec16526580e2f21cf4e27"
       },
       {
         "kind": "pr",
@@ -12796,6 +12964,22 @@
         "title": "test : freeze benchmark file integrity",
         "repo": "sunwoo162/claimlatch",
         "url": "https://github.com/sunwoo162/claimlatch/commit/bca2a50321b5cd7c25a4868919dde34c927689f5"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "14:40",
+        "title": "Merge pull request #80 from sunwoo162/codex/study-space-read-hardening",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/d95379e5e5f96186536bed95530c8c562b701a3b"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "14:40",
+        "title": "fix: synchronize study space reads",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/b8b9cffa4a8a1db8da5c1413e0491bbebe22b3cf"
       },
       {
         "kind": "pr",
@@ -13414,12 +13598,36 @@
         "url": "https://github.com/sunwoo162/claimlatch/pull/7"
       },
       {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "11:43",
+        "title": "Merge pull request #48 from sunwoo162/feat/iseol-community-like-read-hardening",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/40e206eb08ea3015fa3d5d140f81993e71be037f"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "11:43",
+        "title": "docs: record community like read synchronization",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/2019989399780f85a620e6fc85d7dd1d25e736d6"
+      },
+      {
         "kind": "pr",
         "date": "2026-09-29",
         "time": "11:43",
         "title": "fix: harden community like reads",
         "repo": "sunwoo162/iseol-bot",
         "url": "https://github.com/sunwoo162/iseol-bot/pull/48"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "11:42",
+        "title": "fix: serialize community like reads",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/0c0847e65d28b8e5934ced4981c1e43a6e6a347b"
       },
       {
         "kind": "pr",
@@ -13526,12 +13734,36 @@
         "url": "https://github.com/sunwoo162/claimlatch/pull/3"
       },
       {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "11:09",
+        "title": "Merge pull request #42 from sunwoo162/feat/iseol-incoming-request-read-hardening",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/98f2baab227731211ba4b5c48a4629fb7ef64466"
+      },
+      {
         "kind": "pr",
         "date": "2026-09-29",
         "time": "11:09",
         "title": "fix: harden incoming friend request reads",
         "repo": "sunwoo162/iseol-bot",
         "url": "https://github.com/sunwoo162/iseol-bot/pull/42"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "11:08",
+        "title": "docs: record incoming friend request recheck",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/67d6b3b011dd3b998171321e7860ba9c9e3cb387"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "11:07",
+        "title": "fix: recheck incoming friend requests",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/1f49d7ce4327a576e99c04f35d3dec1160f5324d"
       },
       {
         "kind": "commit",
@@ -13550,12 +13782,36 @@
         "url": "https://github.com/sunwoo162/claimlatch/pull/2"
       },
       {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "11:02",
+        "title": "Merge pull request #41 from sunwoo162/feat/iseol-social-public-read-hardening",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/bd551c04a168c2f135cf3ffd3f87437b10252283"
+      },
+      {
         "kind": "pr",
         "date": "2026-09-29",
         "time": "11:02",
         "title": "fix: harden friend list relationship reads",
         "repo": "sunwoo162/iseol-bot",
         "url": "https://github.com/sunwoo162/iseol-bot/pull/41"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "11:01",
+        "title": "docs: record friend list relationship recheck",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/ff8377a48d055feaaee2809423c194c6eeda27af"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "10:36",
+        "title": "fix: recheck friendship state in friend lists",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/65d653b452f8a9d43a0385aa9e1ea65e6111858a"
       },
       {
         "kind": "commit",
@@ -13574,12 +13830,36 @@
         "url": "https://github.com/sunwoo162/claimlatch/pull/1"
       },
       {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "10:27",
+        "title": "Merge pull request #40 from sunwoo162/feat/calendar-code-review",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/2a9ac39ef52eaf3a87592c4b6abe57dc96a1875e"
+      },
+      {
         "kind": "pr",
         "date": "2026-09-29",
         "time": "10:26",
         "title": "feat: continue Iseol NPC product hardening",
         "repo": "sunwoo162/iseol-bot",
         "url": "https://github.com/sunwoo162/iseol-bot/pull/40"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "10:25",
+        "title": "docs: record portfolio snapshot synchronization",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/dd25bcced117ee89a71b20be196aaae5d79038e0"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "10:25",
+        "title": "fix: serialize portfolio snapshots",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/01116d3e4bd40bc3223af5a6e5247e635ce13e0e"
       },
       {
         "kind": "commit",
@@ -13592,6 +13872,22 @@
       {
         "kind": "commit",
         "date": "2026-09-29",
+        "time": "10:20",
+        "title": "docs: record public portfolio list synchronization",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/bd6bd262ee386302ebf499c45b8695accffef9c6"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "10:20",
+        "title": "fix: serialize public portfolio lists",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/2272813418ac32118250ffac7657f1cbe6d1b427"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
         "time": "10:18",
         "title": "docs : translate README to Korean",
         "repo": "sunwoo162/claimlatch",
@@ -13600,13 +13896,1061 @@
       {
         "kind": "commit",
         "date": "2026-09-29",
+        "time": "10:16",
+        "title": "docs: record public portfolio read synchronization",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/3beb9e207f2916f4bdaffb3615b00731f5e16be6"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "10:15",
+        "title": "fix: serialize public portfolio reads",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/267ac26b951d7bc811d28c4947444aef0f72d8ea"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
         "time": "10:14",
         "title": "feat : add DNS/IP pinning to provenance fetcher",
         "repo": "sunwoo162/claimlatch",
         "url": "https://github.com/sunwoo162/claimlatch/commit/476ca0eef11c386ec55e93848f1b1f2a2e38558c"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "10:10",
+        "title": "docs: record own profile read synchronization",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/6bf159a69b6f262742cb8120cd3b11893787295d"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "10:10",
+        "title": "fix: serialize own profile reads",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/12ff7b0fa856889656d6475df195bd3f918f6a5b"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "10:06",
+        "title": "docs: record block list read synchronization",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/0ac8b55c799e40b248720143edba9bea6ad01d28"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "10:06",
+        "title": "fix: serialize block list reads",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/41838ac49f0ea939341c408b2b5b7726081bba86"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "10:01",
+        "title": "docs: record profile list read synchronization",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/6f902d7a2c40c62fb99469372ed716cff7f78df4"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "10:00",
+        "title": "fix: serialize profile list reads",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/2fe8ed1c3781756fcf0994f9a55f62873b02d8fd"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "09:59",
+        "title": "docs: record direct message read synchronization",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/ba21280bea00fa812439d26aaea81319e2d36a3c"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "09:59",
+        "title": "fix: serialize direct message reads",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/b2e4cdbce4c8b8f2d05687760f1d487d8c501f18"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "09:55",
+        "title": "docs: record incoming friend request read synchronization",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/d1cb5f819936f8b7a8f58076cb2e3d03a0bb1c75"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "09:55",
+        "title": "fix: serialize incoming friend request reads",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/0d62fae3b9c04f7a47614e03c1f1cf83798f7efc"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "09:47",
+        "title": "docs: record social friend-list synchronization",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/05fa50e1db9c84a9147917cfd36d4d74453c2c6b"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "09:47",
+        "title": "fix: serialize social friend-list reads under block lock",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/de73a280f295189875bf032349f1de5c4982c827"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "09:43",
+        "title": "docs: record social profile read synchronization",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/512584dd811a2a1a098cdfb9f261057d7d33a590"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "09:43",
+        "title": "fix: serialize social profile reads under block lock",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/94fd49f8863ebcdb3398d4e8b11fea62edaab351"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "09:38",
+        "title": "docs: record team list read synchronization",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/605b0197e233d1ab0c40d2c4dcdb33937b4e9c6c"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "09:38",
+        "title": "fix: serialize team list reads under membership lock",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/48304372f4e875076ece1f837eabe1792e6519b5"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "09:34",
+        "title": "docs: record recruitment read synchronization",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/55a2f81e033ed0fcde29147613b8548913f0e653"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "09:34",
+        "title": "fix: serialize recruitment post reads under membership lock",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/17da51fb6b7d2ba7ffc397bd66d5f9e9e4b85993"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "09:29",
+        "title": "docs: record study read synchronization",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/8e2f492d720b450ca2f38a73719e862d758738d4"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "09:29",
+        "title": "fix: serialize study reads under team membership lock",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/0e58768c2b0e83783e04f2ebdab17ad9e3b05122"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "09:25",
+        "title": "docs: record team chat read synchronization",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/11a95c4a2ff7a8af042d4e5ad8cec7fe255c480b"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "09:25",
+        "title": "fix: serialize team chat reads under membership lock",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/9349e8c105e90714fae606d810b356dfc51b1b17"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "09:21",
+        "title": "docs: record shared memory read synchronization",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/0513c1f148f9bdd1062792540d8d631125c110d3"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "09:21",
+        "title": "fix: serialize shared memory reads under team lock",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/3c23b570f1befb916d3f8695d9828a9b1af3fec2"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "09:17",
+        "title": "docs: record personal memory sharing synchronization",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/ae3c6e7cc9d0a7b13b545a1da12ba003abf68360"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "09:16",
+        "title": "fix: serialize personal memory sharing under team locks",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/a7e98d729f42ef0defe1d0daeea4e2d50a2cabd5"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "09:11",
+        "title": "docs: record project team transition synchronization",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/58e6e253e8cbd678c360ee8d6c47e1ddfe08d19b"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "09:11",
+        "title": "fix: serialize project team transitions under membership lock",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/fc7b9884af0843ad5beb58ff08af9366c030b944"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "09:05",
+        "title": "docs: record ai team authorization rechecks",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/faba90a4010ada1ce8c6d07ed882929728f4d6a2"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "09:05",
+        "title": "fix: recheck ai team authority under team lock",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/023e45a7756520e1e474493e6439d44532221e69"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "08:57",
+        "title": "docs: record recruitment application authorization rechecks",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/f1e11dfbbdb3210dbaaa08cf7328d0be0edba6bc"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "08:56",
+        "title": "fix: recheck recruitment application authority under team lock",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/7107f135033106453527f9945637762567d836ae"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "08:52",
+        "title": "docs: record study membership authorization rechecks",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/5794d7b63c9a71528631544e111f9df6974ac9fc"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "08:52",
+        "title": "fix: recheck study membership authority under team lock",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/895ab992824a3b4f250e473c520223af604c6fe5"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "08:45",
+        "title": "docs: record team manager authorization rechecks",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/1beb2f9d62d10dd26966cf38be78cb4037887c94"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "08:45",
+        "title": "fix: recheck team manager authority after membership lock",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/001148f564d811f572aa20787dd2e09fd4b1ffdb"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "08:39",
+        "title": "docs: record social friend-request response safety",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/3477356e3db870e7f35de661d67be0dab41ae14c"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "08:39",
+        "title": "fix: serialize social friend-request responses",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/c827fff73d9270ee1124a9d747779285ce65c70e"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "08:31",
+        "title": "docs: record social friend-request synchronization",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/bcaa119c7d943656b7d933827a8852cb459fac1e"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "08:31",
+        "title": "fix: serialize social friend-request mutations",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/da154a4c16a79cd9f3d68d346d27ea176137b2d9"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "08:24",
+        "title": "docs: record social interaction synchronization",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/21cc92a6f8ac7a217cd1b112fd251905f7044590"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "08:24",
+        "title": "fix: serialize social interaction mutations",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/7dbd8f0eac410d0a503eb70d40a5dad230d38fc8"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "08:19",
+        "title": "docs: record team chat mutation synchronization",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/efd694fb273f6532a62aed79d98bc3af1bea7c34"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "08:19",
+        "title": "fix: serialize team chat membership mutations",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/6a9c3be4b3bd93862cdcc3223cad708e3fd0a6ef"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "08:14",
+        "title": "docs: record integration delivery synchronization",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/d926b2d971cbff832433d909fbea444e1a34433d"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "08:13",
+        "title": "fix: serialize integration delivery mutations",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/b002e5f62d1abcf2bee3532f1767ffcb2a66a1ea"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "08:07",
+        "title": "docs: record identity mutation synchronization",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/ab5bebd47024d0680863409003c2cbab0ae88963"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "08:06",
+        "title": "fix: serialize identity user and session mutations",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/2a3c555430e0e06719609c48c6cbac4ad9237a6a"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "01:01",
+        "title": "docs: record harness pause resume synchronization",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/87afe99f2441ab1c268d960af4eef801d0d1fa7f"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "01:01",
+        "title": "fix: serialize harness run pause and resume",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/71eaa866a7ee944378797a876213801cf424d7af"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "00:55",
+        "title": "docs: record harness side effect synchronization",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/5c80e749b3f968a0b2023c0c0376dc0ca5d81d0b"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "00:55",
+        "title": "fix: serialize harness side effect completion",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/fbacb0cea9f91b2dec83710275ba17e6bbbf15bf"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "00:50",
+        "title": "docs: record harness checkpoint synchronization",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/890ce3176d4b8fcaa679b44526e3e83198cc126d"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "00:50",
+        "title": "fix: serialize harness checkpoint persistence",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/4cd70bc005b2495e525e924dcaccf02af05c807d"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "00:41",
+        "title": "docs: record desktop agent presence synchronization",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/2e9309e25485b1fe33f6cda264e6daf3f61d9e0d"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "00:41",
+        "title": "fix: serialize desktop agent presence writes",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/6134bfb0ec8ad05ab27161c0493449bc85898d3e"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "00:30",
+        "title": "docs: record desktop result persistence synchronization",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/e1e3a96c03166624720b83aaf548745a44391ac3"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "00:30",
+        "title": "fix: serialize desktop result persistence",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/839fdc20e8917a0c77aa435cc4f029b57f006d45"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "00:25",
+        "title": "docs: record desktop containment synchronization",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/26a68781fdd713838aac6bee61ad833caa7af5bd"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "00:25",
+        "title": "fix: serialize desktop job containment",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/293b593c21f1756bd8858e19f3335b03c8910f10"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "00:22",
+        "title": "docs: record desktop job creation synchronization",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/ee9fa2bb4c30ffc6afef8169e2b7b1f951a84a9e"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "00:21",
+        "title": "fix: serialize desktop job creation",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/a885fc0d4cbe4a70055110c7a277981ba2840ed1"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "00:17",
+        "title": "docs: record desktop lease renewal synchronization",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/505c9953e4ba6b93a5fed299434ba2684d0606f9"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "00:17",
+        "title": "fix: serialize desktop job lease renewal",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/73bdd47f54c04bbc4d3e433ba216e34f8866ce5b"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "00:14",
+        "title": "docs: record desktop indeterminate synchronization",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/4f2ed07c485cca3b6d2e4147fb69c1e52d490284"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "00:13",
+        "title": "fix: serialize desktop job indeterminate marking",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/bf06a86dab6378222999861f142932f288118734"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "00:07",
+        "title": "docs: record desktop job requeue synchronization",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/42825eeaf4cddf612612a0e4cf282372297b2b83"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "00:06",
+        "title": "fix: serialize desktop job requeue transitions",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/824191680d4c5527c3d050092a1508d7d4684d37"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "00:03",
+        "title": "docs: record desktop job completion synchronization",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/888a16a82cbb38d40c2de8b9161c026ae7ea0534"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-29",
+        "time": "00:02",
+        "title": "fix: serialize desktop job completion",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/ba34d899dbbfc954ca3396c44ffac6544855ddab"
       }
     ],
     "2026-09-28": [
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "23:58",
+        "title": "docs: record desktop job lease synchronization",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/20bd9d39e234167f6eb7a5ae12227f76aafcd0f0"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "23:58",
+        "title": "fix: serialize desktop job lease acquisition",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/ba2e149434c2e8a2900de10e3a4f5d9611470933"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "23:53",
+        "title": "docs: record harness run creation synchronization",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/6cb032b1c301130479f60252c2b2948bc1a21033"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "23:53",
+        "title": "fix: serialize harness run creation",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/fa8fd83368c5959e08986fb5a684a85dc9a36951"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "23:49",
+        "title": "docs: record harness preflight synchronization",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/852772be071380cd8b2cbd0a498ee19cff21088e"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "23:49",
+        "title": "fix: serialize harness preflight refresh",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/1a4afda14d2a1cfb19338f1ad00ebb16387e5929"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "23:44",
+        "title": "docs: record harness supervisor synchronization",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/8bbc2e87a0ada3028bca5daeaa103ab83ea9171f"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "23:44",
+        "title": "fix: serialize harness run supervisors",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/470916a0da07d7ed001c624fded7115b65173a9a"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "23:40",
+        "title": "docs: record harness event append-once synchronization",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/df9e688741c997f1e200208ecd0b81fd0578e038"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "23:39",
+        "title": "fix: serialize harness event append-once",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/93f396b0d5783c49a8484fe1a07b48811101c467"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "23:34",
+        "title": "docs: record harness run retry synchronization",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/c8ff36432608a7eeaa64855479f4fce9bfc6ba7d"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "23:34",
+        "title": "fix: serialize harness run retries",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/b14ea3be799458d3ac2c1d725988eb1e526b8172"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "23:30",
+        "title": "docs: record harness run compare-and-save synchronization",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/3daa188b02608135887aee1f618405f0846f39ee"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "23:29",
+        "title": "fix: serialize harness run compare-and-save",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/8472ceeb02859c2fde09a35edb49065b50e26c78"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "23:23",
+        "title": "docs: record desktop result reconciliation synchronization",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/d348ede3268eed3171fc123706495055a26e9d43"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "23:23",
+        "title": "fix: serialize desktop result reconciliation",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/c98eeb7b3add683c1979830b1d435538361e1166"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "23:19",
+        "title": "docs: record desktop containment synchronization",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/a5d92efd860c993492c7c1aa850df3a66ac32c90"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "23:19",
+        "title": "fix: serialize desktop containment mutation",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/8fc618bf704bf3f1046987571c89d0ddb36114b4"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "23:14",
+        "title": "docs: record desktop approval consumption synchronization",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/d0c81531521220cf673860c4faac256e73500154"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "23:14",
+        "title": "fix: serialize desktop approval consumption",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/84346d822fac404cb7d269e237a00e1d3fb6d988"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "23:10",
+        "title": "docs: record desktop approval issuance synchronization",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/2b931e0dd51665aa7fa7b95fd8b55b02c88e8a9a"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "23:09",
+        "title": "fix: serialize desktop approval issuance",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/ee42694f96a8737a0dead3afd504f192ba20450c"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "23:04",
+        "title": "docs: record operator approval consumption synchronization",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/f9a162f3c8f7b9978f45fb6f0d697bb81ce9d072"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "23:02",
+        "title": "fix: serialize operator approval consumption",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/3b9f996921f6f002dc2a76f8fdc045aee7036897"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "23:00",
+        "title": "docs: record operator approval issuance synchronization",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/0cdaaf0086c6ab81c79ab9fb6bab834839483d36"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "22:57",
+        "title": "fix: serialize operator approval issuance",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/6c1de6b452f723c4b1db93da2eea3e2ddc5b52de"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "22:52",
+        "title": "docs: record Web worker session synchronization",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/a63d5d072826e261b4b55f60a2faa8aa7eb6d6f6"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "22:51",
+        "title": "fix: serialize Web worker sessions",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/1049b11942df924c1826146618452ff435d73434"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "22:46",
+        "title": "docs: record request budget synchronization",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/e120aff9438b786844237fa330f6e706650e6822"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "22:46",
+        "title": "fix: serialize ChatGPT Web request budget",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/3ca74a03252cb108f1282fc43096d37ca24f905b"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "22:40",
+        "title": "docs: record Desktop intent synchronization",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/b816f8e38673c1b885b037266627168b3c62cca6"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "22:40",
+        "title": "fix: serialize Desktop intent identity",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/65d7c674199fe76cb035dbf8d456646b8214f5c7"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "22:35",
+        "title": "docs: record ChatGPT Web turn synchronization",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/1a5e43021abdcd2a6a9a05d3a99dfc358cfd7e89"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "22:35",
+        "title": "fix: serialize ChatGPT Web reasoning turns",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/84c6653674e5655e36147f5dd049b8ec3496e7a2"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "22:27",
+        "title": "docs: record evaluation observation synchronization",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/b8665582e597a0a9a12e2350c06810f1730cfb66"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "22:27",
+        "title": "fix: serialize evaluation observation append-once",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/bf630ef9ea3ea1524baee75c8cae549ffbb73357"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "22:22",
+        "title": "docs: record claim mutex cleanup hardening",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/e5d00617501f506488bb5fd08d927df4db66afe4"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "22:22",
+        "title": "fix: protect claim lock cleanup ownership",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/3ba2ad46121b9ed4a1cf627651369f105b82abef"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "22:18",
+        "title": "docs: record shared lock cleanup hardening",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/0d12e93a79b54e90041fca572b0c7b9b46a1995c"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "22:17",
+        "title": "fix: protect shared lock cleanup ownership",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/7c37b8181bc0ffdd51326e861faf06b3ea33c7e0"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "22:12",
+        "title": "docs: record learning lock cleanup hardening",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/a5c72d50815e21261764d6609df62b801cbfe272"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "22:12",
+        "title": "test: cover learning lock cleanup ownership",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/05be081dca69c4c634fb465b9938fa511348b772"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "22:10",
+        "title": "fix: protect learning lock cleanup ownership",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/090c1e08bb931e4016746cfffe630dd44b488ba1"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "22:01",
+        "title": "docs: record user lock cleanup hardening",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/d7bcecb4ba319f0a9d1d4501a721cd9ffe2d52ea"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "22:01",
+        "title": "fix: protect user lock cleanup ownership",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/b4f63a2e59251faa364e6eb4a22adfe2e136f599"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "21:56",
+        "title": "docs: record prototype archive lock boundary",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/98521612a915a447121b07823ce036f7ef86102e"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "21:55",
+        "title": "feat: serialize prototype archive guard",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/f855be981f31e2773615541e68b0015db55c0748"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "21:50",
+        "title": "docs: record prototype acceptance lock boundary",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/e49b61bee85ed2eb994e72043587f32a3a007353"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "21:50",
+        "title": "feat: serialize prototype acceptance guard",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/85c39e1dee12a76a674cadf1572cb999c6f209e7"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "21:45",
+        "title": "docs: record project lock cleanup hardening",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/c188d5a307872bf954cc72bdd86025f232f59743"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "21:44",
+        "title": "fix: protect project lock cleanup ownership",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/0edc49be41d2f471397abb06b33583dbdab663de"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "21:40",
+        "title": "docs: record Portfolio creation lock boundary",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/c4a4637fb073332d28cf8823af4b752c6371ce9c"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "21:39",
+        "title": "feat: serialize portfolio document creation",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/bd50f4261ed95f29f6ac61708d66584b45f0020b"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "21:35",
+        "title": "docs: record Idea Lab campaign creation lock boundary",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/c282ac2ad09f62c8b3851dcb4b7b367dde7de27d"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "21:34",
+        "title": "feat: serialize Idea Lab campaign creation",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/c5d601700ac769a50482fb2e11355bfc3a02b428"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "21:27",
+        "title": "docs: record Idea Lab candidate lock boundary",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/da154bc1bdbf1e7ac16152a2c44200fac90ef1a6"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "21:27",
+        "title": "feat: serialize Idea Lab candidate materialization",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/55f0c622c7b329d9e8b2e9e6af81b217dbe53c8f"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "21:13",
+        "title": "docs: record Idea Lab production lock boundary",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/9436b95326581289fb3b17509c24ba4ee8865ea5"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "21:13",
+        "title": "feat: serialize Idea Lab production driver",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/bcf628e235f287be3ba74e5f3dfad2ad9f22ef92"
+      },
       {
         "kind": "pr",
         "date": "2026-09-28",
@@ -13614,6 +14958,38 @@
         "title": "[admin] 사용자·신고 필터 URL 동기화 및 디바운스 적용",
         "repo": "team-washer/Washer-Client-v2",
         "url": "https://github.com/team-washer/Washer-Client-v2/pull/26"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "21:02",
+        "title": "docs: record Idea Lab cancellation lock boundary",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/6355102c722c6fb51ff78a2910e2a63a75d13bf6"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "21:02",
+        "title": "feat: serialize Idea Lab campaign cancellation",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/1f2b8b8f048a21780dd329e10a26c6ceaf5b92f8"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "20:57",
+        "title": "docs: record Idea Lab campaign lock boundary",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/4ca2a9c02770d92d7f1801b906b9a1de042b80c7"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "20:56",
+        "title": "feat: serialize Idea Lab campaign supervision",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/b47350a41a7387beb11ddfa30f5b0dac1225cef8"
       },
       {
         "kind": "pr",
@@ -13626,10 +15002,786 @@
       {
         "kind": "commit",
         "date": "2026-09-28",
+        "time": "20:51",
+        "title": "docs: record portfolio lock boundary",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/7a4a2a53312f7984f459e23df81824dd4145e0bf"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "20:51",
+        "title": "feat: serialize portfolio document patches",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/fe9fbce004dc435faec8f10da1ab35cbc84707e4"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "20:46",
+        "title": "docs: record Idea Lab event lock boundary",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/5b33bd858eddd3f936a99f33f8d09c1b0e957171"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "20:45",
+        "title": "feat: serialize Idea Lab campaign events",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/82d476f984c4a6cdd319d05da2d0abd2b16a7964"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "20:40",
+        "title": "docs: record project promotion lock boundary",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/10e781eabdc1d1158ac13ebd19614380567b42ca"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "20:40",
+        "title": "feat: serialize project promotion",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/d907b7498f910ad85a37a6449d58856729fd555c"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "20:34",
+        "title": "docs: record prototype candidate lock boundary",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/758b0489dce69ea13c4b685719453f11957a5a72"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "20:33",
+        "title": "feat: serialize prototype candidate patches",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/a87b29aa6f81383417a26b6ea5fce6ed4346243c"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "20:29",
+        "title": "docs: record project history lock boundary",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/f076a88e6da38a19d35bc8077ce8ae1e261c6af9"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "20:29",
+        "title": "feat: serialize project history append-once",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/b94ead7028d54ac6fb84b45a52b48719c8501d7f"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "20:22",
+        "title": "docs: record project purpose lock boundary",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/45966d05cb661d9291b0b4e2077fe71de5dabea7"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "20:21",
+        "title": "feat: serialize project purpose selection",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/f1b93c3c96c578f72dc862cd6a5bd46386047c98"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "20:16",
+        "title": "docs: record project team transition lock boundary",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/ff06551f64e54e308f0c65ed83f12ffd84f38db2"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "20:15",
+        "title": "feat: serialize project team transitions",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/2d9ceda14a58f610be757880ad148ef154cc79cb"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "20:08",
+        "title": "docs: record project workspace lock boundary",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/5b04e9b0742fa01d31e93d29d7650b6ee971dd3a"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "20:08",
+        "title": "feat: serialize project workspace mutations",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/4f415b0a00ec8a85d4c475fc16fad90777e12a1b"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "20:01",
+        "title": "docs: record project reconciliation lock boundary",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/d1ede58fcf729eb8433892f9a07e3672048d00e4"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "20:00",
+        "title": "feat: serialize project work request reconciliation",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/38bd3cb91148aecf03c312c1bbc0433b2d8dd8a6"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "19:54",
+        "title": "docs: record project work request patch lock boundary",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/98503f53b0769bc47f37cc0355c50f011651656d"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "19:53",
+        "title": "feat: serialize project work request patches",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/e3b423690f981227728f0bbf0b0b928565815165"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "19:48",
+        "title": "docs: record project work request cancellation lock boundary",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/f0352863c5ec3a929b28acdbb379503bb662feb8"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "19:47",
+        "title": "feat: serialize project work request cancellation",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/9d0ab4b6b668ac6b03ac686df7fcd311b9df660d"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "18:13",
+        "title": "docs: record recruitment review lock boundary",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/3560dba12ad2c89a44b7af622e82d56317477dba"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "18:13",
+        "title": "feat: serialize recruitment application reviews",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/fe7c4344f6b6a042e8369a71f528dbc7f36e787d"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "18:09",
+        "title": "docs: record AI team proposal decision lock boundary",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/85ab2eef022daaf3169261530dc199e7fbf738e2"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "18:08",
+        "title": "feat: serialize AI team proposal decisions",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/90a80372f2fd3dc9aea9b5019c0e53bfc2a99fa4"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "18:00",
+        "title": "docs: record learning feedback completion lock boundary",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/71abedf9608f2119ffbe99f7c1d31c495928a12d"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "18:00",
+        "title": "feat: serialize learning feedback completions",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/5b67ddcff3e21518a98f8d0c4da43f16785f0169"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "17:55",
+        "title": "docs: record learning action completion lock boundary",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/442f79f40634b1bd419c91f6fc603bf812608efd"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "17:55",
+        "title": "feat: serialize learning action completions",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/b74ec6fea37763760e93cd8653840136d612663b"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "17:51",
+        "title": "docs: record learning session action lock boundary",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/7a7e5b6a021a7d8895902b131f380e64196f7ad3"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "17:51",
+        "title": "feat: serialize learning session actions",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/c24fe2978bb0780d77f9d1978c9dc03334492b1e"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "17:46",
+        "title": "docs: record learning feedback dispute lock boundary",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/04f58a4eacefab2e728f593a67e060f4f3646a50"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "17:45",
+        "title": "feat: serialize learning feedback disputes",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/94d6ec37fd1f903f8c14a401251a32fbb40e9ee1"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "17:35",
+        "title": "docs: record learning answer lock boundary",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/5372bdce81151322f6ba75fa08628f15dc0ae049"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "17:34",
+        "title": "feat: serialize learning answer submissions",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/aa0fad0f2640a215474c2f6ac2c5f77cd377f3eb"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
         "time": "17:33",
         "title": "Merge pull request #43 from klaterg9/fix/home-grid-alignment",
         "repo": "gsmoj/gsmoj",
         "url": "https://github.com/gsmoj/gsmoj/commit/b7a28279e73c8e16292a38e822ab6d5de5a4a1ff"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "17:30",
+        "title": "docs: record learning coding attempt lock boundary",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/0db2c12d83a7c84ae4239acd8232d62e7f351c9c"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "17:29",
+        "title": "feat: serialize learning coding attempt submissions",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/6740986c971d213ecdd894086ee0d15bc27abf88"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "17:24",
+        "title": "docs: record learning review lock boundary",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/ea55ad1f15a34fd8d1586118435c50d773cb5864"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "17:23",
+        "title": "feat: serialize learning review completions",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/111ca5687163d1df835360c1eac05d727b9fc548"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "17:19",
+        "title": "docs: record legacy learning session lock boundary",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/2e7ad9d47a6c6373503d6889d9430e59ffcdc39a"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "17:18",
+        "title": "feat: serialize legacy learning session starts",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/77496e3ca1926da65763d913e5686b94a49e97d6"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "17:14",
+        "title": "docs: record learning goal session lock boundary",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/4914de6f4878460b455452b61ae712597ceb7777"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "17:12",
+        "title": "feat: serialize learning goal session starts",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/f07938f72b41742fb5f2421a6d94a39bb5129e1c"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "17:08",
+        "title": "docs: record learning report lock boundary",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/6bc0999f389a2cb5415eba3c1a0f40c3279a1a71"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "17:07",
+        "title": "feat: serialize learning report creation",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/72478a505446033ed6904fb17375a09a19b094f9"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "17:02",
+        "title": "docs: record learning project acceptance lock boundary",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/a1a0a4b38f431c8766e7ace19cabdfdeda7695a3"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "17:01",
+        "title": "feat: serialize learning project application acceptance",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/64f308fa4fcb5be78f6c17e7d501e4dbd5823d62"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "16:55",
+        "title": "docs: record learning adjustment acceptance lock boundary",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/c2f7d45b937933823b02cd993189136f0d5fc385"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "16:53",
+        "title": "feat: serialize learning plan adjustment acceptance",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/39e8877fc546f87ccd0d210f4983b414d171be71"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "16:53",
+        "title": "fix: tolerate Windows project run lock contention",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/d351ce9aa570bd0a1d61bd1d371c4c93bda76e5a"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "16:45",
+        "title": "docs: record learning adjustment lock boundary",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/7b5407215bd5b941bd9730872baae38400cbb839"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "16:45",
+        "title": "feat: serialize learning plan adjustments",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/0d7df2f9b633c6ed8d484c5ed697eb4766e07ff2"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "16:41",
+        "title": "docs: record learning plan preview lock boundary",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/cb575fb175166d3d1a8698303e8e32f6bed49c12"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "16:41",
+        "title": "feat: serialize learning plan previews",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/da1a1374aee362de4963799772592152feb1127e"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "16:35",
+        "title": "docs: record learning application lock boundary",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/71171107efcc3e64575123dbc2e3f8d953ec46a4"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "16:35",
+        "title": "feat: serialize learning project applications",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/856e854e8512109d79e71bbd7f45e9a93e752a90"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "16:24",
+        "title": "docs: record AI team discussion lock boundary",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/4c45641135c7aef8f1a8c2c81e879b1e2b11f530"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "16:24",
+        "title": "feat: serialize AI team discussion requests",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/1f8a174b6dd7a81d76cc5b32a12d0aefa2f4929c"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "16:19",
+        "title": "docs: record AI team proposal lock boundary",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/188b9110382d42db5f0b2bca5c937e7bc923d1b3"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "16:19",
+        "title": "feat: serialize AI team proposal requests",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/25b3443d0a9b980f1b94ad4847a9d2899a168017"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "16:15",
+        "title": "docs: record settings lock boundary",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/1696076da76ec6542ad69e4f675b7f2c0c87dcfc"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "16:14",
+        "title": "feat: serialize settings mutations",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/cc1fdc9207eb6f8aa514d353ea860d0d991e3b16"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "16:10",
+        "title": "docs: record personal world lock boundary",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/ff7aa3d994ec151e6baee803484b301ac637680a"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "16:10",
+        "title": "feat: serialize personal world mutations",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/d24999ae9479a2103d1f33c7ea5c29a5b740dcd4"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "16:02",
+        "title": "docs: record recruitment application lock boundary",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/5afa133b5170c012a5594accf9bd2e84b7e6cde7"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "16:02",
+        "title": "feat: serialize recruitment applications",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/d9cd3b5341eb39d39dcd05eb8258b7ad968bc3bb"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "15:55",
+        "title": "docs: record community like lock boundary",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/59ca107235c8ca5a36056d31b743c6d6a4a6f5c5"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "15:55",
+        "title": "feat: serialize community like toggles",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/e75ffae7f853c39be4c9ac1a91400504e3fbc5e4"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "15:51",
+        "title": "docs: record password change lock boundary",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/baa0f055dcc769ed7b0da328c20bc1fd3cc3828f"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "15:51",
+        "title": "feat: serialize password changes",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/96ac0b56f2fc5e5677f67d6cf1b0dae9021890ad"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "15:47",
+        "title": "docs: record platform user lock boundary",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/a09120493770fc9b76084c3f021bec334e2a9b3e"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "15:47",
+        "title": "feat: serialize platform user creation",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/32e578fe4503a00e44e43ca3591d4eff605fdf72"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "15:38",
+        "title": "docs: record study space lock boundary",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/b22f1ed15c3eb218a23884a819029270d23c4583"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "15:38",
+        "title": "feat: serialize study space creation",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/447697757ca40ea47667151daaa41c7bd5001428"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "15:33",
+        "title": "docs: record study submission lock boundary",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/73d178a4c733e72bd12c1e3939fb9ff10fb2d842"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "15:33",
+        "title": "feat: serialize study submissions",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/fbe550d070e9cf9566e4fa17fad535764099cd13"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "15:28",
+        "title": "docs: record growth projection lock boundary",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/dfa1e82038be6498f8d2ce98b21adc99e3e4852c"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "15:27",
+        "title": "feat: serialize growth projections",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/10d3f57d5cb4fd79572a593b36b4c3a2de2bbd72"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "15:23",
+        "title": "docs: record activity event lock boundary",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/55f40441802503f174a987ff124d55087bcd1832"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "15:23",
+        "title": "feat: serialize activity event mutations",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/5c9c45a3dc05e6bf21cdbd57432d48077318d42c"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "15:17",
+        "title": "docs: record portfolio entry lock boundary",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/714b4806bcdd66f766c0912a7b46ebdec4af6c7e"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "15:17",
+        "title": "feat: serialize portfolio entry mutations",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/3f9b9d0e9a31e1a15a9ffa60a9fdcf7d101766f8"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "15:12",
+        "title": "docs: record community report lock boundary",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/c1ef704a658befce469df700d7ea39fad220544d"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "15:12",
+        "title": "feat: serialize community report mutations",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/4870c8647243b541e948bbdaa582a90d1d6d81fd"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "15:07",
+        "title": "docs: record social block lock boundary",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/a6320754cf689ff6b7156761eb9b9c938901b21a"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "15:07",
+        "title": "feat: serialize social block mutations",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/1eb6687a14784f90dede197d6b9a43bfe773dff6"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "15:01",
+        "title": "docs: record team and notification lock boundaries",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/6a24143c92160ac75072134d06ad82d65f82e21e"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "15:01",
+        "title": "fix: retry transient notification lock errors",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/cbe05372ea2b157206dcabea10fbb0002c544ddf"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "15:01",
+        "title": "feat: serialize team membership mutations",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/dde96f26b3f4de182d34690cb6b6b05a95c8c2fa"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "14:53",
+        "title": "docs: record friend request lock boundary",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/97dc95b8e51de53bce0a273f1be70ecfb53a4a09"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "14:53",
+        "title": "feat: serialize friend request mutations",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/7b3e8b6cfeded81aadff94b1379a458c60e56291"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "14:48",
+        "title": "docs: record social profile lock boundary",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/7d5c94dcdc0a2449d14f4e93afa7a4441211b808"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "14:48",
+        "title": "feat: serialize social profile mutations",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/27df2c39be9273cec5f786b485747c7e54837445"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "14:43",
+        "title": "docs: record private memory lock boundary",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/9578cff97d6c06222000584b8ef8a7b97fd1bbd1"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "14:43",
+        "title": "feat: serialize private memory mutations",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/fce4569ee4c5c884421a0b4202a9d60051827bf7"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-09-28",
+        "time": "14:40",
+        "title": "docs: record AI agent profile lock boundary",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/ecae98da1c1992a495fd791ba25048a61cd21daf"
       },
       {
         "kind": "pr",
