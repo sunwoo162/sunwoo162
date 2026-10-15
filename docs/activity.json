@@ -6,6 +6,22 @@
       {
         "kind": "commit",
         "date": "2026-10-16",
+        "time": "08:42",
+        "title": "ci: include contribution grass SVG in automatic README refresh",
+        "repo": "sunwoo162/sunwoo162",
+        "url": "https://github.com/sunwoo162/sunwoo162/commit/7a3fdb91e66076252fe393b94bdfab201467da1d"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-10-16",
+        "time": "08:42",
+        "title": "feat: replace emoji calendar with GitHub-style contribution SVG and minimal README",
+        "repo": "sunwoo162/sunwoo162",
+        "url": "https://github.com/sunwoo162/sunwoo162/commit/7bb5ac98f4013572402e283529f8e66b6e6ea7ad"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-10-16",
         "time": "08:34",
         "title": "fix: 공개 저장소 Pages 배포 단계 활성화",
         "repo": "sunwoo162/sunwoo162",
@@ -15816,22 +15832,6 @@
         "title": "feat: serialize social profile mutations",
         "repo": "sunwoo162/iseol-bot",
         "url": "https://github.com/sunwoo162/iseol-bot/commit/27df2c39be9273cec5f786b485747c7e54837445"
-      },
-      {
-        "kind": "commit",
-        "date": "2026-09-28",
-        "time": "14:43",
-        "title": "docs: record private memory lock boundary",
-        "repo": "sunwoo162/iseol-bot",
-        "url": "https://github.com/sunwoo162/iseol-bot/commit/9578cff97d6c06222000584b8ef8a7b97fd1bbd1"
-      },
-      {
-        "kind": "commit",
-        "date": "2026-09-28",
-        "time": "14:43",
-        "title": "feat: serialize private memory mutations",
-        "repo": "sunwoo162/iseol-bot",
-        "url": "https://github.com/sunwoo162/iseol-bot/commit/fce4569ee4c5c884421a0b4202a9d60051827bf7"
       },
       {
         "kind": "pr",
