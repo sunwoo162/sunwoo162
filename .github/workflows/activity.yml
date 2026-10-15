@@ -38,6 +38,7 @@ jobs:
           git add README.md docs/activity.json activity/
           if ! git diff --cached --quiet; then
             git commit -m "chore: update activity calendar"
+            git pull --rebase -X theirs origin main
             git push
           fi
       - uses: actions/configure-pages@v5
