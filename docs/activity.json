@@ -2,7 +2,65 @@
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
   "days": {
+    "2026-10-16": [
+      {
+        "kind": "commit",
+        "date": "2026-10-16",
+        "time": "08:34",
+        "title": "fix: 공개 저장소 Pages 배포 단계 활성화",
+        "repo": "sunwoo162/sunwoo162",
+        "url": "https://github.com/sunwoo162/sunwoo162/commit/cc560129a1a5cf605d47eca6cbd8bea91d3dfe3e"
+      }
+    ],
     "2026-10-15": [
+      {
+        "kind": "commit",
+        "date": "2026-10-15",
+        "time": "21:27",
+        "title": "ci: 공개 전까지 Pages 배포를 건너뛰고 활동 수집 유지",
+        "repo": "sunwoo162/sunwoo162",
+        "url": "https://github.com/sunwoo162/sunwoo162/commit/31ddff892070c0cd63eafefe3896acc31ce2e893"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-10-15",
+        "time": "21:26",
+        "title": "fix: 자동 기록 갱신 시 동시 커밋 충돌 방지",
+        "repo": "sunwoo162/sunwoo162",
+        "url": "https://github.com/sunwoo162/sunwoo162/commit/b2609377923671fc9615a205f1d49aac24406988"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-10-15",
+        "time": "21:24",
+        "title": "feat: 기존 프로필 README를 개발 활동 달력으로 전면 교체",
+        "repo": "sunwoo162/sunwoo162",
+        "url": "https://github.com/sunwoo162/sunwoo162/commit/4bcc5815235b81da86e069739eb2a0db36eb34ba"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-10-15",
+        "time": "21:23",
+        "title": "ci: 공개 GitHub 활동 매시간 수집 및 Pages 자동 배포",
+        "repo": "sunwoo162/sunwoo162",
+        "url": "https://github.com/sunwoo162/sunwoo162/commit/eb07e1fa5792da8a89394e59b661a78186f66ea1"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-10-15",
+        "time": "21:22",
+        "title": "feat: 날짜 클릭으로 기록이 바뀌는 GitHub 활동 달력 추가",
+        "repo": "sunwoo162/sunwoo162",
+        "url": "https://github.com/sunwoo162/sunwoo162/commit/a763db97065d962f5ed599bdd31800dcc51fa6ff"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-10-15",
+        "time": "21:21",
+        "title": "feat: 공개 GitHub 활동 자동 수집 및 README 생성기 추가",
+        "repo": "sunwoo162/sunwoo162",
+        "url": "https://github.com/sunwoo162/sunwoo162/commit/f9a60923abb0916ec5c99ee4c2fb97b8da8354af"
+      },
       {
         "kind": "commit",
         "date": "2026-10-15",
@@ -15774,14 +15832,6 @@
         "title": "feat: serialize private memory mutations",
         "repo": "sunwoo162/iseol-bot",
         "url": "https://github.com/sunwoo162/iseol-bot/commit/fce4569ee4c5c884421a0b4202a9d60051827bf7"
-      },
-      {
-        "kind": "commit",
-        "date": "2026-09-28",
-        "time": "14:40",
-        "title": "docs: record AI agent profile lock boundary",
-        "repo": "sunwoo162/iseol-bot",
-        "url": "https://github.com/sunwoo162/iseol-bot/commit/ecae98da1c1992a495fd791ba25048a61cd21daf"
       },
       {
         "kind": "pr",

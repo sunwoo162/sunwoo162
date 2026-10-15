@@ -8,7 +8,7 @@
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 |   |   |   |   | [1 💚](https://sunwoo162.github.io/sunwoo162/?date=2026-10-01) | [2 💚](https://sunwoo162.github.io/sunwoo162/?date=2026-10-02) | [3 🟢](https://sunwoo162.github.io/sunwoo162/?date=2026-10-03) |
 | [4 ⬜](https://sunwoo162.github.io/sunwoo162/?date=2026-10-04) | [5 ⬜](https://sunwoo162.github.io/sunwoo162/?date=2026-10-05) | [6 🟢](https://sunwoo162.github.io/sunwoo162/?date=2026-10-06) | [7 🟢](https://sunwoo162.github.io/sunwoo162/?date=2026-10-07) | [8 🟢](https://sunwoo162.github.io/sunwoo162/?date=2026-10-08) | [9 🟩](https://sunwoo162.github.io/sunwoo162/?date=2026-10-09) | [10 ⬜](https://sunwoo162.github.io/sunwoo162/?date=2026-10-10) |
-| [11 🟩](https://sunwoo162.github.io/sunwoo162/?date=2026-10-11) | [12 🟢](https://sunwoo162.github.io/sunwoo162/?date=2026-10-12) | [13 💚](https://sunwoo162.github.io/sunwoo162/?date=2026-10-13) | [14 💚](https://sunwoo162.github.io/sunwoo162/?date=2026-10-14) | [15 💚](https://sunwoo162.github.io/sunwoo162/?date=2026-10-15) | [**16 ⬜**](https://sunwoo162.github.io/sunwoo162/?date=2026-10-16) | [17 ⬜](https://sunwoo162.github.io/sunwoo162/?date=2026-10-17) |
+| [11 🟩](https://sunwoo162.github.io/sunwoo162/?date=2026-10-11) | [12 🟢](https://sunwoo162.github.io/sunwoo162/?date=2026-10-12) | [13 💚](https://sunwoo162.github.io/sunwoo162/?date=2026-10-13) | [14 💚](https://sunwoo162.github.io/sunwoo162/?date=2026-10-14) | [15 💚](https://sunwoo162.github.io/sunwoo162/?date=2026-10-15) | [**16 🟩**](https://sunwoo162.github.io/sunwoo162/?date=2026-10-16) | [17 ⬜](https://sunwoo162.github.io/sunwoo162/?date=2026-10-17) |
 | [18 ⬜](https://sunwoo162.github.io/sunwoo162/?date=2026-10-18) | [19 ⬜](https://sunwoo162.github.io/sunwoo162/?date=2026-10-19) | [20 ⬜](https://sunwoo162.github.io/sunwoo162/?date=2026-10-20) | [21 ⬜](https://sunwoo162.github.io/sunwoo162/?date=2026-10-21) | [22 ⬜](https://sunwoo162.github.io/sunwoo162/?date=2026-10-22) | [23 ⬜](https://sunwoo162.github.io/sunwoo162/?date=2026-10-23) | [24 ⬜](https://sunwoo162.github.io/sunwoo162/?date=2026-10-24) |
 | [25 ⬜](https://sunwoo162.github.io/sunwoo162/?date=2026-10-25) | [26 ⬜](https://sunwoo162.github.io/sunwoo162/?date=2026-10-26) | [27 ⬜](https://sunwoo162.github.io/sunwoo162/?date=2026-10-27) | [28 ⬜](https://sunwoo162.github.io/sunwoo162/?date=2026-10-28) | [29 ⬜](https://sunwoo162.github.io/sunwoo162/?date=2026-10-29) | [30 ⬜](https://sunwoo162.github.io/sunwoo162/?date=2026-10-30) | [31 ⬜](https://sunwoo162.github.io/sunwoo162/?date=2026-10-31) |
 
@@ -16,11 +16,11 @@
 
 ## Today's Work · 2026-10-16
 
-**0 Commits** · **0 PRs** · **0 Issues** · **0 Repositories**
+**1 Commits** · **0 PRs** · **0 Issues** · **1 Repositories**
 
 | 시간(KST) | 유형 | 작업 | 저장소 |
 |:--:|:--|:--|:--|
-| — | — | 공개 활동 없음 | — |
+| 08:34 | COMMIT | [fix: 공개 저장소 Pages 배포 단계 활성화](https://github.com/sunwoo162/sunwoo162/commit/cc560129a1a5cf605d47eca6cbd8bea91d3dfe3e) | sunwoo162/sunwoo162 |
 
 ### [↗ 전체 기록 달력 보기](https://sunwoo162.github.io/sunwoo162/)
 
