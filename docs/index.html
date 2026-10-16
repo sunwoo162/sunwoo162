@@ -172,7 +172,7 @@ function createEntry(x){
  meta.append(text("span","",x.repo),text("span","","·"),text("span","",x.kind.toUpperCase()));
  if(x.kind==="pr"){
   if(x.number)meta.append(text("span","", "#"+x.number));
-  const status=x.event==="merged"?"merged":x.event==="closed"?"closed":x.status||"open";
+  const status=x.event==="merged"?"merged":x.event==="closed"?"closed":"opened";
   meta.append(text("span","state "+status,status==="merged"?"병합":status==="closed"?"종료":"생성"));
   if((x.events||[]).length>1)meta.append(text("span","","· 생성·병합 기록"));
  }
