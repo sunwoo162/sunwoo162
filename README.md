@@ -1,5 +1,3 @@
-[![Activity](docs/grass.svg)](https://sunwoo162.github.io/sunwoo162/)
-
 ### Today · 2026-10-16
 
 **4 Commits** · **0 PRs** · **0 Issues**
