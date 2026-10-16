@@ -2,12 +2,20 @@ name: Refresh GitHub development log
 on:
   schedule:
     - cron: "15 * * * *"
+    - cron: "43 19 * * *"
   workflow_dispatch:
+    inputs:
+      days:
+        description: "KST days to reindex"
+        type: choice
+        default: "3"
+        options: ["3", "7", "21"]
   push:
     branches: [main]
     paths:
       - "scripts/update_activity.py"
       - "docs/index.html"
+      - "tests/**"
       - ".github/workflows/activity.yml"
 permissions:
   contents: write
@@ -19,6 +27,7 @@ concurrency:
 jobs:
   refresh:
     runs-on: ubuntu-latest
+    timeout-minutes: 25
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -27,26 +36,33 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Collect public GitHub records
+      - name: Verify activity collector
+        run: |
+          python -m compileall -q scripts tests
+          python -m unittest discover -s tests -v
+      - name: Collect and reconcile GitHub records
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python scripts/update_activity.py
-      - name: Update README and archives
+          INPUT_DAYS: ${{ inputs.days || '3' }}
+          SCHEDULE: ${{ github.event.schedule }}
+        run: |
+          DAYS="$INPUT_DAYS"
+          if [ -z "$DAYS" ]; then DAYS=3; fi
+          if [ "$SCHEDULE" = "43 19 * * *" ]; then DAYS=21; fi
+          python scripts/update_activity.py --days "$DAYS"
+      - name: Commit generated activity
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md docs/activity.json activity/
           if ! git diff --cached --quiet; then
-            git commit -m "chore: update activity calendar"
+            git commit -m "chore: refresh GitHub activity"
             git pull --rebase -X theirs origin main
             git push
           fi
       - uses: actions/configure-pages@v5
-
       - uses: actions/upload-pages-artifact@v3
-
         with:
           path: docs
       - uses: actions/deploy-pages@v4
-
         id: deployment
