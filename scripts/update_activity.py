@@ -171,6 +171,65 @@ def day_records(day):
                      "notes": limitations,
                      "commit_scope": "GitHub commit-search index (not all unmerged branches)"}
 
+def scan_owned_branches(first, last):
+    """Best-effort branch coverage for recent days in public owned repositories.
+
+    GitHub commit search can omit commits on feature branches. The repository
+    commits endpoint covers the selected branch ref, so scan recent public
+    branches and deduplicate by repository + SHA. Bounded scans report limits.
+    """
+    begin = dt.datetime.combine(first, dt.time.min, tzinfo=KST).astimezone(dt.timezone.utc).isoformat()
+    until = dt.datetime.combine(last + dt.timedelta(days=1), dt.time.min, tzinfo=KST).astimezone(dt.timezone.utc).isoformat()
+    repos = api("/users/" + USER + "/repos", {"type": "owner", "sort": "pushed", "per_page": 100, "page": 1})
+    records = []
+    notes = []
+    for r in repos:
+        if r.get("private"):
+            continue
+        pushed = r.get("pushed_at")
+        if not pushed or timestamp(pushed).date() < first:
+            continue
+        name = r["full_name"]
+        try:
+            branches = api("/repos/" + name + "/branches", {"per_page": 100, "page": 1})
+        except urllib.error.HTTPError as exc:
+            if exc.code in (404, 409):
+                continue
+            notes.append(name + " 브랜치 조회 실패")
+            continue
+        if len(branches) > 20:
+            notes.append(name + " 브랜치가 20개를 넘어 일부만 조회")
+        if len(branches) == 100:
+            notes.append(name + " 브랜치 목록 제한 도달")
+        for branch in branches[:20]:
+            for page in (1, 2, 3):
+                try:
+                    rows = api("/repos/" + name + "/commits", {
+                        "sha": branch["name"], "author": USER,
+                        "since": begin, "until": until, "per_page": 100, "page": page})
+                except urllib.error.HTTPError as exc:
+                    if exc.code in (404, 409):
+                        break
+                    notes.append(name + " 커밋 조회 실패")
+                    break
+                for obj in rows:
+                    commit = obj.get("commit") or {}
+                    when = (commit.get("committer") or {}).get("date") or (commit.get("author") or {}).get("date")
+                    if not when or not first <= timestamp(when).date() <= last:
+                        continue
+                    sha = obj.get("sha", "")
+                    records.append(entry("commit", "committed", when,
+                        (commit.get("message") or sha).splitlines()[0], name,
+                        obj.get("html_url") or "https://github.com/" + name + "/commit/" + sha,
+                        sha=sha[:12], source="branch-scan"))
+                if len(rows) < 100:
+                    break
+                if page == 3:
+                    notes.append(name + " 브랜치 커밋 조회 300건 상한")
+    if len(repos) == 100:
+        notes.append("공개 저장소 목록 100건 상한")
+    return records, list(dict.fromkeys(notes))
+
 def archive_table(items):
     lines = ["| 시간(KST) | 종류 | 작업 | 저장소 |",
              "|:--:|:--|:--|:--|"]
@@ -224,6 +283,36 @@ def main():
             meta[key] = {**status, "state": "error",
                          "notes": ["최근 검색 실패. 이전 기록은 참고용: " + str(exc)[:160]]}
             print(key, "failed:", str(exc)[:120], flush=True)
+    # Index public feature-branch commits in addition to global commit search.
+    # Wider historical backfills rely on searchable GitHub history to limit API use.
+    if n <= 3 and os.getenv("ACTIVITY_BRANCH_SCAN", "1") == "1":
+        try:
+            branch_items, branch_notes = scan_owned_branches(first, TODAY)
+            for item in branch_items:
+                key = item["date"]
+                if key not in data or meta.get(key, {}).get("state") == "error":
+                    continue
+                exists = {(x["kind"], x["url"]) for x in data[key]}
+                if (item["kind"], item["url"]) not in exists:
+                    data[key].append(item)
+                    exists.add((item["kind"], item["url"]))
+            for i in range(n):
+                day = (first + dt.timedelta(days=i)).isoformat()
+                if day in data and meta.get(day, {}).get("state") != "error":
+                    data[day].sort(key=lambda x: x.get("at", x.get("time", "")), reverse=True)
+                    meta[day]["branch_scan"] = "public owned repositories, max 20 branches each"
+                    if branch_notes:
+                        meta[day]["state"] = "limited"
+                        meta[day].setdefault("notes", []).extend(branch_notes[:8])
+            print("Branch scan:", len(branch_items), "candidate commits", flush=True)
+        except (urllib.error.URLError, ValueError, KeyError) as exc:
+            print("Branch scan failed:", str(exc)[:120], flush=True)
+            for i in range(n):
+                day = (first + dt.timedelta(days=i)).isoformat()
+                if day in meta:
+                    meta[day]["state"] = "limited"
+                    meta[day].setdefault("notes", []).append("브랜치 추가 수집 실패")
+
     data = dict(sorted(data.items(), reverse=True))
     payload = {"user": USER, "timezone": "Asia/Seoul",
                "updated_at": dt.datetime.now(dt.timezone.utc).isoformat(),
