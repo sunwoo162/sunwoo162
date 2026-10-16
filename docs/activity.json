@@ -1,11 +1,11 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-10-16T00:21:50.225611+00:00",
+  "updated_at": "2026-10-16T00:23:25.663841+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
-      "checked_at": "2026-10-16T00:21:36.121809+00:00",
+      "checked_at": "2026-10-16T00:23:12.489442+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -16,7 +16,7 @@
     },
     "2026-10-15": {
       "state": "indexed",
-      "checked_at": "2026-10-16T00:21:21.999065+00:00",
+      "checked_at": "2026-10-16T00:22:56.194127+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -27,7 +27,7 @@
     },
     "2026-10-14": {
       "state": "indexed",
-      "checked_at": "2026-10-16T00:21:06.787621+00:00",
+      "checked_at": "2026-10-16T00:22:40.677817+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -194,12 +194,24 @@
         "event": "committed",
         "date": "2026-10-16",
         "time": "09:21",
+        "at": "2026-10-16T09:21:46+09:00",
+        "title": "ci: 수집 테스트와 야간 재검증을 포함한 자동 배포 개선",
+        "repo": "sunwoo162/sunwoo162",
+        "url": "https://github.com/sunwoo162/sunwoo162/commit/5862bb047aabdc9dc6abcc13db8a3d14aaf15900",
+        "sha": "5862bb047aab",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-16",
+        "time": "09:21",
         "at": "2026-10-16T09:21:13+09:00",
         "title": "test: KST 날짜·PR 생명주기·누락 상태 검증 추가",
         "repo": "sunwoo162/sunwoo162",
         "url": "https://github.com/sunwoo162/sunwoo162/commit/f8f3f04ac52914291dc320da7d138640979aea34",
         "sha": "f8f3f04ac529",
-        "source": "branch-scan"
+        "source": "commit-search"
       },
       {
         "kind": "commit",
