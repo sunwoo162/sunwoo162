@@ -2,7 +2,7 @@
 <html lang="ko">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="theme-color" content="#0d1117">
 <title>Activity · sunwoo162</title>
 <style>
@@ -10,52 +10,40 @@
 *{box-sizing:border-box}
 body{margin:0;background:#0d1117}
 a{color:inherit;text-decoration:none}
-button{font:inherit;cursor:pointer}
-.shell{max-width:1050px;margin:0 auto;padding:34px 22px 80px}
-.top,.head,.stat-row,.scale,.filterbar{display:flex;align-items:center;justify-content:space-between}
-.top{color:#8b949e;font-size:13px;margin-bottom:24px}
-.top strong{color:#c9d1d9;font-size:14px;letter-spacing:.02em}
+button,input{font:inherit}
+button{cursor:pointer}
+.shell{max-width:950px;margin:0 auto;padding:35px 22px 85px}
+.top,.head,.filters{display:flex;align-items:center;justify-content:space-between;gap:14px}
+.top{color:#8b949e;font-size:13px;margin-bottom:25px}
+.top strong{color:#c9d1d9;font-size:14px}
 .top a:hover,.worktitle:hover{color:#58a6ff}
-.panel{border:1px solid #30363d;border-radius:12px;padding:24px;background:#0d1117;margin-bottom:16px}
-.head{gap:16px;flex-wrap:wrap;margin-bottom:20px}
-h1,h2{font-size:18px;letter-spacing:-.02em;font-weight:650;margin:0}
-.nav{display:flex;gap:7px}
-.nav button{background:#21262d;border:1px solid #30363d;border-radius:7px;color:#c9d1d9;padding:7px 11px;font-size:12px}
-.nav button:hover{background:#30363d}
-.nav button:disabled{opacity:.4;cursor:default}
-.heatmap-scroll{overflow-x:auto;overflow-y:hidden;padding:2px 2px 10px;scrollbar-color:#30363d transparent}
-.graph{display:flex;min-width:max-content;gap:8px}
-.weeklabels{width:29px;padding-top:22px;display:grid;grid-template-rows:repeat(7,13px);gap:4px;flex-shrink:0;font-size:10px;color:#8b949e;align-items:center}
-.weeklabels span:nth-child(1),.weeklabels span:nth-child(3),.weeklabels span:nth-child(5),.weeklabels span:nth-child(7){visibility:hidden}
-.heatwrap{width:max-content;max-width:none}
-.months{height:22px;position:relative;color:#8b949e;font-size:11px}
-.months span{position:absolute;top:0;white-space:nowrap}
-.grass{display:grid;grid-auto-flow:column;grid-template-rows:repeat(7,13px);grid-auto-columns:13px;gap:4px}
-.square{display:block;width:13px;height:13px;padding:0;border:1px solid #ffffff09;border-radius:3px;transition:transform .12s}
-.square:hover{outline:1px solid #b0bac4;outline-offset:1px;transform:scale(1.14)}
-.square:focus-visible{outline:2px solid #58a6ff;outline-offset:2px}
-.square.selected{outline:2px solid #e6edf3;outline-offset:2px}
-.level0{background:#161b22}.level1{background:#0e4429}.level2{background:#006d32}.level3{background:#26a641}.level4{background:#39d353}
-.scale{justify-content:flex-end;gap:5px;margin-top:10px;font-size:11px;color:#8b949e}
-.scale i{width:12px;height:12px;border-radius:2px}
-.stat-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:10px}
+.panel{border:1px solid #30363d;border-radius:12px;padding:24px;background:#0d1117}
+h1{font-size:20px;font-weight:650;margin:0}
+.head{margin-bottom:20px;flex-wrap:wrap}
+.date-nav{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.date-nav button,.date-nav input{background:#21262d;border:1px solid #30363d;border-radius:7px;padding:8px 11px;color:#c9d1d9;font-size:13px}
+.date-nav button:hover{background:#30363d}
+.date-nav button:disabled{opacity:.42;cursor:default}
+.date-nav input{color-scheme:dark}
+.date-nav :focus-visible,.filters :focus-visible{outline:2px solid #58a6ff;outline-offset:2px}
+.stats{display:grid;grid-template-columns:repeat(4,1fr);gap:10px}
 .stat{border:1px solid #30363d;background:#161b22;padding:15px;border-radius:9px}
-.stat strong{font-size:24px;font-weight:680;display:block}
+.stat strong{font-size:24px;display:block}
 .stat small{font-size:12px;color:#8b949e;display:block;margin-top:4px}
-.note{color:#8b949e;font-size:12px}
-.filterbar{justify-content:flex-start;gap:8px;flex-wrap:wrap;margin-top:22px}
-.filterbar button{background:transparent;border:1px solid #30363d;border-radius:7px;padding:7px 13px;color:#8b949e;font-size:12px}
-.filterbar button.active{color:#e6edf3;background:#21262d;border-color:#47525e}
-.timeline{margin-top:7px}
-.entry{display:flex;gap:12px;align-items:center;padding:16px 3px;border-bottom:1px solid #21262d}
+.note{font-size:12px;color:#8b949e}
+.filters{justify-content:flex-start;flex-wrap:wrap;gap:8px;margin-top:22px}
+.filters button{background:transparent;border:1px solid #30363d;border-radius:7px;padding:8px 13px;color:#8b949e;font-size:12px}
+.filters button.active{background:#21262d;color:#e6edf3;border-color:#47525e}
+.timeline{margin-top:10px}
+.entry{display:flex;align-items:center;gap:12px;padding:16px 3px;border-bottom:1px solid #21262d}
 .entry:last-child{border-bottom:0}
-.entry-icon{display:flex;justify-content:center;align-items:center;width:33px;height:33px;flex-shrink:0;border:1px solid #30363d;border-radius:8px;color:#3fb950;font-size:16px}
+.entry-icon{display:flex;justify-content:center;align-items:center;width:34px;height:34px;flex-shrink:0;border:1px solid #30363d;border-radius:8px;color:#3fb950}
 .entry-body{flex:1;min-width:0}
 .worktitle{font-size:14px;font-weight:600;line-height:1.5;overflow-wrap:anywhere}
 .meta{color:#8b949e;font-size:12px;margin-top:4px;overflow-wrap:anywhere}
 .entry-time{color:#8b949e;font-size:12px;flex-shrink:0}
 .empty{padding:38px 12px;text-align:center;color:#8b949e;font-size:13px}
-@media(max-width:600px){.shell{padding:18px 12px 60px}.panel{padding:16px}.stat-grid{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:600px){.shell{padding:18px 12px 60px}.panel{padding:16px}.stats{grid-template-columns:repeat(2,1fr)}}
 </style>
 </head>
 <body>
@@ -63,79 +51,91 @@ h1,h2{font-size:18px;letter-spacing:-.02em;font-weight:650;margin:0}
 <header class="top"><strong>sunwoo162 / Activity</strong><a href="https://github.com/sunwoo162">GitHub ↗</a></header>
 <section class="panel">
 <div class="head">
-<h1>Activity</h1>
-<nav class="nav" aria-label="날짜 탐색"><button id="prev" aria-label="이전 기간">←</button><button id="today">Today</button><button id="next" aria-label="다음 기간">→</button></nav>
+  <h1>Activity</h1>
+  <div class="date-nav" aria-label="날짜 선택">
+    <button id="prev" aria-label="전날">←</button>
+    <input id="date" type="date" aria-label="조회 날짜">
+    <button id="next" aria-label="다음 날">→</button>
+    <button id="today">Today</button>
+  </div>
 </div>
-<div class="heatmap-scroll" id="scroller"><div class="graph">
-<div class="weeklabels"><span>Sun</span><span>Mon</span><span>Tue</span><span>Wed</span><span>Thu</span><span>Fri</span><span>Sat</span></div>
-<div class="heatwrap"><div id="months" class="months"></div><div id="grass" class="grass"></div></div>
-</div></div>
-<div class="scale"><span>Less</span><i class="level0"></i><i class="level1"></i><i class="level2"></i><i class="level3"></i><i class="level4"></i><span>More</span></div>
-</section>
-<section class="panel">
-<div class="head"><h2 id="dateTitle">Today</h2><span class="note" id="dayCount"></span></div>
-<div class="stat-grid" id="stats"></div>
-<div class="filterbar" id="filters"></div>
-<div class="timeline" id="timeline"></div>
+<div class="head"><span class="note" id="selected"></span><span class="note" id="total"></span></div>
+<div id="stats" class="stats"></div>
+<div id="filters" class="filters"></div>
+<div id="timeline" class="timeline"></div>
 </section>
 </main>
 <script>
-(function(){
+(()=>{
 "use strict";
-const $=id=>document.getElementById(id),query=new URLSearchParams(location.search);
-function todayKST(){const p={};new Intl.DateTimeFormat("en-US",{timeZone:"Asia/Seoul",year:"numeric",month:"2-digit",day:"2-digit"}).formatToParts(new Date()).forEach(x=>p[x.type]=x.value);return p.year+"-"+p.month+"-"+p.day}
+const $=id=>document.getElementById(id),params=new URLSearchParams(location.search);
+function todayKST(){
+ const data={};
+ new Intl.DateTimeFormat("en-US",{timeZone:"Asia/Seoul",year:"numeric",month:"2-digit",day:"2-digit"}).formatToParts(new Date()).forEach(x=>data[x.type]=x.value);
+ return data.year+"-"+data.month+"-"+data.day;
+}
 const today=todayKST();
-let selected=query.get("date");
-if(!/^\d{4}-\d{2}-\d{2}$/.test(selected||"")||Number.isNaN(Date.parse(selected+"T00:00:00Z")))selected=today;
-let filter="all",offset=0,data={},anchor=selected<today?selected:today;
-function dateObj(key){return new Date(key+"T00:00:00Z")}
-function dateKey(d){return d.toISOString().slice(0,10)}
-function elem(tag,cls,value){let x=document.createElement(tag);if(cls)x.className=cls;if(value!==undefined)x.textContent=value;return x}
-function list(key){return data[key]||[]}
-function level(n){return n===0?0:n<=2?1:n<=5?2:n<=9?3:4}
-function drawGrass(){
-const end=dateObj(anchor);
-end.setUTCMonth(end.getUTCMonth()+offset);
-const start=new Date(end);start.setUTCDate(start.getUTCDate()-364);start.setUTCDate(start.getUTCDate()-start.getUTCDay());
-const numWeeks=Math.floor((end-start)/604800000)+1;
-const box=$("grass"),months=$("months");box.replaceChildren();months.replaceChildren();
-let monthIndex=-1,lastMonthX=-100;
-for(let i=0;i<numWeeks*7;i++){
-const date=new Date(start);date.setUTCDate(start.getUTCDate()+i);
-let key=dateKey(date),week=Math.floor(i/7),n=list(key).length;
-if(i%7===0&&date.getUTCMonth()!==monthIndex){monthIndex=date.getUTCMonth();const x=week*17;if(x-lastMonthX>32){const label=elem("span","",(date.getUTCMonth()+1)+"월");label.style.left=x+"px";months.append(label);lastMonthX=x}}
-const square=elem("button","square level"+level(n)+(key===selected?" selected":""));
-square.title=key+" · "+n+" activities";
-square.setAttribute("aria-label",key+" 활동 "+n+"건");square.setAttribute("aria-pressed",key===selected?"true":"false");
-if(date>end){square.style.visibility="hidden";square.disabled=true}
-else square.onclick=()=>{selected=key;filter="all";history.replaceState(null,"","?date="+key);drawGrass();drawDay()};
-box.append(square)
+let date=params.get("date");
+if(!/^\d{4}-\d{2}-\d{2}$/.test(date||"")||Number.isNaN(Date.parse(date+"T00:00:00Z")))date=today;
+let filter="all",data={};
+const elem=(tag,className,text)=>{const e=document.createElement(tag);if(className)e.className=className;if(text!==undefined)e.textContent=text;return e};
+const entries=()=>data[date]||[];
+function move(days){
+ const d=new Date(date+"T00:00:00Z");d.setUTCDate(d.getUTCDate()+days);
+ choose(d.toISOString().slice(0,10));
 }
-$("next").disabled=offset===0;
+function choose(next){
+ if(!/^\d{4}-\d{2}-\d{2}$/.test(next)||Number.isNaN(Date.parse(next+"T00:00:00Z")))return;
+ date=next;filter="all";
+ history.replaceState(null,"","?date="+encodeURIComponent(date));
+ render();
 }
-function drawDay(){
-const listForDay=list(selected),stats=$("stats"),timeline=$("timeline"),filters=$("filters");
-$("dateTitle").textContent=selected;$("dayCount").textContent=listForDay.length+" activities";
-stats.replaceChildren();
-[[listForDay.filter(x=>x.kind==="commit").length,"Commits"],[listForDay.filter(x=>x.kind==="pr").length,"Pull Requests"],[listForDay.filter(x=>x.kind==="issue").length,"Issues"],[new Set(listForDay.map(x=>x.repo)).size,"Repositories"]].forEach(item=>{
-const cell=elem("div","stat");cell.append(elem("strong","",String(item[0])),elem("small","",item[1]));stats.append(cell)});
-filters.replaceChildren();
-[["all","All"],["commit","Commits"],["pr","Pull Requests"],["issue","Issues"]].forEach(item=>{
-const b=elem("button",filter===item[0]?"active":"",item[1]);b.setAttribute("aria-pressed",filter===item[0]?"true":"false");b.onclick=()=>{filter=item[0];drawDay()};filters.append(b)});
-timeline.replaceChildren();
-const rows=listForDay.filter(x=>filter==="all"||x.kind===filter);
-if(!rows.length){timeline.append(elem("div","empty","No activity on this date"));return}
-rows.forEach(x=>{
-const row=elem("div","entry"),ic=elem("span","entry-icon",x.kind==="pr"?"⑂":x.kind==="issue"?"◇":"●"),body=elem("div","entry-body"),a=elem("a","worktitle",x.title);
-a.href=x.url;a.target="_blank";a.rel="noopener noreferrer";
-body.append(a,elem("div","meta",x.repo+" · "+x.kind.toUpperCase()));
-row.append(ic,body,elem("span","entry-time",x.time));timeline.append(row)});
+function render(){
+ $("date").value=date;
+ $("date").max=today;
+ $("next").disabled=date>=today;
+ $("selected").textContent=date;
+ const items=entries();$("total").textContent=items.length+" activities";
+ const statValues=[
+  [items.filter(x=>x.kind==="commit").length,"Commits"],
+  [items.filter(x=>x.kind==="pr").length,"Pull Requests"],
+  [items.filter(x=>x.kind==="issue").length,"Issues"],
+  [new Set(items.map(x=>x.repo)).size,"Repositories"]
+ ];
+ const stats=$("stats");stats.replaceChildren();
+ statValues.forEach(([value,label])=>{
+  const block=elem("div","stat");block.append(elem("strong","",String(value)),elem("small","",label));stats.append(block);
+ });
+ const bar=$("filters");bar.replaceChildren();
+ [["all","All"],["commit","Commits"],["pr","Pull Requests"],["issue","Issues"]].forEach(([id,label])=>{
+  const button=elem("button",filter===id?"active":"",label);
+  button.setAttribute("aria-pressed",filter===id?"true":"false");
+  button.onclick=()=>{filter=id;render()};
+  bar.append(button);
+ });
+ const timeline=$("timeline");timeline.replaceChildren();
+ const filtered=items.filter(x=>filter==="all"||x.kind===filter);
+ if(!filtered.length){timeline.append(elem("div","empty","이 날짜에 표시할 활동이 없습니다."));return}
+ filtered.forEach(item=>{
+  const row=elem("div","entry");
+  const symbol=elem("span","entry-icon",item.kind==="pr"?"⑂":item.kind==="issue"?"◇":"●");
+  const body=elem("div","entry-body");
+  const link=elem("a","worktitle",item.title);
+  link.href=item.url;link.rel="noopener noreferrer";link.target="_blank";
+  body.append(link,elem("div","meta",item.repo+" · "+item.kind.toUpperCase()));
+  row.append(symbol,body,elem("span","entry-time",item.time));
+  timeline.append(row);
+ });
 }
-$("prev").onclick=()=>{offset-=3;drawGrass()};
-$("next").onclick=()=>{if(offset<0){offset=Math.min(0,offset+3);drawGrass()}};
-$("today").onclick=()=>{anchor=today;offset=0;selected=today;filter="all";history.replaceState(null,"","?date="+today);drawGrass();drawDay()};
-drawGrass();drawDay();
-fetch("./activity.json",{cache:"no-store"}).then(r=>{if(!r.ok)throw Error("Data unavailable");return r.json()}).then(j=>{data=j.days||{};drawGrass();drawDay()}).catch(e=>{const timeline=$("timeline");timeline.replaceChildren(elem("div","empty",e.message))});
+$("prev").onclick=()=>move(-1);
+$("next").onclick=()=>{if(date<today)move(1)};
+$("today").onclick=()=>choose(today);
+$("date").onchange=()=>choose($("date").value);
+render();
+fetch("./activity.json",{cache:"no-store"})
+ .then(r=>{if(!r.ok)throw Error("Data unavailable");return r.json()})
+ .then(result=>{data=result.days||{};render()})
+ .catch(e=>{$("timeline").replaceChildren(elem("div","empty",e.message))});
 })();
 </script>
 </body>
