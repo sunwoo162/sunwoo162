@@ -1,667 +1,1783 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
+  "updated_at": "2026-10-16T00:18:22.012619+00:00",
+  "coverage": {
+    "2026-10-16": {
+      "state": "indexed",
+      "checked_at": "2026-10-16T00:18:22.012547+00:00",
+      "sources": [
+        "github-commit-search",
+        "github-issue-search"
+      ],
+      "notes": [],
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
+    },
+    "2026-10-15": {
+      "state": "indexed",
+      "checked_at": "2026-10-16T00:18:07.149463+00:00",
+      "sources": [
+        "github-commit-search",
+        "github-issue-search"
+      ],
+      "notes": [],
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
+    },
+    "2026-10-14": {
+      "state": "indexed",
+      "checked_at": "2026-10-16T00:17:50.926569+00:00",
+      "sources": [
+        "github-commit-search",
+        "github-issue-search"
+      ],
+      "notes": [],
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
+    },
+    "2026-10-13": {
+      "state": "legacy",
+      "notes": [
+        "이전 수집 로직의 기록; 재검증 필요"
+      ]
+    },
+    "2026-10-12": {
+      "state": "legacy",
+      "notes": [
+        "이전 수집 로직의 기록; 재검증 필요"
+      ]
+    },
+    "2026-10-11": {
+      "state": "legacy",
+      "notes": [
+        "이전 수집 로직의 기록; 재검증 필요"
+      ]
+    },
+    "2026-10-09": {
+      "state": "legacy",
+      "notes": [
+        "이전 수집 로직의 기록; 재검증 필요"
+      ]
+    },
+    "2026-10-08": {
+      "state": "legacy",
+      "notes": [
+        "이전 수집 로직의 기록; 재검증 필요"
+      ]
+    },
+    "2026-10-07": {
+      "state": "legacy",
+      "notes": [
+        "이전 수집 로직의 기록; 재검증 필요"
+      ]
+    },
+    "2026-10-06": {
+      "state": "legacy",
+      "notes": [
+        "이전 수집 로직의 기록; 재검증 필요"
+      ]
+    },
+    "2026-10-03": {
+      "state": "legacy",
+      "notes": [
+        "이전 수집 로직의 기록; 재검증 필요"
+      ]
+    },
+    "2026-10-02": {
+      "state": "legacy",
+      "notes": [
+        "이전 수집 로직의 기록; 재검증 필요"
+      ]
+    },
+    "2026-10-01": {
+      "state": "legacy",
+      "notes": [
+        "이전 수집 로직의 기록; 재검증 필요"
+      ]
+    },
+    "2026-09-30": {
+      "state": "legacy",
+      "notes": [
+        "이전 수집 로직의 기록; 재검증 필요"
+      ]
+    },
+    "2026-09-29": {
+      "state": "legacy",
+      "notes": [
+        "이전 수집 로직의 기록; 재검증 필요"
+      ]
+    },
+    "2026-09-28": {
+      "state": "legacy",
+      "notes": [
+        "이전 수집 로직의 기록; 재검증 필요"
+      ]
+    },
+    "2026-09-23": {
+      "state": "legacy",
+      "notes": [
+        "이전 수집 로직의 기록; 재검증 필요"
+      ]
+    },
+    "2026-09-22": {
+      "state": "legacy",
+      "notes": [
+        "이전 수집 로직의 기록; 재검증 필요"
+      ]
+    },
+    "2026-09-21": {
+      "state": "legacy",
+      "notes": [
+        "이전 수집 로직의 기록; 재검증 필요"
+      ]
+    },
+    "2026-09-20": {
+      "state": "legacy",
+      "notes": [
+        "이전 수집 로직의 기록; 재검증 필요"
+      ]
+    },
+    "2026-09-18": {
+      "state": "legacy",
+      "notes": [
+        "이전 수집 로직의 기록; 재검증 필요"
+      ]
+    },
+    "2026-09-17": {
+      "state": "legacy",
+      "notes": [
+        "이전 수집 로직의 기록; 재검증 필요"
+      ]
+    },
+    "2026-09-16": {
+      "state": "legacy",
+      "notes": [
+        "이전 수집 로직의 기록; 재검증 필요"
+      ]
+    },
+    "2026-09-05": {
+      "state": "legacy",
+      "notes": [
+        "이전 수집 로직의 기록; 재검증 필요"
+      ]
+    },
+    "2026-09-04": {
+      "state": "legacy",
+      "notes": [
+        "이전 수집 로직의 기록; 재검증 필요"
+      ]
+    },
+    "2026-09-03": {
+      "state": "legacy",
+      "notes": [
+        "이전 수집 로직의 기록; 재검증 필요"
+      ]
+    },
+    "2026-09-02": {
+      "state": "legacy",
+      "notes": [
+        "이전 수집 로직의 기록; 재검증 필요"
+      ]
+    },
+    "2026-09-01": {
+      "state": "legacy",
+      "notes": [
+        "이전 수집 로직의 기록; 재검증 필요"
+      ]
+    }
+  },
   "days": {
     "2026-10-16": [
       {
         "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-16",
+        "time": "09:17",
+        "at": "2026-10-16T09:17:23+09:00",
+        "title": "feat: 날짜별 GitHub 활동 재수집 및 PR 상태·누락 표시 개선",
+        "repo": "sunwoo162/sunwoo162",
+        "url": "https://github.com/sunwoo162/sunwoo162/commit/22729660d689e93757c8cd3b9812fb7f59a82df6",
+        "sha": "22729660d689",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-16",
+        "time": "09:05",
+        "at": "2026-10-16T09:05:08+09:00",
+        "title": "chore: remove unused contribution heatmap SVG",
+        "repo": "sunwoo162/sunwoo162",
+        "url": "https://github.com/sunwoo162/sunwoo162/commit/f7db7354e2c5f1ec18fa005aa02e339193cc1528",
+        "sha": "f7db7354e2c5",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-16",
+        "time": "09:04",
+        "at": "2026-10-16T09:04:41+09:00",
+        "title": "ci: stop tracking removed grass SVG in automatic refresh",
+        "repo": "sunwoo162/sunwoo162",
+        "url": "https://github.com/sunwoo162/sunwoo162/commit/a34eb005a16dfa621b2f2763aeb99f5989ce0045",
+        "sha": "a34eb005a16d",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-16",
+        "time": "09:04",
+        "at": "2026-10-16T09:04:33+09:00",
+        "title": "chore: remove heatmap and keep simple date navigation for activity log",
+        "repo": "sunwoo162/sunwoo162",
+        "url": "https://github.com/sunwoo162/sunwoo162/commit/a7edf7da7e4b4279dbac409803e6eecd0dc4dbd3",
+        "sha": "a7edf7da7e4b",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
         "date": "2026-10-16",
         "time": "09:03",
+        "at": "2026-10-16T09:03:48+09:00",
         "title": "chore: remove grass visualization from generated profile README",
         "repo": "sunwoo162/sunwoo162",
-        "url": "https://github.com/sunwoo162/sunwoo162/commit/48cbc5b607aceb41af9f4cd7f0edfdc47b385f48"
+        "url": "https://github.com/sunwoo162/sunwoo162/commit/48cbc5b607aceb41af9f4cd7f0edfdc47b385f48",
+        "sha": "48cbc5b607ac",
+        "source": "commit-search"
       },
       {
         "kind": "commit",
+        "event": "committed",
         "date": "2026-10-16",
         "time": "08:43",
+        "at": "2026-10-16T08:43:50+09:00",
         "title": "feat: render 7-row GitHub-style interactive contribution heatmap",
         "repo": "sunwoo162/sunwoo162",
-        "url": "https://github.com/sunwoo162/sunwoo162/commit/9efbb81a12b77628e6e6d2e57a93a194379e9ce1"
+        "url": "https://github.com/sunwoo162/sunwoo162/commit/9efbb81a12b77628e6e6d2e57a93a194379e9ce1",
+        "sha": "9efbb81a12b7",
+        "source": "commit-search"
       },
       {
         "kind": "commit",
+        "event": "committed",
         "date": "2026-10-16",
         "time": "08:42",
-        "title": "ci: include contribution grass SVG in automatic README refresh",
-        "repo": "sunwoo162/sunwoo162",
-        "url": "https://github.com/sunwoo162/sunwoo162/commit/7a3fdb91e66076252fe393b94bdfab201467da1d"
-      },
-      {
-        "kind": "commit",
-        "date": "2026-10-16",
-        "time": "08:42",
+        "at": "2026-10-16T08:42:41+09:00",
         "title": "feat: replace emoji calendar with GitHub-style contribution SVG and minimal README",
         "repo": "sunwoo162/sunwoo162",
-        "url": "https://github.com/sunwoo162/sunwoo162/commit/7bb5ac98f4013572402e283529f8e66b6e6ea7ad"
+        "url": "https://github.com/sunwoo162/sunwoo162/commit/7bb5ac98f4013572402e283529f8e66b6e6ea7ad",
+        "sha": "7bb5ac98f401",
+        "source": "commit-search"
       },
       {
         "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-16",
+        "time": "08:42",
+        "at": "2026-10-16T08:42:10+09:00",
+        "title": "ci: include contribution grass SVG in automatic README refresh",
+        "repo": "sunwoo162/sunwoo162",
+        "url": "https://github.com/sunwoo162/sunwoo162/commit/7a3fdb91e66076252fe393b94bdfab201467da1d",
+        "sha": "7a3fdb91e660",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
         "date": "2026-10-16",
         "time": "08:34",
+        "at": "2026-10-16T08:34:21+09:00",
         "title": "fix: 공개 저장소 Pages 배포 단계 활성화",
         "repo": "sunwoo162/sunwoo162",
-        "url": "https://github.com/sunwoo162/sunwoo162/commit/cc560129a1a5cf605d47eca6cbd8bea91d3dfe3e"
+        "url": "https://github.com/sunwoo162/sunwoo162/commit/cc560129a1a5cf605d47eca6cbd8bea91d3dfe3e",
+        "sha": "cc560129a1a5",
+        "source": "commit-search"
       }
     ],
     "2026-10-15": [
       {
         "kind": "commit",
+        "event": "committed",
         "date": "2026-10-15",
         "time": "21:27",
+        "at": "2026-10-15T21:27:33+09:00",
         "title": "ci: 공개 전까지 Pages 배포를 건너뛰고 활동 수집 유지",
         "repo": "sunwoo162/sunwoo162",
-        "url": "https://github.com/sunwoo162/sunwoo162/commit/31ddff892070c0cd63eafefe3896acc31ce2e893"
+        "url": "https://github.com/sunwoo162/sunwoo162/commit/31ddff892070c0cd63eafefe3896acc31ce2e893",
+        "sha": "31ddff892070",
+        "source": "commit-search"
       },
       {
         "kind": "commit",
+        "event": "committed",
         "date": "2026-10-15",
         "time": "21:26",
+        "at": "2026-10-15T21:26:04+09:00",
         "title": "fix: 자동 기록 갱신 시 동시 커밋 충돌 방지",
         "repo": "sunwoo162/sunwoo162",
-        "url": "https://github.com/sunwoo162/sunwoo162/commit/b2609377923671fc9615a205f1d49aac24406988"
+        "url": "https://github.com/sunwoo162/sunwoo162/commit/b2609377923671fc9615a205f1d49aac24406988",
+        "sha": "b26093779236",
+        "source": "commit-search"
       },
       {
         "kind": "commit",
+        "event": "committed",
         "date": "2026-10-15",
         "time": "21:24",
+        "at": "2026-10-15T21:24:11+09:00",
         "title": "feat: 기존 프로필 README를 개발 활동 달력으로 전면 교체",
         "repo": "sunwoo162/sunwoo162",
-        "url": "https://github.com/sunwoo162/sunwoo162/commit/4bcc5815235b81da86e069739eb2a0db36eb34ba"
+        "url": "https://github.com/sunwoo162/sunwoo162/commit/4bcc5815235b81da86e069739eb2a0db36eb34ba",
+        "sha": "4bcc5815235b",
+        "source": "commit-search"
       },
       {
         "kind": "commit",
+        "event": "committed",
         "date": "2026-10-15",
         "time": "21:23",
+        "at": "2026-10-15T21:23:00+09:00",
         "title": "ci: 공개 GitHub 활동 매시간 수집 및 Pages 자동 배포",
         "repo": "sunwoo162/sunwoo162",
-        "url": "https://github.com/sunwoo162/sunwoo162/commit/eb07e1fa5792da8a89394e59b661a78186f66ea1"
+        "url": "https://github.com/sunwoo162/sunwoo162/commit/eb07e1fa5792da8a89394e59b661a78186f66ea1",
+        "sha": "eb07e1fa5792",
+        "source": "commit-search"
       },
       {
         "kind": "commit",
+        "event": "committed",
         "date": "2026-10-15",
         "time": "21:22",
+        "at": "2026-10-15T21:22:35+09:00",
         "title": "feat: 날짜 클릭으로 기록이 바뀌는 GitHub 활동 달력 추가",
         "repo": "sunwoo162/sunwoo162",
-        "url": "https://github.com/sunwoo162/sunwoo162/commit/a763db97065d962f5ed599bdd31800dcc51fa6ff"
+        "url": "https://github.com/sunwoo162/sunwoo162/commit/a763db97065d962f5ed599bdd31800dcc51fa6ff",
+        "sha": "a763db97065d",
+        "source": "commit-search"
       },
       {
         "kind": "commit",
+        "event": "committed",
         "date": "2026-10-15",
         "time": "21:21",
+        "at": "2026-10-15T21:21:34+09:00",
         "title": "feat: 공개 GitHub 활동 자동 수집 및 README 생성기 추가",
         "repo": "sunwoo162/sunwoo162",
-        "url": "https://github.com/sunwoo162/sunwoo162/commit/f9a60923abb0916ec5c99ee4c2fb97b8da8354af"
+        "url": "https://github.com/sunwoo162/sunwoo162/commit/f9a60923abb0916ec5c99ee4c2fb97b8da8354af",
+        "sha": "f9a60923abb0",
+        "source": "commit-search"
       },
       {
         "kind": "commit",
+        "event": "committed",
         "date": "2026-10-15",
         "time": "21:17",
+        "at": "2026-10-15T21:17:00+09:00",
         "title": "Merge pull request #8 from sunwoo162/feat/versioned-downloads-and-installers",
         "repo": "sunwoo162/RD",
-        "url": "https://github.com/sunwoo162/RD/commit/e47c58f4c53d49fca21f944573f43a999fecb37a"
+        "url": "https://github.com/sunwoo162/RD/commit/e47c58f4c53d49fca21f944573f43a999fecb37a",
+        "sha": "e47c58f4c53d",
+        "source": "commit-search"
       },
       {
         "kind": "pr",
+        "event": "merged",
         "date": "2026-10-15",
-        "time": "21:10",
+        "time": "21:17",
+        "at": "2026-10-15T21:17:00+09:00",
         "title": "feat: 버전별 바로 다운로드와 Windows 설치 프로그램 제공",
         "repo": "sunwoo162/RD",
-        "url": "https://github.com/sunwoo162/RD/pull/8"
+        "url": "https://github.com/sunwoo162/RD/pull/8",
+        "number": 8,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/RD/pull/8/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
       },
       {
         "kind": "commit",
+        "event": "committed",
         "date": "2026-10-15",
         "time": "21:09",
+        "at": "2026-10-15T21:09:40+09:00",
         "title": "feat: add versioned download links and Windows setup installers",
         "repo": "sunwoo162/RD",
-        "url": "https://github.com/sunwoo162/RD/commit/672aa891f33b98701e0c96e6f60572de2062307d"
+        "url": "https://github.com/sunwoo162/RD/commit/672aa891f33b98701e0c96e6f60572de2062307d",
+        "sha": "672aa891f33b",
+        "source": "commit-search"
       },
       {
         "kind": "pr",
+        "event": "opened",
         "date": "2026-10-15",
         "time": "20:24",
+        "at": "2026-10-15T20:24:27+09:00",
         "title": "feat: RD V1.2 기존 GitHub 프로젝트 자동 판별 및 안전한 로컬 연결",
         "repo": "sunwoo162/RD",
-        "url": "https://github.com/sunwoo162/RD/pull/7"
+        "url": "https://github.com/sunwoo162/RD/pull/7",
+        "number": 7,
+        "status": "open",
+        "commits_url": "https://github.com/sunwoo162/RD/pull/7/commits",
+        "events": [
+          "opened"
+        ]
       },
       {
         "kind": "pr",
+        "event": "opened",
         "date": "2026-10-15",
         "time": "20:03",
+        "at": "2026-10-15T20:03:51+09:00",
         "title": "feat: ChatGPT 공개 근거 자동 관측 + EEEE 플러그인 어댑터",
         "repo": "sunwoo162/ain",
-        "url": "https://github.com/sunwoo162/ain/pull/15"
+        "url": "https://github.com/sunwoo162/ain/pull/15",
+        "number": 15,
+        "status": "open",
+        "commits_url": "https://github.com/sunwoo162/ain/pull/15/commits",
+        "events": [
+          "opened"
+        ]
       },
       {
-        "kind": "commit",
+        "kind": "pr",
+        "event": "merged",
         "date": "2026-10-15",
         "time": "15:20",
-        "title": "Merge pull request #6 from sunwoo162/feat/v1.1-simple-workspace",
-        "repo": "sunwoo162/RD",
-        "url": "https://github.com/sunwoo162/RD/commit/351a5542e7cd86ac3215fce92e5c8aa235ed9bd8"
-      },
-      {
-        "kind": "commit",
-        "date": "2026-10-15",
-        "time": "15:13",
-        "title": "fix: polish one-click setup and prepare RepoDock v1.1.0",
-        "repo": "sunwoo162/RD",
-        "url": "https://github.com/sunwoo162/RD/commit/e63b65d245bac6f3354784723bead7740e62f44b"
-      },
-      {
-        "kind": "pr",
-        "date": "2026-10-15",
-        "time": "14:14",
+        "at": "2026-10-15T15:20:22+09:00",
         "title": "release: RepoDock v1.1.0 간편 자동 동기화 및 UX 안정화",
         "repo": "sunwoo162/RD",
-        "url": "https://github.com/sunwoo162/RD/pull/6"
+        "url": "https://github.com/sunwoo162/RD/pull/6",
+        "number": 6,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/RD/pull/6/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
       },
       {
         "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-15",
+        "time": "15:20",
+        "at": "2026-10-15T15:20:21+09:00",
+        "title": "Merge pull request #6 from sunwoo162/feat/v1.1-simple-workspace",
+        "repo": "sunwoo162/RD",
+        "url": "https://github.com/sunwoo162/RD/commit/351a5542e7cd86ac3215fce92e5c8aa235ed9bd8",
+        "sha": "351a5542e7cd",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-15",
+        "time": "15:13",
+        "at": "2026-10-15T15:13:51+09:00",
+        "title": "fix: polish one-click setup and prepare RepoDock v1.1.0",
+        "repo": "sunwoo162/RD",
+        "url": "https://github.com/sunwoo162/RD/commit/e63b65d245bac6f3354784723bead7740e62f44b",
+        "sha": "e63b65d245ba",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
         "date": "2026-10-15",
         "time": "14:13",
+        "at": "2026-10-15T14:13:38+09:00",
         "title": "feat: simplify v1.1 workspace setup and automatic repository sync",
         "repo": "sunwoo162/RD",
-        "url": "https://github.com/sunwoo162/RD/commit/d50802f8aa18f8ecd59bff60e197706bb085d907"
+        "url": "https://github.com/sunwoo162/RD/commit/d50802f8aa18f8ecd59bff60e197706bb085d907",
+        "sha": "d50802f8aa18",
+        "source": "commit-search"
       },
       {
         "kind": "commit",
+        "event": "committed",
         "date": "2026-10-15",
         "time": "12:18",
+        "at": "2026-10-15T12:18:24+09:00",
         "title": "Merge pull request #5 from sunwoo162/fix/v1-runtime-hardening",
         "repo": "sunwoo162/RD",
-        "url": "https://github.com/sunwoo162/RD/commit/da280ba95fa095ee0f9fd15afb2c01f2cf0b9f6b"
-      },
-      {
-        "kind": "commit",
-        "date": "2026-10-15",
-        "time": "12:09",
-        "title": "build: include license and verify Windows builds on main",
-        "repo": "sunwoo162/RD",
-        "url": "https://github.com/sunwoo162/RD/commit/65c3c85f250626df534708dc68e429cc536cebdf"
-      },
-      {
-        "kind": "commit",
-        "date": "2026-10-15",
-        "time": "12:06",
-        "title": "release: prepare RepoDock v1.0.0 portable",
-        "repo": "sunwoo162/RD",
-        "url": "https://github.com/sunwoo162/RD/commit/d8024653d49320fc810941744789729c33304704"
-      },
-      {
-        "kind": "commit",
-        "date": "2026-10-15",
-        "time": "12:04",
-        "title": "Merge pull request #4 from sunwoo162/fix/agent-cli-reliability",
-        "repo": "sunwoo162/RD",
-        "url": "https://github.com/sunwoo162/RD/commit/317fde2398a035dadeeb0c9c63006215b7b6faab"
-      },
-      {
-        "kind": "commit",
-        "date": "2026-10-15",
-        "time": "12:03",
-        "title": "Merge pull request #2 from sunwoo162/feat/windows-tray-portable",
-        "repo": "sunwoo162/RD",
-        "url": "https://github.com/sunwoo162/RD/commit/457bac4b3fe6b7915f52f32e1183b2ce9a3cf983"
-      },
-      {
-        "kind": "commit",
-        "date": "2026-10-15",
-        "time": "12:03",
-        "title": "Merge pull request #3 from sunwoo162/feat/manager-ui-and-benchmarks",
-        "repo": "sunwoo162/RD",
-        "url": "https://github.com/sunwoo162/RD/commit/e9c12a6b6ab37195383f3fffa783c8251a6b139d"
-      },
-      {
-        "kind": "commit",
-        "date": "2026-10-15",
-        "time": "12:03",
-        "title": "Merge pull request #1 from sunwoo162/feat/safe-sync-core",
-        "repo": "sunwoo162/RD",
-        "url": "https://github.com/sunwoo162/RD/commit/6600c1543168ceedb89e78eac06210e39bf4b2f8"
-      },
-      {
-        "kind": "commit",
-        "date": "2026-10-15",
-        "time": "11:59",
-        "title": "test: validate manager UI actions before Windows release",
-        "repo": "sunwoo162/RD",
-        "url": "https://github.com/sunwoo162/RD/commit/96e150357d9fdd53bf86ff5def5a20cc9b367f2f"
-      },
-      {
-        "kind": "commit",
-        "date": "2026-10-15",
-        "time": "11:19",
-        "title": "fix: write idle benchmark JSON from sampled list",
-        "repo": "sunwoo162/RD",
-        "url": "https://github.com/sunwoo162/RD/commit/883720f62618875ae543fc15675fe0f572e5b9fe"
-      },
-      {
-        "kind": "commit",
-        "date": "2026-10-15",
-        "time": "11:16",
-        "title": "fix: harden git runtime and config for v1.0 release candidate",
-        "repo": "sunwoo162/RD",
-        "url": "https://github.com/sunwoo162/RD/commit/0b1cb636508f0621bfd360506ef0f4e441d96400"
+        "url": "https://github.com/sunwoo162/RD/commit/da280ba95fa095ee0f9fd15afb2c01f2cf0b9f6b",
+        "sha": "da280ba95fa0",
+        "source": "commit-search"
       },
       {
         "kind": "pr",
+        "event": "merged",
         "date": "2026-10-15",
-        "time": "11:16",
+        "time": "12:18",
+        "at": "2026-10-15T12:18:24+09:00",
         "title": "release: RepoDock v1.0.0 정식 포터블 릴리스",
         "repo": "sunwoo162/RD",
-        "url": "https://github.com/sunwoo162/RD/pull/5"
-      },
-      {
-        "kind": "pr",
-        "date": "2026-10-15",
-        "time": "10:45",
-        "title": "기능: EEEE Core 중심 구조 재설계 및 최신 main 통합",
-        "repo": "sunwoo162/gleave",
-        "url": "https://github.com/sunwoo162/gleave/pull/55"
+        "url": "https://github.com/sunwoo162/RD/pull/5",
+        "number": 5,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/RD/pull/5/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
       },
       {
         "kind": "commit",
+        "event": "committed",
         "date": "2026-10-15",
-        "time": "10:26",
-        "title": "fix: normalize Windows clone paths for Git",
+        "time": "12:09",
+        "at": "2026-10-15T12:09:30+09:00",
+        "title": "build: include license and verify Windows builds on main",
         "repo": "sunwoo162/RD",
-        "url": "https://github.com/sunwoo162/RD/commit/f9c2399eae1033d64e02c6035a3790bbd4f48492"
+        "url": "https://github.com/sunwoo162/RD/commit/65c3c85f250626df534708dc68e429cc536cebdf",
+        "sha": "65c3c85f2506",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-15",
+        "time": "12:06",
+        "at": "2026-10-15T12:06:47+09:00",
+        "title": "release: prepare RepoDock v1.0.0 portable",
+        "repo": "sunwoo162/RD",
+        "url": "https://github.com/sunwoo162/RD/commit/d8024653d49320fc810941744789729c33304704",
+        "sha": "d8024653d493",
+        "source": "commit-search"
       },
       {
         "kind": "pr",
+        "event": "merged",
         "date": "2026-10-15",
-        "time": "10:08",
+        "time": "12:04",
+        "at": "2026-10-15T12:04:02+09:00",
         "title": "fix: Windows 저장소 Clone 오류, 동기화 실패 처리 및 설정 충돌 방지",
         "repo": "sunwoo162/RD",
-        "url": "https://github.com/sunwoo162/RD/pull/4"
+        "url": "https://github.com/sunwoo162/RD/pull/4",
+        "number": 4,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/RD/pull/4/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
       },
       {
         "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-15",
+        "time": "12:04",
+        "at": "2026-10-15T12:04:01+09:00",
+        "title": "Merge pull request #4 from sunwoo162/fix/agent-cli-reliability",
+        "repo": "sunwoo162/RD",
+        "url": "https://github.com/sunwoo162/RD/commit/317fde2398a035dadeeb0c9c63006215b7b6faab",
+        "sha": "317fde2398a0",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-15",
+        "time": "12:03",
+        "at": "2026-10-15T12:03:42+09:00",
+        "title": "Merge pull request #3 from sunwoo162/feat/manager-ui-and-benchmarks",
+        "repo": "sunwoo162/RD",
+        "url": "https://github.com/sunwoo162/RD/commit/e9c12a6b6ab37195383f3fffa783c8251a6b139d",
+        "sha": "e9c12a6b6ab3",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-10-15",
+        "time": "12:03",
+        "at": "2026-10-15T12:03:42+09:00",
+        "title": "feat: 필요할 때만 실행하는 프로젝트 관리 UI와 성능 측정 도구 추가",
+        "repo": "sunwoo162/RD",
+        "url": "https://github.com/sunwoo162/RD/pull/3",
+        "number": 3,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/RD/pull/3/commits",
+        "events": [
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-15",
+        "time": "12:03",
+        "at": "2026-10-15T12:03:23+09:00",
+        "title": "Merge pull request #2 from sunwoo162/feat/windows-tray-portable",
+        "repo": "sunwoo162/RD",
+        "url": "https://github.com/sunwoo162/RD/commit/457bac4b3fe6b7915f52f32e1183b2ce9a3cf983",
+        "sha": "457bac4b3fe6",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-10-15",
+        "time": "12:03",
+        "at": "2026-10-15T12:03:23+09:00",
+        "title": "feat: Windows 초경량 트레이와 포터블 자동 실행 기반 추가",
+        "repo": "sunwoo162/RD",
+        "url": "https://github.com/sunwoo162/RD/pull/2",
+        "number": 2,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/RD/pull/2/commits",
+        "events": [
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-15",
+        "time": "12:03",
+        "at": "2026-10-15T12:03:01+09:00",
+        "title": "Merge pull request #1 from sunwoo162/feat/safe-sync-core",
+        "repo": "sunwoo162/RD",
+        "url": "https://github.com/sunwoo162/RD/commit/6600c1543168ceedb89e78eac06210e39bf4b2f8",
+        "sha": "6600c1543168",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-10-15",
+        "time": "12:03",
+        "at": "2026-10-15T12:03:01+09:00",
+        "title": "feat: 초경량 Git 동기화 엔진 및 로컬 코드 보호 기능 추가",
+        "repo": "sunwoo162/RD",
+        "url": "https://github.com/sunwoo162/RD/pull/1",
+        "number": 1,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/RD/pull/1/commits",
+        "events": [
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-15",
+        "time": "11:59",
+        "at": "2026-10-15T11:59:12+09:00",
+        "title": "test: validate manager UI actions before Windows release",
+        "repo": "sunwoo162/RD",
+        "url": "https://github.com/sunwoo162/RD/commit/96e150357d9fdd53bf86ff5def5a20cc9b367f2f",
+        "sha": "96e150357d9f",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-10-15",
+        "time": "11:25",
+        "at": "2026-10-15T11:25:34+09:00",
+        "title": "feat: 백엔드 인증 API 연동 기반 추가",
+        "repo": "project-hyoit/hyoit-FE",
+        "url": "https://github.com/project-hyoit/hyoit-FE/pull/26",
+        "number": 26,
+        "status": "merged",
+        "commits_url": "https://github.com/project-hyoit/hyoit-FE/pull/26/commits",
+        "events": [
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-15",
+        "time": "11:19",
+        "at": "2026-10-15T11:19:36+09:00",
+        "title": "fix: write idle benchmark JSON from sampled list",
+        "repo": "sunwoo162/RD",
+        "url": "https://github.com/sunwoo162/RD/commit/883720f62618875ae543fc15675fe0f572e5b9fe",
+        "sha": "883720f62618",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-15",
+        "time": "11:16",
+        "at": "2026-10-15T11:16:00+09:00",
+        "title": "fix: harden git runtime and config for v1.0 release candidate",
+        "repo": "sunwoo162/RD",
+        "url": "https://github.com/sunwoo162/RD/commit/0b1cb636508f0621bfd360506ef0f4e441d96400",
+        "sha": "0b1cb636508f",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "opened",
+        "date": "2026-10-15",
+        "time": "10:45",
+        "at": "2026-10-15T10:45:09+09:00",
+        "title": "기능: EEEE Core 중심 구조 재설계 및 최신 main 통합",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/pull/55",
+        "number": 55,
+        "status": "open",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/55/commits",
+        "events": [
+          "opened"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-15",
+        "time": "10:26",
+        "at": "2026-10-15T10:26:06+09:00",
+        "title": "fix: normalize Windows clone paths for Git",
+        "repo": "sunwoo162/RD",
+        "url": "https://github.com/sunwoo162/RD/commit/f9c2399eae1033d64e02c6035a3790bbd4f48492",
+        "sha": "f9c2399eae10",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
         "date": "2026-10-15",
         "time": "10:07",
+        "at": "2026-10-15T10:07:44+09:00",
         "title": "fix: serialize config edits and surface sync failures",
         "repo": "sunwoo162/RD",
-        "url": "https://github.com/sunwoo162/RD/commit/d8b42041b044007ebe27860c19655748a7f4e12e"
+        "url": "https://github.com/sunwoo162/RD/commit/d8b42041b044007ebe27860c19655748a7f4e12e",
+        "sha": "d8b42041b044",
+        "source": "commit-search"
       },
       {
         "kind": "pr",
+        "event": "opened",
         "date": "2026-10-15",
         "time": "09:15",
+        "at": "2026-10-15T09:15:04+09:00",
         "title": "feat: add installable EEEE chat history plugin",
         "repo": "sunwoo162/gleave",
-        "url": "https://github.com/sunwoo162/gleave/pull/54"
+        "url": "https://github.com/sunwoo162/gleave/pull/54",
+        "number": 54,
+        "status": "open",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/54/commits",
+        "events": [
+          "opened"
+        ]
       },
       {
         "kind": "pr",
+        "event": "merged",
+        "date": "2026-10-15",
+        "time": "07:59",
+        "at": "2026-10-15T07:59:08+09:00",
+        "title": "[machine] 사용자 기기 히스토리 모달 연결",
+        "repo": "team-washer/Washer-Client-v2",
+        "url": "https://github.com/team-washer/Washer-Client-v2/pull/40",
+        "number": 40,
+        "status": "merged",
+        "commits_url": "https://github.com/team-washer/Washer-Client-v2/pull/40/commits",
+        "events": [
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-15",
+        "time": "07:59",
+        "at": "2026-10-15T07:59:07+09:00",
+        "title": "Merge pull request #40 from team-washer/feat/user-machine-history",
+        "repo": "team-washer/Washer-Client-v2",
+        "url": "https://github.com/team-washer/Washer-Client-v2/commit/4d9f9ce74e33e944298479b04af0831eb5f91d52",
+        "sha": "4d9f9ce74e33",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "opened",
         "date": "2026-10-15",
         "time": "01:40",
+        "at": "2026-10-15T01:40:14+09:00",
         "title": "feat: 의심암귀 V1.0 RC1 전체 기능 통합 및 릴리스 검증",
         "repo": "sunwoo162/ain",
-        "url": "https://github.com/sunwoo162/ain/pull/14"
+        "url": "https://github.com/sunwoo162/ain/pull/14",
+        "number": 14,
+        "status": "open",
+        "commits_url": "https://github.com/sunwoo162/ain/pull/14/commits",
+        "events": [
+          "opened"
+        ]
       },
       {
         "kind": "pr",
+        "event": "opened",
         "date": "2026-10-15",
         "time": "00:54",
+        "at": "2026-10-15T00:54:18+09:00",
         "title": "fix: stabilize EEEE desktop core conversation flow",
         "repo": "sunwoo162/gleave",
-        "url": "https://github.com/sunwoo162/gleave/pull/53"
+        "url": "https://github.com/sunwoo162/gleave/pull/53",
+        "number": 53,
+        "status": "open",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/53/commits",
+        "events": [
+          "opened"
+        ]
       },
       {
         "kind": "pr",
+        "event": "opened",
         "date": "2026-10-15",
         "time": "00:39",
+        "at": "2026-10-15T00:39:23+09:00",
         "title": "feat: 인덱스 기반 그래프 검색과 실행별 분석·대용량 성능 측정",
         "repo": "sunwoo162/ain",
-        "url": "https://github.com/sunwoo162/ain/pull/13"
+        "url": "https://github.com/sunwoo162/ain/pull/13",
+        "number": 13,
+        "status": "closed",
+        "commits_url": "https://github.com/sunwoo162/ain/pull/13/commits",
+        "events": [
+          "opened"
+        ]
       }
     ],
     "2026-10-14": [
       {
         "kind": "pr",
+        "event": "merged",
         "date": "2026-10-14",
-        "time": "22:32",
+        "time": "22:33",
+        "at": "2026-10-14T22:33:40+09:00",
         "title": "fix: render multiline bubble replies without clipping",
         "repo": "sunwoo162/gleave",
-        "url": "https://github.com/sunwoo162/gleave/pull/52"
+        "url": "https://github.com/sunwoo162/gleave/pull/52",
+        "number": 52,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/52/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-14",
+        "time": "22:33",
+        "at": "2026-10-14T22:33:39+09:00",
+        "title": "fix: render multiline bubble replies without clipping (#52)",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/dc54287762538965c474b1664455afc6fa0455fc",
+        "sha": "dc5428776253",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-14",
+        "time": "22:31",
+        "at": "2026-10-14T22:31:53+09:00",
+        "title": "fix: render multiline bubble replies without clipping",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/be3293f6389d606fff6a28c13b0f256aac43d4a7",
+        "sha": "be3293f6389d",
+        "source": "commit-search"
       },
       {
         "kind": "pr",
+        "event": "merged",
         "date": "2026-10-14",
-        "time": "20:30",
+        "time": "20:33",
+        "at": "2026-10-14T20:33:26+09:00",
         "title": "fix: route bubble clicks and size replies responsively",
         "repo": "sunwoo162/gleave",
-        "url": "https://github.com/sunwoo162/gleave/pull/51"
+        "url": "https://github.com/sunwoo162/gleave/pull/51",
+        "number": 51,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/51/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-14",
+        "time": "20:33",
+        "at": "2026-10-14T20:33:25+09:00",
+        "title": "Merge pull request #51 from sunwoo162/codex/fix-bubble-event-and-sizing",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/800a755d1ade6c1fe80aa42b8d8744eb1ffd7b04",
+        "sha": "800a755d1ade",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-14",
+        "time": "20:29",
+        "at": "2026-10-14T20:29:50+09:00",
+        "title": "fix: route bubble clicks and size replies responsively",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/cb15bcdb5cfb08fc1af02c13e948ee410da302e2",
+        "sha": "cb15bcdb5cfb",
+        "source": "commit-search"
       },
       {
         "kind": "pr",
+        "event": "opened",
         "date": "2026-10-14",
         "time": "20:21",
+        "at": "2026-10-14T20:21:23+09:00",
         "title": "feat: 실행 ID 기반 그룹화와 미니맵·시점 비교 기능 구현",
         "repo": "sunwoo162/ain",
-        "url": "https://github.com/sunwoo162/ain/pull/12"
+        "url": "https://github.com/sunwoo162/ain/pull/12",
+        "number": 12,
+        "status": "closed",
+        "commits_url": "https://github.com/sunwoo162/ain/pull/12/commits",
+        "events": [
+          "opened"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-14",
+        "time": "20:00",
+        "at": "2026-10-14T20:00:36+09:00",
+        "title": "Merge pull request #50 from sunwoo162/codex/fix-quick-reply-frame-click",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/5d1c8d5199e1c482e85a70af6d8f95d9a10ca9cd",
+        "sha": "5d1c8d5199e1",
+        "source": "commit-search"
       },
       {
         "kind": "pr",
+        "event": "merged",
         "date": "2026-10-14",
-        "time": "19:58",
+        "time": "20:00",
+        "at": "2026-10-14T20:00:36+09:00",
         "title": "fix: make the whole reply bubble clickable",
         "repo": "sunwoo162/gleave",
-        "url": "https://github.com/sunwoo162/gleave/pull/50"
+        "url": "https://github.com/sunwoo162/gleave/pull/50",
+        "number": 50,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/50/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
       },
       {
         "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-14",
+        "time": "19:57",
+        "at": "2026-10-14T19:57:54+09:00",
+        "title": "fix: make the whole reply bubble clickable",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/5b2fd135f5ce19043f0b8b033ddc2d6e1786b82c",
+        "sha": "5b2fd135f5ce",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
         "date": "2026-10-14",
         "time": "19:53",
+        "at": "2026-10-14T19:53:43+09:00",
         "title": "fix: default to repository HEAD when no branch is selected",
         "repo": "sunwoo162/RD",
-        "url": "https://github.com/sunwoo162/RD/commit/38dfbc54bf9bbfbe217ff7ffbadcdf7802332422"
+        "url": "https://github.com/sunwoo162/RD/commit/38dfbc54bf9bbfbe217ff7ffbadcdf7802332422",
+        "sha": "38dfbc54bf9b",
+        "source": "commit-search"
       },
       {
         "kind": "commit",
+        "event": "committed",
         "date": "2026-10-14",
         "time": "19:52",
+        "at": "2026-10-14T19:52:08+09:00",
         "title": "docs: update v0.3 manager usage and validation caveats",
         "repo": "sunwoo162/RD",
-        "url": "https://github.com/sunwoo162/RD/commit/37ff30ceaee20468bbd82b31477d1c2f34e3ee41"
+        "url": "https://github.com/sunwoo162/RD/commit/37ff30ceaee20468bbd82b31477d1c2f34e3ee41",
+        "sha": "37ff30ceaee2",
+        "source": "commit-search"
       },
       {
         "kind": "commit",
+        "event": "committed",
         "date": "2026-10-14",
-        "time": "19:50",
-        "title": "perf: keep manager fonts entirely offline",
-        "repo": "sunwoo162/RD",
-        "url": "https://github.com/sunwoo162/RD/commit/e0573a68e396b74cf4fbeb6c8ece5cab5e6ab7da"
-      },
-      {
-        "kind": "commit",
-        "date": "2026-10-14",
-        "time": "19:49",
-        "title": "feat: launch on-demand manager from native tray",
-        "repo": "sunwoo162/RD",
-        "url": "https://github.com/sunwoo162/RD/commit/e356294257f17a7e47c06f1413be819cf7239674"
-      },
-      {
-        "kind": "commit",
-        "date": "2026-10-14",
-        "time": "19:49",
-        "title": "feat: add on-demand Tauri repository manager and performance tooling",
-        "repo": "sunwoo162/RD",
-        "url": "https://github.com/sunwoo162/RD/commit/17ee2cdacdfd6a1d11fc879a6fe914358052d6c7"
+        "time": "19:51",
+        "at": "2026-10-14T19:51:04+09:00",
+        "title": "Merge pull request #49 from sunwoo162/codex/fix-quick-reply-click",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/493e8c6faa2831f5f602e20da8886a241d80da79",
+        "sha": "493e8c6faa28",
+        "source": "commit-search"
       },
       {
         "kind": "pr",
+        "event": "merged",
         "date": "2026-10-14",
-        "time": "19:49",
-        "title": "feat: 필요할 때만 실행하는 프로젝트 관리 UI와 성능 측정 도구 추가",
-        "repo": "sunwoo162/RD",
-        "url": "https://github.com/sunwoo162/RD/pull/3"
-      },
-      {
-        "kind": "pr",
-        "date": "2026-10-14",
-        "time": "19:48",
+        "time": "19:51",
+        "at": "2026-10-14T19:51:04+09:00",
         "title": "fix: reopen Quick Chat input from reply bubble",
         "repo": "sunwoo162/gleave",
-        "url": "https://github.com/sunwoo162/gleave/pull/49"
+        "url": "https://github.com/sunwoo162/gleave/pull/49",
+        "number": 49,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/49/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-14",
+        "time": "19:50",
+        "at": "2026-10-14T19:50:24+09:00",
+        "title": "perf: keep manager fonts entirely offline",
+        "repo": "sunwoo162/RD",
+        "url": "https://github.com/sunwoo162/RD/commit/e0573a68e396b74cf4fbeb6c8ece5cab5e6ab7da",
+        "sha": "e0573a68e396",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-14",
+        "time": "19:49",
+        "at": "2026-10-14T19:49:52+09:00",
+        "title": "feat: launch on-demand manager from native tray",
+        "repo": "sunwoo162/RD",
+        "url": "https://github.com/sunwoo162/RD/commit/e356294257f17a7e47c06f1413be819cf7239674",
+        "sha": "e356294257f1",
+        "source": "commit-search"
       },
       {
         "kind": "pr",
+        "event": "opened",
+        "date": "2026-10-14",
+        "time": "19:49",
+        "at": "2026-10-14T19:49:33+09:00",
+        "title": "feat: 필요할 때만 실행하는 프로젝트 관리 UI와 성능 측정 도구 추가",
+        "repo": "sunwoo162/RD",
+        "url": "https://github.com/sunwoo162/RD/pull/3",
+        "number": 3,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/RD/pull/3/commits",
+        "events": [
+          "opened"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-14",
+        "time": "19:49",
+        "at": "2026-10-14T19:49:13+09:00",
+        "title": "feat: add on-demand Tauri repository manager and performance tooling",
+        "repo": "sunwoo162/RD",
+        "url": "https://github.com/sunwoo162/RD/commit/17ee2cdacdfd6a1d11fc879a6fe914358052d6c7",
+        "sha": "17ee2cdacdfd",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
         "date": "2026-10-14",
         "time": "19:47",
+        "at": "2026-10-14T19:47:56+09:00",
+        "title": "fix: reopen quick chat input from reply bubble",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/62f39d1880622bafc96c61320fa146b59a689639",
+        "sha": "62f39d188062",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "opened",
+        "date": "2026-10-14",
+        "time": "19:47",
+        "at": "2026-10-14T19:47:06+09:00",
         "title": "feat: 실행 연결 묶음 탐색과 시맨틱 줌 기반 우주 그래프 개선",
         "repo": "sunwoo162/ain",
-        "url": "https://github.com/sunwoo162/ain/pull/11"
+        "url": "https://github.com/sunwoo162/ain/pull/11",
+        "number": 11,
+        "status": "closed",
+        "commits_url": "https://github.com/sunwoo162/ain/pull/11/commits",
+        "events": [
+          "opened"
+        ]
       },
       {
         "kind": "pr",
+        "event": "merged",
         "date": "2026-10-14",
-        "time": "19:34",
+        "time": "19:36",
+        "at": "2026-10-14T19:36:55+09:00",
         "title": "fix: grow quick reply bubble with wrapped text",
         "repo": "sunwoo162/gleave",
-        "url": "https://github.com/sunwoo162/gleave/pull/48"
+        "url": "https://github.com/sunwoo162/gleave/pull/48",
+        "number": 48,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/48/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-14",
+        "time": "19:36",
+        "at": "2026-10-14T19:36:54+09:00",
+        "title": "fix: grow quick reply bubble with wrapped text (#48)",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/e541429dfd1084adfb72bb5a17807058451b7fd4",
+        "sha": "e541429dfd10",
+        "source": "commit-search"
       },
       {
         "kind": "pr",
+        "event": "opened",
         "date": "2026-10-14",
         "time": "18:07",
+        "at": "2026-10-14T18:07:43+09:00",
         "title": "feat: AI 스트리밍 실행 관측과 이벤트 타임라인 UI 구현",
         "repo": "sunwoo162/ain",
-        "url": "https://github.com/sunwoo162/ain/pull/10"
-      },
-      {
-        "kind": "commit",
-        "date": "2026-10-14",
-        "time": "18:02",
-        "title": "docs: explain tray, portable ZIP and opt-in Windows autostart",
-        "repo": "sunwoo162/RD",
-        "url": "https://github.com/sunwoo162/RD/commit/b67b2d1e14502e56868fb4eae86d97e469d0bd57"
-      },
-      {
-        "kind": "pr",
-        "date": "2026-10-14",
-        "time": "18:02",
-        "title": "feat: Windows 초경량 트레이와 포터블 자동 실행 기반 추가",
-        "repo": "sunwoo162/RD",
-        "url": "https://github.com/sunwoo162/RD/pull/2"
+        "url": "https://github.com/sunwoo162/ain/pull/10",
+        "number": 10,
+        "status": "closed",
+        "commits_url": "https://github.com/sunwoo162/ain/pull/10/commits",
+        "events": [
+          "opened"
+        ]
       },
       {
         "kind": "pr",
+        "event": "merged",
         "date": "2026-10-14",
-        "time": "18:02",
+        "time": "18:05",
+        "at": "2026-10-14T18:05:03+09:00",
         "title": "fix: make reply bubble reopen fresh input",
         "repo": "sunwoo162/gleave",
-        "url": "https://github.com/sunwoo162/gleave/pull/47"
+        "url": "https://github.com/sunwoo162/gleave/pull/47",
+        "number": 47,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/47/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
       },
       {
         "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-14",
+        "time": "18:05",
+        "at": "2026-10-14T18:05:02+09:00",
+        "title": "fix: make reply bubble reopen fresh input (#47)",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/d988713772909c7e7e72880be94f291ccce35256",
+        "sha": "d98871377290",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "opened",
+        "date": "2026-10-14",
+        "time": "18:02",
+        "at": "2026-10-14T18:02:50+09:00",
+        "title": "feat: Windows 초경량 트레이와 포터블 자동 실행 기반 추가",
+        "repo": "sunwoo162/RD",
+        "url": "https://github.com/sunwoo162/RD/pull/2",
+        "number": 2,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/RD/pull/2/commits",
+        "events": [
+          "opened"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-14",
+        "time": "18:02",
+        "at": "2026-10-14T18:02:31+09:00",
+        "title": "docs: explain tray, portable ZIP and opt-in Windows autostart",
+        "repo": "sunwoo162/RD",
+        "url": "https://github.com/sunwoo162/RD/commit/b67b2d1e14502e56868fb4eae86d97e469d0bd57",
+        "sha": "b67b2d1e1450",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
         "date": "2026-10-14",
         "time": "18:01",
+        "at": "2026-10-14T18:01:54+09:00",
         "title": "ci: package optimized Windows portable executables",
         "repo": "sunwoo162/RD",
-        "url": "https://github.com/sunwoo162/RD/commit/349a45e73eb77344f11a0be9bf98702b17619353"
+        "url": "https://github.com/sunwoo162/RD/commit/349a45e73eb77344f11a0be9bf98702b17619353",
+        "sha": "349a45e73eb7",
+        "source": "commit-search"
       },
       {
         "kind": "commit",
+        "event": "committed",
         "date": "2026-10-14",
         "time": "18:01",
+        "at": "2026-10-14T18:01:35+09:00",
         "title": "feat: add opt-in Windows login autostart controls",
         "repo": "sunwoo162/RD",
-        "url": "https://github.com/sunwoo162/RD/commit/d0fe9f604340698eb49767df46703d99bcecec10"
+        "url": "https://github.com/sunwoo162/RD/commit/d0fe9f604340698eb49767df46703d99bcecec10",
+        "sha": "d0fe9f604340",
+        "source": "commit-search"
       },
       {
         "kind": "commit",
+        "event": "committed",
         "date": "2026-10-14",
         "time": "18:01",
+        "at": "2026-10-14T18:01:09+09:00",
         "title": "build: include Windows native tray APIs without WebView",
         "repo": "sunwoo162/RD",
-        "url": "https://github.com/sunwoo162/RD/commit/0aa07817f1a1d5bebe8e30a038055de868c0a5e4"
+        "url": "https://github.com/sunwoo162/RD/commit/0aa07817f1a1d5bebe8e30a038055de868c0a5e4",
+        "sha": "0aa07817f1a1",
+        "source": "commit-search"
       },
       {
         "kind": "commit",
+        "event": "committed",
         "date": "2026-10-14",
         "time": "18:00",
+        "at": "2026-10-14T18:00:45+09:00",
         "title": "feat: add minimal native Windows system tray agent",
         "repo": "sunwoo162/RD",
-        "url": "https://github.com/sunwoo162/RD/commit/b6d83cd263e64606aa0b1827ed527430f2ed1ac2"
+        "url": "https://github.com/sunwoo162/RD/commit/b6d83cd263e64606aa0b1827ed527430f2ed1ac2",
+        "sha": "b6d83cd263e6",
+        "source": "commit-search"
       },
       {
         "kind": "pr",
+        "event": "opened",
         "date": "2026-10-14",
         "time": "16:11",
+        "at": "2026-10-14T16:11:49+09:00",
         "title": "feat: OpenAI·Claude·Ollama API 실행 관측 및 제공자별 그래프 탐색",
         "repo": "sunwoo162/ain",
-        "url": "https://github.com/sunwoo162/ain/pull/9"
+        "url": "https://github.com/sunwoo162/ain/pull/9",
+        "number": 9,
+        "status": "closed",
+        "commits_url": "https://github.com/sunwoo162/ain/pull/9/commits",
+        "events": [
+          "opened"
+        ]
       },
       {
         "kind": "commit",
+        "event": "committed",
         "date": "2026-10-14",
         "time": "16:04",
+        "at": "2026-10-14T16:04:21+09:00",
         "title": "fix: treat Windows lock contention as busy",
         "repo": "sunwoo162/RD",
-        "url": "https://github.com/sunwoo162/RD/commit/3ad0c924d8753432845f3f8c957683eea71bad66"
+        "url": "https://github.com/sunwoo162/RD/commit/3ad0c924d8753432845f3f8c957683eea71bad66",
+        "sha": "3ad0c924d875",
+        "source": "commit-search"
       },
       {
         "kind": "commit",
+        "event": "committed",
         "date": "2026-10-14",
         "time": "16:04",
+        "at": "2026-10-14T16:04:18+09:00",
         "title": "test: normalize Git checkout line endings on Windows",
         "repo": "sunwoo162/RD",
-        "url": "https://github.com/sunwoo162/RD/commit/d9101fa6e36acbdd7d00efc205b20130855f420b"
+        "url": "https://github.com/sunwoo162/RD/commit/d9101fa6e36acbdd7d00efc205b20130855f420b",
+        "sha": "d9101fa6e36a",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-14",
+        "time": "15:58",
+        "at": "2026-10-14T15:58:53+09:00",
+        "title": "fix(user): 히스토리 빈 상태 표시 보완",
+        "repo": "team-washer/Washer-Client-v2",
+        "url": "https://github.com/team-washer/Washer-Client-v2/commit/f6e0f2df1af178303f5d4086d513109fee2fbdbf",
+        "sha": "f6e0f2df1af1",
+        "source": "commit-search"
       },
       {
         "kind": "pr",
+        "event": "opened",
         "date": "2026-10-14",
         "time": "15:53",
+        "at": "2026-10-14T15:53:20+09:00",
         "title": "feat: 초경량 Git 동기화 엔진 및 로컬 코드 보호 기능 추가",
         "repo": "sunwoo162/RD",
-        "url": "https://github.com/sunwoo162/RD/pull/1"
+        "url": "https://github.com/sunwoo162/RD/pull/1",
+        "number": 1,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/RD/pull/1/commits",
+        "events": [
+          "opened"
+        ]
       },
       {
         "kind": "commit",
+        "event": "committed",
         "date": "2026-10-14",
         "time": "15:52",
+        "at": "2026-10-14T15:52:53+09:00",
         "title": "feat: add safe lightweight repository synchronization core",
         "repo": "sunwoo162/RD",
-        "url": "https://github.com/sunwoo162/RD/commit/1d3c261dcf63690a5edaff0c74ed2dca542f7b82"
-      },
-      {
-        "kind": "pr",
-        "date": "2026-10-14",
-        "time": "15:44",
-        "title": "feat: 기록된 연결 경로 추적과 대형 그래프 렌더링 개선",
-        "repo": "sunwoo162/ain",
-        "url": "https://github.com/sunwoo162/ain/pull/8"
-      },
-      {
-        "kind": "pr",
-        "date": "2026-10-14",
-        "time": "15:44",
-        "title": "fix: start local Ollama with desktop runtime",
-        "repo": "sunwoo162/gleave",
-        "url": "https://github.com/sunwoo162/gleave/pull/46"
+        "url": "https://github.com/sunwoo162/RD/commit/1d3c261dcf63690a5edaff0c74ed2dca542f7b82",
+        "sha": "1d3c261dcf63",
+        "source": "commit-search"
       },
       {
         "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-14",
+        "time": "15:46",
+        "at": "2026-10-14T15:46:47+09:00",
+        "title": "Merge pull request #46 from sunwoo162/codex/auto-start-local-ollama",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/9d254aab2399d0a463b4d2a90e464922d2a3f1f8",
+        "sha": "9d254aab2399",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-10-14",
+        "time": "15:46",
+        "at": "2026-10-14T15:46:47+09:00",
+        "title": "fix: start local Ollama with desktop runtime",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/pull/46",
+        "number": 46,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/46/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "pr",
+        "event": "opened",
+        "date": "2026-10-14",
+        "time": "15:44",
+        "at": "2026-10-14T15:44:47+09:00",
+        "title": "feat: 기록된 연결 경로 추적과 대형 그래프 렌더링 개선",
+        "repo": "sunwoo162/ain",
+        "url": "https://github.com/sunwoo162/ain/pull/8",
+        "number": 8,
+        "status": "closed",
+        "commits_url": "https://github.com/sunwoo162/ain/pull/8/commits",
+        "events": [
+          "opened"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-14",
+        "time": "15:43",
+        "at": "2026-10-14T15:43:37+09:00",
+        "title": "fix: start local ollama with desktop runtime",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/6838289c4cf2c6b3713fbd0c959dc47bbcc35c91",
+        "sha": "6838289c4cf2",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
         "date": "2026-10-14",
         "time": "15:41",
+        "at": "2026-10-14T15:41:59+09:00",
         "title": "docs: initialize RepoDock repository",
         "repo": "sunwoo162/RD",
-        "url": "https://github.com/sunwoo162/RD/commit/99aa64b3117d5e0e103022dc74daef7fac421b33"
+        "url": "https://github.com/sunwoo162/RD/commit/99aa64b3117d5e0e103022dc74daef7fac421b33",
+        "sha": "99aa64b3117d",
+        "source": "commit-search"
       },
       {
         "kind": "pr",
+        "event": "opened",
         "date": "2026-10-14",
         "time": "13:00",
+        "at": "2026-10-14T13:00:04+09:00",
         "title": "[machine] 사용자 기기 히스토리 모달 연결",
         "repo": "team-washer/Washer-Client-v2",
-        "url": "https://github.com/team-washer/Washer-Client-v2/pull/40"
+        "url": "https://github.com/team-washer/Washer-Client-v2/pull/40",
+        "number": 40,
+        "status": "merged",
+        "commits_url": "https://github.com/team-washer/Washer-Client-v2/pull/40/commits",
+        "events": [
+          "opened"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-14",
+        "time": "12:55",
+        "at": "2026-10-14T12:55:36+09:00",
+        "title": "fix(user): 히스토리 추가 조회 실패 시 기존 기록 유지",
+        "repo": "team-washer/Washer-Client-v2",
+        "url": "https://github.com/team-washer/Washer-Client-v2/commit/34d0926a272ea0b1e30450bed9df3203bb2fbbaa",
+        "sha": "34d0926a272e",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-14",
+        "time": "12:42",
+        "at": "2026-10-14T12:42:27+09:00",
+        "title": "feat(user): 기기 카드에 최근 2일 히스토리 모달 연결",
+        "repo": "team-washer/Washer-Client-v2",
+        "url": "https://github.com/team-washer/Washer-Client-v2/commit/bcc5edd6383f4588b48cb79bb07c4afeea3d6976",
+        "sha": "bcc5edd6383f",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-14",
+        "time": "12:36",
+        "at": "2026-10-14T12:36:04+09:00",
+        "title": "feat(machine): 사용자 기기 히스토리 최근 2일 조회 추가",
+        "repo": "team-washer/Washer-Client-v2",
+        "url": "https://github.com/team-washer/Washer-Client-v2/commit/cae7ceec3e986482280cff45576b2fd2580fc532",
+        "sha": "cae7ceec3e98",
+        "source": "commit-search"
       },
       {
         "kind": "pr",
+        "event": "opened",
         "date": "2026-10-14",
         "time": "12:29",
+        "at": "2026-10-14T12:29:18+09:00",
         "title": "feat: 의심암귀 브랜딩과 단계별 관계 탐색 기능 구현",
         "repo": "sunwoo162/ain",
-        "url": "https://github.com/sunwoo162/ain/pull/7"
+        "url": "https://github.com/sunwoo162/ain/pull/7",
+        "number": 7,
+        "status": "closed",
+        "commits_url": "https://github.com/sunwoo162/ain/pull/7/commits",
+        "events": [
+          "opened"
+        ]
       },
       {
         "kind": "pr",
+        "event": "opened",
         "date": "2026-10-14",
         "time": "12:14",
+        "at": "2026-10-14T12:14:31+09:00",
         "title": "feat: 몰입형 우주 그래프 UI와 관측소 테마 구현",
         "repo": "sunwoo162/ain",
-        "url": "https://github.com/sunwoo162/ain/pull/6"
+        "url": "https://github.com/sunwoo162/ain/pull/6",
+        "number": 6,
+        "status": "closed",
+        "commits_url": "https://github.com/sunwoo162/ain/pull/6/commits",
+        "events": [
+          "opened"
+        ]
       },
       {
         "kind": "pr",
+        "event": "opened",
         "date": "2026-10-14",
         "time": "12:06",
+        "at": "2026-10-14T12:06:39+09:00",
         "title": "feat: 로컬 AI 실행 이벤트 수집 및 그래프 자동 갱신 구현",
         "repo": "sunwoo162/ain",
-        "url": "https://github.com/sunwoo162/ain/pull/5"
+        "url": "https://github.com/sunwoo162/ain/pull/5",
+        "number": 5,
+        "status": "closed",
+        "commits_url": "https://github.com/sunwoo162/ain/pull/5/commits",
+        "events": [
+          "opened"
+        ]
       },
       {
         "kind": "issue",
+        "event": "opened",
         "date": "2026-10-14",
         "time": "11:17",
+        "at": "2026-10-14T11:17:37+09:00",
         "title": "feat: import user-exported ChatGPT and Claude conversations",
         "repo": "sunwoo162/ain",
         "url": "https://github.com/sunwoo162/ain/issues/4"
       },
       {
         "kind": "issue",
+        "event": "opened",
         "date": "2026-10-14",
         "time": "11:17",
+        "at": "2026-10-14T11:17:35+09:00",
         "title": "feat: add API adapters for OpenAI, Claude and Ollama",
         "repo": "sunwoo162/ain",
         "url": "https://github.com/sunwoo162/ain/issues/3"
       },
       {
         "kind": "issue",
+        "event": "opened",
         "date": "2026-10-14",
         "time": "11:17",
+        "at": "2026-10-14T11:17:33+09:00",
         "title": "feat: define versioned trace event collector and SDK",
         "repo": "sunwoo162/ain",
         "url": "https://github.com/sunwoo162/ain/issues/2"
       },
       {
         "kind": "pr",
+        "event": "opened",
         "date": "2026-10-14",
         "time": "11:14",
+        "at": "2026-10-14T11:14:20+09:00",
         "title": "feat: AI 실행 근거 그래프 작업 공간 구현",
         "repo": "sunwoo162/ain",
-        "url": "https://github.com/sunwoo162/ain/pull/1"
+        "url": "https://github.com/sunwoo162/ain/pull/1",
+        "number": 1,
+        "status": "closed",
+        "commits_url": "https://github.com/sunwoo162/ain/pull/1/commits",
+        "events": [
+          "opened"
+        ]
       },
       {
         "kind": "commit",
+        "event": "committed",
         "date": "2026-10-14",
-        "time": "11:04",
-        "title": "chore: initialize MindTrace repository",
-        "repo": "sunwoo162/ain",
-        "url": "https://github.com/sunwoo162/ain/commit/f9a50744c07d6b8788ec7a775afcecec54daf408"
+        "time": "11:06",
+        "at": "2026-10-14T11:06:31+09:00",
+        "title": "Merge pull request #45 from sunwoo162/codex/fix-bubble-text-clipping",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/e7eb43f7d99075a5b9ee00e6a5c7e776c80ee7c7",
+        "sha": "e7eb43f7d990",
+        "source": "commit-search"
       },
       {
         "kind": "pr",
+        "event": "merged",
         "date": "2026-10-14",
-        "time": "10:53",
+        "time": "11:06",
+        "at": "2026-10-14T11:06:31+09:00",
         "title": "fix: prevent Korean speech bubble text clipping",
         "repo": "sunwoo162/gleave",
-        "url": "https://github.com/sunwoo162/gleave/pull/45"
+        "url": "https://github.com/sunwoo162/gleave/pull/45",
+        "number": 45,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/45/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-14",
+        "time": "11:04",
+        "at": "2026-10-14T11:04:58+09:00",
+        "title": "chore: initialize MindTrace repository",
+        "repo": "sunwoo162/ain",
+        "url": "https://github.com/sunwoo162/ain/commit/f9a50744c07d6b8788ec7a775afcecec54daf408",
+        "sha": "f9a50744c07d",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-14",
+        "time": "11:03",
+        "at": "2026-10-14T11:03:24+09:00",
+        "title": "fix: size speech bubble from responsive text metrics",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/23fc22f01e2b23c38a77141e2e0fab16aa43528e",
+        "sha": "23fc22f01e2b",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-14",
+        "time": "10:52",
+        "at": "2026-10-14T10:52:54+09:00",
+        "title": "fix: prevent Korean speech bubble text clipping",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/276e96cf80b1bdfdb5c14d11adc1120ff76a6775",
+        "sha": "276e96cf80b1",
+        "source": "commit-search"
       },
       {
         "kind": "pr",
+        "event": "merged",
         "date": "2026-10-14",
-        "time": "10:18",
+        "time": "10:20",
+        "at": "2026-10-14T10:20:51+09:00",
         "title": "fix: keep basic conversations on local ai",
         "repo": "sunwoo162/gleave",
-        "url": "https://github.com/sunwoo162/gleave/pull/44"
+        "url": "https://github.com/sunwoo162/gleave/pull/44",
+        "number": 44,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/44/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-14",
+        "time": "10:20",
+        "at": "2026-10-14T10:20:50+09:00",
+        "title": "Merge pull request #44 from sunwoo162/codex/restore-local-default-routing",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/7936b9f4535449010a63793f687ab46a2af9360d",
+        "sha": "7936b9f45354",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-14",
+        "time": "10:17",
+        "at": "2026-10-14T10:17:41+09:00",
+        "title": "fix: keep basic conversations on local ai",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/347876cfebe25dbca68e05e55d5454dc8cb06291",
+        "sha": "347876cfebe2",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-14",
+        "time": "09:23",
+        "at": "2026-10-14T09:23:52+09:00",
+        "title": "Merge pull request #43 from sunwoo162/codex/fix-web-provider-fallback",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/9c9175981861bbd571253fe366ab0a85d33fda55",
+        "sha": "9c9175981861",
+        "source": "commit-search"
       },
       {
         "kind": "pr",
+        "event": "merged",
         "date": "2026-10-14",
-        "time": "09:21",
+        "time": "09:23",
+        "at": "2026-10-14T09:23:52+09:00",
         "title": "fix: restore ChatGPT Web connection fallback",
         "repo": "sunwoo162/gleave",
-        "url": "https://github.com/sunwoo162/gleave/pull/43"
+        "url": "https://github.com/sunwoo162/gleave/pull/43",
+        "number": 43,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/43/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-14",
+        "time": "09:20",
+        "at": "2026-10-14T09:20:15+09:00",
+        "title": "fix: detect stale ChatGPT browser sessions",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/3323975538d3acce4abf1232843ee3cd91687214",
+        "sha": "3323975538d3",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-14",
+        "time": "09:19",
+        "at": "2026-10-14T09:19:54+09:00",
+        "title": "fix: use connected web provider when local ai is unavailable",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/844aa7f5019a7c526df0b61006968980eade09c0",
+        "sha": "844aa7f5019a",
+        "source": "commit-search"
       },
       {
         "kind": "pr",
+        "event": "opened",
         "date": "2026-10-14",
         "time": "09:12",
+        "at": "2026-10-14T09:12:39+09:00",
         "title": "feat: 백엔드 인증 API 연동 기반 추가",
         "repo": "project-hyoit/hyoit-FE",
-        "url": "https://github.com/project-hyoit/hyoit-FE/pull/26"
+        "url": "https://github.com/project-hyoit/hyoit-FE/pull/26",
+        "number": 26,
+        "status": "merged",
+        "commits_url": "https://github.com/project-hyoit/hyoit-FE/pull/26/commits",
+        "events": [
+          "opened"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-14",
+        "time": "08:59",
+        "at": "2026-10-14T08:59:54+09:00",
+        "title": "feat: make bundled plugins installable (#42)",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/637d5ec4387d7ae5a996f47e06f73ce8f0ce362e",
+        "sha": "637d5ec4387d",
+        "source": "commit-search"
       },
       {
         "kind": "pr",
+        "event": "merged",
         "date": "2026-10-14",
         "time": "08:59",
+        "at": "2026-10-14T08:59:54+09:00",
         "title": "feat: make bundled plugins installable",
         "repo": "sunwoo162/gleave",
-        "url": "https://github.com/sunwoo162/gleave/pull/42"
+        "url": "https://github.com/sunwoo162/gleave/pull/42",
+        "number": 42,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/42/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-14",
+        "time": "08:58",
+        "at": "2026-10-14T08:58:31+09:00",
+        "title": "feat: make bundled plugins installable",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/8e8bf8be6075c98fa9126e06b2f967b432b2fb54",
+        "sha": "8e8bf8be6075",
+        "source": "commit-search"
       }
     ],
     "2026-10-13": [
