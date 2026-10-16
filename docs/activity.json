@@ -1,11 +1,11 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-10-16T00:23:25.663841+00:00",
+  "updated_at": "2026-10-16T00:24:51.479977+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
-      "checked_at": "2026-10-16T00:23:12.489442+00:00",
+      "checked_at": "2026-10-16T00:24:34.242122+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -16,7 +16,7 @@
     },
     "2026-10-15": {
       "state": "indexed",
-      "checked_at": "2026-10-16T00:22:56.194127+00:00",
+      "checked_at": "2026-10-16T00:24:18.608960+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -27,7 +27,7 @@
     },
     "2026-10-14": {
       "state": "indexed",
-      "checked_at": "2026-10-16T00:22:40.677817+00:00",
+      "checked_at": "2026-10-16T00:24:02.164655+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -189,6 +189,18 @@
   },
   "days": {
     "2026-10-16": [
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-16",
+        "time": "09:23",
+        "at": "2026-10-16T09:23:35+09:00",
+        "title": "fix: PR 기록에 현재 상태 대신 선택 날짜의 실제 이벤트 표시",
+        "repo": "sunwoo162/sunwoo162",
+        "url": "https://github.com/sunwoo162/sunwoo162/commit/aece76ac800c3d54369b68bd75652ea6570d1b55",
+        "sha": "aece76ac800c",
+        "source": "commit-search"
+      },
       {
         "kind": "commit",
         "event": "committed",
