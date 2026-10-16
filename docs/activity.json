@@ -6,6 +6,14 @@
       {
         "kind": "commit",
         "date": "2026-10-16",
+        "time": "09:03",
+        "title": "chore: remove grass visualization from generated profile README",
+        "repo": "sunwoo162/sunwoo162",
+        "url": "https://github.com/sunwoo162/sunwoo162/commit/48cbc5b607aceb41af9f4cd7f0edfdc47b385f48"
+      },
+      {
+        "kind": "commit",
+        "date": "2026-10-16",
         "time": "08:43",
         "title": "feat: render 7-row GitHub-style interactive contribution heatmap",
         "repo": "sunwoo162/sunwoo162",
@@ -15824,14 +15832,6 @@
         "title": "feat: serialize friend request mutations",
         "repo": "sunwoo162/iseol-bot",
         "url": "https://github.com/sunwoo162/iseol-bot/commit/7b3e8b6cfeded81aadff94b1379a458c60e56291"
-      },
-      {
-        "kind": "commit",
-        "date": "2026-09-28",
-        "time": "14:48",
-        "title": "docs: record social profile lock boundary",
-        "repo": "sunwoo162/iseol-bot",
-        "url": "https://github.com/sunwoo162/iseol-bot/commit/7d5c94dcdc0a2449d14f4e93afa7a4441211b808"
       },
       {
         "kind": "pr",
