@@ -1,37 +1,40 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-10-16T00:34:14.600846+00:00",
+  "updated_at": "2026-10-16T05:52:03.772717+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
-      "checked_at": "2026-10-16T00:34:14.600762+00:00",
+      "checked_at": "2026-10-16T05:51:46.067977+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
       "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
+      "branch_scan": "public owned repositories, max 20 branches each"
     },
     "2026-10-15": {
       "state": "indexed",
-      "checked_at": "2026-10-16T00:33:59.429478+00:00",
+      "checked_at": "2026-10-16T05:51:30.159791+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
       "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
+      "branch_scan": "public owned repositories, max 20 branches each"
     },
     "2026-10-14": {
       "state": "indexed",
-      "checked_at": "2026-10-16T00:33:43.166021+00:00",
+      "checked_at": "2026-10-16T05:51:13.965730+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
       "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
+      "branch_scan": "public owned repositories, max 20 branches each"
     },
     "2026-10-13": {
       "state": "indexed",
@@ -576,6 +579,42 @@
         "source": "commit-search"
       },
       {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-15",
+        "time": "20:27",
+        "at": "2026-10-15T20:27:43+09:00",
+        "title": "fix: do not adopt unborn repositories without a HEAD commit",
+        "repo": "sunwoo162/RD",
+        "url": "https://github.com/sunwoo162/RD/commit/a51fe402285b81095becd04a77a87f4735c83695",
+        "sha": "a51fe402285b",
+        "source": "branch-scan"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-15",
+        "time": "20:26",
+        "at": "2026-10-15T20:26:24+09:00",
+        "title": "fix: show safe ambiguity and invalid-local-folder errors in Manager",
+        "repo": "sunwoo162/RD",
+        "url": "https://github.com/sunwoo162/RD/commit/9453c5a18d279b26cc350f1cd501af9d952d4361",
+        "sha": "9453c5a18d27",
+        "source": "branch-scan"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-15",
+        "time": "20:25",
+        "at": "2026-10-15T20:25:54+09:00",
+        "title": "fix: fail closed for matching-origin repositories with invalid Git state",
+        "repo": "sunwoo162/RD",
+        "url": "https://github.com/sunwoo162/RD/commit/332d786ce548eb7bf4d07a6ec3ef6eeed4ac7fa0",
+        "sha": "332d786ce548",
+        "source": "branch-scan"
+      },
+      {
         "kind": "pr",
         "event": "opened",
         "date": "2026-10-15",
@@ -592,6 +631,222 @@
         ]
       },
       {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-15",
+        "time": "20:23",
+        "at": "2026-10-15T20:23:57+09:00",
+        "title": "docs: explain v1.2 non-destructive repository reuse and external linking",
+        "repo": "sunwoo162/RD",
+        "url": "https://github.com/sunwoo162/RD/commit/0a09af453923309728d25e27415a0259f43149de",
+        "sha": "0a09af453923",
+        "source": "branch-scan"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-15",
+        "time": "20:23",
+        "at": "2026-10-15T20:23:22+09:00",
+        "title": "test: compare normalized Windows worktree paths",
+        "repo": "sunwoo162/RD",
+        "url": "https://github.com/sunwoo162/RD/commit/d7bcfbef5592c069ca6a67c5ccceb955a3e6f9f5",
+        "sha": "d7bcfbef5592",
+        "source": "branch-scan"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-15",
+        "time": "20:22",
+        "at": "2026-10-15T20:22:56+09:00",
+        "title": "test: prove local-only discovery, duplicates, ambiguity, and preservation",
+        "repo": "sunwoo162/RD",
+        "url": "https://github.com/sunwoo162/RD/commit/6c5ae665c99ddba204ca6ba5741aa44fb311f42e",
+        "sha": "6c5ae665c99d",
+        "source": "branch-scan"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-15",
+        "time": "20:21",
+        "at": "2026-10-15T20:21:59+09:00",
+        "title": "chore: prepare v1.2.0-beta.1 preview version",
+        "repo": "sunwoo162/RD",
+        "url": "https://github.com/sunwoo162/RD/commit/56e46225461a4aa31e0a4e8dddc64770ac03c961",
+        "sha": "56e46225461a",
+        "source": "branch-scan"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-15",
+        "time": "20:21",
+        "at": "2026-10-15T20:21:54+09:00",
+        "title": "chore: prepare v1.2.0-beta.1 preview version",
+        "repo": "sunwoo162/RD",
+        "url": "https://github.com/sunwoo162/RD/commit/9ffe4db8b7555e41f6aa5163fbd8ee9cfa8a2d03",
+        "sha": "9ffe4db8b755",
+        "source": "branch-scan"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-15",
+        "time": "20:21",
+        "at": "2026-10-15T20:21:47+09:00",
+        "title": "chore: prepare v1.2.0-beta.1 preview version",
+        "repo": "sunwoo162/RD",
+        "url": "https://github.com/sunwoo162/RD/commit/8ec333beadb2057aeb8a1131a48522dffec2d186",
+        "sha": "8ec333beadb2",
+        "source": "branch-scan"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-15",
+        "time": "20:21",
+        "at": "2026-10-15T20:21:42+09:00",
+        "title": "chore: prepare v1.2.0-beta.1 preview version",
+        "repo": "sunwoo162/RD",
+        "url": "https://github.com/sunwoo162/RD/commit/adc31fb483b8105f6b8afb2f6155784207750568",
+        "sha": "adc31fb483b8",
+        "source": "branch-scan"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-15",
+        "time": "20:21",
+        "at": "2026-10-15T20:21:36+09:00",
+        "title": "chore: prepare v1.2.0-beta.1 preview version",
+        "repo": "sunwoo162/RD",
+        "url": "https://github.com/sunwoo162/RD/commit/52b6f2755d6b30f2f14a479a973690ab8fe8084d",
+        "sha": "52b6f2755d6b",
+        "source": "branch-scan"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-15",
+        "time": "20:21",
+        "at": "2026-10-15T20:21:31+09:00",
+        "title": "chore: prepare v1.2.0-beta.1 preview version",
+        "repo": "sunwoo162/RD",
+        "url": "https://github.com/sunwoo162/RD/commit/32c164a0a2fb4a29f241ea1d27c3db19a27bb514",
+        "sha": "32c164a0a2fb",
+        "source": "branch-scan"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-15",
+        "time": "20:21",
+        "at": "2026-10-15T20:21:26+09:00",
+        "title": "chore: prepare v1.2.0-beta.1 preview version",
+        "repo": "sunwoo162/RD",
+        "url": "https://github.com/sunwoo162/RD/commit/73f631eca49546ab0527a35439445385a564a35e",
+        "sha": "73f631eca495",
+        "source": "branch-scan"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-15",
+        "time": "20:21",
+        "at": "2026-10-15T20:21:20+09:00",
+        "title": "chore: prepare v1.2.0-beta.1 preview version",
+        "repo": "sunwoo162/RD",
+        "url": "https://github.com/sunwoo162/RD/commit/6d77af516e0e0feeccf287812612d7faf826d8e7",
+        "sha": "6d77af516e0e",
+        "source": "branch-scan"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-15",
+        "time": "20:20",
+        "at": "2026-10-15T20:20:37+09:00",
+        "title": "test: cover local linking, discovery, and idempotent registration in Manager",
+        "repo": "sunwoo162/RD",
+        "url": "https://github.com/sunwoo162/RD/commit/f414c303445da51830362840d1b1f03bcd565bb8",
+        "sha": "f414c303445d",
+        "source": "branch-scan"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-15",
+        "time": "20:19",
+        "at": "2026-10-15T20:19:49+09:00",
+        "title": "feat: offer automatic existing-repository detection and manual folder linking",
+        "repo": "sunwoo162/RD",
+        "url": "https://github.com/sunwoo162/RD/commit/99276d1c0cfdfe2aa3bd3a0a07ffb3b2244b9da4",
+        "sha": "99276d1c0cfd",
+        "source": "branch-scan"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-15",
+        "time": "20:19",
+        "at": "2026-10-15T20:19:24+09:00",
+        "title": "feat: expose safe existing-folder registration to Tauri UI",
+        "repo": "sunwoo162/RD",
+        "url": "https://github.com/sunwoo162/RD/commit/18d81b2cfdc028b49f21b549e47f64112db1124e",
+        "sha": "18d81b2cfdc0",
+        "source": "branch-scan"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-15",
+        "time": "20:18",
+        "at": "2026-10-15T20:18:56+09:00",
+        "title": "feat: attach existing GitHub worktrees without copying or pulling",
+        "repo": "sunwoo162/RD",
+        "url": "https://github.com/sunwoo162/RD/commit/3ce7baa9395b2f5a28e8a0f60ad0e399561cc914",
+        "sha": "3ce7baa9395b",
+        "source": "branch-scan"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-15",
+        "time": "20:18",
+        "at": "2026-10-15T20:18:51+09:00",
+        "title": "feat: attach existing GitHub worktrees without copying or pulling",
+        "repo": "sunwoo162/RD",
+        "url": "https://github.com/sunwoo162/RD/commit/e8b0824c62cb722603a7fd231d1202d73809ff86",
+        "sha": "e8b0824c62cb",
+        "source": "branch-scan"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-15",
+        "time": "20:18",
+        "at": "2026-10-15T20:18:00+09:00",
+        "title": "feat: safely detect existing repositories in configured workspace",
+        "repo": "sunwoo162/RD",
+        "url": "https://github.com/sunwoo162/RD/commit/b1269924faf41908585e44ca10d6cecfe440d08d",
+        "sha": "b1269924faf4",
+        "source": "branch-scan"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-15",
+        "time": "20:07",
+        "at": "2026-10-15T20:07:50+09:00",
+        "title": "test: Chrome 확장에서 로컬 수집기까지 실제 브라우저 경로 검증",
+        "repo": "sunwoo162/ain",
+        "url": "https://github.com/sunwoo162/ain/commit/e5599e4faa995bbbcb495b4bfd85777e8b644cbf",
+        "sha": "e5599e4faa99",
+        "source": "branch-scan"
+      },
+      {
         "kind": "pr",
         "event": "opened",
         "date": "2026-10-15",
@@ -606,6 +861,18 @@
         "events": [
           "opened"
         ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-15",
+        "time": "20:03",
+        "at": "2026-10-15T20:03:23+09:00",
+        "title": "feat: ChatGPT 웹 근거 관측 확장과 EEEE 조회 어댑터 추가",
+        "repo": "sunwoo162/ain",
+        "url": "https://github.com/sunwoo162/ain/commit/a7f91f14d6fd63cb04ac580137a57fcfa3456cd5",
+        "sha": "a7f91f14d6fd",
+        "source": "branch-scan"
       },
       {
         "kind": "pr",
@@ -935,6 +1202,42 @@
         ]
       },
       {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-15",
+        "time": "08:15",
+        "at": "2026-10-15T08:15:50+09:00",
+        "title": "docs: 통합 PR 상태와 실제 Ollama 출시 검증 절차 정리",
+        "repo": "sunwoo162/ain",
+        "url": "https://github.com/sunwoo162/ain/commit/14871f4cfbdea7f6bf7ba608a84ff6f373e3cd39",
+        "sha": "14871f4cfbde",
+        "source": "branch-scan"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-15",
+        "time": "08:13",
+        "at": "2026-10-15T08:13:43+09:00",
+        "title": "ci: 의존성 잠금 파일 회수용 빌드 아티팩트 추가",
+        "repo": "sunwoo162/ain",
+        "url": "https://github.com/sunwoo162/ain/commit/da2b1a4dcd52af8e66b7e41d5efe26aa59d836e5",
+        "sha": "da2b1a4dcd52",
+        "source": "branch-scan"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-15",
+        "time": "08:09",
+        "at": "2026-10-15T08:09:02+09:00",
+        "title": "docs: RC1 출시용 README 정리 및 첫 실행·보안 기준 통합",
+        "repo": "sunwoo162/ain",
+        "url": "https://github.com/sunwoo162/ain/commit/b14f30740aa1d27eef9fcde7a04ed2aa47d89a61",
+        "sha": "b14f30740aa1",
+        "source": "branch-scan"
+      },
+      {
         "kind": "pr",
         "event": "merged",
         "date": "2026-10-15",
@@ -963,6 +1266,18 @@
         "source": "commit-search"
       },
       {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-15",
+        "time": "01:42",
+        "at": "2026-10-15T01:42:43+09:00",
+        "title": "fix: 최초 수집기 동기화 시 데모 수동 노트 혼입 방지",
+        "repo": "sunwoo162/ain",
+        "url": "https://github.com/sunwoo162/ain/commit/245904c56172eb7fdf423ff9757fae8723d9239e",
+        "sha": "245904c56172",
+        "source": "branch-scan"
+      },
+      {
         "kind": "pr",
         "event": "opened",
         "date": "2026-10-15",
@@ -977,6 +1292,18 @@
         "events": [
           "opened"
         ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-15",
+        "time": "01:39",
+        "at": "2026-10-15T01:39:45+09:00",
+        "title": "feat: 의심암귀 V1.0 RC1 첫 실행 안내와 통합 검증 체계 추가",
+        "repo": "sunwoo162/ain",
+        "url": "https://github.com/sunwoo162/ain/commit/f227f32881d2a18ac21806cd4fa1f1c597f995ae",
+        "sha": "f227f32881d2",
+        "source": "branch-scan"
       },
       {
         "kind": "pr",
@@ -995,6 +1322,30 @@
         ]
       },
       {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-15",
+        "time": "00:42",
+        "at": "2026-10-15T00:42:18+09:00",
+        "title": "fix: V0.8 기존 그래프 모듈 복원 및 V0.9 변경 파일 병합",
+        "repo": "sunwoo162/ain",
+        "url": "https://github.com/sunwoo162/ain/commit/36f3873bdf5e2fa355b723d022d80fa3d3b43e86",
+        "sha": "36f3873bdf5e",
+        "source": "branch-scan"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-15",
+        "time": "00:40",
+        "at": "2026-10-15T00:40:36+09:00",
+        "title": "fix: 검색 도움말과 그래프 조건 렌더링 JSX 구문 수정",
+        "repo": "sunwoo162/ain",
+        "url": "https://github.com/sunwoo162/ain/commit/287e0d92b2eb046744471b1689c998d1e97e84fe",
+        "sha": "287e0d92b2eb",
+        "source": "branch-scan"
+      },
+      {
         "kind": "pr",
         "event": "opened",
         "date": "2026-10-15",
@@ -1009,6 +1360,18 @@
         "events": [
           "opened"
         ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-15",
+        "time": "00:38",
+        "at": "2026-10-15T00:38:59+09:00",
+        "title": "feat: 인덱스 검색·실행별 관측 분석과 1만 노드 벤치마크 추가",
+        "repo": "sunwoo162/ain",
+        "url": "https://github.com/sunwoo162/ain/commit/6fe924c477b49393a8c8773e7494bf4478e53364",
+        "sha": "6fe924c477b4",
+        "source": "branch-scan"
       }
     ],
     "2026-10-14": [
@@ -1095,6 +1458,42 @@
         "source": "commit-search"
       },
       {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-14",
+        "time": "20:27",
+        "at": "2026-10-14T20:27:38+09:00",
+        "title": "fix: 미니맵 수정 후 시점 비교 날짜 타입 수정 유지",
+        "repo": "sunwoo162/ain",
+        "url": "https://github.com/sunwoo162/ain/commit/603758d32f3767207537b634f6722bc8bcdcca43",
+        "sha": "603758d32f37",
+        "source": "branch-scan"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-14",
+        "time": "20:26",
+        "at": "2026-10-14T20:26:15+09:00",
+        "title": "fix: 미니맵 그래프 엔진 준비 이벤트 연결 및 실제 캔버스 검증",
+        "repo": "sunwoo162/ain",
+        "url": "https://github.com/sunwoo162/ain/commit/b970b3c4919d7308a40f273816198462a74275c1",
+        "sha": "b970b3c4919d",
+        "source": "branch-scan"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-14",
+        "time": "20:22",
+        "at": "2026-10-14T20:22:09+09:00",
+        "title": "fix: 시점 비교 날짜 표시의 선택 값 타입 처리",
+        "repo": "sunwoo162/ain",
+        "url": "https://github.com/sunwoo162/ain/commit/0d62fc9ccff974370e183164af4a156a7335789d",
+        "sha": "0d62fc9ccff9",
+        "source": "branch-scan"
+      },
+      {
         "kind": "pr",
         "event": "opened",
         "date": "2026-10-14",
@@ -1109,6 +1508,18 @@
         "events": [
           "opened"
         ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-14",
+        "time": "20:20",
+        "at": "2026-10-14T20:20:55+09:00",
+        "title": "feat: 실행 ID 그룹화·그래프 미니맵·두 시점 비교 구현",
+        "repo": "sunwoo162/ain",
+        "url": "https://github.com/sunwoo162/ain/commit/9059623ff6853c2e7e86e626fdb46b31433ceace",
+        "sha": "9059623ff685",
+        "source": "branch-scan"
       },
       {
         "kind": "commit",
@@ -1155,6 +1566,18 @@
         "kind": "commit",
         "event": "committed",
         "date": "2026-10-14",
+        "time": "19:54",
+        "at": "2026-10-14T19:54:34+09:00",
+        "title": "fix: 은하 조망에서도 선택된 근거 경로 강조 유지",
+        "repo": "sunwoo162/ain",
+        "url": "https://github.com/sunwoo162/ain/commit/7c5c3e8c20259283aeea7edc2d9b466f2ca4bebd",
+        "sha": "7c5c3e8c2025",
+        "source": "branch-scan"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-14",
         "time": "19:53",
         "at": "2026-10-14T19:53:43+09:00",
         "title": "fix: default to repository HEAD when no branch is selected",
@@ -1174,6 +1597,18 @@
         "url": "https://github.com/sunwoo162/RD/commit/37ff30ceaee20468bbd82b31477d1c2f34e3ee41",
         "sha": "37ff30ceaee2",
         "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-14",
+        "time": "19:51",
+        "at": "2026-10-14T19:51:58+09:00",
+        "title": "fix: 세부 그래프 확대 한계 및 몰입 모드 정보 표시 보정",
+        "repo": "sunwoo162/ain",
+        "url": "https://github.com/sunwoo162/ain/commit/72435e64f18a4437ac2eff747c67a91846363294",
+        "sha": "72435e64f18a",
+        "source": "branch-scan"
       },
       {
         "kind": "commit",
@@ -1285,6 +1720,18 @@
         ]
       },
       {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-14",
+        "time": "19:46",
+        "at": "2026-10-14T19:46:37+09:00",
+        "title": "feat: 실제 연결 묶음 탐색과 시맨틱 줌 기반 우주 그래프 구현",
+        "repo": "sunwoo162/ain",
+        "url": "https://github.com/sunwoo162/ain/commit/7e8bd2312eed41375b0cb039db91ce934154accd",
+        "sha": "7e8bd2312eed",
+        "source": "branch-scan"
+      },
+      {
         "kind": "pr",
         "event": "merged",
         "date": "2026-10-14",
@@ -1314,6 +1761,54 @@
         "source": "commit-search"
       },
       {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-14",
+        "time": "18:22",
+        "at": "2026-10-14T18:22:57+09:00",
+        "title": "fix: 소규모 관계 렌즈의 자동 확대 제한과 카메라 중앙 정렬",
+        "repo": "sunwoo162/ain",
+        "url": "https://github.com/sunwoo162/ain/commit/b90e4706593f9a88a43d60cd936e4e0b40141c2a",
+        "sha": "b90e4706593f",
+        "source": "branch-scan"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-14",
+        "time": "18:20",
+        "at": "2026-10-14T18:20:12+09:00",
+        "title": "fix: 몰입 보기와 관계 렌즈 전환 시 그래프 카메라 재정렬",
+        "repo": "sunwoo162/ain",
+        "url": "https://github.com/sunwoo162/ain/commit/e07ea1111e6a72c84821613368b5a941dd5f5d17",
+        "sha": "e07ea1111e6a",
+        "source": "branch-scan"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-14",
+        "time": "18:16",
+        "at": "2026-10-14T18:16:55+09:00",
+        "title": "fix: 모바일 단일 열 레이아웃과 탐색 메뉴 겹침 수정",
+        "repo": "sunwoo162/ain",
+        "url": "https://github.com/sunwoo162/ain/commit/6f8698c5b4e43edb1ea3376989b5e6ec18dcac99",
+        "sha": "6f8698c5b4e4",
+        "source": "branch-scan"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-14",
+        "time": "18:10",
+        "at": "2026-10-14T18:10:18+09:00",
+        "title": "test: Playwright 브라우저 검증과 모바일 탐색 메뉴 개선",
+        "repo": "sunwoo162/ain",
+        "url": "https://github.com/sunwoo162/ain/commit/c9020836ab450d73b2cda1fa6c3d003da3acde73",
+        "sha": "c9020836ab45",
+        "source": "branch-scan"
+      },
+      {
         "kind": "pr",
         "event": "opened",
         "date": "2026-10-14",
@@ -1328,6 +1823,18 @@
         "events": [
           "opened"
         ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-14",
+        "time": "18:07",
+        "at": "2026-10-14T18:07:13+09:00",
+        "title": "feat: AI 스트리밍 실행 기록과 시네마틱 이벤트 타임라인 추가",
+        "repo": "sunwoo162/ain",
+        "url": "https://github.com/sunwoo162/ain/commit/505daa8d39c3f33e3a4f063f84399d92386224a2",
+        "sha": "505daa8d39c3",
+        "source": "branch-scan"
       },
       {
         "kind": "pr",
@@ -1454,6 +1961,18 @@
         "kind": "commit",
         "event": "committed",
         "date": "2026-10-14",
+        "time": "16:11",
+        "at": "2026-10-14T16:11:16+09:00",
+        "title": "feat: OpenAI·Claude·Ollama 실제 API 실행 관측 연동",
+        "repo": "sunwoo162/ain",
+        "url": "https://github.com/sunwoo162/ain/commit/3566f5c82f987a277a12d85d306dd832644cb3c5",
+        "sha": "3566f5c82f98",
+        "source": "branch-scan"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-14",
         "time": "16:04",
         "at": "2026-10-14T16:04:21+09:00",
         "title": "fix: treat Windows lock contention as busy",
@@ -1544,6 +2063,30 @@
         ]
       },
       {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-14",
+        "time": "15:46",
+        "at": "2026-10-14T15:46:39+09:00",
+        "title": "fix: 경로 알고리즘의 불필요한 타입 가져오기 제거",
+        "repo": "sunwoo162/ain",
+        "url": "https://github.com/sunwoo162/ain/commit/3bc458624cb2cc6cffc6393aa88bd83823928c0c",
+        "sha": "3bc458624cb2",
+        "source": "branch-scan"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-14",
+        "time": "15:45",
+        "at": "2026-10-14T15:45:47+09:00",
+        "title": "fix: 그래프 엔진 스타일 설정 구문 오류 수정",
+        "repo": "sunwoo162/ain",
+        "url": "https://github.com/sunwoo162/ain/commit/b1dafe1694901223608e16e260ca6acf818e8826",
+        "sha": "b1dafe169490",
+        "source": "branch-scan"
+      },
+      {
         "kind": "pr",
         "event": "opened",
         "date": "2026-10-14",
@@ -1558,6 +2101,18 @@
         "events": [
           "opened"
         ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-14",
+        "time": "15:44",
+        "at": "2026-10-14T15:44:17+09:00",
+        "title": "feat: 실제 연결 경로 추적과 대형 그래프 증분 렌더링 구현",
+        "repo": "sunwoo162/ain",
+        "url": "https://github.com/sunwoo162/ain/commit/614cc572bca14e6e6040668661a006ca5027b3e0",
+        "sha": "614cc572bca1",
+        "source": "branch-scan"
       },
       {
         "kind": "commit",
@@ -1636,6 +2191,30 @@
         "source": "commit-search"
       },
       {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-14",
+        "time": "12:31",
+        "at": "2026-10-14T12:31:57+09:00",
+        "title": "test: 확장된 데모의 유형 필터 검증 기준 수정",
+        "repo": "sunwoo162/ain",
+        "url": "https://github.com/sunwoo162/ain/commit/e37d3cce5afebc29d1dadb9aa5c2efa35939e3bd",
+        "sha": "e37d3cce5afe",
+        "source": "branch-scan"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-14",
+        "time": "12:30",
+        "at": "2026-10-14T12:30:57+09:00",
+        "title": "fix: 기존 프로젝트 파일 보존 및 Git 트리 복원",
+        "repo": "sunwoo162/ain",
+        "url": "https://github.com/sunwoo162/ain/commit/021e2ce22f1e592b5874d73bb2d507b7c978a7e1",
+        "sha": "021e2ce22f1e",
+        "source": "branch-scan"
+      },
+      {
         "kind": "pr",
         "event": "opened",
         "date": "2026-10-14",
@@ -1650,6 +2229,30 @@
         "events": [
           "opened"
         ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-14",
+        "time": "12:28",
+        "at": "2026-10-14T12:28:53+09:00",
+        "title": "feat: 의심암귀 브랜딩과 단계별 관계 탐색 기능 추가",
+        "repo": "sunwoo162/ain",
+        "url": "https://github.com/sunwoo162/ain/commit/0f6638ad656cd16b786e56fac79419e5217d5ea8",
+        "sha": "0f6638ad656c",
+        "source": "branch-scan"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-14",
+        "time": "12:15",
+        "at": "2026-10-14T12:15:36+09:00",
+        "title": "fix: 그래프 노드 스타일 타입 오류 수정",
+        "repo": "sunwoo162/ain",
+        "url": "https://github.com/sunwoo162/ain/commit/0de85d614981b4c10558a3eae431bc411d57be36",
+        "sha": "0de85d614981",
+        "source": "branch-scan"
       },
       {
         "kind": "pr",
@@ -1668,6 +2271,30 @@
         ]
       },
       {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-14",
+        "time": "12:14",
+        "at": "2026-10-14T12:14:09+09:00",
+        "title": "feat: 몰입형 우주 그래프 UI와 관측소 테마 구현",
+        "repo": "sunwoo162/ain",
+        "url": "https://github.com/sunwoo162/ain/commit/5fe682a6ef38dccecbef551d2474fb975d3e6147",
+        "sha": "5fe682a6ef38",
+        "source": "branch-scan"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-14",
+        "time": "12:07",
+        "at": "2026-10-14T12:07:58+09:00",
+        "title": "perf: 수집 데이터 변경 시에만 그래프 다시 그리기",
+        "repo": "sunwoo162/ain",
+        "url": "https://github.com/sunwoo162/ain/commit/adae81f6efa073142ae06aa2288d0bcf19d807e5",
+        "sha": "adae81f6efa0",
+        "source": "branch-scan"
+      },
+      {
         "kind": "pr",
         "event": "opened",
         "date": "2026-10-14",
@@ -1682,6 +2309,30 @@
         "events": [
           "opened"
         ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-14",
+        "time": "12:06",
+        "at": "2026-10-14T12:06:15+09:00",
+        "title": "feat: 로컬 AI 이벤트 수집기와 실시간 그래프 연결 구현",
+        "repo": "sunwoo162/ain",
+        "url": "https://github.com/sunwoo162/ain/commit/0bebf2ccfc8bbc701b0b1d42e92384f0a0b22d22",
+        "sha": "0bebf2ccfc8b",
+        "source": "branch-scan"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-14",
+        "time": "11:55",
+        "at": "2026-10-14T11:55:07+09:00",
+        "title": "docs: PR 템플릿과 작성 규칙 한국어로 변경",
+        "repo": "sunwoo162/ain",
+        "url": "https://github.com/sunwoo162/ain/commit/664075da0a77bb47cf227d114e34b01f2526a9fb",
+        "sha": "664075da0a77",
+        "source": "branch-scan"
       },
       {
         "kind": "issue",
@@ -1714,6 +2365,30 @@
         "url": "https://github.com/sunwoo162/ain/issues/2"
       },
       {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-14",
+        "time": "11:16",
+        "at": "2026-10-14T11:16:01+09:00",
+        "title": "fix: narrow timeline frame index for strict TypeScript",
+        "repo": "sunwoo162/ain",
+        "url": "https://github.com/sunwoo162/ain/commit/cb7d5dab6486e8be84af31a57b5aa2112c8e0ee1",
+        "sha": "cb7d5dab6486",
+        "source": "branch-scan"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-14",
+        "time": "11:14",
+        "at": "2026-10-14T11:14:54+09:00",
+        "title": "fix: run CI without a dependency lockfile cache",
+        "repo": "sunwoo162/ain",
+        "url": "https://github.com/sunwoo162/ain/commit/99648472c80fec1e0e806407c2fe242ee63c22c6",
+        "sha": "99648472c80f",
+        "source": "branch-scan"
+      },
+      {
         "kind": "pr",
         "event": "opened",
         "date": "2026-10-14",
@@ -1728,6 +2403,18 @@
         "events": [
           "opened"
         ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-14",
+        "time": "11:13",
+        "at": "2026-10-14T11:13:58+09:00",
+        "title": "feat: implement interactive evidence graph workspace",
+        "repo": "sunwoo162/ain",
+        "url": "https://github.com/sunwoo162/ain/commit/a90b2ac99686a67d9d0738e535df9e9fbd10c4e2",
+        "sha": "a90b2ac99686",
+        "source": "branch-scan"
       },
       {
         "kind": "commit",
