@@ -1,33 +1,31 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-10-17T21:28:06.885844+00:00",
+  "updated_at": "2026-10-17T21:51:35.580054+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
-      "checked_at": "2026-10-17T21:27:39.920148+00:00",
+      "checked_at": "2026-10-17T21:51:11.927893+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
       "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
-      "branch_scan": "public owned repositories, max 20 branches each"
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
     },
     "2026-10-15": {
       "state": "indexed",
-      "checked_at": "2026-10-17T11:36:39.335145+00:00",
+      "checked_at": "2026-10-17T21:50:58.091946+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
       "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
-      "branch_scan": "public owned repositories, max 20 branches each"
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
     },
     "2026-10-14": {
       "state": "indexed",
-      "checked_at": "2026-10-16T22:19:41.579839+00:00",
+      "checked_at": "2026-10-17T21:50:43.366943+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -37,7 +35,7 @@
     },
     "2026-10-13": {
       "state": "indexed",
-      "checked_at": "2026-10-16T22:19:25.243237+00:00",
+      "checked_at": "2026-10-17T21:50:28.435605+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -47,7 +45,7 @@
     },
     "2026-10-12": {
       "state": "indexed",
-      "checked_at": "2026-10-16T22:19:10.702266+00:00",
+      "checked_at": "2026-10-17T21:50:14.796550+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -57,7 +55,7 @@
     },
     "2026-10-11": {
       "state": "indexed",
-      "checked_at": "2026-10-16T22:18:56.652502+00:00",
+      "checked_at": "2026-10-17T21:50:01.689274+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -67,7 +65,7 @@
     },
     "2026-10-09": {
       "state": "indexed",
-      "checked_at": "2026-10-16T22:18:30.750233+00:00",
+      "checked_at": "2026-10-17T21:49:36.926976+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -77,7 +75,7 @@
     },
     "2026-10-08": {
       "state": "indexed",
-      "checked_at": "2026-10-16T22:18:16.632007+00:00",
+      "checked_at": "2026-10-17T21:49:24.043364+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -87,7 +85,7 @@
     },
     "2026-10-07": {
       "state": "indexed",
-      "checked_at": "2026-10-16T22:17:58.099564+00:00",
+      "checked_at": "2026-10-17T21:49:07.070773+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -97,7 +95,7 @@
     },
     "2026-10-06": {
       "state": "indexed",
-      "checked_at": "2026-10-16T22:17:39.780633+00:00",
+      "checked_at": "2026-10-17T21:48:50.300022+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -107,7 +105,7 @@
     },
     "2026-10-03": {
       "state": "indexed",
-      "checked_at": "2026-10-16T22:16:59.943226+00:00",
+      "checked_at": "2026-10-17T21:48:12.711715+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -117,7 +115,7 @@
     },
     "2026-10-02": {
       "state": "indexed",
-      "checked_at": "2026-10-16T22:16:45.687265+00:00",
+      "checked_at": "2026-10-17T21:47:59.778841+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -127,7 +125,7 @@
     },
     "2026-10-01": {
       "state": "indexed",
-      "checked_at": "2026-10-16T22:16:18.012720+00:00",
+      "checked_at": "2026-10-17T21:47:34.930921+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -137,7 +135,7 @@
     },
     "2026-09-30": {
       "state": "limited",
-      "checked_at": "2026-10-16T22:14:55.467198+00:00",
+      "checked_at": "2026-10-17T21:46:19.637914+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -149,7 +147,7 @@
     },
     "2026-09-29": {
       "state": "indexed",
-      "checked_at": "2026-10-16T22:13:08.116683+00:00",
+      "checked_at": "2026-10-17T21:44:42.145654+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -159,7 +157,7 @@
     },
     "2026-09-28": {
       "state": "indexed",
-      "checked_at": "2026-10-16T22:12:04.760837+00:00",
+      "checked_at": "2026-10-17T21:43:43.629227+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -261,7 +259,7 @@
     },
     "2026-10-04": {
       "state": "indexed",
-      "checked_at": "2026-10-16T22:17:13.222732+00:00",
+      "checked_at": "2026-10-17T21:48:25.158958+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -271,7 +269,7 @@
     },
     "2026-10-05": {
       "state": "indexed",
-      "checked_at": "2026-10-16T22:17:25.475969+00:00",
+      "checked_at": "2026-10-17T21:48:36.878264+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -281,7 +279,7 @@
     },
     "2026-10-10": {
       "state": "indexed",
-      "checked_at": "2026-10-16T22:18:43.571888+00:00",
+      "checked_at": "2026-10-17T21:49:49.158966+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -291,25 +289,23 @@
     },
     "2026-10-17": {
       "state": "indexed",
-      "checked_at": "2026-10-17T21:27:52.596447+00:00",
+      "checked_at": "2026-10-17T21:51:23.651958+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
       "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
-      "branch_scan": "public owned repositories, max 20 branches each"
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
     },
     "2026-10-18": {
       "state": "indexed",
-      "checked_at": "2026-10-17T21:28:05.131036+00:00",
+      "checked_at": "2026-10-17T21:51:35.579996+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
       "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
-      "branch_scan": "public owned repositories, max 20 branches each"
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
     }
   },
   "days": {
@@ -600,42 +596,6 @@
         "source": "commit-search"
       },
       {
-        "kind": "commit",
-        "event": "committed",
-        "date": "2026-10-15",
-        "time": "20:27",
-        "at": "2026-10-15T20:27:43+09:00",
-        "title": "fix: do not adopt unborn repositories without a HEAD commit",
-        "repo": "sunwoo162/RD",
-        "url": "https://github.com/sunwoo162/RD/commit/a51fe402285b81095becd04a77a87f4735c83695",
-        "sha": "a51fe402285b",
-        "source": "branch-scan"
-      },
-      {
-        "kind": "commit",
-        "event": "committed",
-        "date": "2026-10-15",
-        "time": "20:26",
-        "at": "2026-10-15T20:26:24+09:00",
-        "title": "fix: show safe ambiguity and invalid-local-folder errors in Manager",
-        "repo": "sunwoo162/RD",
-        "url": "https://github.com/sunwoo162/RD/commit/9453c5a18d279b26cc350f1cd501af9d952d4361",
-        "sha": "9453c5a18d27",
-        "source": "branch-scan"
-      },
-      {
-        "kind": "commit",
-        "event": "committed",
-        "date": "2026-10-15",
-        "time": "20:25",
-        "at": "2026-10-15T20:25:54+09:00",
-        "title": "fix: fail closed for matching-origin repositories with invalid Git state",
-        "repo": "sunwoo162/RD",
-        "url": "https://github.com/sunwoo162/RD/commit/332d786ce548eb7bf4d07a6ec3ef6eeed4ac7fa0",
-        "sha": "332d786ce548",
-        "source": "branch-scan"
-      },
-      {
         "kind": "pr",
         "event": "opened",
         "date": "2026-10-15",
@@ -652,222 +612,6 @@
         ]
       },
       {
-        "kind": "commit",
-        "event": "committed",
-        "date": "2026-10-15",
-        "time": "20:23",
-        "at": "2026-10-15T20:23:57+09:00",
-        "title": "docs: explain v1.2 non-destructive repository reuse and external linking",
-        "repo": "sunwoo162/RD",
-        "url": "https://github.com/sunwoo162/RD/commit/0a09af453923309728d25e27415a0259f43149de",
-        "sha": "0a09af453923",
-        "source": "branch-scan"
-      },
-      {
-        "kind": "commit",
-        "event": "committed",
-        "date": "2026-10-15",
-        "time": "20:23",
-        "at": "2026-10-15T20:23:22+09:00",
-        "title": "test: compare normalized Windows worktree paths",
-        "repo": "sunwoo162/RD",
-        "url": "https://github.com/sunwoo162/RD/commit/d7bcfbef5592c069ca6a67c5ccceb955a3e6f9f5",
-        "sha": "d7bcfbef5592",
-        "source": "branch-scan"
-      },
-      {
-        "kind": "commit",
-        "event": "committed",
-        "date": "2026-10-15",
-        "time": "20:22",
-        "at": "2026-10-15T20:22:56+09:00",
-        "title": "test: prove local-only discovery, duplicates, ambiguity, and preservation",
-        "repo": "sunwoo162/RD",
-        "url": "https://github.com/sunwoo162/RD/commit/6c5ae665c99ddba204ca6ba5741aa44fb311f42e",
-        "sha": "6c5ae665c99d",
-        "source": "branch-scan"
-      },
-      {
-        "kind": "commit",
-        "event": "committed",
-        "date": "2026-10-15",
-        "time": "20:21",
-        "at": "2026-10-15T20:21:59+09:00",
-        "title": "chore: prepare v1.2.0-beta.1 preview version",
-        "repo": "sunwoo162/RD",
-        "url": "https://github.com/sunwoo162/RD/commit/56e46225461a4aa31e0a4e8dddc64770ac03c961",
-        "sha": "56e46225461a",
-        "source": "branch-scan"
-      },
-      {
-        "kind": "commit",
-        "event": "committed",
-        "date": "2026-10-15",
-        "time": "20:21",
-        "at": "2026-10-15T20:21:54+09:00",
-        "title": "chore: prepare v1.2.0-beta.1 preview version",
-        "repo": "sunwoo162/RD",
-        "url": "https://github.com/sunwoo162/RD/commit/9ffe4db8b7555e41f6aa5163fbd8ee9cfa8a2d03",
-        "sha": "9ffe4db8b755",
-        "source": "branch-scan"
-      },
-      {
-        "kind": "commit",
-        "event": "committed",
-        "date": "2026-10-15",
-        "time": "20:21",
-        "at": "2026-10-15T20:21:47+09:00",
-        "title": "chore: prepare v1.2.0-beta.1 preview version",
-        "repo": "sunwoo162/RD",
-        "url": "https://github.com/sunwoo162/RD/commit/8ec333beadb2057aeb8a1131a48522dffec2d186",
-        "sha": "8ec333beadb2",
-        "source": "branch-scan"
-      },
-      {
-        "kind": "commit",
-        "event": "committed",
-        "date": "2026-10-15",
-        "time": "20:21",
-        "at": "2026-10-15T20:21:42+09:00",
-        "title": "chore: prepare v1.2.0-beta.1 preview version",
-        "repo": "sunwoo162/RD",
-        "url": "https://github.com/sunwoo162/RD/commit/adc31fb483b8105f6b8afb2f6155784207750568",
-        "sha": "adc31fb483b8",
-        "source": "branch-scan"
-      },
-      {
-        "kind": "commit",
-        "event": "committed",
-        "date": "2026-10-15",
-        "time": "20:21",
-        "at": "2026-10-15T20:21:36+09:00",
-        "title": "chore: prepare v1.2.0-beta.1 preview version",
-        "repo": "sunwoo162/RD",
-        "url": "https://github.com/sunwoo162/RD/commit/52b6f2755d6b30f2f14a479a973690ab8fe8084d",
-        "sha": "52b6f2755d6b",
-        "source": "branch-scan"
-      },
-      {
-        "kind": "commit",
-        "event": "committed",
-        "date": "2026-10-15",
-        "time": "20:21",
-        "at": "2026-10-15T20:21:31+09:00",
-        "title": "chore: prepare v1.2.0-beta.1 preview version",
-        "repo": "sunwoo162/RD",
-        "url": "https://github.com/sunwoo162/RD/commit/32c164a0a2fb4a29f241ea1d27c3db19a27bb514",
-        "sha": "32c164a0a2fb",
-        "source": "branch-scan"
-      },
-      {
-        "kind": "commit",
-        "event": "committed",
-        "date": "2026-10-15",
-        "time": "20:21",
-        "at": "2026-10-15T20:21:26+09:00",
-        "title": "chore: prepare v1.2.0-beta.1 preview version",
-        "repo": "sunwoo162/RD",
-        "url": "https://github.com/sunwoo162/RD/commit/73f631eca49546ab0527a35439445385a564a35e",
-        "sha": "73f631eca495",
-        "source": "branch-scan"
-      },
-      {
-        "kind": "commit",
-        "event": "committed",
-        "date": "2026-10-15",
-        "time": "20:21",
-        "at": "2026-10-15T20:21:20+09:00",
-        "title": "chore: prepare v1.2.0-beta.1 preview version",
-        "repo": "sunwoo162/RD",
-        "url": "https://github.com/sunwoo162/RD/commit/6d77af516e0e0feeccf287812612d7faf826d8e7",
-        "sha": "6d77af516e0e",
-        "source": "branch-scan"
-      },
-      {
-        "kind": "commit",
-        "event": "committed",
-        "date": "2026-10-15",
-        "time": "20:20",
-        "at": "2026-10-15T20:20:37+09:00",
-        "title": "test: cover local linking, discovery, and idempotent registration in Manager",
-        "repo": "sunwoo162/RD",
-        "url": "https://github.com/sunwoo162/RD/commit/f414c303445da51830362840d1b1f03bcd565bb8",
-        "sha": "f414c303445d",
-        "source": "branch-scan"
-      },
-      {
-        "kind": "commit",
-        "event": "committed",
-        "date": "2026-10-15",
-        "time": "20:19",
-        "at": "2026-10-15T20:19:49+09:00",
-        "title": "feat: offer automatic existing-repository detection and manual folder linking",
-        "repo": "sunwoo162/RD",
-        "url": "https://github.com/sunwoo162/RD/commit/99276d1c0cfdfe2aa3bd3a0a07ffb3b2244b9da4",
-        "sha": "99276d1c0cfd",
-        "source": "branch-scan"
-      },
-      {
-        "kind": "commit",
-        "event": "committed",
-        "date": "2026-10-15",
-        "time": "20:19",
-        "at": "2026-10-15T20:19:24+09:00",
-        "title": "feat: expose safe existing-folder registration to Tauri UI",
-        "repo": "sunwoo162/RD",
-        "url": "https://github.com/sunwoo162/RD/commit/18d81b2cfdc028b49f21b549e47f64112db1124e",
-        "sha": "18d81b2cfdc0",
-        "source": "branch-scan"
-      },
-      {
-        "kind": "commit",
-        "event": "committed",
-        "date": "2026-10-15",
-        "time": "20:18",
-        "at": "2026-10-15T20:18:56+09:00",
-        "title": "feat: attach existing GitHub worktrees without copying or pulling",
-        "repo": "sunwoo162/RD",
-        "url": "https://github.com/sunwoo162/RD/commit/3ce7baa9395b2f5a28e8a0f60ad0e399561cc914",
-        "sha": "3ce7baa9395b",
-        "source": "branch-scan"
-      },
-      {
-        "kind": "commit",
-        "event": "committed",
-        "date": "2026-10-15",
-        "time": "20:18",
-        "at": "2026-10-15T20:18:51+09:00",
-        "title": "feat: attach existing GitHub worktrees without copying or pulling",
-        "repo": "sunwoo162/RD",
-        "url": "https://github.com/sunwoo162/RD/commit/e8b0824c62cb722603a7fd231d1202d73809ff86",
-        "sha": "e8b0824c62cb",
-        "source": "branch-scan"
-      },
-      {
-        "kind": "commit",
-        "event": "committed",
-        "date": "2026-10-15",
-        "time": "20:18",
-        "at": "2026-10-15T20:18:00+09:00",
-        "title": "feat: safely detect existing repositories in configured workspace",
-        "repo": "sunwoo162/RD",
-        "url": "https://github.com/sunwoo162/RD/commit/b1269924faf41908585e44ca10d6cecfe440d08d",
-        "sha": "b1269924faf4",
-        "source": "branch-scan"
-      },
-      {
-        "kind": "commit",
-        "event": "committed",
-        "date": "2026-10-15",
-        "time": "20:07",
-        "at": "2026-10-15T20:07:50+09:00",
-        "title": "test: Chrome 확장에서 로컬 수집기까지 실제 브라우저 경로 검증",
-        "repo": "sunwoo162/ain",
-        "url": "https://github.com/sunwoo162/ain/commit/e5599e4faa995bbbcb495b4bfd85777e8b644cbf",
-        "sha": "e5599e4faa99",
-        "source": "branch-scan"
-      },
-      {
         "kind": "pr",
         "event": "opened",
         "date": "2026-10-15",
@@ -882,18 +626,6 @@
         "events": [
           "opened"
         ]
-      },
-      {
-        "kind": "commit",
-        "event": "committed",
-        "date": "2026-10-15",
-        "time": "20:03",
-        "at": "2026-10-15T20:03:23+09:00",
-        "title": "feat: ChatGPT 웹 근거 관측 확장과 EEEE 조회 어댑터 추가",
-        "repo": "sunwoo162/ain",
-        "url": "https://github.com/sunwoo162/ain/commit/a7f91f14d6fd63cb04ac580137a57fcfa3456cd5",
-        "sha": "a7f91f14d6fd",
-        "source": "branch-scan"
       },
       {
         "kind": "pr",
@@ -1223,42 +955,6 @@
         ]
       },
       {
-        "kind": "commit",
-        "event": "committed",
-        "date": "2026-10-15",
-        "time": "08:15",
-        "at": "2026-10-15T08:15:50+09:00",
-        "title": "docs: 통합 PR 상태와 실제 Ollama 출시 검증 절차 정리",
-        "repo": "sunwoo162/ain",
-        "url": "https://github.com/sunwoo162/ain/commit/14871f4cfbdea7f6bf7ba608a84ff6f373e3cd39",
-        "sha": "14871f4cfbde",
-        "source": "branch-scan"
-      },
-      {
-        "kind": "commit",
-        "event": "committed",
-        "date": "2026-10-15",
-        "time": "08:13",
-        "at": "2026-10-15T08:13:43+09:00",
-        "title": "ci: 의존성 잠금 파일 회수용 빌드 아티팩트 추가",
-        "repo": "sunwoo162/ain",
-        "url": "https://github.com/sunwoo162/ain/commit/da2b1a4dcd52af8e66b7e41d5efe26aa59d836e5",
-        "sha": "da2b1a4dcd52",
-        "source": "branch-scan"
-      },
-      {
-        "kind": "commit",
-        "event": "committed",
-        "date": "2026-10-15",
-        "time": "08:09",
-        "at": "2026-10-15T08:09:02+09:00",
-        "title": "docs: RC1 출시용 README 정리 및 첫 실행·보안 기준 통합",
-        "repo": "sunwoo162/ain",
-        "url": "https://github.com/sunwoo162/ain/commit/b14f30740aa1d27eef9fcde7a04ed2aa47d89a61",
-        "sha": "b14f30740aa1",
-        "source": "branch-scan"
-      },
-      {
         "kind": "pr",
         "event": "merged",
         "date": "2026-10-15",
@@ -1287,18 +983,6 @@
         "source": "commit-search"
       },
       {
-        "kind": "commit",
-        "event": "committed",
-        "date": "2026-10-15",
-        "time": "01:42",
-        "at": "2026-10-15T01:42:43+09:00",
-        "title": "fix: 최초 수집기 동기화 시 데모 수동 노트 혼입 방지",
-        "repo": "sunwoo162/ain",
-        "url": "https://github.com/sunwoo162/ain/commit/245904c56172eb7fdf423ff9757fae8723d9239e",
-        "sha": "245904c56172",
-        "source": "branch-scan"
-      },
-      {
         "kind": "pr",
         "event": "opened",
         "date": "2026-10-15",
@@ -1313,18 +997,6 @@
         "events": [
           "opened"
         ]
-      },
-      {
-        "kind": "commit",
-        "event": "committed",
-        "date": "2026-10-15",
-        "time": "01:39",
-        "at": "2026-10-15T01:39:45+09:00",
-        "title": "feat: 의심암귀 V1.0 RC1 첫 실행 안내와 통합 검증 체계 추가",
-        "repo": "sunwoo162/ain",
-        "url": "https://github.com/sunwoo162/ain/commit/f227f32881d2a18ac21806cd4fa1f1c597f995ae",
-        "sha": "f227f32881d2",
-        "source": "branch-scan"
       },
       {
         "kind": "pr",
@@ -1343,30 +1015,6 @@
         ]
       },
       {
-        "kind": "commit",
-        "event": "committed",
-        "date": "2026-10-15",
-        "time": "00:42",
-        "at": "2026-10-15T00:42:18+09:00",
-        "title": "fix: V0.8 기존 그래프 모듈 복원 및 V0.9 변경 파일 병합",
-        "repo": "sunwoo162/ain",
-        "url": "https://github.com/sunwoo162/ain/commit/36f3873bdf5e2fa355b723d022d80fa3d3b43e86",
-        "sha": "36f3873bdf5e",
-        "source": "branch-scan"
-      },
-      {
-        "kind": "commit",
-        "event": "committed",
-        "date": "2026-10-15",
-        "time": "00:40",
-        "at": "2026-10-15T00:40:36+09:00",
-        "title": "fix: 검색 도움말과 그래프 조건 렌더링 JSX 구문 수정",
-        "repo": "sunwoo162/ain",
-        "url": "https://github.com/sunwoo162/ain/commit/287e0d92b2eb046744471b1689c998d1e97e84fe",
-        "sha": "287e0d92b2eb",
-        "source": "branch-scan"
-      },
-      {
         "kind": "pr",
         "event": "opened",
         "date": "2026-10-15",
@@ -1381,18 +1029,6 @@
         "events": [
           "opened"
         ]
-      },
-      {
-        "kind": "commit",
-        "event": "committed",
-        "date": "2026-10-15",
-        "time": "00:38",
-        "at": "2026-10-15T00:38:59+09:00",
-        "title": "feat: 인덱스 검색·실행별 관측 분석과 1만 노드 벤치마크 추가",
-        "repo": "sunwoo162/ain",
-        "url": "https://github.com/sunwoo162/ain/commit/6fe924c477b49393a8c8773e7494bf4478e53364",
-        "sha": "6fe924c477b4",
-        "source": "branch-scan"
       }
     ],
     "2026-10-14": [
