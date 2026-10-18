@@ -1,7 +1,7 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-10-18T17:22:48.552490+00:00",
+  "updated_at": "2026-10-18T20:41:19.957415+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
@@ -290,7 +290,7 @@
     },
     "2026-10-17": {
       "state": "indexed",
-      "checked_at": "2026-10-18T17:22:20.350211+00:00",
+      "checked_at": "2026-10-18T20:40:47.836376+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -301,7 +301,7 @@
     },
     "2026-10-18": {
       "state": "indexed",
-      "checked_at": "2026-10-18T17:22:32.659955+00:00",
+      "checked_at": "2026-10-18T20:41:01.067445+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -312,7 +312,7 @@
     },
     "2026-10-19": {
       "state": "indexed",
-      "checked_at": "2026-10-18T17:22:44.873537+00:00",
+      "checked_at": "2026-10-18T20:41:14.474731+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -325,19 +325,32 @@
   "days": {
     "2026-10-19": [
       {
-        "kind": "pr",
-        "event": "opened",
+        "kind": "commit",
+        "event": "committed",
         "date": "2026-10-19",
-        "time": "01:21",
-        "at": "2026-10-19T01:21:04+09:00",
+        "time": "04:09",
+        "at": "2026-10-19T04:09:05+09:00",
+        "title": "EEEE 핵심 런타임과 플러그인 승인 흐름 안정화 (#56)",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/342812aee5de2ed143e3b013433fd8b487fe6d9d",
+        "sha": "342812aee5de",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-10-19",
+        "time": "04:09",
+        "at": "2026-10-19T04:09:05+09:00",
         "title": "EEEE 핵심 런타임과 플러그인 승인 흐름 안정화",
         "repo": "sunwoo162/gleave",
         "url": "https://github.com/sunwoo162/gleave/pull/56",
         "number": 56,
-        "status": "open",
+        "status": "merged",
         "commits_url": "https://github.com/sunwoo162/gleave/pull/56/commits",
         "events": [
-          "opened"
+          "opened",
+          "merged"
         ]
       }
     ],
