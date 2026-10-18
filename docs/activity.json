@@ -1,7 +1,7 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-10-18T22:00:33.114067+00:00",
+  "updated_at": "2026-10-18T23:10:58.727501+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
@@ -289,33 +289,36 @@
     },
     "2026-10-17": {
       "state": "indexed",
-      "checked_at": "2026-10-18T22:00:06.114695+00:00",
+      "checked_at": "2026-10-18T23:10:28.217220+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
       "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
+      "branch_scan": "public owned repositories, max 20 branches each"
     },
     "2026-10-18": {
       "state": "indexed",
-      "checked_at": "2026-10-18T22:00:19.998589+00:00",
+      "checked_at": "2026-10-18T23:10:41.092335+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
       "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
+      "branch_scan": "public owned repositories, max 20 branches each"
     },
     "2026-10-19": {
       "state": "indexed",
-      "checked_at": "2026-10-18T22:00:33.113992+00:00",
+      "checked_at": "2026-10-18T23:10:53.984133+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
       "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
+      "branch_scan": "public owned repositories, max 20 branches each"
     }
   },
   "days": {
