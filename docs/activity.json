@@ -1,7 +1,7 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-10-18T14:01:10.637773+00:00",
+  "updated_at": "2026-10-18T17:22:48.552490+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
@@ -290,7 +290,7 @@
     },
     "2026-10-17": {
       "state": "indexed",
-      "checked_at": "2026-10-18T14:00:56.037966+00:00",
+      "checked_at": "2026-10-18T17:22:20.350211+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -301,7 +301,18 @@
     },
     "2026-10-18": {
       "state": "indexed",
-      "checked_at": "2026-10-18T14:01:08.735175+00:00",
+      "checked_at": "2026-10-18T17:22:32.659955+00:00",
+      "sources": [
+        "github-commit-search",
+        "github-issue-search"
+      ],
+      "notes": [],
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
+      "branch_scan": "public owned repositories, max 20 branches each"
+    },
+    "2026-10-19": {
+      "state": "indexed",
+      "checked_at": "2026-10-18T17:22:44.873537+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -312,6 +323,24 @@
     }
   },
   "days": {
+    "2026-10-19": [
+      {
+        "kind": "pr",
+        "event": "opened",
+        "date": "2026-10-19",
+        "time": "01:21",
+        "at": "2026-10-19T01:21:04+09:00",
+        "title": "EEEE 핵심 런타임과 플러그인 승인 흐름 안정화",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/pull/56",
+        "number": 56,
+        "status": "open",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/56/commits",
+        "events": [
+          "opened"
+        ]
+      }
+    ],
     "2026-10-18": [],
     "2026-10-17": [],
     "2026-10-16": [
