@@ -1,7 +1,7 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-10-20T11:34:38.509236+00:00",
+  "updated_at": "2026-10-20T17:02:31.347714+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
@@ -310,7 +310,7 @@
     },
     "2026-10-19": {
       "state": "indexed",
-      "checked_at": "2026-10-20T11:34:18.085230+00:00",
+      "checked_at": "2026-10-20T17:01:57.242628+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -321,7 +321,18 @@
     },
     "2026-10-20": {
       "state": "indexed",
-      "checked_at": "2026-10-20T11:34:32.011613+00:00",
+      "checked_at": "2026-10-20T17:02:11.573008+00:00",
+      "sources": [
+        "github-commit-search",
+        "github-issue-search"
+      ],
+      "notes": [],
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
+      "branch_scan": "public owned repositories, max 20 branches each"
+    },
+    "2026-10-21": {
+      "state": "indexed",
+      "checked_at": "2026-10-20T17:02:25.729641+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -332,21 +343,64 @@
     }
   },
   "days": {
+    "2026-10-21": [],
     "2026-10-20": [
       {
         "kind": "pr",
-        "event": "opened",
+        "event": "merged",
         "date": "2026-10-20",
-        "time": "20:32",
-        "at": "2026-10-20T20:32:34+09:00",
+        "time": "21:15",
+        "at": "2026-10-20T21:15:46+09:00",
+        "title": "채팅 기록 플러그인 열기 handoff 연결",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/pull/66",
+        "number": 66,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/66/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-20",
+        "time": "21:15",
+        "at": "2026-10-20T21:15:45+09:00",
+        "title": "채팅 기록 플러그인 열기 handoff 연결",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/344209991ef79de10290f95a6204f73bc5d0c4c0",
+        "sha": "344209991ef7",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-20",
+        "time": "20:53",
+        "at": "2026-10-20T20:53:50+09:00",
+        "title": "플러그인 설치 진단과 브라우저 검증 보강",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/fc41842ce5843929a98b8b4f3151836c4f027da2",
+        "sha": "fc41842ce584",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-10-20",
+        "time": "20:53",
+        "at": "2026-10-20T20:53:50+09:00",
         "title": "플러그인 설치 진단과 생성 웹앱 브라우저 검증 보강",
         "repo": "sunwoo162/gleave",
         "url": "https://github.com/sunwoo162/gleave/pull/65",
         "number": 65,
-        "status": "open",
+        "status": "merged",
         "commits_url": "https://github.com/sunwoo162/gleave/pull/65/commits",
         "events": [
-          "opened"
+          "opened",
+          "merged"
         ]
       },
       {
