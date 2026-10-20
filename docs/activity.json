@@ -1,7 +1,7 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-10-20T06:01:09.936138+00:00",
+  "updated_at": "2026-10-20T11:34:38.509236+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
@@ -299,7 +299,7 @@
     },
     "2026-10-18": {
       "state": "indexed",
-      "checked_at": "2026-10-20T06:00:40.811514+00:00",
+      "checked_at": "2026-10-20T11:34:04.291460+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -310,7 +310,7 @@
     },
     "2026-10-19": {
       "state": "indexed",
-      "checked_at": "2026-10-20T06:00:53.848143+00:00",
+      "checked_at": "2026-10-20T11:34:18.085230+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -321,7 +321,7 @@
     },
     "2026-10-20": {
       "state": "indexed",
-      "checked_at": "2026-10-20T06:01:05.900669+00:00",
+      "checked_at": "2026-10-20T11:34:32.011613+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -332,7 +332,232 @@
     }
   },
   "days": {
-    "2026-10-20": [],
+    "2026-10-20": [
+      {
+        "kind": "pr",
+        "event": "opened",
+        "date": "2026-10-20",
+        "time": "20:32",
+        "at": "2026-10-20T20:32:34+09:00",
+        "title": "플러그인 설치 진단과 생성 웹앱 브라우저 검증 보강",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/pull/65",
+        "number": 65,
+        "status": "open",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/65/commits",
+        "events": [
+          "opened"
+        ]
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-10-20",
+        "time": "19:48",
+        "at": "2026-10-20T19:48:16+09:00",
+        "title": "chore: 저장소 UTF-8 BOM 검사 강화",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/pull/64",
+        "number": 64,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/64/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-20",
+        "time": "19:48",
+        "at": "2026-10-20T19:48:15+09:00",
+        "title": "chore: 저장소 UTF-8 BOM 검사 강화",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/e50a6df87a0ded132c16b05c90cb9de4b89516b5",
+        "sha": "e50a6df87a0d",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "closed",
+        "date": "2026-10-20",
+        "time": "18:30",
+        "at": "2026-10-20T18:30:48+09:00",
+        "title": "EEEE 품질 게이트와 플러그인 경계 보강",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/pull/57",
+        "number": 57,
+        "status": "closed",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/57/commits",
+        "events": [
+          "opened",
+          "closed"
+        ]
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-10-20",
+        "time": "18:29",
+        "at": "2026-10-20T18:29:42+09:00",
+        "title": "docs: 최신 EEEE 검증 결과 기록",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/pull/63",
+        "number": 63,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/63/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-20",
+        "time": "18:29",
+        "at": "2026-10-20T18:29:41+09:00",
+        "title": "docs: 최신 EEEE 검증 결과 기록",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/2f29473f0d258462e79f78cd7f74d7a92cd0c693",
+        "sha": "2f29473f0d25",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-10-20",
+        "time": "18:22",
+        "at": "2026-10-20T18:22:21+09:00",
+        "title": "feat: 이설 릴리스 이후 운영 개선 단계 추가",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/pull/62",
+        "number": 62,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/62/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-20",
+        "time": "18:22",
+        "at": "2026-10-20T18:22:20+09:00",
+        "title": "feat: 이설 릴리스 이후 운영 개선 단계 추가",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/5890dac7fe1838268071d2f795bcd33d7a81a811",
+        "sha": "5890dac7fe18",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-20",
+        "time": "18:07",
+        "at": "2026-10-20T18:07:43+09:00",
+        "title": "fix: EEEE 품질 게이트와 채팅 기록 연결 보강",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/90eaf055112ba51612c026cccd863281a4257131",
+        "sha": "90eaf055112b",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-10-20",
+        "time": "18:07",
+        "at": "2026-10-20T18:07:43+09:00",
+        "title": "fix: EEEE 품질 게이트와 채팅 기록 연결 보강",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/pull/61",
+        "number": 61,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/61/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-20",
+        "time": "17:41",
+        "at": "2026-10-20T17:41:00+09:00",
+        "title": "docs: 최신 EEEE 검증 결과 기록",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/3f2eb5f59e0601dddd5ed52a54714e85571b3a86",
+        "sha": "3f2eb5f59e06",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-10-20",
+        "time": "17:41",
+        "at": "2026-10-20T17:41:00+09:00",
+        "title": "docs: 최신 EEEE 검증 결과 기록",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/pull/60",
+        "number": 60,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/60/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-10-20",
+        "time": "17:21",
+        "at": "2026-10-20T17:21:23+09:00",
+        "title": "에이전트 실패 롤백과 ChatGPT Web CDP 로컬 제한",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/pull/59",
+        "number": 59,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/59/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-20",
+        "time": "17:21",
+        "at": "2026-10-20T17:21:22+09:00",
+        "title": "fix: 에이전트 실패 롤백과 CDP 로컬 제한 (#59)",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/acc8ab815f692fb5ed894632cc7d35d3338a08b1",
+        "sha": "acc8ab815f69",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "closed",
+        "date": "2026-10-20",
+        "time": "17:17",
+        "at": "2026-10-20T17:17:27+09:00",
+        "title": "에이전트 실패 롤백과 ChatGPT Web CDP 로컬 제한",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/pull/58",
+        "number": 58,
+        "status": "closed",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/58/commits",
+        "events": [
+          "opened",
+          "closed"
+        ]
+      }
+    ],
     "2026-10-19": [
       {
         "kind": "commit",
