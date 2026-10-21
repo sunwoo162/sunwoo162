@@ -1,11 +1,11 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-10-21T19:20:34.049474+00:00",
+  "updated_at": "2026-10-21T22:48:42.371071+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
-      "checked_at": "2026-10-20T22:44:18.243022+00:00",
+      "checked_at": "2026-10-21T22:47:24.777619+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -15,7 +15,7 @@
     },
     "2026-10-15": {
       "state": "indexed",
-      "checked_at": "2026-10-20T22:44:03.547371+00:00",
+      "checked_at": "2026-10-21T22:47:10.157100+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -25,7 +25,7 @@
     },
     "2026-10-14": {
       "state": "indexed",
-      "checked_at": "2026-10-20T22:43:47.874329+00:00",
+      "checked_at": "2026-10-21T22:46:54.868532+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -35,7 +35,7 @@
     },
     "2026-10-13": {
       "state": "indexed",
-      "checked_at": "2026-10-20T22:43:31.592822+00:00",
+      "checked_at": "2026-10-21T22:46:39.311595+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -45,7 +45,7 @@
     },
     "2026-10-12": {
       "state": "indexed",
-      "checked_at": "2026-10-20T22:43:17.483838+00:00",
+      "checked_at": "2026-10-21T22:46:25.520654+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -55,7 +55,7 @@
     },
     "2026-10-11": {
       "state": "indexed",
-      "checked_at": "2026-10-20T22:43:03.584381+00:00",
+      "checked_at": "2026-10-21T22:46:12.121128+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -65,7 +65,7 @@
     },
     "2026-10-09": {
       "state": "indexed",
-      "checked_at": "2026-10-20T22:42:36.905905+00:00",
+      "checked_at": "2026-10-21T22:45:46.448211+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -75,7 +75,7 @@
     },
     "2026-10-08": {
       "state": "indexed",
-      "checked_at": "2026-10-20T22:42:23.275851+00:00",
+      "checked_at": "2026-10-21T22:45:33.195656+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -85,7 +85,7 @@
     },
     "2026-10-07": {
       "state": "indexed",
-      "checked_at": "2026-10-20T22:42:05.200371+00:00",
+      "checked_at": "2026-10-21T22:45:15.601614+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -95,7 +95,7 @@
     },
     "2026-10-06": {
       "state": "indexed",
-      "checked_at": "2026-10-20T22:41:47.428804+00:00",
+      "checked_at": "2026-10-21T22:44:58.303013+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -105,7 +105,7 @@
     },
     "2026-10-03": {
       "state": "indexed",
-      "checked_at": "2026-10-20T22:41:07.460489+00:00",
+      "checked_at": "2026-10-21T22:44:19.894517+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -115,7 +115,7 @@
     },
     "2026-10-02": {
       "state": "indexed",
-      "checked_at": "2026-10-20T22:40:53.552890+00:00",
+      "checked_at": "2026-10-21T22:44:06.442811+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -259,7 +259,7 @@
     },
     "2026-10-04": {
       "state": "indexed",
-      "checked_at": "2026-10-20T22:41:21.080260+00:00",
+      "checked_at": "2026-10-21T22:44:32.696725+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -269,7 +269,7 @@
     },
     "2026-10-05": {
       "state": "indexed",
-      "checked_at": "2026-10-20T22:41:33.246264+00:00",
+      "checked_at": "2026-10-21T22:44:44.779325+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -279,7 +279,7 @@
     },
     "2026-10-10": {
       "state": "indexed",
-      "checked_at": "2026-10-20T22:42:49.731868+00:00",
+      "checked_at": "2026-10-21T22:45:59.134474+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -289,7 +289,7 @@
     },
     "2026-10-17": {
       "state": "indexed",
-      "checked_at": "2026-10-20T22:44:30.436121+00:00",
+      "checked_at": "2026-10-21T22:47:36.729570+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -299,7 +299,7 @@
     },
     "2026-10-18": {
       "state": "indexed",
-      "checked_at": "2026-10-20T22:44:43.275874+00:00",
+      "checked_at": "2026-10-21T22:47:49.293156+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -309,47 +309,43 @@
     },
     "2026-10-19": {
       "state": "indexed",
-      "checked_at": "2026-10-21T10:07:33.480720+00:00",
+      "checked_at": "2026-10-21T22:48:01.891885+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
       "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
-      "branch_scan": "public owned repositories, max 20 branches each"
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
     },
     "2026-10-20": {
       "state": "indexed",
-      "checked_at": "2026-10-21T19:19:55.231639+00:00",
+      "checked_at": "2026-10-21T22:48:15.153246+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
       "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
-      "branch_scan": "public owned repositories, max 20 branches each"
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
     },
     "2026-10-21": {
       "state": "indexed",
-      "checked_at": "2026-10-21T19:20:10.913659+00:00",
+      "checked_at": "2026-10-21T22:48:28.866890+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
       "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
-      "branch_scan": "public owned repositories, max 20 branches each"
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
     },
     "2026-10-22": {
       "state": "indexed",
-      "checked_at": "2026-10-21T19:20:25.965906+00:00",
+      "checked_at": "2026-10-21T22:48:42.370896+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
       "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
-      "branch_scan": "public owned repositories, max 20 branches each"
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
     }
   },
   "days": {
@@ -358,17 +354,452 @@
         "kind": "pr",
         "event": "opened",
         "date": "2026-10-22",
-        "time": "04:19",
-        "at": "2026-10-22T04:19:11+09:00",
+        "time": "07:18",
+        "at": "2026-10-22T07:18:57+09:00",
+        "title": "fix: 로컬 문서 사용자별 격리",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/pull/115",
+        "number": 115,
+        "status": "open",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/115/commits",
+        "events": [
+          "opened"
+        ]
+      },
+      {
+        "kind": "pr",
+        "event": "closed",
+        "date": "2026-10-22",
+        "time": "07:18",
+        "at": "2026-10-22T07:18:27+09:00",
+        "title": "fix: 로컬 문서 사용자별 격리",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/pull/114",
+        "number": 114,
+        "status": "closed",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/114/commits",
+        "events": [
+          "opened",
+          "closed"
+        ]
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-10-22",
+        "time": "07:11",
+        "at": "2026-10-22T07:11:19+09:00",
+        "title": "fix: 디자인 기록 사용자별 격리",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/pull/113",
+        "number": 113,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/113/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-22",
+        "time": "07:11",
+        "at": "2026-10-22T07:11:18+09:00",
+        "title": "fix: 디자인 기록 사용자별 격리",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/03ec7c01d0884f2ee68b720d93abd718e57faf50",
+        "sha": "03ec7c01d088",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-10-22",
+        "time": "07:01",
+        "at": "2026-10-22T07:01:03+09:00",
+        "title": "fix: 커널 프로젝트 컨텍스트 사용자 소유권 검증",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/pull/112",
+        "number": 112,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/112/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-22",
+        "time": "07:01",
+        "at": "2026-10-22T07:01:02+09:00",
+        "title": "fix: 커널 프로젝트 컨텍스트 사용자 소유권 검증",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/f9e4feab2ff4f4f0212974db1b67794665a78925",
+        "sha": "f9e4feab2ff4",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-10-22",
+        "time": "06:50",
+        "at": "2026-10-22T06:50:31+09:00",
+        "title": "프로젝트 결과 메모리 사용자별 격리",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/pull/111",
+        "number": 111,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/111/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-22",
+        "time": "06:50",
+        "at": "2026-10-22T06:50:30+09:00",
+        "title": "fix: 프로젝트 결과 메모리 사용자별 격리",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/721410a0bbee51565b8cf1d3d9f9df5837bdea5e",
+        "sha": "721410a0bbee",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-10-22",
+        "time": "06:36",
+        "at": "2026-10-22T06:36:00+09:00",
+        "title": "데스크톱 이벤트 스트림 사용자별 필터링",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/pull/110",
+        "number": 110,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/110/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-22",
+        "time": "06:35",
+        "at": "2026-10-22T06:35:59+09:00",
+        "title": "fix: 데스크톱 이벤트를 사용자별로 필터링 (#110)",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/eb09ee26c63cefa7f7473a828fffdd33ca4d8bdf",
+        "sha": "eb09ee26c63c",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-10-22",
+        "time": "06:26",
+        "at": "2026-10-22T06:26:05+09:00",
+        "title": "GitHub 리뷰 증거를 사용자 프로젝트에 격리",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/pull/109",
+        "number": 109,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/109/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-22",
+        "time": "06:26",
+        "at": "2026-10-22T06:26:04+09:00",
+        "title": "fix: GitHub 리뷰 증거를 사용자 프로젝트에 격리 (#109)",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/9ff44344401cc8d3bb6a33b66f9a73f1885682e2",
+        "sha": "9ff44344401c",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-10-22",
+        "time": "06:16",
+        "at": "2026-10-22T06:16:02+09:00",
+        "title": "레거시 요청·실행 API 사용자별 소유권 적용",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/pull/108",
+        "number": 108,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/108/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-22",
+        "time": "06:16",
+        "at": "2026-10-22T06:16:01+09:00",
+        "title": "fix: 레거시 요청 실행 사용자 소유권 적용 (#108)",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/1a3dbba5cef6a1eadf7c074b4e99d50afca4e38c",
+        "sha": "1a3dbba5cef6",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-10-22",
+        "time": "06:01",
+        "at": "2026-10-22T06:01:11+09:00",
+        "title": "프로젝트 사용자 소유권 추가",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/pull/107",
+        "number": 107,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/107/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-22",
+        "time": "06:01",
+        "at": "2026-10-22T06:01:10+09:00",
+        "title": "feat: 프로젝트 사용자 소유권 추가 (#107)",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/bf5d693ba79105fc4ba228a4c4914f5eb9cddb95",
+        "sha": "bf5d693ba791",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-22",
+        "time": "05:44",
+        "at": "2026-10-22T05:44:53+09:00",
+        "title": "fix: 백그라운드 작업 사용자별 격리 (#106)",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/0e717967e7515faf199cf0deffb5218df8606818",
+        "sha": "0e717967e751",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-10-22",
+        "time": "05:44",
+        "at": "2026-10-22T05:44:53+09:00",
+        "title": "백그라운드 작업 사용자별 격리",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/pull/106",
+        "number": 106,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/106/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-22",
+        "time": "05:27",
+        "at": "2026-10-22T05:27:57+09:00",
+        "title": "fix: 기억과 선호를 사용자별로 격리 (#105)",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/2409df788da3fd0a263902bd411bd9d834c16226",
+        "sha": "2409df788da3",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-10-22",
+        "time": "05:27",
+        "at": "2026-10-22T05:27:57+09:00",
+        "title": "fix: 기억과 선호를 사용자별로 격리",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/pull/105",
+        "number": 105,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/105/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-10-22",
+        "time": "05:08",
+        "at": "2026-10-22T05:08:42+09:00",
+        "title": "fix: 대화 기록을 사용자별로 격리",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/pull/104",
+        "number": 104,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/104/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-22",
+        "time": "05:08",
+        "at": "2026-10-22T05:08:41+09:00",
+        "title": "fix: 대화 기록을 사용자별로 격리 (#104)",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/929842450befbaaee5c4ecd15c0867b88f410b9a",
+        "sha": "929842450bef",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-10-22",
+        "time": "04:50",
+        "at": "2026-10-22T04:50:47+09:00",
+        "title": "fix: 복잡한 요청의 웹 GPT 오류 원인 보존",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/pull/103",
+        "number": 103,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/103/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-22",
+        "time": "04:50",
+        "at": "2026-10-22T04:50:46+09:00",
+        "title": "fix: 복잡한 요청의 웹 GPT 오류 원인 보존",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/600084d4efb9986b4a4f74d382a8ba4597c34511",
+        "sha": "600084d4efb9",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-10-22",
+        "time": "04:41",
+        "at": "2026-10-22T04:41:18+09:00",
+        "title": "fix: 프로젝트 재개 시 연결된 커넥터 상태 갱신",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/pull/102",
+        "number": 102,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/102/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-22",
+        "time": "04:41",
+        "at": "2026-10-22T04:41:17+09:00",
+        "title": "fix: 프로젝트 재개 시 연결된 커넥터 상태 갱신",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/279f00fd5e9d03ebe2d9b30e38944429b16d5b90",
+        "sha": "279f00fd5e9d",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-22",
+        "time": "04:32",
+        "at": "2026-10-22T04:32:08+09:00",
+        "title": "fix: 프로젝트 실행에도 사용자별 플러그인 컨텍스트 전달",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/8f1d168c5aec031d9b00f4545cbfcb7695d32b5c",
+        "sha": "8f1d168c5aec",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-10-22",
+        "time": "04:32",
+        "at": "2026-10-22T04:32:08+09:00",
+        "title": "fix: 프로젝트 실행에도 사용자별 플러그인 컨텍스트 전달",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/pull/101",
+        "number": 101,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/101/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-22",
+        "time": "04:22",
+        "at": "2026-10-22T04:22:13+09:00",
+        "title": "Merge pull request #100 from sunwoo162/codex/assistant-user-context",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/185e1d5de69d43c3ab58c9b14b2c245a08a535cc",
+        "sha": "185e1d5de69d",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-10-22",
+        "time": "04:22",
+        "at": "2026-10-22T04:22:13+09:00",
         "title": "fix: 사용자별 플러그인 라우팅 컨텍스트 전달",
         "repo": "sunwoo162/gleave",
         "url": "https://github.com/sunwoo162/gleave/pull/100",
         "number": 100,
-        "status": "open",
+        "status": "merged",
         "commits_url": "https://github.com/sunwoo162/gleave/pull/100/commits",
         "events": [
-          "opened"
+          "opened",
+          "merged"
         ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-22",
+        "time": "04:19",
+        "at": "2026-10-22T04:19:01+09:00",
+        "title": "fix: 사용자별 플러그인 라우팅 컨텍스트 전달",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/695b8b8bc7351298738c9a0554ab22e4d5fd764a",
+        "sha": "695b8b8bc735",
+        "source": "commit-search"
       },
       {
         "kind": "commit",
