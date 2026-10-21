@@ -1,7 +1,7 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-10-21T15:15:47.386187+00:00",
+  "updated_at": "2026-10-21T19:20:34.049474+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
@@ -320,7 +320,7 @@
     },
     "2026-10-20": {
       "state": "indexed",
-      "checked_at": "2026-10-21T15:14:08.950016+00:00",
+      "checked_at": "2026-10-21T19:19:55.231639+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -331,7 +331,7 @@
     },
     "2026-10-21": {
       "state": "indexed",
-      "checked_at": "2026-10-21T15:14:23.355470+00:00",
+      "checked_at": "2026-10-21T19:20:10.913659+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -342,7 +342,7 @@
     },
     "2026-10-22": {
       "state": "indexed",
-      "checked_at": "2026-10-21T15:15:42.116530+00:00",
+      "checked_at": "2026-10-21T19:20:25.965906+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -358,16 +358,373 @@
         "kind": "pr",
         "event": "opened",
         "date": "2026-10-22",
-        "time": "00:06",
-        "at": "2026-10-22T00:06:06+09:00",
+        "time": "04:19",
+        "at": "2026-10-22T04:19:11+09:00",
+        "title": "fix: 사용자별 플러그인 라우팅 컨텍스트 전달",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/pull/100",
+        "number": 100,
+        "status": "open",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/100/commits",
+        "events": [
+          "opened"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-22",
+        "time": "04:12",
+        "at": "2026-10-22T04:12:03+09:00",
+        "title": "Merge pull request #99 from sunwoo162/codex/evidence-integrity",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/10ed0a40cfc60621a51cf4338c9f6ae80ba0ae24",
+        "sha": "10ed0a40cfc6",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-10-22",
+        "time": "04:12",
+        "at": "2026-10-22T04:12:03+09:00",
+        "title": "fix: 연결된 Notion으로 프로젝트 문서 동기화",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/pull/99",
+        "number": 99,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/99/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-22",
+        "time": "04:08",
+        "at": "2026-10-22T04:08:29+09:00",
+        "title": "fix: 연결된 Notion으로 프로젝트 문서 동기화",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/0717adf24576bdb76212b0891fc82844a705d34d",
+        "sha": "0717adf24576",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-10-22",
+        "time": "04:02",
+        "at": "2026-10-22T04:02:20+09:00",
+        "title": "fix: 연결된 플러그인을 프로젝트 계획에 반영",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/pull/98",
+        "number": 98,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/98/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-22",
+        "time": "04:02",
+        "at": "2026-10-22T04:02:19+09:00",
+        "title": "Merge pull request #98 from sunwoo162/codex/evidence-integrity",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/8dca7928dbb10b35436640ddc5e90f861d29177d",
+        "sha": "8dca7928dbb1",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-22",
+        "time": "03:59",
+        "at": "2026-10-22T03:59:08+09:00",
+        "title": "fix: 연결된 플러그인을 프로젝트 계획에 반영",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/cc0a4bbee72862520254ea8f4c422a9e7bfb01c8",
+        "sha": "cc0a4bbee728",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-10-22",
+        "time": "03:52",
+        "at": "2026-10-22T03:52:34+09:00",
+        "title": "fix: 이설 핸드오프 증거 무결성 강화",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/pull/97",
+        "number": 97,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/97/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-22",
+        "time": "03:52",
+        "at": "2026-10-22T03:52:33+09:00",
+        "title": "Merge pull request #97 from sunwoo162/codex/evidence-integrity",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/4bf6424da81036f13f01150ee4e258c6a452c57f",
+        "sha": "4bf6424da810",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-22",
+        "time": "03:47",
+        "at": "2026-10-22T03:47:45+09:00",
+        "title": "fix: 이설 핸드오프 증거 무결성 강화",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/e1945bc936a12d8238356578fefbf006fe751e25",
+        "sha": "e1945bc936a1",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-22",
+        "time": "03:37",
+        "at": "2026-10-22T03:37:17+09:00",
+        "title": "Merge pull request #96 from sunwoo162/codex/conversation-provider-provenance",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/5b2032fc12998a450c8f1c6519b3ea93b3aaf9fd",
+        "sha": "5b2032fc1299",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-10-22",
+        "time": "03:37",
+        "at": "2026-10-22T03:37:17+09:00",
+        "title": "feat: 대화 기록에 실제 provider provenance 저장",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/pull/96",
+        "number": 96,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/96/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-22",
+        "time": "03:33",
+        "at": "2026-10-22T03:33:41+09:00",
+        "title": "feat: 대화 기록에 실제 provider provenance 저장",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/d460a350591a7f8c1bc3343e22d8595960427022",
+        "sha": "d460a350591a",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-22",
+        "time": "03:27",
+        "at": "2026-10-22T03:27:56+09:00",
+        "title": "Merge pull request #95 from sunwoo162/codex/project-execution-trust",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/90f3de9ae890aa1fa9eb59b14f9e905dcf11dc1f",
+        "sha": "90f3de9ae890",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-10-22",
+        "time": "03:27",
+        "at": "2026-10-22T03:27:56+09:00",
+        "title": "fix: 실행 검증 상태를 정직하게 판정",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/pull/95",
+        "number": 95,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/95/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-22",
+        "time": "03:24",
+        "at": "2026-10-22T03:24:48+09:00",
+        "title": "fix: 실행 검증 상태를 정직하게 판정",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/5e37886dd2bc2b75b9f4ce644cf8adef7d13234d",
+        "sha": "5e37886dd2bc",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-10-22",
+        "time": "03:10",
+        "at": "2026-10-22T03:10:17+09:00",
+        "title": "fix: 웹 GPT 오류 원인 코드를 보존",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/pull/94",
+        "number": 94,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/94/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-22",
+        "time": "03:10",
+        "at": "2026-10-22T03:10:16+09:00",
+        "title": "Merge pull request #94 from sunwoo162/codex/provider-error-truthfulness",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/0c4c3e77bb74e28cdeaabd495fd5dd41bc1dd704",
+        "sha": "0c4c3e77bb74",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-22",
+        "time": "03:05",
+        "at": "2026-10-22T03:05:57+09:00",
+        "title": "fix: 웹 GPT 오류 원인 코드를 보존",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/4c26c5079febaa410a6d3ee71b6e1dbe4d26625c",
+        "sha": "4c26c5079feb",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-10-22",
+        "time": "03:00",
+        "at": "2026-10-22T03:00:34+09:00",
+        "title": "fix: 실패한 응답을 대화 컨텍스트에서 제외",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/pull/93",
+        "number": 93,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/93/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-22",
+        "time": "03:00",
+        "at": "2026-10-22T03:00:33+09:00",
+        "title": "Merge pull request #93 from sunwoo162/codex/conversation-context-integrity",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/1e11d9069c2220b2c390bfb65c722b94640cac4e",
+        "sha": "1e11d9069c22",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-22",
+        "time": "02:56",
+        "at": "2026-10-22T02:56:52+09:00",
+        "title": "fix: 실패한 응답을 대화 컨텍스트에서 제외",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/7cd362ceb291578a51b42fbe9cc3b029cf9a490f",
+        "sha": "7cd362ceb291",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-10-22",
+        "time": "02:50",
+        "at": "2026-10-22T02:50:33+09:00",
+        "title": "fix: 데스크톱 이벤트 유실 상태 전달",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/pull/92",
+        "number": 92,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/92/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-22",
+        "time": "02:50",
+        "at": "2026-10-22T02:50:32+09:00",
+        "title": "fix: 데스크톱 이벤트 유실 상태 전달",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/ce82797aa9e37a2c52428f79c9703ea616bbe32a",
+        "sha": "ce82797aa9e3",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-22",
+        "time": "02:47",
+        "at": "2026-10-22T02:47:32+09:00",
+        "title": "fix: 데스크톱 이벤트 유실 상태 전달",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/af36056e47dd3cae497e2c20f57b8c291a79b32f",
+        "sha": "af36056e47dd",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-22",
+        "time": "02:43",
+        "at": "2026-10-22T02:43:23+09:00",
+        "title": "feat: 대화 기록 목록 페이지네이션 추가",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/e82bd2169e052a53278a107aa0a6bfe0e8f6095c",
+        "sha": "e82bd2169e05",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-10-22",
+        "time": "02:43",
+        "at": "2026-10-22T02:43:23+09:00",
         "title": "feat: 대화 기록 목록 페이지네이션 추가",
         "repo": "sunwoo162/gleave",
         "url": "https://github.com/sunwoo162/gleave/pull/91",
         "number": 91,
-        "status": "open",
+        "status": "merged",
         "commits_url": "https://github.com/sunwoo162/gleave/pull/91/commits",
         "events": [
-          "opened"
+          "opened",
+          "merged"
         ]
       }
     ],
