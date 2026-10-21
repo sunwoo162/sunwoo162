@@ -1,10 +1,13 @@
-### Today · 2026-10-22
+### Today · 2026-10-22 · 일부 수집
 
-**32 Commits** · **25 PRs** · **0 Issues**
+**34 Commits** · **26 PRs** · **0 Issues**
 
 | 시간(KST) | 종류 | 작업 | 저장소 |
 |:--:|:--|:--|:--|
-| 07:18 | PR | [fix: 로컬 문서 사용자별 격리 (opened)](https://github.com/sunwoo162/gleave/pull/115) | sunwoo162/gleave |
+| 08:07 | Commit | [fix: 사용자 선호 저장 범위 적용](https://github.com/sunwoo162/gleave/commit/4d86dd6c4998d01656c07fda46f63cd7b35b9498) | sunwoo162/gleave |
+| 08:07 | PR | [fix: 사용자 선호 저장 범위 적용 (opened/merged)](https://github.com/sunwoo162/gleave/pull/116) | sunwoo162/gleave |
+| 07:53 | Commit | [fix: 로컬 문서 사용자별 격리](https://github.com/sunwoo162/gleave/commit/b417fe151bba20dd562c755b997bb2d58ee2c850) | sunwoo162/gleave |
+| 07:53 | PR | [fix: 로컬 문서 사용자별 격리 (opened/merged)](https://github.com/sunwoo162/gleave/pull/115) | sunwoo162/gleave |
 | 07:18 | PR | [fix: 로컬 문서 사용자별 격리 (opened/closed)](https://github.com/sunwoo162/gleave/pull/114) | sunwoo162/gleave |
 | 07:11 | PR | [fix: 디자인 기록 사용자별 격리 (opened/merged)](https://github.com/sunwoo162/gleave/pull/113) | sunwoo162/gleave |
 | 07:11 | Commit | [fix: 디자인 기록 사용자별 격리](https://github.com/sunwoo162/gleave/commit/03ec7c01d0884f2ee68b720d93abd718e57faf50) | sunwoo162/gleave |

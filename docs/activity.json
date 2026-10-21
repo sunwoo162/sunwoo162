@@ -1,7 +1,7 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-10-21T22:48:42.371071+00:00",
+  "updated_at": "2026-10-21T23:18:45.191937+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
@@ -318,52 +318,103 @@
       "commit_scope": "GitHub commit-search index (not all unmerged branches)"
     },
     "2026-10-20": {
-      "state": "indexed",
-      "checked_at": "2026-10-21T22:48:15.153246+00:00",
+      "state": "limited",
+      "checked_at": "2026-10-21T23:18:00.683331+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
-      "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
+      "notes": [
+        "sunwoo162/gleave 브랜치가 20개를 넘어 일부만 조회"
+      ],
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
+      "branch_scan": "public owned repositories, max 20 branches each"
     },
     "2026-10-21": {
-      "state": "indexed",
-      "checked_at": "2026-10-21T22:48:28.866890+00:00",
+      "state": "limited",
+      "checked_at": "2026-10-21T23:18:15.254864+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
-      "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
+      "notes": [
+        "sunwoo162/gleave 브랜치가 20개를 넘어 일부만 조회"
+      ],
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
+      "branch_scan": "public owned repositories, max 20 branches each"
     },
     "2026-10-22": {
-      "state": "indexed",
-      "checked_at": "2026-10-21T22:48:42.370896+00:00",
+      "state": "limited",
+      "checked_at": "2026-10-21T23:18:31.188060+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
-      "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
+      "notes": [
+        "sunwoo162/gleave 브랜치가 20개를 넘어 일부만 조회"
+      ],
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
+      "branch_scan": "public owned repositories, max 20 branches each"
     }
   },
   "days": {
     "2026-10-22": [
       {
-        "kind": "pr",
-        "event": "opened",
+        "kind": "commit",
+        "event": "committed",
         "date": "2026-10-22",
-        "time": "07:18",
-        "at": "2026-10-22T07:18:57+09:00",
+        "time": "08:07",
+        "at": "2026-10-22T08:07:03+09:00",
+        "title": "fix: 사용자 선호 저장 범위 적용",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/4d86dd6c4998d01656c07fda46f63cd7b35b9498",
+        "sha": "4d86dd6c4998",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-10-22",
+        "time": "08:07",
+        "at": "2026-10-22T08:07:03+09:00",
+        "title": "fix: 사용자 선호 저장 범위 적용",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/pull/116",
+        "number": 116,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/116/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-22",
+        "time": "07:53",
+        "at": "2026-10-22T07:53:56+09:00",
+        "title": "fix: 로컬 문서 사용자별 격리",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/b417fe151bba20dd562c755b997bb2d58ee2c850",
+        "sha": "b417fe151bba",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-10-22",
+        "time": "07:53",
+        "at": "2026-10-22T07:53:56+09:00",
         "title": "fix: 로컬 문서 사용자별 격리",
         "repo": "sunwoo162/gleave",
         "url": "https://github.com/sunwoo162/gleave/pull/115",
         "number": 115,
-        "status": "open",
+        "status": "merged",
         "commits_url": "https://github.com/sunwoo162/gleave/pull/115/commits",
         "events": [
-          "opened"
+          "opened",
+          "merged"
         ]
       },
       {
