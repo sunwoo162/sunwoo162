@@ -1,7 +1,7 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-10-21T10:08:07.358787+00:00",
+  "updated_at": "2026-10-21T15:15:47.386187+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
@@ -320,7 +320,7 @@
     },
     "2026-10-20": {
       "state": "indexed",
-      "checked_at": "2026-10-21T10:07:47.326620+00:00",
+      "checked_at": "2026-10-21T15:14:08.950016+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -331,7 +331,18 @@
     },
     "2026-10-21": {
       "state": "indexed",
-      "checked_at": "2026-10-21T10:08:01.555530+00:00",
+      "checked_at": "2026-10-21T15:14:23.355470+00:00",
+      "sources": [
+        "github-commit-search",
+        "github-issue-search"
+      ],
+      "notes": [],
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
+      "branch_scan": "public owned repositories, max 20 branches each"
+    },
+    "2026-10-22": {
+      "state": "indexed",
+      "checked_at": "2026-10-21T15:15:42.116530+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -342,7 +353,518 @@
     }
   },
   "days": {
+    "2026-10-22": [
+      {
+        "kind": "pr",
+        "event": "opened",
+        "date": "2026-10-22",
+        "time": "00:06",
+        "at": "2026-10-22T00:06:06+09:00",
+        "title": "feat: 대화 기록 목록 페이지네이션 추가",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/pull/91",
+        "number": 91,
+        "status": "open",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/91/commits",
+        "events": [
+          "opened"
+        ]
+      }
+    ],
     "2026-10-21": [
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-10-21",
+        "time": "23:52",
+        "at": "2026-10-21T23:52:04+09:00",
+        "title": "feat: 모바일 이벤트 유실 감지 메타데이터 추가",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/pull/90",
+        "number": 90,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/90/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-21",
+        "time": "23:52",
+        "at": "2026-10-21T23:52:03+09:00",
+        "title": "feat: 모바일 이벤트 유실 감지 메타데이터 추가",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/72d3f9667146830e7e5cbd5d3230259b826b2b8e",
+        "sha": "72d3f9667146",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-10-21",
+        "time": "23:29",
+        "at": "2026-10-21T23:29:59+09:00",
+        "title": "fix: 데스크톱 전용 API 외부 접근 차단",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/pull/89",
+        "number": 89,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/89/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-21",
+        "time": "23:29",
+        "at": "2026-10-21T23:29:58+09:00",
+        "title": "fix: 데스크톱 전용 API 외부 접근 차단 (#89)",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/a83748f4952d166ed1b6d4ca9ca4ecbd79dca6b6",
+        "sha": "a83748f4952d",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-21",
+        "time": "23:17",
+        "at": "2026-10-21T23:17:34+09:00",
+        "title": "fix: 백그라운드 요청 중복 실행 방지 (#88)",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/08e2d6da5fa6b67d15950e316dd02fbdf1a0e2b5",
+        "sha": "08e2d6da5fa6",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-10-21",
+        "time": "23:17",
+        "at": "2026-10-21T23:17:34+09:00",
+        "title": "fix: 백그라운드 요청 중복 실행 방지",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/pull/88",
+        "number": 88,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/88/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-10-21",
+        "time": "23:11",
+        "at": "2026-10-21T23:11:08+09:00",
+        "title": "feat: 모바일 대화 기록과 재시도 식별자 연결",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/pull/87",
+        "number": 87,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/87/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-21",
+        "time": "23:11",
+        "at": "2026-10-21T23:11:07+09:00",
+        "title": "feat: 모바일 대화 기록과 재시도 식별자 연결 (#87)",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/d989b8c3963e9962c592ef6a97e7f1b279754a8e",
+        "sha": "d989b8c3963e",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-21",
+        "time": "23:01",
+        "at": "2026-10-21T23:01:59+09:00",
+        "title": "feat: 레거시 프로젝트 요청을 대화 기록에 연결 (#86)",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/b16f0f8c706aec604022168f50371dc9f74e3329",
+        "sha": "b16f0f8c706a",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-10-21",
+        "time": "23:01",
+        "at": "2026-10-21T23:01:59+09:00",
+        "title": "feat: 레거시 프로젝트 요청을 대화 기록에 연결",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/pull/86",
+        "number": 86,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/86/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-10-21",
+        "time": "22:50",
+        "at": "2026-10-21T22:50:27+09:00",
+        "title": "fix: 백그라운드 재시도 상태를 정본 기록과 동기화",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/pull/85",
+        "number": 85,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/85/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-21",
+        "time": "22:50",
+        "at": "2026-10-21T22:50:26+09:00",
+        "title": "fix: 백그라운드 재시도 상태를 정본 기록과 동기화 (#85)",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/66d9ad6cc6caaf7859c37a7f0febdeb185885e8b",
+        "sha": "66d9ad6cc6ca",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-10-21",
+        "time": "22:38",
+        "at": "2026-10-21T22:38:47+09:00",
+        "title": "fix: 지식 저장소 동시 초기화 잠금 보강",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/pull/84",
+        "number": 84,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/84/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-21",
+        "time": "22:38",
+        "at": "2026-10-21T22:38:46+09:00",
+        "title": "fix: 지식 저장소 동시 초기화 잠금 보강 (#84)",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/514cbcb33590e9112ae2314ecacf322c6f2d88fb",
+        "sha": "514cbcb33590",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-10-21",
+        "time": "22:24",
+        "at": "2026-10-21T22:24:52+09:00",
+        "title": "fix: 대화 기록에 실제 provider와 오류 원인 저장",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/pull/83",
+        "number": 83,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/83/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-21",
+        "time": "22:24",
+        "at": "2026-10-21T22:24:51+09:00",
+        "title": "fix: 대화 기록에 실제 provider와 오류 원인 저장 (#83)",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/abe5488369e1f587424d02a7f334b6f73909a40c",
+        "sha": "abe5488369e1",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-21",
+        "time": "22:16",
+        "at": "2026-10-21T22:16:15+09:00",
+        "title": "feat: 레거시 어시스턴트 요청 수명주기 기록 (#82)",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/aae9562ea26c2fdc018da858f7feae4dd4635b51",
+        "sha": "aae9562ea26c",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-10-21",
+        "time": "22:16",
+        "at": "2026-10-21T22:16:15+09:00",
+        "title": "feat: 레거시 어시스턴트 요청 수명주기 기록",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/pull/82",
+        "number": 82,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/82/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-10-21",
+        "time": "21:59",
+        "at": "2026-10-21T21:59:45+09:00",
+        "title": "fix: 비동기 재시도와 모바일 상태 추적 보강",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/pull/81",
+        "number": 81,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/81/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-21",
+        "time": "21:59",
+        "at": "2026-10-21T21:59:44+09:00",
+        "title": "fix: 비동기 재시도와 모바일 상태 추적 보강 (#81)",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/4b5f41585831aba2c65cf34d24359c521446047b",
+        "sha": "4b5f41585831",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-21",
+        "time": "21:47",
+        "at": "2026-10-21T21:47:45+09:00",
+        "title": "fix: 정본 대화 기록과 응답 상태 일관성 보강 (#80)",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/0e9048ee1118856010684d8a58bb54a7964adbff",
+        "sha": "0e9048ee1118",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-10-21",
+        "time": "21:47",
+        "at": "2026-10-21T21:47:45+09:00",
+        "title": "fix: 정본 대화 기록과 응답 상태 일관성 보강",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/pull/80",
+        "number": 80,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/80/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-21",
+        "time": "21:03",
+        "at": "2026-10-21T21:03:58+09:00",
+        "title": "fix: 지식 문서 저장의 동시성과 접근 경계 보강 (#79)",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/a9f7522d0b598cf682b71b4a16638f4f206f1eca",
+        "sha": "a9f7522d0b59",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-10-21",
+        "time": "21:03",
+        "at": "2026-10-21T21:03:58+09:00",
+        "title": "fix: 지식 문서 저장의 동시성과 접근 경계 보강",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/pull/79",
+        "number": 79,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/79/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-21",
+        "time": "20:48",
+        "at": "2026-10-21T20:48:35+09:00",
+        "title": "fix: 정본 대화 기록을 AI 문맥에 연결 (#78)",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/93c6a1d17989bf1be8898433fd03bad5d9ce2d16",
+        "sha": "93c6a1d17989",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-10-21",
+        "time": "20:48",
+        "at": "2026-10-21T20:48:35+09:00",
+        "title": "fix: 정본 대화 기록을 AI 문맥에 연결",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/pull/78",
+        "number": 78,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/78/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-21",
+        "time": "20:44",
+        "at": "2026-10-21T20:44:18+09:00",
+        "title": "feat: 어시스턴트 대화 기록을 정본 저장소로 통합 (#77)",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/0ae432849198d9a99269b93826f94d87cef2eb5b",
+        "sha": "0ae432849198",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-10-21",
+        "time": "20:44",
+        "at": "2026-10-21T20:44:18+09:00",
+        "title": "feat: 어시스턴트 대화 기록을 정본 저장소로 통합",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/pull/77",
+        "number": 77,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/77/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-21",
+        "time": "20:26",
+        "at": "2026-10-21T20:26:47+09:00",
+        "title": "fix: 빈 AI 응답을 완료로 기록하지 않기 (#76)",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/d24ed2feab857be4959a9f366b08bd4914165eae",
+        "sha": "d24ed2feab85",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-10-21",
+        "time": "20:26",
+        "at": "2026-10-21T20:26:47+09:00",
+        "title": "fix: 빈 AI 답변을 완료로 기록하지 않기",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/pull/76",
+        "number": 76,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/76/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-21",
+        "time": "20:11",
+        "at": "2026-10-21T20:11:22+09:00",
+        "title": "fix: 라우팅 오분류와 미지원 기능 상태 명확화 (#75)",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/83f3eaea175dfb8dc74805a5f6ef3de9ac792914",
+        "sha": "83f3eaea175d",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-10-21",
+        "time": "20:11",
+        "at": "2026-10-21T20:11:22+09:00",
+        "title": "fix: 라우팅 오분류와 미지원 기능 상태 명확화",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/pull/75",
+        "number": 75,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/75/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-21",
+        "time": "19:49",
+        "at": "2026-10-21T19:49:05+09:00",
+        "title": "fix: 대화 재시도와 백그라운드 결과 기록 보강 (#74)",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/c089eef5a761dfc99524c29b8ab7e5971b68c007",
+        "sha": "c089eef5a761",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-10-21",
+        "time": "19:49",
+        "at": "2026-10-21T19:49:05+09:00",
+        "title": "fix: 대화 재시도와 백그라운드 결과 기록 보강",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/pull/74",
+        "number": 74,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/74/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
       {
         "kind": "pr",
         "event": "merged",
