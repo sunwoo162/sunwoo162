@@ -1,7 +1,7 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-10-20T23:52:52.867830+00:00",
+  "updated_at": "2026-10-21T04:44:40.967160+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
@@ -309,7 +309,7 @@
     },
     "2026-10-19": {
       "state": "indexed",
-      "checked_at": "2026-10-20T23:52:20.700433+00:00",
+      "checked_at": "2026-10-21T04:44:11.314197+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -320,7 +320,7 @@
     },
     "2026-10-20": {
       "state": "indexed",
-      "checked_at": "2026-10-20T23:52:34.144076+00:00",
+      "checked_at": "2026-10-21T04:44:23.970133+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -331,7 +331,7 @@
     },
     "2026-10-21": {
       "state": "indexed",
-      "checked_at": "2026-10-20T23:52:47.329043+00:00",
+      "checked_at": "2026-10-21T04:44:36.537270+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -342,7 +342,37 @@
     }
   },
   "days": {
-    "2026-10-21": [],
+    "2026-10-21": [
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-21",
+        "time": "13:30",
+        "at": "2026-10-21T13:30:58+09:00",
+        "title": "플러그인 연결 권한 선택 및 의존성 검증",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/6937a07cdb3fec7e2ef4b986f95489ee82c53b85",
+        "sha": "6937a07cdb3f",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-10-21",
+        "time": "13:30",
+        "at": "2026-10-21T13:30:58+09:00",
+        "title": "플러그인 연결 권한 선택 및 의존성 검증",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/pull/67",
+        "number": 67,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/67/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      }
+    ],
     "2026-10-20": [
       {
         "kind": "pr",
