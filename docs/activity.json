@@ -1,7 +1,7 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-10-21T04:44:40.967160+00:00",
+  "updated_at": "2026-10-21T10:08:07.358787+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
@@ -309,7 +309,7 @@
     },
     "2026-10-19": {
       "state": "indexed",
-      "checked_at": "2026-10-21T04:44:11.314197+00:00",
+      "checked_at": "2026-10-21T10:07:33.480720+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -320,7 +320,7 @@
     },
     "2026-10-20": {
       "state": "indexed",
-      "checked_at": "2026-10-21T04:44:23.970133+00:00",
+      "checked_at": "2026-10-21T10:07:47.326620+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -331,7 +331,7 @@
     },
     "2026-10-21": {
       "state": "indexed",
-      "checked_at": "2026-10-21T04:44:36.537270+00:00",
+      "checked_at": "2026-10-21T10:08:01.555530+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -343,6 +343,167 @@
   },
   "days": {
     "2026-10-21": [
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-10-21",
+        "time": "18:40",
+        "at": "2026-10-21T18:40:15+09:00",
+        "title": "feat: 로컬 지식 문서 capability 구현",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/pull/73",
+        "number": 73,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/73/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-21",
+        "time": "18:40",
+        "at": "2026-10-21T18:40:14+09:00",
+        "title": "feat: 로컬 지식 문서 capability 구현 (#73)",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/98e0dfc5ebe2330180fccd13a590ba2a354d51cc",
+        "sha": "98e0dfc5ebe2",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-21",
+        "time": "18:09",
+        "at": "2026-10-21T18:09:22+09:00",
+        "title": "feat: 로컬 일정 비서와 재시도 방지 추가 (#72)",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/2c3bf843440ca1cf791b249b48fe1b62c8bd616f",
+        "sha": "2c3bf843440c",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-10-21",
+        "time": "18:09",
+        "at": "2026-10-21T18:09:22+09:00",
+        "title": "feat: 로컬 일정 비서와 재시도 방지 추가",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/pull/72",
+        "number": 72,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/72/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-21",
+        "time": "16:37",
+        "at": "2026-10-21T16:37:36+09:00",
+        "title": "fix: 검증 실패 응답의 완료 판정 차단 (#71)",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/e7f400bb06ea5e65a9bd5d96c9a96486fc15f308",
+        "sha": "e7f400bb06ea",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-10-21",
+        "time": "16:37",
+        "at": "2026-10-21T16:37:36+09:00",
+        "title": "fix: 검증 실패 응답의 완료 판정 차단",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/pull/71",
+        "number": 71,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/71/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-10-21",
+        "time": "16:19",
+        "at": "2026-10-21T16:19:27+09:00",
+        "title": "fix: 플러그인 실행 원장과 실패 상태 보강",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/pull/70",
+        "number": 70,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/70/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-21",
+        "time": "16:19",
+        "at": "2026-10-21T16:19:26+09:00",
+        "title": "fix: 플러그인 실행 원장과 실패 상태 보강 (#70)",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/1643f777c7d03e63102feb270d1fbb289467d1f9",
+        "sha": "1643f777c7d0",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "opened",
+        "date": "2026-10-21",
+        "time": "15:50",
+        "at": "2026-10-21T15:50:09+09:00",
+        "title": "fix: EEEE 실행 검증과 플러그인 승인 경계 강화",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/pull/69",
+        "number": 69,
+        "status": "closed",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/69/commits",
+        "events": [
+          "opened"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-21",
+        "time": "15:06",
+        "at": "2026-10-21T15:06:47+09:00",
+        "title": "EEEE 기본 대화 fallback과 provider 복구 보강",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/commit/368c41a06b6250efb5a9447f2f8b3c458225f0c9",
+        "sha": "368c41a06b62",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-10-21",
+        "time": "15:06",
+        "at": "2026-10-21T15:06:47+09:00",
+        "title": "EEEE 기본 대화 fallback과 provider 복구 보강",
+        "repo": "sunwoo162/gleave",
+        "url": "https://github.com/sunwoo162/gleave/pull/68",
+        "number": 68,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/gleave/pull/68/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
       {
         "kind": "commit",
         "event": "committed",
