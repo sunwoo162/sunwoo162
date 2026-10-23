@@ -1,7 +1,7 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-10-23T10:03:43.566146+00:00",
+  "updated_at": "2026-10-23T15:04:11.035197+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
@@ -342,7 +342,7 @@
     },
     "2026-10-22": {
       "state": "limited",
-      "checked_at": "2026-10-23T10:03:11.776799+00:00",
+      "checked_at": "2026-10-23T15:03:26.249217+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -355,7 +355,20 @@
     },
     "2026-10-23": {
       "state": "limited",
-      "checked_at": "2026-10-23T10:03:26.719047+00:00",
+      "checked_at": "2026-10-23T15:03:41.153094+00:00",
+      "sources": [
+        "github-commit-search",
+        "github-issue-search"
+      ],
+      "notes": [
+        "sunwoo162/gleave 브랜치가 20개를 넘어 일부만 조회"
+      ],
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
+      "branch_scan": "public owned repositories, max 20 branches each"
+    },
+    "2026-10-24": {
+      "state": "limited",
+      "checked_at": "2026-10-23T15:03:54.920105+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -368,7 +381,24 @@
     }
   },
   "days": {
+    "2026-10-24": [],
     "2026-10-23": [
+      {
+        "kind": "pr",
+        "event": "opened",
+        "date": "2026-10-23",
+        "time": "21:16",
+        "at": "2026-10-23T21:16:15+09:00",
+        "title": "feat: replace 3D landing with 2D treasure map",
+        "repo": "sunwoo162/dev-sky-archive",
+        "url": "https://github.com/sunwoo162/dev-sky-archive/pull/2",
+        "number": 2,
+        "status": "open",
+        "commits_url": "https://github.com/sunwoo162/dev-sky-archive/pull/2/commits",
+        "events": [
+          "opened"
+        ]
+      },
       {
         "kind": "commit",
         "event": "committed",
