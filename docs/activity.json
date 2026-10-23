@@ -1,7 +1,7 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-10-23T04:47:47.380381+00:00",
+  "updated_at": "2026-10-23T10:03:43.566146+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
@@ -329,7 +329,7 @@
     },
     "2026-10-21": {
       "state": "limited",
-      "checked_at": "2026-10-23T04:47:07.961478+00:00",
+      "checked_at": "2026-10-23T10:02:55.310296+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -342,7 +342,7 @@
     },
     "2026-10-22": {
       "state": "limited",
-      "checked_at": "2026-10-23T04:47:22.277914+00:00",
+      "checked_at": "2026-10-23T10:03:11.776799+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -355,7 +355,7 @@
     },
     "2026-10-23": {
       "state": "limited",
-      "checked_at": "2026-10-23T04:47:35.632581+00:00",
+      "checked_at": "2026-10-23T10:03:26.719047+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
