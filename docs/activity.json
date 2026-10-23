@@ -1,7 +1,7 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-10-22T23:23:12.770841+00:00",
+  "updated_at": "2026-10-23T04:47:47.380381+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
@@ -329,7 +329,7 @@
     },
     "2026-10-21": {
       "state": "limited",
-      "checked_at": "2026-10-22T23:22:23.684145+00:00",
+      "checked_at": "2026-10-23T04:47:07.961478+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -342,7 +342,7 @@
     },
     "2026-10-22": {
       "state": "limited",
-      "checked_at": "2026-10-22T23:22:39.520833+00:00",
+      "checked_at": "2026-10-23T04:47:22.277914+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -355,7 +355,7 @@
     },
     "2026-10-23": {
       "state": "limited",
-      "checked_at": "2026-10-22T23:22:54.338399+00:00",
+      "checked_at": "2026-10-23T04:47:35.632581+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -370,19 +370,32 @@
   "days": {
     "2026-10-23": [
       {
-        "kind": "pr",
-        "event": "opened",
+        "kind": "commit",
+        "event": "committed",
         "date": "2026-10-23",
-        "time": "00:11",
-        "at": "2026-10-23T00:11:31+09:00",
+        "time": "11:21",
+        "at": "2026-10-23T11:21:32+09:00",
+        "title": "feat: release dev sky archive",
+        "repo": "sunwoo162/dev-sky-archive",
+        "url": "https://github.com/sunwoo162/dev-sky-archive/commit/ab8b3704ea7398ddc3e2c9def48a7fbc25603fb1",
+        "sha": "ab8b3704ea73",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-10-23",
+        "time": "11:21",
+        "at": "2026-10-23T11:21:32+09:00",
         "title": "feat: add dev sky archive portfolio game",
         "repo": "sunwoo162/dev-sky-archive",
         "url": "https://github.com/sunwoo162/dev-sky-archive/pull/1",
         "number": 1,
-        "status": "open",
+        "status": "merged",
         "commits_url": "https://github.com/sunwoo162/dev-sky-archive/pull/1/commits",
         "events": [
-          "opened"
+          "opened",
+          "merged"
         ]
       }
     ],
