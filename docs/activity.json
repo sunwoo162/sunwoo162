@@ -1,7 +1,7 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-10-25T11:25:18.186141+00:00",
+  "updated_at": "2026-10-25T16:16:09.384901+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
@@ -360,7 +360,7 @@
     },
     "2026-10-24": {
       "state": "indexed",
-      "checked_at": "2026-10-25T11:25:02.550812+00:00",
+      "checked_at": "2026-10-25T16:15:41.716405+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -371,7 +371,18 @@
     },
     "2026-10-25": {
       "state": "indexed",
-      "checked_at": "2026-10-25T11:25:14.620320+00:00",
+      "checked_at": "2026-10-25T16:15:53.950442+00:00",
+      "sources": [
+        "github-commit-search",
+        "github-issue-search"
+      ],
+      "notes": [],
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
+      "branch_scan": "public owned repositories, max 20 branches each"
+    },
+    "2026-10-26": {
+      "state": "indexed",
+      "checked_at": "2026-10-25T16:16:06.325821+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -382,7 +393,25 @@
     }
   },
   "days": {
-    "2026-10-25": [],
+    "2026-10-26": [],
+    "2026-10-25": [
+      {
+        "kind": "pr",
+        "event": "opened",
+        "date": "2026-10-25",
+        "time": "22:27",
+        "at": "2026-10-25T22:27:08+09:00",
+        "title": "[web] 로그인 화면 반응형 대응",
+        "repo": "team-washer/Washer-Client-v2",
+        "url": "https://github.com/team-washer/Washer-Client-v2/pull/41",
+        "number": 41,
+        "status": "open",
+        "commits_url": "https://github.com/team-washer/Washer-Client-v2/pull/41/commits",
+        "events": [
+          "opened"
+        ]
+      }
+    ],
     "2026-10-24": [],
     "2026-10-23": [
       {
