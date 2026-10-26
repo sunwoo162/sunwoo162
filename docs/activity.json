@@ -1,7 +1,7 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-10-25T22:32:58.948947+00:00",
+  "updated_at": "2026-10-26T01:09:15.199299+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
@@ -359,7 +359,7 @@
     },
     "2026-10-24": {
       "state": "indexed",
-      "checked_at": "2026-10-25T22:32:28.759923+00:00",
+      "checked_at": "2026-10-26T01:08:44.391886+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -370,7 +370,7 @@
     },
     "2026-10-25": {
       "state": "indexed",
-      "checked_at": "2026-10-25T22:32:41.898961+00:00",
+      "checked_at": "2026-10-26T01:08:57.962707+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -381,7 +381,7 @@
     },
     "2026-10-26": {
       "state": "indexed",
-      "checked_at": "2026-10-25T22:32:54.903391+00:00",
+      "checked_at": "2026-10-26T01:09:11.467160+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -392,7 +392,24 @@
     }
   },
   "days": {
-    "2026-10-26": [],
+    "2026-10-26": [
+      {
+        "kind": "pr",
+        "event": "opened",
+        "date": "2026-10-26",
+        "time": "08:13",
+        "at": "2026-10-26T08:13:21+09:00",
+        "title": "feat: 백엔드 API 전체 연동",
+        "repo": "project-hyoit/hyoit-FE",
+        "url": "https://github.com/project-hyoit/hyoit-FE/pull/27",
+        "number": 27,
+        "status": "open",
+        "commits_url": "https://github.com/project-hyoit/hyoit-FE/pull/27/commits",
+        "events": [
+          "opened"
+        ]
+      }
+    ],
     "2026-10-25": [
       {
         "kind": "pr",
