@@ -1,7 +1,7 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-10-26T01:09:15.199299+00:00",
+  "updated_at": "2026-10-26T06:12:09.099831+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
@@ -359,7 +359,7 @@
     },
     "2026-10-24": {
       "state": "indexed",
-      "checked_at": "2026-10-26T01:08:44.391886+00:00",
+      "checked_at": "2026-10-26T06:11:37.392727+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -370,7 +370,7 @@
     },
     "2026-10-25": {
       "state": "indexed",
-      "checked_at": "2026-10-26T01:08:57.962707+00:00",
+      "checked_at": "2026-10-26T06:11:50.696778+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -381,7 +381,7 @@
     },
     "2026-10-26": {
       "state": "indexed",
-      "checked_at": "2026-10-26T01:09:11.467160+00:00",
+      "checked_at": "2026-10-26T06:12:05.287283+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -393,6 +393,23 @@
   },
   "days": {
     "2026-10-26": [
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-10-26",
+        "time": "11:08",
+        "at": "2026-10-26T11:08:02+09:00",
+        "title": "feat : 회원가입 약관 동의 UX 개선",
+        "repo": "kody-gsm/Jobdom_Fromt",
+        "url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/190",
+        "number": 190,
+        "status": "merged",
+        "commits_url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/190/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
       {
         "kind": "pr",
         "event": "opened",
