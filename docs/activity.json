@@ -1,7 +1,7 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-10-26T23:24:49.322782+00:00",
+  "updated_at": "2026-10-26T23:52:26.536843+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
@@ -369,37 +369,57 @@
     },
     "2026-10-25": {
       "state": "indexed",
-      "checked_at": "2026-10-26T23:24:21.281120+00:00",
+      "checked_at": "2026-10-26T23:51:55.769735+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
       "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
+      "branch_scan": "public owned repositories, max 20 branches each"
     },
     "2026-10-26": {
       "state": "indexed",
-      "checked_at": "2026-10-26T23:24:35.599378+00:00",
+      "checked_at": "2026-10-26T23:52:09.841092+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
       "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
+      "branch_scan": "public owned repositories, max 20 branches each"
     },
     "2026-10-27": {
       "state": "indexed",
-      "checked_at": "2026-10-26T23:24:49.322683+00:00",
+      "checked_at": "2026-10-26T23:52:23.076352+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
       "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
+      "branch_scan": "public owned repositories, max 20 branches each"
     }
   },
   "days": {
-    "2026-10-27": [],
+    "2026-10-27": [
+      {
+        "kind": "pr",
+        "event": "opened",
+        "date": "2026-10-27",
+        "time": "08:48",
+        "at": "2026-10-27T08:48:16+09:00",
+        "title": "fix(pwa): 인증 프록시에서 PWA 경로 허용",
+        "repo": "team-washer/Washer-Client-v2",
+        "url": "https://github.com/team-washer/Washer-Client-v2/pull/42",
+        "number": 42,
+        "status": "open",
+        "commits_url": "https://github.com/team-washer/Washer-Client-v2/pull/42/commits",
+        "events": [
+          "opened"
+        ]
+      }
+    ],
     "2026-10-26": [
       {
         "kind": "pr",
