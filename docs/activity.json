@@ -1,7 +1,7 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-10-26T06:12:09.099831+00:00",
+  "updated_at": "2026-10-26T13:03:04.489342+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
@@ -359,7 +359,7 @@
     },
     "2026-10-24": {
       "state": "indexed",
-      "checked_at": "2026-10-26T06:11:37.392727+00:00",
+      "checked_at": "2026-10-26T13:02:31.381211+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -370,7 +370,7 @@
     },
     "2026-10-25": {
       "state": "indexed",
-      "checked_at": "2026-10-26T06:11:50.696778+00:00",
+      "checked_at": "2026-10-26T13:02:45.271066+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -381,7 +381,7 @@
     },
     "2026-10-26": {
       "state": "indexed",
-      "checked_at": "2026-10-26T06:12:05.287283+00:00",
+      "checked_at": "2026-10-26T13:03:00.596099+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -393,6 +393,46 @@
   },
   "days": {
     "2026-10-26": [
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-10-26",
+        "time": "20:14",
+        "at": "2026-10-26T20:14:01+09:00",
+        "title": "[web] 로그인 화면 반응형 대응",
+        "repo": "team-washer/Washer-Client-v2",
+        "url": "https://github.com/team-washer/Washer-Client-v2/pull/41",
+        "number": 41,
+        "status": "merged",
+        "commits_url": "https://github.com/team-washer/Washer-Client-v2/pull/41/commits",
+        "events": [
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-26",
+        "time": "19:48",
+        "at": "2026-10-26T19:48:32+09:00",
+        "title": "test: make responsive class checks order-independent",
+        "repo": "team-washer/Washer-Client-v2",
+        "url": "https://github.com/team-washer/Washer-Client-v2/commit/968443122d81599c1947a1035a98741003908d8e",
+        "sha": "968443122d81",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-26",
+        "time": "11:08",
+        "at": "2026-10-26T11:08:02+09:00",
+        "title": "Merge pull request #190 from kody-gsm/fix/signup-consent-flow",
+        "repo": "kody-gsm/Jobdom_Fromt",
+        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/e0db84e624ef590b62a0cc0789f70bd372d377f3",
+        "sha": "e0db84e624ef",
+        "source": "commit-search"
+      },
       {
         "kind": "pr",
         "event": "merged",
@@ -411,6 +451,54 @@
         ]
       },
       {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-26",
+        "time": "10:57",
+        "at": "2026-10-26T10:57:13+09:00",
+        "title": "fix : clarify signup consent actions",
+        "repo": "kody-gsm/Jobdom_Fromt",
+        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/30ad0524cccda080d680ed575f7140dad0016927",
+        "sha": "30ad0524cccd",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-26",
+        "time": "10:53",
+        "at": "2026-10-26T10:53:33+09:00",
+        "title": "docs : document signup consent UX flow",
+        "repo": "kody-gsm/Jobdom_Fromt",
+        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/1ed90bdf9c3e26a851910dce9d0fbccb821b2059",
+        "sha": "1ed90bdf9c3e",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-26",
+        "time": "10:53",
+        "at": "2026-10-26T10:53:14+09:00",
+        "title": "test : cover signup consent UI behavior",
+        "repo": "kody-gsm/Jobdom_Fromt",
+        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/fd753d56ac6fec99d7a98f46b3ddf778284a4b6a",
+        "sha": "fd753d56ac6f",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-26",
+        "time": "10:53",
+        "at": "2026-10-26T10:53:07+09:00",
+        "title": "feat : improve signup consent agreement flow",
+        "repo": "kody-gsm/Jobdom_Fromt",
+        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/66d387007563b4c465cc52f6ff9f7a1bee5b59c2",
+        "sha": "66d387007563",
+        "source": "commit-search"
+      },
+      {
         "kind": "pr",
         "event": "opened",
         "date": "2026-10-26",
@@ -425,6 +513,18 @@
         "events": [
           "opened"
         ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-26",
+        "time": "00:08",
+        "at": "2026-10-26T00:08:20+09:00",
+        "title": "chore: remove internal planning docs",
+        "repo": "team-washer/Washer-Client-v2",
+        "url": "https://github.com/team-washer/Washer-Client-v2/commit/baf0b859a9290b11de7fc60a4286e394907c6114",
+        "sha": "baf0b859a929",
+        "source": "commit-search"
       }
     ],
     "2026-10-25": [
@@ -438,11 +538,35 @@
         "repo": "team-washer/Washer-Client-v2",
         "url": "https://github.com/team-washer/Washer-Client-v2/pull/41",
         "number": 41,
-        "status": "open",
+        "status": "merged",
         "commits_url": "https://github.com/team-washer/Washer-Client-v2/pull/41/commits",
         "events": [
           "opened"
         ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-25",
+        "time": "22:02",
+        "at": "2026-10-25T22:02:02+09:00",
+        "title": "test: tighten responsive sign-in checks",
+        "repo": "team-washer/Washer-Client-v2",
+        "url": "https://github.com/team-washer/Washer-Client-v2/commit/31d41b3d2a815549d4316aa17370ac23fc6889c5",
+        "sha": "31d41b3d2a81",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-25",
+        "time": "21:50",
+        "at": "2026-10-25T21:50:02+09:00",
+        "title": "fix: make sign-in layout responsive",
+        "repo": "team-washer/Washer-Client-v2",
+        "url": "https://github.com/team-washer/Washer-Client-v2/commit/0b3e2f1484631e4d4dcb00a523f045452640209f",
+        "sha": "0b3e2f148463",
+        "source": "commit-search"
       }
     ],
     "2026-10-24": [],
