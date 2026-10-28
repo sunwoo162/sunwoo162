@@ -1,7 +1,7 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-10-27T23:14:10.569681+00:00",
+  "updated_at": "2026-10-28T01:20:38.770866+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
@@ -378,34 +378,43 @@
       "commit_scope": "GitHub commit-search index (not all unmerged branches)"
     },
     "2026-10-26": {
-      "state": "indexed",
-      "checked_at": "2026-10-27T23:13:44.952366+00:00",
+      "state": "limited",
+      "checked_at": "2026-10-28T01:19:59.463826+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
-      "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
+      "notes": [
+        "sunwoo162/gleave 브랜치가 20개를 넘어 일부만 조회"
+      ],
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
+      "branch_scan": "public owned repositories, max 20 branches each"
     },
     "2026-10-27": {
-      "state": "indexed",
-      "checked_at": "2026-10-27T23:13:58.306072+00:00",
+      "state": "limited",
+      "checked_at": "2026-10-28T01:20:13.429032+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
-      "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
+      "notes": [
+        "sunwoo162/gleave 브랜치가 20개를 넘어 일부만 조회"
+      ],
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
+      "branch_scan": "public owned repositories, max 20 branches each"
     },
     "2026-10-28": {
-      "state": "indexed",
-      "checked_at": "2026-10-27T23:14:10.569616+00:00",
+      "state": "limited",
+      "checked_at": "2026-10-28T01:20:26.359875+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
-      "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
+      "notes": [
+        "sunwoo162/gleave 브랜치가 20개를 넘어 일부만 조회"
+      ],
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
+      "branch_scan": "public owned repositories, max 20 branches each"
     }
   },
   "days": {
