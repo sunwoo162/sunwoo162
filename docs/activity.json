@@ -1,7 +1,7 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-10-28T01:20:38.770866+00:00",
+  "updated_at": "2026-10-28T08:28:35.474086+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
@@ -379,7 +379,7 @@
     },
     "2026-10-26": {
       "state": "limited",
-      "checked_at": "2026-10-28T01:19:59.463826+00:00",
+      "checked_at": "2026-10-28T08:27:58.379389+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -392,7 +392,7 @@
     },
     "2026-10-27": {
       "state": "limited",
-      "checked_at": "2026-10-28T01:20:13.429032+00:00",
+      "checked_at": "2026-10-28T08:28:11.713101+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -405,7 +405,7 @@
     },
     "2026-10-28": {
       "state": "limited",
-      "checked_at": "2026-10-28T01:20:26.359875+00:00",
+      "checked_at": "2026-10-28T08:28:25.414020+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -418,7 +418,48 @@
     }
   },
   "days": {
-    "2026-10-28": [],
+    "2026-10-28": [
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-10-28",
+        "time": "10:26",
+        "at": "2026-10-28T10:26:56+09:00",
+        "title": "fix(pwa): 인증 프록시에서 PWA 경로 허용",
+        "repo": "team-washer/Washer-Client-v2",
+        "url": "https://github.com/team-washer/Washer-Client-v2/pull/42",
+        "number": 42,
+        "status": "merged",
+        "commits_url": "https://github.com/team-washer/Washer-Client-v2/pull/42/commits",
+        "events": [
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-28",
+        "time": "10:26",
+        "at": "2026-10-28T10:26:55+09:00",
+        "title": "Merge pull request #42 from team-washer/fix/pwa-asset-auth-bypass",
+        "repo": "team-washer/Washer-Client-v2",
+        "url": "https://github.com/team-washer/Washer-Client-v2/commit/18b8b7a0a9faca60107ac8d0c6e06c2c6032b43f",
+        "sha": "18b8b7a0a9fa",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-28",
+        "time": "10:19",
+        "at": "2026-10-28T10:19:16+09:00",
+        "title": "refactor(pwa): 공개 프록시 경로 유틸 타입 명시",
+        "repo": "team-washer/Washer-Client-v2",
+        "url": "https://github.com/team-washer/Washer-Client-v2/commit/ef7d37b5e6793f96112e39dd7f16d526b7230554",
+        "sha": "ef7d37b5e679",
+        "source": "commit-search"
+      }
+    ],
     "2026-10-27": [
       {
         "kind": "pr",
@@ -430,11 +471,23 @@
         "repo": "team-washer/Washer-Client-v2",
         "url": "https://github.com/team-washer/Washer-Client-v2/pull/42",
         "number": 42,
-        "status": "open",
+        "status": "merged",
         "commits_url": "https://github.com/team-washer/Washer-Client-v2/pull/42/commits",
         "events": [
           "opened"
         ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-27",
+        "time": "08:45",
+        "at": "2026-10-27T08:45:55+09:00",
+        "title": "fix(pwa): 인증 프록시에서 PWA 경로 허용",
+        "repo": "team-washer/Washer-Client-v2",
+        "url": "https://github.com/team-washer/Washer-Client-v2/commit/5282575d68818eda082a8681551c7f6c11d0ae2c",
+        "sha": "5282575d6881",
+        "source": "commit-search"
       }
     ],
     "2026-10-26": [
