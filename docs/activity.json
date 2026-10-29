@@ -1,7 +1,7 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-10-29T00:55:14.825594+00:00",
+  "updated_at": "2026-10-29T07:04:12.961555+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
@@ -389,7 +389,7 @@
     },
     "2026-10-27": {
       "state": "limited",
-      "checked_at": "2026-10-29T00:54:34.959956+00:00",
+      "checked_at": "2026-10-29T07:03:30.203906+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -402,7 +402,7 @@
     },
     "2026-10-28": {
       "state": "limited",
-      "checked_at": "2026-10-29T00:54:49.363225+00:00",
+      "checked_at": "2026-10-29T07:03:44.194269+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -415,7 +415,7 @@
     },
     "2026-10-29": {
       "state": "limited",
-      "checked_at": "2026-10-29T00:55:03.416643+00:00",
+      "checked_at": "2026-10-29T07:03:58.852712+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -433,6 +433,133 @@
         "kind": "pr",
         "event": "merged",
         "date": "2026-10-29",
+        "time": "15:56",
+        "at": "2026-10-29T15:56:59+09:00",
+        "title": "chore: 개발 하네스와 관리자 문서 기반 구성",
+        "repo": "sunwoo162/waggle",
+        "url": "https://github.com/sunwoo162/waggle/pull/8",
+        "number": 8,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/waggle/pull/8/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-29",
+        "time": "15:56",
+        "at": "2026-10-29T15:56:58+09:00",
+        "title": "chore: 개발 하네스와 관리자 문서 기반 구성 (#8)",
+        "repo": "sunwoo162/waggle",
+        "url": "https://github.com/sunwoo162/waggle/commit/cc9665892dbb4005fca0e7de2d0f9465077567f4",
+        "sha": "cc9665892dbb",
+        "source": "commit-search"
+      },
+      {
+        "kind": "issue",
+        "event": "opened",
+        "date": "2026-10-29",
+        "time": "15:36",
+        "at": "2026-10-29T15:36:15+09:00",
+        "title": "[기능] 실제 연결 성공에 따른 전파 친구 도감",
+        "repo": "sunwoo162/waggle",
+        "url": "https://github.com/sunwoo162/waggle/issues/7"
+      },
+      {
+        "kind": "issue",
+        "event": "opened",
+        "date": "2026-10-29",
+        "time": "15:36",
+        "at": "2026-10-29T15:36:14+09:00",
+        "title": "[검증] Android 네트워크 제안과 백그라운드 실행",
+        "repo": "sunwoo162/waggle",
+        "url": "https://github.com/sunwoo162/waggle/issues/6"
+      },
+      {
+        "kind": "issue",
+        "event": "opened",
+        "date": "2026-10-29",
+        "time": "15:36",
+        "at": "2026-10-29T15:36:13+09:00",
+        "title": "[검증] Windows Wi-Fi·권한·트레이 실행",
+        "repo": "sunwoo162/waggle",
+        "url": "https://github.com/sunwoo162/waggle/issues/5"
+      },
+      {
+        "kind": "issue",
+        "event": "opened",
+        "date": "2026-10-29",
+        "time": "15:36",
+        "at": "2026-10-29T15:36:12+09:00",
+        "title": "[기능] 학교 이메일·개인 코드 로그인과 세션 회수",
+        "repo": "sunwoo162/waggle",
+        "url": "https://github.com/sunwoo162/waggle/issues/4"
+      },
+      {
+        "kind": "issue",
+        "event": "opened",
+        "date": "2026-10-29",
+        "time": "15:36",
+        "at": "2026-10-29T15:36:11+09:00",
+        "title": "[기능] 학교 네트워크·전체 AP 위치 관리",
+        "repo": "sunwoo162/waggle",
+        "url": "https://github.com/sunwoo162/waggle/issues/3"
+      },
+      {
+        "kind": "issue",
+        "event": "opened",
+        "date": "2026-10-29",
+        "time": "15:36",
+        "at": "2026-10-29T15:36:10+09:00",
+        "title": "[기능] DataGSM 운영자 인증과 앱 로그인 기반",
+        "repo": "sunwoo162/waggle",
+        "url": "https://github.com/sunwoo162/waggle/issues/2"
+      },
+      {
+        "kind": "issue",
+        "event": "opened",
+        "date": "2026-10-29",
+        "time": "15:29",
+        "at": "2026-10-29T15:29:27+09:00",
+        "title": "[기능] 개발 하네스와 관리자 프로젝트 문서 기반",
+        "repo": "sunwoo162/waggle",
+        "url": "https://github.com/sunwoo162/waggle/issues/1"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-29",
+        "time": "15:19",
+        "at": "2026-10-29T15:19:02+09:00",
+        "title": "chore: 와글 저장소 시작",
+        "repo": "sunwoo162/waggle",
+        "url": "https://github.com/sunwoo162/waggle/commit/afbc641a662c9705c4833c87996ce3e74d9c6836",
+        "sha": "afbc641a662c",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "opened",
+        "date": "2026-10-29",
+        "time": "15:06",
+        "at": "2026-10-29T15:06:56+09:00",
+        "title": "[admin] 관리자 계정의 사용자 페이지 이용 지원",
+        "repo": "team-washer/Washer-Client-v2",
+        "url": "https://github.com/team-washer/Washer-Client-v2/pull/43",
+        "number": 43,
+        "status": "open",
+        "commits_url": "https://github.com/team-washer/Washer-Client-v2/pull/43/commits",
+        "events": [
+          "opened"
+        ]
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-10-29",
         "time": "08:48",
         "at": "2026-10-29T08:48:12+09:00",
         "title": "fix : 비밀번호 재설정 프론트 학교 이메일 제한 제거",
@@ -445,6 +572,30 @@
           "opened",
           "merged"
         ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-29",
+        "time": "08:48",
+        "at": "2026-10-29T08:48:11+09:00",
+        "title": "Merge pull request #199 from kody-gsm/fix/password-reset-email",
+        "repo": "kody-gsm/Jobdom_Fromt",
+        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/64c04eb2d33e37beb12ebd90e34de3be1a7abad8",
+        "sha": "64c04eb2d33e",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-29",
+        "time": "08:43",
+        "at": "2026-10-29T08:43:14+09:00",
+        "title": "fix : allow general emails for password reset",
+        "repo": "kody-gsm/Jobdom_Fromt",
+        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/066d174502e73085d8973cac1b8cb2e84d3c81f2",
+        "sha": "066d174502e7",
+        "source": "commit-search"
       }
     ],
     "2026-10-28": [
