@@ -1,7 +1,7 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-10-28T23:35:26.173577+00:00",
+  "updated_at": "2026-10-29T00:55:14.825594+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
@@ -388,38 +388,65 @@
       "commit_scope": "GitHub commit-search index (not all unmerged branches)"
     },
     "2026-10-27": {
-      "state": "indexed",
-      "checked_at": "2026-10-28T23:34:58.727161+00:00",
+      "state": "limited",
+      "checked_at": "2026-10-29T00:54:34.959956+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
-      "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
+      "notes": [
+        "sunwoo162/gleave 브랜치가 20개를 넘어 일부만 조회"
+      ],
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
+      "branch_scan": "public owned repositories, max 20 branches each"
     },
     "2026-10-28": {
-      "state": "indexed",
-      "checked_at": "2026-10-28T23:35:12.517845+00:00",
+      "state": "limited",
+      "checked_at": "2026-10-29T00:54:49.363225+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
-      "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
+      "notes": [
+        "sunwoo162/gleave 브랜치가 20개를 넘어 일부만 조회"
+      ],
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
+      "branch_scan": "public owned repositories, max 20 branches each"
     },
     "2026-10-29": {
-      "state": "indexed",
-      "checked_at": "2026-10-28T23:35:26.173522+00:00",
+      "state": "limited",
+      "checked_at": "2026-10-29T00:55:03.416643+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
-      "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
+      "notes": [
+        "sunwoo162/gleave 브랜치가 20개를 넘어 일부만 조회"
+      ],
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
+      "branch_scan": "public owned repositories, max 20 branches each"
     }
   },
   "days": {
-    "2026-10-29": [],
+    "2026-10-29": [
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-10-29",
+        "time": "08:48",
+        "at": "2026-10-29T08:48:12+09:00",
+        "title": "fix : 비밀번호 재설정 프론트 학교 이메일 제한 제거",
+        "repo": "kody-gsm/Jobdom_Fromt",
+        "url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/199",
+        "number": 199,
+        "status": "merged",
+        "commits_url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/199/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      }
+    ],
     "2026-10-28": [
       {
         "kind": "pr",
