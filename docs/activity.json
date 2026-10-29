@@ -1,7 +1,7 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-10-29T07:04:12.961555+00:00",
+  "updated_at": "2026-10-29T14:16:49.193998+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
@@ -389,7 +389,7 @@
     },
     "2026-10-27": {
       "state": "limited",
-      "checked_at": "2026-10-29T07:03:30.203906+00:00",
+      "checked_at": "2026-10-29T14:16:02.834077+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -402,7 +402,7 @@
     },
     "2026-10-28": {
       "state": "limited",
-      "checked_at": "2026-10-29T07:03:44.194269+00:00",
+      "checked_at": "2026-10-29T14:16:17.579174+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -415,7 +415,7 @@
     },
     "2026-10-29": {
       "state": "limited",
-      "checked_at": "2026-10-29T07:03:58.852712+00:00",
+      "checked_at": "2026-10-29T14:16:33.001193+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -429,6 +429,64 @@
   },
   "days": {
     "2026-10-29": [
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-29",
+        "time": "22:31",
+        "at": "2026-10-29T22:31:40+09:00",
+        "title": "feat: 학교 네트워크와 전체 AP 위치 관리 (#14)",
+        "repo": "sunwoo162/waggle",
+        "url": "https://github.com/sunwoo162/waggle/commit/772b1cdfe40285e14875a8c0d0c487a0a474e5d1",
+        "sha": "772b1cdfe402",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-10-29",
+        "time": "22:31",
+        "at": "2026-10-29T22:31:40+09:00",
+        "title": "feat: 학교 네트워크와 전체 AP 위치 관리",
+        "repo": "sunwoo162/waggle",
+        "url": "https://github.com/sunwoo162/waggle/pull/14",
+        "number": 14,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/waggle/pull/14/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-29",
+        "time": "20:21",
+        "at": "2026-10-29T20:21:34+09:00",
+        "title": "feat: DataGSM 운영자 로그인과 서버 접근 보호 (#13)",
+        "repo": "sunwoo162/waggle",
+        "url": "https://github.com/sunwoo162/waggle/commit/737ee2ed78e67a736acb5615e2b484b371961cc6",
+        "sha": "737ee2ed78e6",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-10-29",
+        "time": "20:21",
+        "at": "2026-10-29T20:21:34+09:00",
+        "title": "feat: DataGSM 운영자 로그인과 서버 접근 보호",
+        "repo": "sunwoo162/waggle",
+        "url": "https://github.com/sunwoo162/waggle/pull/13",
+        "number": 13,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/waggle/pull/13/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
       {
         "kind": "pr",
         "event": "merged",
