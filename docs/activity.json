@@ -1,7 +1,7 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-10-29T14:16:49.193998+00:00",
+  "updated_at": "2026-10-29T20:17:19.454051+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
@@ -402,7 +402,7 @@
     },
     "2026-10-28": {
       "state": "limited",
-      "checked_at": "2026-10-29T14:16:17.579174+00:00",
+      "checked_at": "2026-10-29T20:16:36.015889+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -415,7 +415,20 @@
     },
     "2026-10-29": {
       "state": "limited",
-      "checked_at": "2026-10-29T14:16:33.001193+00:00",
+      "checked_at": "2026-10-29T20:16:50.899507+00:00",
+      "sources": [
+        "github-commit-search",
+        "github-issue-search"
+      ],
+      "notes": [
+        "sunwoo162/gleave 브랜치가 20개를 넘어 일부만 조회"
+      ],
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
+      "branch_scan": "public owned repositories, max 20 branches each"
+    },
+    "2026-10-30": {
+      "state": "limited",
+      "checked_at": "2026-10-29T20:17:04.887301+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -428,6 +441,7 @@
     }
   },
   "days": {
+    "2026-10-30": [],
     "2026-10-29": [
       {
         "kind": "commit",
