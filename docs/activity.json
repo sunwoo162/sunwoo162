@@ -1,7 +1,7 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-10-30T14:07:33.866530+00:00",
+  "updated_at": "2026-10-30T19:21:13.709003+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
@@ -413,33 +413,41 @@
       "branch_scan": "public owned repositories, max 20 branches each"
     },
     "2026-10-29": {
-      "state": "limited",
-      "checked_at": "2026-10-30T14:07:03.924255+00:00",
+      "state": "indexed",
+      "checked_at": "2026-10-30T19:20:38.853943+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
-      "notes": [
-        "sunwoo162/gleave 브랜치가 20개를 넘어 일부만 조회"
-      ],
+      "notes": [],
       "commit_scope": "GitHub commit-search index (not all unmerged branches)",
       "branch_scan": "public owned repositories, max 20 branches each"
     },
     "2026-10-30": {
-      "state": "limited",
-      "checked_at": "2026-10-30T14:07:19.124762+00:00",
+      "state": "indexed",
+      "checked_at": "2026-10-30T19:20:53.602836+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
-      "notes": [
-        "sunwoo162/gleave 브랜치가 20개를 넘어 일부만 조회"
+      "notes": [],
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
+      "branch_scan": "public owned repositories, max 20 branches each"
+    },
+    "2026-10-31": {
+      "state": "indexed",
+      "checked_at": "2026-10-30T19:21:07.566440+00:00",
+      "sources": [
+        "github-commit-search",
+        "github-issue-search"
       ],
+      "notes": [],
       "commit_scope": "GitHub commit-search index (not all unmerged branches)",
       "branch_scan": "public owned repositories, max 20 branches each"
     }
   },
   "days": {
+    "2026-10-31": [],
     "2026-10-30": [
       {
         "kind": "pr",
