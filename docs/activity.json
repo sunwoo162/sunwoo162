@@ -1,7 +1,7 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-10-30T07:05:55.542796+00:00",
+  "updated_at": "2026-10-30T14:07:33.866530+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
@@ -401,7 +401,7 @@
     },
     "2026-10-28": {
       "state": "limited",
-      "checked_at": "2026-10-30T07:05:12.164096+00:00",
+      "checked_at": "2026-10-30T14:06:48.819601+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -414,7 +414,7 @@
     },
     "2026-10-29": {
       "state": "limited",
-      "checked_at": "2026-10-30T07:05:26.933151+00:00",
+      "checked_at": "2026-10-30T14:07:03.924255+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -427,7 +427,7 @@
     },
     "2026-10-30": {
       "state": "limited",
-      "checked_at": "2026-10-30T07:05:41.727981+00:00",
+      "checked_at": "2026-10-30T14:07:19.124762+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -441,6 +441,61 @@
   },
   "days": {
     "2026-10-30": [
+      {
+        "kind": "pr",
+        "event": "opened",
+        "date": "2026-10-30",
+        "time": "20:38",
+        "at": "2026-10-30T20:38:55+09:00",
+        "title": "feat(windows): 자동 Wi-Fi 관리와 연결 확인 기반 그림 도감",
+        "repo": "sunwoo162/waggle",
+        "url": "https://github.com/sunwoo162/waggle/pull/23",
+        "number": 23,
+        "status": "open",
+        "commits_url": "https://github.com/sunwoo162/waggle/pull/23/commits",
+        "events": [
+          "opened"
+        ]
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-10-30",
+        "time": "19:13",
+        "at": "2026-10-30T19:13:55+09:00",
+        "title": "feat: AP별 캐릭터 관리와 계정 도감 공유 API",
+        "repo": "sunwoo162/waggle",
+        "url": "https://github.com/sunwoo162/waggle/pull/21",
+        "number": 21,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/waggle/pull/21/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-30",
+        "time": "19:13",
+        "at": "2026-10-30T19:13:54+09:00",
+        "title": "feat: AP별 캐릭터 관리와 계정 도감 공유 API (#21)",
+        "repo": "sunwoo162/waggle",
+        "url": "https://github.com/sunwoo162/waggle/commit/f246c9338cded62a6622327941e0f185274974ab",
+        "sha": "f246c9338cde",
+        "source": "commit-search"
+      },
+      {
+        "kind": "issue",
+        "event": "opened",
+        "date": "2026-10-30",
+        "time": "19:11",
+        "at": "2026-10-30T19:11:06+09:00",
+        "title": "[기능] Windows 자동 Wi-Fi 관리와 OS 연결 기반 도감",
+        "repo": "sunwoo162/waggle",
+        "url": "https://github.com/sunwoo162/waggle/issues/22"
+      },
       {
         "kind": "commit",
         "event": "committed",

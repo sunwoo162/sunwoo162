@@ -1,9 +1,13 @@
 ### Today · 2026-10-30 · 일부 수집
 
-**3 Commits** · **4 PRs** · **3 Issues**
+**4 Commits** · **6 PRs** · **4 Issues**
 
 | 시간(KST) | 종류 | 작업 | 저장소 |
 |:--:|:--|:--|:--|
+| 20:38 | PR | [feat(windows): 자동 Wi-Fi 관리와 연결 확인 기반 그림 도감 (opened)](https://github.com/sunwoo162/waggle/pull/23) | sunwoo162/waggle |
+| 19:13 | PR | [feat: AP별 캐릭터 관리와 계정 도감 공유 API (opened/merged)](https://github.com/sunwoo162/waggle/pull/21) | sunwoo162/waggle |
+| 19:13 | Commit | [feat: AP별 캐릭터 관리와 계정 도감 공유 API (#21)](https://github.com/sunwoo162/waggle/commit/f246c9338cded62a6622327941e0f185274974ab) | sunwoo162/waggle |
+| 19:11 | Issue | [[기능] Windows 자동 Wi-Fi 관리와 OS 연결 기반 도감](https://github.com/sunwoo162/waggle/issues/22) | sunwoo162/waggle |
 | 14:57 | Commit | [feat: 앱용 학교 설정 배포와 Windows 보호 캐시 (#20)](https://github.com/sunwoo162/waggle/commit/996f405d825e745dd83026fe22469c8cec11640e) | sunwoo162/waggle |
 | 14:57 | PR | [feat: 앱용 학교 설정 배포와 Windows 보호 캐시 (opened/merged)](https://github.com/sunwoo162/waggle/pull/20) | sunwoo162/waggle |
 | 14:52 | Issue | [[기능] AP별 캐릭터 관리와 같은 계정의 도감 동기화](https://github.com/sunwoo162/waggle/issues/19) | sunwoo162/waggle |
