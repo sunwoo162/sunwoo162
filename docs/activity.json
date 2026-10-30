@@ -1,7 +1,7 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-10-29T23:39:16.656559+00:00",
+  "updated_at": "2026-10-30T00:59:01.046262+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
@@ -400,38 +400,65 @@
       "commit_scope": "GitHub commit-search index (not all unmerged branches)"
     },
     "2026-10-28": {
-      "state": "indexed",
-      "checked_at": "2026-10-29T23:38:48.374579+00:00",
+      "state": "limited",
+      "checked_at": "2026-10-30T00:58:17.270776+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
-      "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
+      "notes": [
+        "sunwoo162/gleave 브랜치가 20개를 넘어 일부만 조회"
+      ],
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
+      "branch_scan": "public owned repositories, max 20 branches each"
     },
     "2026-10-29": {
-      "state": "indexed",
-      "checked_at": "2026-10-29T23:39:03.023622+00:00",
+      "state": "limited",
+      "checked_at": "2026-10-30T00:58:32.003229+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
-      "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
+      "notes": [
+        "sunwoo162/gleave 브랜치가 20개를 넘어 일부만 조회"
+      ],
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
+      "branch_scan": "public owned repositories, max 20 branches each"
     },
     "2026-10-30": {
-      "state": "indexed",
-      "checked_at": "2026-10-29T23:39:16.656488+00:00",
+      "state": "limited",
+      "checked_at": "2026-10-30T00:58:46.435368+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
-      "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
+      "notes": [
+        "sunwoo162/gleave 브랜치가 20개를 넘어 일부만 조회"
+      ],
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
+      "branch_scan": "public owned repositories, max 20 branches each"
     }
   },
   "days": {
-    "2026-10-30": [],
+    "2026-10-30": [
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-10-30",
+        "time": "09:46",
+        "at": "2026-10-30T09:46:12+09:00",
+        "title": "fix : 학생 페이지 상태 오류·불필요한 요청 개선",
+        "repo": "kody-gsm/Jobdom_Fromt",
+        "url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/202",
+        "number": 202,
+        "status": "merged",
+        "commits_url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/202/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      }
+    ],
     "2026-10-29": [
       {
         "kind": "commit",
