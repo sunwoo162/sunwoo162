@@ -1,7 +1,7 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-10-30T23:17:27.448635+00:00",
+  "updated_at": "2026-10-30T23:45:31.318641+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
@@ -409,32 +409,36 @@
     },
     "2026-10-29": {
       "state": "indexed",
-      "checked_at": "2026-10-30T23:16:57.578752+00:00",
+      "checked_at": "2026-10-30T23:44:59.812142+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
       "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
+      "branch_scan": "public owned repositories, max 20 branches each"
     },
     "2026-10-30": {
       "state": "indexed",
-      "checked_at": "2026-10-30T23:17:13.175080+00:00",
+      "checked_at": "2026-10-30T23:45:13.613336+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
       "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
+      "branch_scan": "public owned repositories, max 20 branches each"
     },
     "2026-10-31": {
-      "state": "indexed",
+      "state": "error",
       "checked_at": "2026-10-30T23:17:27.448553+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
-      "notes": [],
+      "notes": [
+        "최근 검색 실패. 이전 기록은 참고용: HTTP Error 500: Internal Server Error"
+      ],
       "commit_scope": "GitHub commit-search index (not all unmerged branches)"
     }
   },
