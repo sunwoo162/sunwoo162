@@ -1,10 +1,29 @@
 ### Today · 2026-11-01
 
-**3 Commits** · **4 PRs** · **0 Issues**
+**13 Commits** · **13 PRs** · **0 Issues**
 
 | 시간(KST) | 종류 | 작업 | 저장소 |
 |:--:|:--|:--|:--|
-| 02:42 | PR | [feat(windows): 자동 Wi-Fi 관리와 연결 확인 기반 그림 도감 (opened)](https://github.com/sunwoo162/waggle/pull/27) | sunwoo162/waggle |
+| 05:04 | PR | [feat: 계정 삭제 — 앱 본인 삭제와 운영자 삭제 (opened/merged)](https://github.com/sunwoo162/waggle/pull/36) | sunwoo162/waggle |
+| 05:04 | Commit | [feat: 계정 삭제 — 앱 본인 삭제와 운영자 삭제 (#36)](https://github.com/sunwoo162/waggle/commit/de37f2c7a4d0cb2c8f7f41df3e2ec65cd7b3409f) | sunwoo162/waggle |
+| 04:49 | Commit | [feat: 1차 보안 점검 — 최근 로그인 요구·작업 기록·보안 헤더·키 교체 (#35)](https://github.com/sunwoo162/waggle/commit/708ab92d619ac50dea116ba896634f932b840741) | sunwoo162/waggle |
+| 04:49 | PR | [feat: 1차 보안 점검 — 최근 로그인 요구·작업 기록·보안 헤더·키 교체 (opened/merged)](https://github.com/sunwoo162/waggle/pull/35) | sunwoo162/waggle |
+| 04:05 | PR | [feat: 물리 AP 하나에 BSSID 여러 개를 묶어 캐릭터 하나로 수집 (opened/merged)](https://github.com/sunwoo162/waggle/pull/34) | sunwoo162/waggle |
+| 04:05 | Commit | [feat: 물리 AP 하나에 BSSID 여러 개를 묶어 캐릭터 하나로 수집 (#34)](https://github.com/sunwoo162/waggle/commit/f7ba9c63f9173608561c495c9222b58ade60ba81) | sunwoo162/waggle |
+| 03:50 | PR | [docs: 2026-11-01 구현 진행 상황 반영 (opened/merged)](https://github.com/sunwoo162/waggle/pull/33) | sunwoo162/waggle |
+| 03:50 | Commit | [docs: 2026-11-01 구현 진행 상황 반영 (#33)](https://github.com/sunwoo162/waggle/commit/bd6c6e28ca67f295af5df6a178be6f70edd1b138) | sunwoo162/waggle |
+| 03:47 | PR | [feat(android): 토글 하나로 켜는 Android 앱 (opened/merged)](https://github.com/sunwoo162/waggle/pull/32) | sunwoo162/waggle |
+| 03:47 | Commit | [feat(android): 토글 하나로 켜는 Android 앱 (#32)](https://github.com/sunwoo162/waggle/commit/6cc5e5a24d6756b097fa72656e00dc724f45d095) | sunwoo162/waggle |
+| 03:19 | Commit | [feat(windows): Windows 로그인 시 자동 실행과 관리 이어가기 (#31)](https://github.com/sunwoo162/waggle/commit/222c581c458f89bce527193e18e4b0c02babc83f) | sunwoo162/waggle |
+| 03:19 | PR | [feat(windows): Windows 로그인 시 자동 실행과 관리 이어가기 (opened/merged)](https://github.com/sunwoo162/waggle/pull/31) | sunwoo162/waggle |
+| 03:14 | Commit | [feat: 교내 Wi-Fi 등록 요청과 운영자 승인 (#30)](https://github.com/sunwoo162/waggle/commit/08df5b5dcb5d47b2c981ca72b454ea132419cd45) | sunwoo162/waggle |
+| 03:14 | PR | [feat: 교내 Wi-Fi 등록 요청과 운영자 승인 (opened/merged)](https://github.com/sunwoo162/waggle/pull/30) | sunwoo162/waggle |
+| 03:07 | Commit | [feat(windows): 연결 관리를 SSID 기준으로 변경 (#29)](https://github.com/sunwoo162/waggle/commit/c6832e551272ae1d7f8b20dcf2573c224a6f2cc7) | sunwoo162/waggle |
+| 03:07 | PR | [feat(windows): 연결 관리를 SSID 기준으로 변경 (opened/merged)](https://github.com/sunwoo162/waggle/pull/29) | sunwoo162/waggle |
+| 03:05 | Commit | [feat: 별명과 그림이 있는 캐릭터만 앱 도감에 공개하고 수집 (#28)](https://github.com/sunwoo162/waggle/commit/5c3362f6f809660c8bf0d33b0af5a5a85f8c5833) | sunwoo162/waggle |
+| 03:05 | PR | [feat: 별명과 그림이 있는 캐릭터만 앱 도감에 공개하고 수집 (opened/merged)](https://github.com/sunwoo162/waggle/pull/28) | sunwoo162/waggle |
+| 02:53 | PR | [feat(windows): 자동 Wi-Fi 관리와 연결 확인 기반 그림 도감 (opened/merged)](https://github.com/sunwoo162/waggle/pull/27) | sunwoo162/waggle |
+| 02:53 | Commit | [feat(windows): 자동 Wi-Fi 관리와 연결 확인 기반 그림 도감 (#27)](https://github.com/sunwoo162/waggle/commit/0c7116734489138ecca425fed12203896949382a) | sunwoo162/waggle |
 | 02:36 | PR | [docs: SSID 기준 연결과 교내 Wi-Fi 등록 요청 (opened/merged)](https://github.com/sunwoo162/waggle/pull/26) | sunwoo162/waggle |
 | 02:36 | Commit | [docs: SSID 기준 연결과 교내 Wi-Fi 등록 요청 (#26)](https://github.com/sunwoo162/waggle/commit/063bfe2254de24d9dbf0971ffb9a39738f8b9575) | sunwoo162/waggle |
 | 02:30 | PR | [fix(members): 로그인·갱신 제한을 전역에서 사용자·기기별로 변경 (opened/merged)](https://github.com/sunwoo162/waggle/pull/25) | sunwoo162/waggle |
