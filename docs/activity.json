@@ -1,7 +1,7 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-11-01T07:31:00.736108+00:00",
+  "updated_at": "2026-11-01T15:06:40.975633+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
@@ -430,7 +430,7 @@
     },
     "2026-10-31": {
       "state": "indexed",
-      "checked_at": "2026-11-01T07:30:43.350797+00:00",
+      "checked_at": "2026-11-01T15:06:08.328547+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -441,7 +441,18 @@
     },
     "2026-11-01": {
       "state": "indexed",
-      "checked_at": "2026-11-01T07:30:55.980343+00:00",
+      "checked_at": "2026-11-01T15:06:21.956779+00:00",
+      "sources": [
+        "github-commit-search",
+        "github-issue-search"
+      ],
+      "notes": [],
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
+      "branch_scan": "public owned repositories, max 20 branches each"
+    },
+    "2026-11-02": {
+      "state": "indexed",
+      "checked_at": "2026-11-01T15:06:35.002694+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -452,7 +463,37 @@
     }
   },
   "days": {
+    "2026-11-02": [],
     "2026-11-01": [
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-01",
+        "time": "23:27",
+        "at": "2026-11-01T23:27:00+09:00",
+        "title": "feat: 실마다 5G·2.4G 두 밴드 지원 (#37)",
+        "repo": "sunwoo162/waggle",
+        "url": "https://github.com/sunwoo162/waggle/commit/7208c8688e567051c4de26117c680db524888f64",
+        "sha": "7208c8688e56",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-01",
+        "time": "23:27",
+        "at": "2026-11-01T23:27:00+09:00",
+        "title": "feat: 실마다 5G·2.4G 두 밴드 지원",
+        "repo": "sunwoo162/waggle",
+        "url": "https://github.com/sunwoo162/waggle/pull/37",
+        "number": 37,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/waggle/pull/37/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
       {
         "kind": "pr",
         "event": "merged",
