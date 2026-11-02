@@ -1,7 +1,7 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-11-02T05:59:43.797339+00:00",
+  "updated_at": "2026-11-02T15:47:13.332323+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
@@ -440,7 +440,7 @@
     },
     "2026-11-01": {
       "state": "indexed",
-      "checked_at": "2026-11-02T05:59:26.107311+00:00",
+      "checked_at": "2026-11-02T15:46:37.207795+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -451,7 +451,18 @@
     },
     "2026-11-02": {
       "state": "indexed",
-      "checked_at": "2026-11-02T05:59:39.395436+00:00",
+      "checked_at": "2026-11-02T15:46:51.959082+00:00",
+      "sources": [
+        "github-commit-search",
+        "github-issue-search"
+      ],
+      "notes": [],
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
+      "branch_scan": "public owned repositories, max 20 branches each"
+    },
+    "2026-11-03": {
+      "state": "indexed",
+      "checked_at": "2026-11-02T15:47:06.950071+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -462,7 +473,242 @@
     }
   },
   "days": {
+    "2026-11-03": [],
     "2026-11-02": [
+      {
+        "kind": "pr",
+        "event": "opened",
+        "date": "2026-11-02",
+        "time": "19:49",
+        "at": "2026-11-02T19:49:56+09:00",
+        "title": "fix: 메인 페이지와 관리자 화면이 PHP 오류로 끊기던 경로 수정",
+        "repo": "gsmoj/gsmoj",
+        "url": "https://github.com/gsmoj/gsmoj/pull/76",
+        "number": 76,
+        "status": "open",
+        "commits_url": "https://github.com/gsmoj/gsmoj/pull/76/commits",
+        "events": [
+          "opened"
+        ]
+      },
+      {
+        "kind": "pr",
+        "event": "opened",
+        "date": "2026-11-02",
+        "time": "19:47",
+        "at": "2026-11-02T19:47:30+09:00",
+        "title": "fix(admin): 교사·대회 생성자가 다른 대회와 다른 교사 수행평가에 접근하던 권한 범위 축소",
+        "repo": "gsmoj/gsmoj",
+        "url": "https://github.com/gsmoj/gsmoj/pull/75",
+        "number": 75,
+        "status": "open",
+        "commits_url": "https://github.com/gsmoj/gsmoj/pull/75/commits",
+        "events": [
+          "opened"
+        ]
+      },
+      {
+        "kind": "pr",
+        "event": "opened",
+        "date": "2026-11-02",
+        "time": "18:28",
+        "at": "2026-11-02T18:28:08+09:00",
+        "title": "fix: 접속자 화면의 로그인 기록·IP를 관리자에게만 공개하고 대회 서브넷 제한 우회 차단",
+        "repo": "gsmoj/gsmoj",
+        "url": "https://github.com/gsmoj/gsmoj/pull/74",
+        "number": 74,
+        "status": "open",
+        "commits_url": "https://github.com/gsmoj/gsmoj/pull/74/commits",
+        "events": [
+          "opened"
+        ]
+      },
+      {
+        "kind": "pr",
+        "event": "opened",
+        "date": "2026-11-02",
+        "time": "18:26",
+        "at": "2026-11-02T18:26:02+09:00",
+        "title": "chore: 서버 접속 정보가 든 IDE 설정 파일을 저장소 추적에서 제외",
+        "repo": "gsmoj/gsmoj",
+        "url": "https://github.com/gsmoj/gsmoj/pull/73",
+        "number": 73,
+        "status": "open",
+        "commits_url": "https://github.com/gsmoj/gsmoj/pull/73/commits",
+        "events": [
+          "opened"
+        ]
+      },
+      {
+        "kind": "pr",
+        "event": "opened",
+        "date": "2026-11-02",
+        "time": "18:23",
+        "at": "2026-11-02T18:23:16+09:00",
+        "title": "fix(admin): 파일 관리자·시스템 설정·계정 생성 도구의 권한과 입력 검증 강화",
+        "repo": "gsmoj/gsmoj",
+        "url": "https://github.com/gsmoj/gsmoj/pull/71",
+        "number": 71,
+        "status": "open",
+        "commits_url": "https://github.com/gsmoj/gsmoj/pull/71/commits",
+        "events": [
+          "opened"
+        ]
+      },
+      {
+        "kind": "pr",
+        "event": "opened",
+        "date": "2026-11-02",
+        "time": "18:21",
+        "at": "2026-11-02T18:21:41+09:00",
+        "title": "fix(contest): 수행평가 진행 중 문제 목록·반 통계·다른 대회 순위·연습 제출로 결과가 드러나던 경로 차단",
+        "repo": "gsmoj/gsmoj",
+        "url": "https://github.com/gsmoj/gsmoj/pull/70",
+        "number": 70,
+        "status": "open",
+        "commits_url": "https://github.com/gsmoj/gsmoj/pull/70/commits",
+        "events": [
+          "opened"
+        ]
+      },
+      {
+        "kind": "pr",
+        "event": "opened",
+        "date": "2026-11-02",
+        "time": "18:20",
+        "at": "2026-11-02T18:20:52+09:00",
+        "title": "fix: 관리자 목록 화면과 소스 원문 응답의 입력값 출력 이스케이프",
+        "repo": "gsmoj/gsmoj",
+        "url": "https://github.com/gsmoj/gsmoj/pull/69",
+        "number": 69,
+        "status": "open",
+        "commits_url": "https://github.com/gsmoj/gsmoj/pull/69/commits",
+        "events": [
+          "opened"
+        ]
+      },
+      {
+        "kind": "pr",
+        "event": "opened",
+        "date": "2026-11-02",
+        "time": "18:19",
+        "at": "2026-11-02T18:19:07+09:00",
+        "title": "fix(admin): 관리자 작업의 GET·POST 키 검증 우회 차단",
+        "repo": "gsmoj/gsmoj",
+        "url": "https://github.com/gsmoj/gsmoj/pull/66",
+        "number": 66,
+        "status": "open",
+        "commits_url": "https://github.com/gsmoj/gsmoj/pull/66/commits",
+        "events": [
+          "opened"
+        ]
+      },
+      {
+        "kind": "pr",
+        "event": "opened",
+        "date": "2026-11-02",
+        "time": "18:19",
+        "at": "2026-11-02T18:19:01+09:00",
+        "title": "fix(user): 회원정보의 이메일 변경을 막고 가입 인증 코드·보안문자 재사용 차단",
+        "repo": "gsmoj/gsmoj",
+        "url": "https://github.com/gsmoj/gsmoj/pull/65",
+        "number": 65,
+        "status": "open",
+        "commits_url": "https://github.com/gsmoj/gsmoj/pull/65/commits",
+        "events": [
+          "opened"
+        ]
+      },
+      {
+        "kind": "issue",
+        "event": "opened",
+        "date": "2026-11-02",
+        "time": "18:13",
+        "at": "2026-11-02T18:13:38+09:00",
+        "title": "feat(contest): 수행평가 계획의 결과 공개·감지 기준값·교사 열람 기능 구현",
+        "repo": "gsmoj/gsmoj",
+        "url": "https://github.com/gsmoj/gsmoj/issues/61"
+      },
+      {
+        "kind": "issue",
+        "event": "opened",
+        "date": "2026-11-02",
+        "time": "18:13",
+        "at": "2026-11-02T18:13:35+09:00",
+        "title": "test(template): 홈 반응형 검사 스크립트를 현재 헤더·메인 구현에 맞게 갱신",
+        "repo": "gsmoj/gsmoj",
+        "url": "https://github.com/gsmoj/gsmoj/issues/60"
+      },
+      {
+        "kind": "issue",
+        "event": "opened",
+        "date": "2026-11-02",
+        "time": "18:13",
+        "at": "2026-11-02T18:13:32+09:00",
+        "title": "fix: 사이트 시각 안내와 서버 모니터링 시간대가 실제 설정과 다른 문제 수정",
+        "repo": "gsmoj/gsmoj",
+        "url": "https://github.com/gsmoj/gsmoj/issues/59"
+      },
+      {
+        "kind": "issue",
+        "event": "opened",
+        "date": "2026-11-02",
+        "time": "18:13",
+        "at": "2026-11-02T18:13:30+09:00",
+        "title": "fix: 로그인·회원정보·제출 화면의 잘못된 안내와 동작 수정",
+        "repo": "gsmoj/gsmoj",
+        "url": "https://github.com/gsmoj/gsmoj/issues/58"
+      },
+      {
+        "kind": "issue",
+        "event": "opened",
+        "date": "2026-11-02",
+        "time": "18:13",
+        "at": "2026-11-02T18:13:26+09:00",
+        "title": "fix(admin): 백업·DB 업데이트·문제 관리 도구의 데이터 처리 오류 수정",
+        "repo": "gsmoj/gsmoj",
+        "url": "https://github.com/gsmoj/gsmoj/issues/57"
+      },
+      {
+        "kind": "issue",
+        "event": "opened",
+        "date": "2026-11-02",
+        "time": "18:13",
+        "at": "2026-11-02T18:13:23+09:00",
+        "title": "fix(admin): 관리자 메뉴에 보이는 기능과 실제 접근 권한이 맞지 않는 문제 수정",
+        "repo": "gsmoj/gsmoj",
+        "url": "https://github.com/gsmoj/gsmoj/issues/56"
+      },
+      {
+        "kind": "issue",
+        "event": "opened",
+        "date": "2026-11-02",
+        "time": "18:13",
+        "at": "2026-11-02T18:13:20+09:00",
+        "title": "fix: 특정 입력에서 PHP 오류로 화면이 끊기거나 SQL 오류가 나는 경로 수정",
+        "repo": "gsmoj/gsmoj",
+        "url": "https://github.com/gsmoj/gsmoj/issues/55"
+      },
+      {
+        "kind": "issue",
+        "event": "opened",
+        "date": "2026-11-02",
+        "time": "18:13",
+        "at": "2026-11-02T18:13:17+09:00",
+        "title": "translate(lang): 채점 결과와 메뉴 용어를 공통 용어표에 맞게 통일",
+        "repo": "gsmoj/gsmoj",
+        "url": "https://github.com/gsmoj/gsmoj/issues/54"
+      },
+      {
+        "kind": "issue",
+        "event": "opened",
+        "date": "2026-11-02",
+        "time": "18:13",
+        "at": "2026-11-02T18:13:15+09:00",
+        "title": "translate: 사용자·관리자 화면에 남은 영어·중국어 문구 번역",
+        "repo": "gsmoj/gsmoj",
+        "url": "https://github.com/gsmoj/gsmoj/issues/53"
+      },
       {
         "kind": "commit",
         "event": "committed",
