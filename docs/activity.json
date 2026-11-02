@@ -1,7 +1,7 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-11-01T23:35:21.140501+00:00",
+  "updated_at": "2026-11-02T05:59:43.797339+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
@@ -429,7 +429,7 @@
     },
     "2026-10-31": {
       "state": "indexed",
-      "checked_at": "2026-11-01T23:34:50.311523+00:00",
+      "checked_at": "2026-11-02T05:59:13.321481+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -440,7 +440,7 @@
     },
     "2026-11-01": {
       "state": "indexed",
-      "checked_at": "2026-11-01T23:35:03.398699+00:00",
+      "checked_at": "2026-11-02T05:59:26.107311+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -451,7 +451,7 @@
     },
     "2026-11-02": {
       "state": "indexed",
-      "checked_at": "2026-11-01T23:35:16.110414+00:00",
+      "checked_at": "2026-11-02T05:59:39.395436+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -463,6 +463,35 @@
   },
   "days": {
     "2026-11-02": [
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-02",
+        "time": "10:00",
+        "at": "2026-11-02T10:00:41+09:00",
+        "title": "feat: 직접 운영 서버 배포 구성 (#39)",
+        "repo": "sunwoo162/waggle",
+        "url": "https://github.com/sunwoo162/waggle/commit/d26f5b8632a10d288968733022a9fef4d1d75d5b",
+        "sha": "d26f5b8632a1",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-02",
+        "time": "10:00",
+        "at": "2026-11-02T10:00:41+09:00",
+        "title": "feat: 직접 운영 서버 배포 구성",
+        "repo": "sunwoo162/waggle",
+        "url": "https://github.com/sunwoo162/waggle/pull/39",
+        "number": 39,
+        "status": "merged",
+        "commits_url": "https://github.com/sunwoo162/waggle/pull/39/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
       {
         "kind": "pr",
         "event": "merged",
