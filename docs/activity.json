@@ -1,7 +1,7 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-11-03T06:45:33.082179+00:00",
+  "updated_at": "2026-11-03T15:06:36.655368+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
@@ -450,7 +450,7 @@
     },
     "2026-11-02": {
       "state": "indexed",
-      "checked_at": "2026-11-03T06:45:13.696553+00:00",
+      "checked_at": "2026-11-03T15:05:59.081389+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -461,7 +461,18 @@
     },
     "2026-11-03": {
       "state": "indexed",
-      "checked_at": "2026-11-03T06:45:28.423880+00:00",
+      "checked_at": "2026-11-03T15:06:16.121178+00:00",
+      "sources": [
+        "github-commit-search",
+        "github-issue-search"
+      ],
+      "notes": [],
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
+      "branch_scan": "public owned repositories, max 20 branches each"
+    },
+    "2026-11-04": {
+      "state": "indexed",
+      "checked_at": "2026-11-03T15:06:31.286800+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -472,7 +483,126 @@
     }
   },
   "days": {
+    "2026-11-04": [],
     "2026-11-03": [
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-03",
+        "time": "20:16",
+        "at": "2026-11-03T20:16:00+09:00",
+        "title": "chore : trigger production deployment",
+        "repo": "kody-gsm/Jobdom_Fromt",
+        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/bbc05a060027e42996ccee973ae04cfc7f52f5d3",
+        "sha": "bbc05a060027",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-03",
+        "time": "19:50",
+        "at": "2026-11-03T19:50:13+09:00",
+        "title": "release : 연습용 튜토리얼과 렌더링 효율 개선 운영 반영",
+        "repo": "kody-gsm/Jobdom_Fromt",
+        "url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/209",
+        "number": 209,
+        "status": "merged",
+        "commits_url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/209/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-03",
+        "time": "19:50",
+        "at": "2026-11-03T19:50:12+09:00",
+        "title": "Merge pull request #209 from kody-gsm/develop",
+        "repo": "kody-gsm/Jobdom_Fromt",
+        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/602b964fdf68036042ed474f5c299e13212d6772",
+        "sha": "602b964fdf68",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-03",
+        "time": "19:46",
+        "at": "2026-11-03T19:46:49+09:00",
+        "title": "Merge pull request #208 from kody-gsm/feat/tutorial-practice-sandbox",
+        "repo": "kody-gsm/Jobdom_Fromt",
+        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/b07ab1c64b05dbf941faeab462199026edac7d7e",
+        "sha": "b07ab1c64b05",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-03",
+        "time": "19:46",
+        "at": "2026-11-03T19:46:49+09:00",
+        "title": "feat : 연습용 데이터로 직접 해보는 튜토리얼과 렌더링 효율 개선",
+        "repo": "kody-gsm/Jobdom_Fromt",
+        "url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/208",
+        "number": 208,
+        "status": "merged",
+        "commits_url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/208/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-03",
+        "time": "17:40",
+        "at": "2026-11-03T17:40:18+09:00",
+        "title": "fix : pause unread notification polling on hidden tabs",
+        "repo": "kody-gsm/Jobdom_Fromt",
+        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/6c7939e62b12af518bc862b9a98622d1baa30028",
+        "sha": "6c7939e62b12",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-03",
+        "time": "17:40",
+        "at": "2026-11-03T17:40:17+09:00",
+        "title": "fix : load teacher recruit and submission sheets faster and fresher",
+        "repo": "kody-gsm/Jobdom_Fromt",
+        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/5484f5970e9cc796a5365931935cad9e66b64ea4",
+        "sha": "5484f5970e9c",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-03",
+        "time": "17:40",
+        "at": "2026-11-03T17:40:17+09:00",
+        "title": "fix : stop teacher schedule from re-rendering and refetching needlessly",
+        "repo": "kody-gsm/Jobdom_Fromt",
+        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/0fb5d59c5331f40833e88b9ae238b219003717b4",
+        "sha": "0fb5d59c5331",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-03",
+        "time": "17:28",
+        "at": "2026-11-03T17:28:55+09:00",
+        "title": "feat : let users practice the role tutorial on real screens with sandbox data",
+        "repo": "kody-gsm/Jobdom_Fromt",
+        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/0a53affa12024cbfaf18d578b9210d6c13b49b3e",
+        "sha": "0a53affa1202",
+        "source": "commit-search"
+      },
       {
         "kind": "pr",
         "event": "merged",
