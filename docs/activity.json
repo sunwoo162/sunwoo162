@@ -1,7 +1,7 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-11-04T09:09:51.442254+00:00",
+  "updated_at": "2026-11-04T17:14:32.918916+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
@@ -460,7 +460,7 @@
     },
     "2026-11-03": {
       "state": "indexed",
-      "checked_at": "2026-11-04T09:09:29.742747+00:00",
+      "checked_at": "2026-11-04T17:14:02.005196+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -471,7 +471,18 @@
     },
     "2026-11-04": {
       "state": "indexed",
-      "checked_at": "2026-11-04T09:09:45.333913+00:00",
+      "checked_at": "2026-11-04T17:14:16.897792+00:00",
+      "sources": [
+        "github-commit-search",
+        "github-issue-search"
+      ],
+      "notes": [],
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
+      "branch_scan": "public owned repositories, max 20 branches each"
+    },
+    "2026-11-05": {
+      "state": "indexed",
+      "checked_at": "2026-11-04T17:14:31.120181+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -482,7 +493,107 @@
     }
   },
   "days": {
+    "2026-11-05": [],
     "2026-11-04": [
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-04",
+        "time": "20:39",
+        "at": "2026-11-04T20:39:07+09:00",
+        "title": "fix : let every highlighted control work during tutorial steps",
+        "repo": "kody-gsm/Jobdom_Fromt",
+        "url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/217",
+        "number": 217,
+        "status": "merged",
+        "commits_url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/217/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-04",
+        "time": "18:15",
+        "at": "2026-11-04T18:15:17+09:00",
+        "title": "release : tutorial hands-on practice and Seoul region",
+        "repo": "kody-gsm/Jobdom_Fromt",
+        "url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/216",
+        "number": 216,
+        "status": "merged",
+        "commits_url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/216/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-04",
+        "time": "18:15",
+        "at": "2026-11-04T18:15:16+09:00",
+        "title": "Merge pull request #216 from kody-gsm/develop",
+        "repo": "kody-gsm/Jobdom_Fromt",
+        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/dde1461386dd46b90ca924b4a02ecdd09491791a",
+        "sha": "dde1461386dd",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-04",
+        "time": "18:11",
+        "at": "2026-11-04T18:11:29+09:00",
+        "title": "Merge pull request #215 from kody-gsm/feat/tutorial-hands-on",
+        "repo": "kody-gsm/Jobdom_Fromt",
+        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/364527c56d29935846019bf638af56632dc63703",
+        "sha": "364527c56d29",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-04",
+        "time": "18:11",
+        "at": "2026-11-04T18:11:29+09:00",
+        "title": "feat : let users try forms and notifications hands-on in the tutorial",
+        "repo": "kody-gsm/Jobdom_Fromt",
+        "url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/215",
+        "number": 215,
+        "status": "merged",
+        "commits_url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/215/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-04",
+        "time": "18:10",
+        "at": "2026-11-04T18:10:02+09:00",
+        "title": "feat : let users try forms and notifications hands-on in the tutorial",
+        "repo": "kody-gsm/Jobdom_Fromt",
+        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/c10210b3d8a106f44725dbea80508456aa83c0f1",
+        "sha": "c10210b3d8a1",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-04",
+        "time": "17:38",
+        "at": "2026-11-04T17:38:00+09:00",
+        "title": "Merge pull request #214 from kody-gsm/perf/vercel-seoul-region",
+        "repo": "kody-gsm/Jobdom_Fromt",
+        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/1599a00e13c2d5d927a10ce91e8dee3acee7e5ec",
+        "sha": "1599a00e13c2",
+        "source": "commit-search"
+      },
       {
         "kind": "pr",
         "event": "merged",
@@ -501,6 +612,30 @@
         ]
       },
       {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-04",
+        "time": "17:24",
+        "at": "2026-11-04T17:24:37+09:00",
+        "title": "perf : run Vercel functions in Seoul",
+        "repo": "kody-gsm/Jobdom_Fromt",
+        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/6c601e665cbcb4f147f1b1d974d2c53ed62ee3a8",
+        "sha": "6c601e665cbc",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-04",
+        "time": "17:21",
+        "at": "2026-11-04T17:21:24+09:00",
+        "title": "Merge pull request #213 from kody-gsm/fix/tutorial-practice-filter-data",
+        "repo": "kody-gsm/Jobdom_Fromt",
+        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/a4b5d36d5c9f035ff6edf4d3f26056062d7f671a",
+        "sha": "a4b5d36d5c9f",
+        "source": "commit-search"
+      },
+      {
         "kind": "pr",
         "event": "merged",
         "date": "2026-11-04",
@@ -516,6 +651,18 @@
           "opened",
           "merged"
         ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-04",
+        "time": "15:18",
+        "at": "2026-11-04T15:18:24+09:00",
+        "title": "fix : seed tutorial recruits for every filter",
+        "repo": "kody-gsm/Jobdom_Fromt",
+        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/f68e4c10c42d80c6ca6e7c91690575e14fcfe482",
+        "sha": "f68e4c10c42d",
+        "source": "commit-search"
       },
       {
         "kind": "commit",
