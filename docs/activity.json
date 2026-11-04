@@ -1,7 +1,7 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-11-04T17:14:32.918916+00:00",
+  "updated_at": "2026-11-04T22:40:12.479719+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
@@ -460,7 +460,7 @@
     },
     "2026-11-03": {
       "state": "indexed",
-      "checked_at": "2026-11-04T17:14:02.005196+00:00",
+      "checked_at": "2026-11-04T22:39:43.159062+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -471,7 +471,7 @@
     },
     "2026-11-04": {
       "state": "indexed",
-      "checked_at": "2026-11-04T17:14:16.897792+00:00",
+      "checked_at": "2026-11-04T22:39:57.652041+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -482,7 +482,7 @@
     },
     "2026-11-05": {
       "state": "indexed",
-      "checked_at": "2026-11-04T17:14:31.120181+00:00",
+      "checked_at": "2026-11-04T22:40:10.944312+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -493,7 +493,24 @@
     }
   },
   "days": {
-    "2026-11-05": [],
+    "2026-11-05": [
+      {
+        "kind": "pr",
+        "event": "opened",
+        "date": "2026-11-05",
+        "time": "07:20",
+        "at": "2026-11-05T07:20:12+09:00",
+        "title": "feat : add interview pass report for students and career teachers",
+        "repo": "kody-gsm/Jobdom_Fromt",
+        "url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/218",
+        "number": 218,
+        "status": "open",
+        "commits_url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/218/commits",
+        "events": [
+          "opened"
+        ]
+      }
+    ],
     "2026-11-04": [
       {
         "kind": "pr",
