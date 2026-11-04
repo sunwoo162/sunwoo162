@@ -1,7 +1,7 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-11-04T01:20:41.358244+00:00",
+  "updated_at": "2026-11-04T09:09:51.442254+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
@@ -449,7 +449,7 @@
     },
     "2026-11-02": {
       "state": "indexed",
-      "checked_at": "2026-11-04T01:20:04.362106+00:00",
+      "checked_at": "2026-11-04T09:09:13.062729+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -460,7 +460,7 @@
     },
     "2026-11-03": {
       "state": "indexed",
-      "checked_at": "2026-11-04T01:20:20.708017+00:00",
+      "checked_at": "2026-11-04T09:09:29.742747+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -471,7 +471,7 @@
     },
     "2026-11-04": {
       "state": "indexed",
-      "checked_at": "2026-11-04T01:20:35.477467+00:00",
+      "checked_at": "2026-11-04T09:09:45.333913+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -482,7 +482,177 @@
     }
   },
   "days": {
-    "2026-11-04": [],
+    "2026-11-04": [
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-04",
+        "time": "17:38",
+        "at": "2026-11-04T17:38:00+09:00",
+        "title": "perf : run Vercel functions in Seoul",
+        "repo": "kody-gsm/Jobdom_Fromt",
+        "url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/214",
+        "number": 214,
+        "status": "merged",
+        "commits_url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/214/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-04",
+        "time": "17:21",
+        "at": "2026-11-04T17:21:24+09:00",
+        "title": "fix : seed tutorial recruits for every filter",
+        "repo": "kody-gsm/Jobdom_Fromt",
+        "url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/213",
+        "number": 213,
+        "status": "merged",
+        "commits_url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/213/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-04",
+        "time": "13:02",
+        "at": "2026-11-04T13:02:21+09:00",
+        "title": "Merge pull request #212 from kody-gsm/develop",
+        "repo": "kody-gsm/Jobdom_Fromt",
+        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/5ddf5cd2383bc19ec2370466265a88b19ab9610e",
+        "sha": "5ddf5cd2383b",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-04",
+        "time": "13:02",
+        "at": "2026-11-04T13:02:21+09:00",
+        "title": "release : frontend efficiency and tutorial overlay fixes",
+        "repo": "kody-gsm/Jobdom_Fromt",
+        "url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/212",
+        "number": 212,
+        "status": "merged",
+        "commits_url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/212/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-04",
+        "time": "12:59",
+        "at": "2026-11-04T12:59:52+09:00",
+        "title": "fix : keep tutorial highlights clickable and stop auto page jumps",
+        "repo": "kody-gsm/Jobdom_Fromt",
+        "url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/211",
+        "number": 211,
+        "status": "merged",
+        "commits_url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/211/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-04",
+        "time": "12:59",
+        "at": "2026-11-04T12:59:51+09:00",
+        "title": "Merge pull request #211 from kody-gsm/fix/tutorial-overlay-issues",
+        "repo": "kody-gsm/Jobdom_Fromt",
+        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/d9ad16b25f31884d8d7d88d2fcf3b2fd8e448ea8",
+        "sha": "d9ad16b25f31",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-04",
+        "time": "12:20",
+        "at": "2026-11-04T12:20:57+09:00",
+        "title": "fix : keep tutorial highlights clickable and stop auto page jumps",
+        "repo": "kody-gsm/Jobdom_Fromt",
+        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/d217adcf78df52c0442a2b91d806610fc5ea6e8d",
+        "sha": "d217adcf78df",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-04",
+        "time": "12:03",
+        "at": "2026-11-04T12:03:58+09:00",
+        "title": "perf : cut wasted calls and renders across the frontend",
+        "repo": "kody-gsm/Jobdom_Fromt",
+        "url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/210",
+        "number": 210,
+        "status": "merged",
+        "commits_url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/210/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-04",
+        "time": "12:03",
+        "at": "2026-11-04T12:03:57+09:00",
+        "title": "Merge pull request #210 from kody-gsm/perf/frontend-backend-efficiency",
+        "repo": "kody-gsm/Jobdom_Fromt",
+        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/87a1aebefebcb29758754ac193037de155c03928",
+        "sha": "87a1aebefebc",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-04",
+        "time": "00:55",
+        "at": "2026-11-04T00:55:41+09:00",
+        "title": "fix : trim student screen renders and recruit detail waterfall",
+        "repo": "kody-gsm/Jobdom_Fromt",
+        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/81d863286a7f1ef3475eb250df0ac06f69c34b2c",
+        "sha": "81d863286a7f",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-04",
+        "time": "00:55",
+        "at": "2026-11-04T00:55:41+09:00",
+        "title": "fix : update teacher screens locally instead of refetching after each change",
+        "repo": "kody-gsm/Jobdom_Fromt",
+        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/cb118d321043e3861da348ea7a89cfd8f65920dd",
+        "sha": "cb118d321043",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-04",
+        "time": "00:55",
+        "at": "2026-11-04T00:55:40+09:00",
+        "title": "fix : cut wasted auth, notification and font requests across the app",
+        "repo": "kody-gsm/Jobdom_Fromt",
+        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/750b9f4bc0ee066fe3194d4113056f20af00fe6c",
+        "sha": "750b9f4bc0ee",
+        "source": "commit-search"
+      }
+    ],
     "2026-11-03": [
       {
         "kind": "commit",

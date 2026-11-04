@@ -1,9 +1,20 @@
 ### Today · 2026-11-04
 
-**0 Commits** · **0 PRs** · **0 Issues**
+**7 Commits** · **5 PRs** · **0 Issues**
 
 | 시간(KST) | 종류 | 작업 | 저장소 |
 |:--:|:--|:--|:--|
-| — | — | 기록 없음 | — |
+| 17:38 | PR | [perf : run Vercel functions in Seoul (opened/merged)](https://github.com/kody-gsm/Jobdom_Fromt/pull/214) | kody-gsm/Jobdom_Fromt |
+| 17:21 | PR | [fix : seed tutorial recruits for every filter (opened/merged)](https://github.com/kody-gsm/Jobdom_Fromt/pull/213) | kody-gsm/Jobdom_Fromt |
+| 13:02 | Commit | [Merge pull request #212 from kody-gsm/develop](https://github.com/kody-gsm/Jobdom_Fromt/commit/5ddf5cd2383bc19ec2370466265a88b19ab9610e) | kody-gsm/Jobdom_Fromt |
+| 13:02 | PR | [release : frontend efficiency and tutorial overlay fixes (opened/merged)](https://github.com/kody-gsm/Jobdom_Fromt/pull/212) | kody-gsm/Jobdom_Fromt |
+| 12:59 | PR | [fix : keep tutorial highlights clickable and stop auto page jumps (opened/merged)](https://github.com/kody-gsm/Jobdom_Fromt/pull/211) | kody-gsm/Jobdom_Fromt |
+| 12:59 | Commit | [Merge pull request #211 from kody-gsm/fix/tutorial-overlay-issues](https://github.com/kody-gsm/Jobdom_Fromt/commit/d9ad16b25f31884d8d7d88d2fcf3b2fd8e448ea8) | kody-gsm/Jobdom_Fromt |
+| 12:20 | Commit | [fix : keep tutorial highlights clickable and stop auto page jumps](https://github.com/kody-gsm/Jobdom_Fromt/commit/d217adcf78df52c0442a2b91d806610fc5ea6e8d) | kody-gsm/Jobdom_Fromt |
+| 12:03 | PR | [perf : cut wasted calls and renders across the frontend (opened/merged)](https://github.com/kody-gsm/Jobdom_Fromt/pull/210) | kody-gsm/Jobdom_Fromt |
+| 12:03 | Commit | [Merge pull request #210 from kody-gsm/perf/frontend-backend-efficiency](https://github.com/kody-gsm/Jobdom_Fromt/commit/87a1aebefebcb29758754ac193037de155c03928) | kody-gsm/Jobdom_Fromt |
+| 00:55 | Commit | [fix : trim student screen renders and recruit detail waterfall](https://github.com/kody-gsm/Jobdom_Fromt/commit/81d863286a7f1ef3475eb250df0ac06f69c34b2c) | kody-gsm/Jobdom_Fromt |
+| 00:55 | Commit | [fix : update teacher screens locally instead of refetching after each change](https://github.com/kody-gsm/Jobdom_Fromt/commit/cb118d321043e3861da348ea7a89cfd8f65920dd) | kody-gsm/Jobdom_Fromt |
+| 00:55 | Commit | [fix : cut wasted auth, notification and font requests across the app](https://github.com/kody-gsm/Jobdom_Fromt/commit/750b9f4bc0ee066fe3194d4113056f20af00fe6c) | kody-gsm/Jobdom_Fromt |
 
 [View all activity →](https://sunwoo162.github.io/sunwoo162/)
