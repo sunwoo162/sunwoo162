@@ -1,11 +1,11 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-11-03T20:58:48.275460+00:00",
+  "updated_at": "2026-11-04T00:17:00.686412+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
-      "checked_at": "2026-11-03T01:47:03.515407+00:00",
+      "checked_at": "2026-11-04T00:12:25.567824+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -15,7 +15,7 @@
     },
     "2026-10-15": {
       "state": "indexed",
-      "checked_at": "2026-11-03T01:46:48.530177+00:00",
+      "checked_at": "2026-11-04T00:12:09.848566+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -289,7 +289,7 @@
     },
     "2026-10-17": {
       "state": "indexed",
-      "checked_at": "2026-11-03T01:47:15.776674+00:00",
+      "checked_at": "2026-11-04T00:12:38.089639+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -299,7 +299,7 @@
     },
     "2026-10-18": {
       "state": "indexed",
-      "checked_at": "2026-11-03T01:47:28.850620+00:00",
+      "checked_at": "2026-11-04T00:12:51.660561+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -309,7 +309,7 @@
     },
     "2026-10-19": {
       "state": "indexed",
-      "checked_at": "2026-11-03T01:47:41.912183+00:00",
+      "checked_at": "2026-11-04T00:13:04.838383+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -319,7 +319,7 @@
     },
     "2026-10-20": {
       "state": "indexed",
-      "checked_at": "2026-11-03T01:47:55.281200+00:00",
+      "checked_at": "2026-11-04T00:13:18.981192+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -329,7 +329,7 @@
     },
     "2026-10-21": {
       "state": "indexed",
-      "checked_at": "2026-11-03T01:48:09.530459+00:00",
+      "checked_at": "2026-11-04T00:13:34.173015+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -339,7 +339,7 @@
     },
     "2026-10-22": {
       "state": "indexed",
-      "checked_at": "2026-11-03T01:48:24.594268+00:00",
+      "checked_at": "2026-11-04T00:13:50.058766+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -349,7 +349,7 @@
     },
     "2026-10-23": {
       "state": "indexed",
-      "checked_at": "2026-11-03T01:48:39.078366+00:00",
+      "checked_at": "2026-11-04T00:14:04.714812+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -359,7 +359,7 @@
     },
     "2026-10-24": {
       "state": "indexed",
-      "checked_at": "2026-11-03T01:48:52.050738+00:00",
+      "checked_at": "2026-11-04T00:14:18.112821+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -369,7 +369,7 @@
     },
     "2026-10-25": {
       "state": "indexed",
-      "checked_at": "2026-11-03T01:49:05.273845+00:00",
+      "checked_at": "2026-11-04T00:14:32.055066+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -379,7 +379,7 @@
     },
     "2026-10-26": {
       "state": "indexed",
-      "checked_at": "2026-11-03T01:49:19.187898+00:00",
+      "checked_at": "2026-11-04T00:14:47.541818+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -389,7 +389,7 @@
     },
     "2026-10-27": {
       "state": "indexed",
-      "checked_at": "2026-11-03T01:49:32.863706+00:00",
+      "checked_at": "2026-11-04T00:15:01.550675+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -399,7 +399,7 @@
     },
     "2026-10-28": {
       "state": "indexed",
-      "checked_at": "2026-11-03T01:49:46.464569+00:00",
+      "checked_at": "2026-11-04T00:15:16.314105+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -409,7 +409,7 @@
     },
     "2026-10-29": {
       "state": "indexed",
-      "checked_at": "2026-11-03T01:50:01.007824+00:00",
+      "checked_at": "2026-11-04T00:15:31.657039+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -419,7 +419,7 @@
     },
     "2026-10-30": {
       "state": "indexed",
-      "checked_at": "2026-11-03T01:50:15.758249+00:00",
+      "checked_at": "2026-11-04T00:15:46.843604+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -429,7 +429,7 @@
     },
     "2026-10-31": {
       "state": "indexed",
-      "checked_at": "2026-11-03T01:50:29.950921+00:00",
+      "checked_at": "2026-11-04T00:16:01.839713+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -439,47 +439,43 @@
     },
     "2026-11-01": {
       "state": "indexed",
-      "checked_at": "2026-11-03T06:44:59.784919+00:00",
+      "checked_at": "2026-11-04T00:16:16.344915+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
       "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
-      "branch_scan": "public owned repositories, max 20 branches each"
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
     },
     "2026-11-02": {
       "state": "indexed",
-      "checked_at": "2026-11-03T20:58:13.330247+00:00",
+      "checked_at": "2026-11-04T00:16:30.731862+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
       "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
-      "branch_scan": "public owned repositories, max 20 branches each"
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
     },
     "2026-11-03": {
       "state": "indexed",
-      "checked_at": "2026-11-03T20:58:28.956821+00:00",
+      "checked_at": "2026-11-04T00:16:46.523168+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
       "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
-      "branch_scan": "public owned repositories, max 20 branches each"
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
     },
     "2026-11-04": {
       "state": "indexed",
-      "checked_at": "2026-11-03T20:58:43.042847+00:00",
+      "checked_at": "2026-11-04T00:17:00.686330+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
       "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
-      "branch_scan": "public owned repositories, max 20 branches each"
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
     }
   },
   "days": {
@@ -1703,6 +1699,18 @@
         "url": "https://github.com/sunwoo162/waggle/issues/16"
       },
       {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-30",
+        "time": "09:46",
+        "at": "2026-10-30T09:46:12+09:00",
+        "title": "Merge pull request #202 from kody-gsm/fix/student-flow-efficiency",
+        "repo": "kody-gsm/Jobdom_Fromt",
+        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/15dd29e7e7ebac9efec8f69693497099d8e48836",
+        "sha": "15dd29e7e7eb",
+        "source": "commit-search"
+      },
+      {
         "kind": "pr",
         "event": "merged",
         "date": "2026-10-30",
@@ -1718,6 +1726,114 @@
           "opened",
           "merged"
         ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-30",
+        "time": "08:40",
+        "at": "2026-10-30T08:40:19+09:00",
+        "title": "fix : refresh student reservation views with current server data",
+        "repo": "kody-gsm/Jobdom_Fromt",
+        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/9c987f1de9b3a41778c3241699f646fadd23b8f0",
+        "sha": "9c987f1de9b3",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-30",
+        "time": "08:40",
+        "at": "2026-10-30T08:40:19+09:00",
+        "title": "fix : reconcile notification reads across token refresh",
+        "repo": "kody-gsm/Jobdom_Fromt",
+        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/b5c2a74e264af27c7b5bcb0e5414a7d1f9e150fd",
+        "sha": "b5c2a74e264a",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-30",
+        "time": "08:40",
+        "at": "2026-10-30T08:40:18+09:00",
+        "title": "fix : coordinate login restoration with background token refresh",
+        "repo": "kody-gsm/Jobdom_Fromt",
+        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/74f2ff72f65114ce389f5c778af857fd62832beb",
+        "sha": "74f2ff72f651",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-30",
+        "time": "08:40",
+        "at": "2026-10-30T08:40:17+09:00",
+        "title": "fix : save consultation edits during unfinished draft restoration",
+        "repo": "kody-gsm/Jobdom_Fromt",
+        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/54c9c7d52972aacd5cfe449dd09aded36d5cf71a",
+        "sha": "54c9c7d52972",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-30",
+        "time": "08:26",
+        "at": "2026-10-30T08:26:07+09:00",
+        "title": "fix : coalesce notification refreshes and isolate subscriptions",
+        "repo": "kody-gsm/Jobdom_Fromt",
+        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/92611b941ab3af98e151a522a45dca18a89d0dd1",
+        "sha": "92611b941ab3",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-30",
+        "time": "08:26",
+        "at": "2026-10-30T08:26:06+09:00",
+        "title": "fix : streamline student form reads and refresh deadline states",
+        "repo": "kody-gsm/Jobdom_Fromt",
+        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/4dbdcc2b58f623a2d3408f3a1b3dffdf7454f176",
+        "sha": "4dbdcc2b58f6",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-30",
+        "time": "08:26",
+        "at": "2026-10-30T08:26:00+09:00",
+        "title": "fix : preserve consultation drafts and prevent repeated submissions",
+        "repo": "kody-gsm/Jobdom_Fromt",
+        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/1499545f3d57dbb14b6d08f38259016b80d3e680",
+        "sha": "1499545f3d57",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-30",
+        "time": "08:25",
+        "at": "2026-10-30T08:25:59+09:00",
+        "title": "fix : preserve session ownership and authentication expiry",
+        "repo": "kody-gsm/Jobdom_Fromt",
+        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/a473acd450f4a6932d749654fe3ac43d798373eb",
+        "sha": "a473acd450f4",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-10-30",
+        "time": "08:25",
+        "at": "2026-10-30T08:25:52+09:00",
+        "title": "fix : bound authenticated requests and scope cache invalidation",
+        "repo": "kody-gsm/Jobdom_Fromt",
+        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/c0d05ed46aafe3d82f63633a1d7a8ae4fbcc3434",
+        "sha": "c0d05ed46aaf",
+        "source": "commit-search"
       }
     ],
     "2026-10-29": [
