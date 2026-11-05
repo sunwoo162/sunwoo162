@@ -1,7 +1,7 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-11-05T03:29:25.357022+00:00",
+  "updated_at": "2026-11-05T12:18:54.242497+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
@@ -459,7 +459,7 @@
     },
     "2026-11-03": {
       "state": "indexed",
-      "checked_at": "2026-11-05T03:28:56.993475+00:00",
+      "checked_at": "2026-11-05T12:18:21.425456+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -470,7 +470,7 @@
     },
     "2026-11-04": {
       "state": "indexed",
-      "checked_at": "2026-11-05T03:29:10.432529+00:00",
+      "checked_at": "2026-11-05T12:18:36.784246+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -481,7 +481,7 @@
     },
     "2026-11-05": {
       "state": "indexed",
-      "checked_at": "2026-11-05T03:29:24.068571+00:00",
+      "checked_at": "2026-11-05T12:18:52.494798+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -493,6 +493,374 @@
   },
   "days": {
     "2026-11-05": [
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-05",
+        "time": "17:46",
+        "at": "2026-11-05T17:46:17+09:00",
+        "title": "translate: 채점 결과·메뉴 용어 통일과 사용자·관리자 화면의 영어·중국어 문구 번역",
+        "repo": "gsmoj/gsmoj",
+        "url": "https://github.com/gsmoj/gsmoj/pull/81",
+        "number": 81,
+        "status": "merged",
+        "commits_url": "https://github.com/gsmoj/gsmoj/pull/81/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-05",
+        "time": "17:46",
+        "at": "2026-11-05T17:46:16+09:00",
+        "title": "Merge pull request #81 from gsmoj/translate/korean-terms",
+        "repo": "gsmoj/gsmoj",
+        "url": "https://github.com/gsmoj/gsmoj/commit/310c10bb0be5fbb1a13ee2820eb43218dcdc08b9",
+        "sha": "310c10bb0be5",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-05",
+        "time": "17:40",
+        "at": "2026-11-05T17:40:11+09:00",
+        "title": "Merge pull request #80 from gsmoj/feat/assessment-plan-remaining",
+        "repo": "gsmoj/gsmoj",
+        "url": "https://github.com/gsmoj/gsmoj/commit/c20bed1927fb5cd011de7787823e19d6194c7e92",
+        "sha": "c20bed1927fb",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-05",
+        "time": "17:40",
+        "at": "2026-11-05T17:40:11+09:00",
+        "title": "feat(contest): 수행평가 문제 공개·교사 미리 보기·감지 기준값 구현과 시간대·검사 스크립트 정리",
+        "repo": "gsmoj/gsmoj",
+        "url": "https://github.com/gsmoj/gsmoj/pull/80",
+        "number": 80,
+        "status": "merged",
+        "commits_url": "https://github.com/gsmoj/gsmoj/pull/80/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-05",
+        "time": "17:29",
+        "at": "2026-11-05T17:29:36+09:00",
+        "title": "Merge pull request #79 from gsmoj/fix/admin-menu-and-tools",
+        "repo": "gsmoj/gsmoj",
+        "url": "https://github.com/gsmoj/gsmoj/commit/50a0dc4fdde249ff5d13b8cdc22f4113c0473400",
+        "sha": "50a0dc4fdde2",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-05",
+        "time": "17:29",
+        "at": "2026-11-05T17:29:36+09:00",
+        "title": "fix(admin): 관리자 메뉴 권한 불일치와 백업·DB 업데이트·문제 관리 도구 오류 수정",
+        "repo": "gsmoj/gsmoj",
+        "url": "https://github.com/gsmoj/gsmoj/pull/79",
+        "number": 79,
+        "status": "merged",
+        "commits_url": "https://github.com/gsmoj/gsmoj/pull/79/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-05",
+        "time": "17:28",
+        "at": "2026-11-05T17:28:50+09:00",
+        "title": "fix: 특정 입력의 PHP 오류와 로그인·회원정보·제출 화면의 잘못된 동작 수정",
+        "repo": "gsmoj/gsmoj",
+        "url": "https://github.com/gsmoj/gsmoj/pull/78",
+        "number": 78,
+        "status": "merged",
+        "commits_url": "https://github.com/gsmoj/gsmoj/pull/78/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-05",
+        "time": "17:28",
+        "at": "2026-11-05T17:28:49+09:00",
+        "title": "Merge pull request #78 from gsmoj/fix/php-warnings-user-flows",
+        "repo": "gsmoj/gsmoj",
+        "url": "https://github.com/gsmoj/gsmoj/commit/b79489418bee00d32db49b07ece94606b6fe9ef7",
+        "sha": "b79489418bee",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-05",
+        "time": "17:00",
+        "at": "2026-11-05T17:00:55+09:00",
+        "title": "fix: 메인 페이지와 관리자 화면이 PHP 오류로 끊기던 경로 수정",
+        "repo": "gsmoj/gsmoj",
+        "url": "https://github.com/gsmoj/gsmoj/pull/76",
+        "number": 76,
+        "status": "merged",
+        "commits_url": "https://github.com/gsmoj/gsmoj/pull/76/commits",
+        "events": [
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-05",
+        "time": "17:00",
+        "at": "2026-11-05T17:00:54+09:00",
+        "title": "Merge pull request #76 from gsmoj/fix/php-fatal-paths",
+        "repo": "gsmoj/gsmoj",
+        "url": "https://github.com/gsmoj/gsmoj/commit/13acaf0d0428ae81e9ceeb6aa13d5f3e4c910aad",
+        "sha": "13acaf0d0428",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-05",
+        "time": "17:00",
+        "at": "2026-11-05T17:00:46+09:00",
+        "title": "Merge pull request #75 from gsmoj/fix/teacher-privilege-scope",
+        "repo": "gsmoj/gsmoj",
+        "url": "https://github.com/gsmoj/gsmoj/commit/e7f1a682a47d67a1b107b2ca1657b4fd0a4d9fd6",
+        "sha": "e7f1a682a47d",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-05",
+        "time": "17:00",
+        "at": "2026-11-05T17:00:46+09:00",
+        "title": "fix(admin): 교사·대회 생성자가 다른 대회와 다른 교사 수행평가에 접근하던 권한 범위 축소",
+        "repo": "gsmoj/gsmoj",
+        "url": "https://github.com/gsmoj/gsmoj/pull/75",
+        "number": 75,
+        "status": "merged",
+        "commits_url": "https://github.com/gsmoj/gsmoj/pull/75/commits",
+        "events": [
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-05",
+        "time": "17:00",
+        "at": "2026-11-05T17:00:38+09:00",
+        "title": "Merge pull request #74 from gsmoj/fix/online-log-exposure",
+        "repo": "gsmoj/gsmoj",
+        "url": "https://github.com/gsmoj/gsmoj/commit/5f5392bd973b688fde3c1ded36fabb49fccb9551",
+        "sha": "5f5392bd973b",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-05",
+        "time": "17:00",
+        "at": "2026-11-05T17:00:38+09:00",
+        "title": "fix: 접속자 화면의 로그인 기록·IP를 관리자에게만 공개하고 대회 서브넷 제한 우회 차단",
+        "repo": "gsmoj/gsmoj",
+        "url": "https://github.com/gsmoj/gsmoj/pull/74",
+        "number": 74,
+        "status": "merged",
+        "commits_url": "https://github.com/gsmoj/gsmoj/pull/74/commits",
+        "events": [
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-05",
+        "time": "17:00",
+        "at": "2026-11-05T17:00:29+09:00",
+        "title": "Merge pull request #71 from gsmoj/fix/admin-tool-privilege",
+        "repo": "gsmoj/gsmoj",
+        "url": "https://github.com/gsmoj/gsmoj/commit/ab0e1d79250feec8173775aebd1d8959c3014090",
+        "sha": "ab0e1d79250f",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-05",
+        "time": "17:00",
+        "at": "2026-11-05T17:00:29+09:00",
+        "title": "fix(admin): 파일 관리자·시스템 설정·계정 생성 도구의 권한과 입력 검증 강화",
+        "repo": "gsmoj/gsmoj",
+        "url": "https://github.com/gsmoj/gsmoj/pull/71",
+        "number": 71,
+        "status": "merged",
+        "commits_url": "https://github.com/gsmoj/gsmoj/pull/71/commits",
+        "events": [
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-05",
+        "time": "17:00",
+        "at": "2026-11-05T17:00:20+09:00",
+        "title": "Merge pull request #70 from gsmoj/fix/assessment-result-exposure",
+        "repo": "gsmoj/gsmoj",
+        "url": "https://github.com/gsmoj/gsmoj/commit/bcfb8a10a58f6c3f8d37ff8b599242d2eec5b730",
+        "sha": "bcfb8a10a58f",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-05",
+        "time": "17:00",
+        "at": "2026-11-05T17:00:20+09:00",
+        "title": "fix(contest): 수행평가 진행 중 문제 목록·반 통계·다른 대회 순위·연습 제출로 결과가 드러나던 경로 차단",
+        "repo": "gsmoj/gsmoj",
+        "url": "https://github.com/gsmoj/gsmoj/pull/70",
+        "number": 70,
+        "status": "merged",
+        "commits_url": "https://github.com/gsmoj/gsmoj/pull/70/commits",
+        "events": [
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-05",
+        "time": "17:00",
+        "at": "2026-11-05T17:00:11+09:00",
+        "title": "Merge pull request #69 from gsmoj/fix/escape-admin-output",
+        "repo": "gsmoj/gsmoj",
+        "url": "https://github.com/gsmoj/gsmoj/commit/678955575ad65fb3c16c11a62aa7807b2b7cd252",
+        "sha": "678955575ad6",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-05",
+        "time": "17:00",
+        "at": "2026-11-05T17:00:11+09:00",
+        "title": "fix: 관리자 목록 화면과 소스 원문 응답의 입력값 출력 이스케이프",
+        "repo": "gsmoj/gsmoj",
+        "url": "https://github.com/gsmoj/gsmoj/pull/69",
+        "number": 69,
+        "status": "merged",
+        "commits_url": "https://github.com/gsmoj/gsmoj/pull/69/commits",
+        "events": [
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-05",
+        "time": "17:00",
+        "at": "2026-11-05T17:00:02+09:00",
+        "title": "Merge pull request #66 from gsmoj/fix/admin-token-check",
+        "repo": "gsmoj/gsmoj",
+        "url": "https://github.com/gsmoj/gsmoj/commit/16a9b0adcba3ae80a5b734dfc8c93922afaa544a",
+        "sha": "16a9b0adcba3",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-05",
+        "time": "17:00",
+        "at": "2026-11-05T17:00:02+09:00",
+        "title": "fix(admin): 관리자 작업의 GET·POST 키 검증 우회 차단",
+        "repo": "gsmoj/gsmoj",
+        "url": "https://github.com/gsmoj/gsmoj/pull/66",
+        "number": 66,
+        "status": "merged",
+        "commits_url": "https://github.com/gsmoj/gsmoj/pull/66/commits",
+        "events": [
+          "merged"
+        ]
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-05",
+        "time": "16:59",
+        "at": "2026-11-05T16:59:54+09:00",
+        "title": "fix(user): 회원정보의 이메일 변경을 막고 가입 인증 코드·보안문자 재사용 차단",
+        "repo": "gsmoj/gsmoj",
+        "url": "https://github.com/gsmoj/gsmoj/pull/65",
+        "number": 65,
+        "status": "merged",
+        "commits_url": "https://github.com/gsmoj/gsmoj/pull/65/commits",
+        "events": [
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-05",
+        "time": "16:59",
+        "at": "2026-11-05T16:59:53+09:00",
+        "title": "Merge pull request #65 from gsmoj/fix/account-email-verification",
+        "repo": "gsmoj/gsmoj",
+        "url": "https://github.com/gsmoj/gsmoj/commit/68d8e19a137fe5b6584334f5d0e8ac79234a4efe",
+        "sha": "68d8e19a137f",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-05",
+        "time": "16:59",
+        "at": "2026-11-05T16:59:45+09:00",
+        "title": "Merge pull request #73 from gsmoj/chore/untrack-ide-settings",
+        "repo": "gsmoj/gsmoj",
+        "url": "https://github.com/gsmoj/gsmoj/commit/3cdcc07160e65e34c530f1f441cfc3cf931684c7",
+        "sha": "3cdcc07160e6",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-05",
+        "time": "16:59",
+        "at": "2026-11-05T16:59:45+09:00",
+        "title": "chore: 서버 접속 정보가 든 IDE 설정 파일을 저장소 추적에서 제외",
+        "repo": "gsmoj/gsmoj",
+        "url": "https://github.com/gsmoj/gsmoj/pull/73",
+        "number": 73,
+        "status": "merged",
+        "commits_url": "https://github.com/gsmoj/gsmoj/pull/73/commits",
+        "events": [
+          "merged"
+        ]
+      },
       {
         "kind": "pr",
         "event": "opened",
