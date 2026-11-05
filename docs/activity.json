@@ -1,7 +1,7 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-11-05T00:36:08.654142+00:00",
+  "updated_at": "2026-11-05T03:29:25.357022+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
@@ -459,37 +459,142 @@
     },
     "2026-11-03": {
       "state": "indexed",
-      "checked_at": "2026-11-05T00:35:41.979804+00:00",
+      "checked_at": "2026-11-05T03:28:56.993475+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
       "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
+      "branch_scan": "public owned repositories, max 20 branches each"
     },
     "2026-11-04": {
       "state": "indexed",
-      "checked_at": "2026-11-05T00:35:55.620105+00:00",
+      "checked_at": "2026-11-05T03:29:10.432529+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
       "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
+      "branch_scan": "public owned repositories, max 20 branches each"
     },
     "2026-11-05": {
       "state": "indexed",
-      "checked_at": "2026-11-05T00:36:08.654011+00:00",
+      "checked_at": "2026-11-05T03:29:24.068571+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
       "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
+      "branch_scan": "public owned repositories, max 20 branches each"
     }
   },
   "days": {
     "2026-11-05": [
+      {
+        "kind": "pr",
+        "event": "opened",
+        "date": "2026-11-05",
+        "time": "11:43",
+        "at": "2026-11-05T11:43:21+09:00",
+        "title": "[user] 모바일 navbar 배치 개선",
+        "repo": "team-washer/Washer-Client-v2",
+        "url": "https://github.com/team-washer/Washer-Client-v2/pull/44",
+        "number": 44,
+        "status": "open",
+        "commits_url": "https://github.com/team-washer/Washer-Client-v2/pull/44/commits",
+        "events": [
+          "opened"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-05",
+        "time": "11:04",
+        "at": "2026-11-05T11:04:05+09:00",
+        "title": "Merge pull request #43 from team-washer/feat/admin-user-page",
+        "repo": "team-washer/Washer-Client-v2",
+        "url": "https://github.com/team-washer/Washer-Client-v2/commit/63ff61682360c8666a260a814bef72fc219d0e71",
+        "sha": "63ff61682360",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-05",
+        "time": "11:04",
+        "at": "2026-11-05T11:04:05+09:00",
+        "title": "[admin] 관리자 계정의 사용자 페이지 이용 지원",
+        "repo": "team-washer/Washer-Client-v2",
+        "url": "https://github.com/team-washer/Washer-Client-v2/pull/43",
+        "number": 43,
+        "status": "merged",
+        "commits_url": "https://github.com/team-washer/Washer-Client-v2/pull/43/commits",
+        "events": [
+          "merged"
+        ]
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-05",
+        "time": "09:45",
+        "at": "2026-11-05T09:45:56+09:00",
+        "title": "release : 면접 합격 보고 운영 반영",
+        "repo": "kody-gsm/Jobdom_Fromt",
+        "url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/220",
+        "number": 220,
+        "status": "merged",
+        "commits_url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/220/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-05",
+        "time": "09:45",
+        "at": "2026-11-05T09:45:55+09:00",
+        "title": "Merge pull request #220 from kody-gsm/develop",
+        "repo": "kody-gsm/Jobdom_Fromt",
+        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/ea55246af98c134fadef9217dc33ced7d8883064",
+        "sha": "ea55246af98c",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-05",
+        "time": "09:43",
+        "at": "2026-11-05T09:43:51+09:00",
+        "title": "feat : 학생 면접 합격 보고와 진로 선생님 합격 보고 목록 추가",
+        "repo": "kody-gsm/Jobdom_Fromt",
+        "url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/218",
+        "number": 218,
+        "status": "merged",
+        "commits_url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/218/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-05",
+        "time": "09:43",
+        "at": "2026-11-05T09:43:50+09:00",
+        "title": "Merge pull request #218 from kody-gsm/feat/pass-report",
+        "repo": "kody-gsm/Jobdom_Fromt",
+        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/0e4a1d908e276db712533792962053f3d5d0c019",
+        "sha": "0e4a1d908e27",
+        "source": "commit-search"
+      },
       {
         "kind": "commit",
         "event": "committed",
@@ -520,23 +625,31 @@
         ]
       },
       {
-        "kind": "pr",
-        "event": "opened",
+        "kind": "commit",
+        "event": "committed",
         "date": "2026-11-05",
-        "time": "07:20",
-        "at": "2026-11-05T07:20:12+09:00",
-        "title": "feat : 학생 면접 합격 보고와 진로 선생님 합격 보고 목록 추가",
+        "time": "00:53",
+        "at": "2026-11-05T00:53:05+09:00",
+        "title": "feat : match pass report to interview-only backend and add teacher list",
         "repo": "kody-gsm/Jobdom_Fromt",
-        "url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/218",
-        "number": 218,
-        "status": "open",
-        "commits_url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/218/commits",
-        "events": [
-          "opened"
-        ]
+        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/6bf6e33e258f299c0b6f42ed351051c0649e7f86",
+        "sha": "6bf6e33e258f",
+        "source": "commit-search"
       }
     ],
     "2026-11-04": [
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-04",
+        "time": "20:51",
+        "at": "2026-11-04T20:51:34+09:00",
+        "title": "feat : add student pass report page with company name submit",
+        "repo": "kody-gsm/Jobdom_Fromt",
+        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/948217c26322d3b0a3e59583fe328c6a57929a1d",
+        "sha": "948217c26322",
+        "source": "commit-search"
+      },
       {
         "kind": "commit",
         "event": "committed",
@@ -1205,6 +1318,18 @@
         "repo": "kody-gsm/Jobdom_Fromt",
         "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/e97b899efcd01ddaf573bd7baaf3e2b61a0b53fd",
         "sha": "e97b899efcd0",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-03",
+        "time": "09:03",
+        "at": "2026-11-03T09:03:44+09:00",
+        "title": "refactor(layout): 관리자 페이지 버튼의 중복 aria-label 제거",
+        "repo": "team-washer/Washer-Client-v2",
+        "url": "https://github.com/team-washer/Washer-Client-v2/commit/bd2158a40e70670e2c77344836d188b6261a64cc",
+        "sha": "bd2158a40e70",
         "source": "commit-search"
       }
     ],
