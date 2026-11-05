@@ -1,11 +1,11 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-11-04T22:40:12.479719+00:00",
+  "updated_at": "2026-11-05T00:36:08.654142+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
-      "checked_at": "2026-11-04T00:12:25.567824+00:00",
+      "checked_at": "2026-11-05T00:31:38.103667+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -289,7 +289,7 @@
     },
     "2026-10-17": {
       "state": "indexed",
-      "checked_at": "2026-11-04T00:12:38.089639+00:00",
+      "checked_at": "2026-11-05T00:31:50.305570+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -299,7 +299,7 @@
     },
     "2026-10-18": {
       "state": "indexed",
-      "checked_at": "2026-11-04T00:12:51.660561+00:00",
+      "checked_at": "2026-11-05T00:32:03.096975+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -309,7 +309,7 @@
     },
     "2026-10-19": {
       "state": "indexed",
-      "checked_at": "2026-11-04T00:13:04.838383+00:00",
+      "checked_at": "2026-11-05T00:32:15.895526+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -319,7 +319,7 @@
     },
     "2026-10-20": {
       "state": "indexed",
-      "checked_at": "2026-11-04T00:13:18.981192+00:00",
+      "checked_at": "2026-11-05T00:32:28.864699+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -329,7 +329,7 @@
     },
     "2026-10-21": {
       "state": "indexed",
-      "checked_at": "2026-11-04T00:13:34.173015+00:00",
+      "checked_at": "2026-11-05T00:32:42.933404+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -339,7 +339,7 @@
     },
     "2026-10-22": {
       "state": "indexed",
-      "checked_at": "2026-11-04T00:13:50.058766+00:00",
+      "checked_at": "2026-11-05T00:32:58.604955+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -349,7 +349,7 @@
     },
     "2026-10-23": {
       "state": "indexed",
-      "checked_at": "2026-11-04T00:14:04.714812+00:00",
+      "checked_at": "2026-11-05T00:33:12.629654+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -359,7 +359,7 @@
     },
     "2026-10-24": {
       "state": "indexed",
-      "checked_at": "2026-11-04T00:14:18.112821+00:00",
+      "checked_at": "2026-11-05T00:33:25.289848+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -369,7 +369,7 @@
     },
     "2026-10-25": {
       "state": "indexed",
-      "checked_at": "2026-11-04T00:14:32.055066+00:00",
+      "checked_at": "2026-11-05T00:33:38.372890+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -379,7 +379,7 @@
     },
     "2026-10-26": {
       "state": "indexed",
-      "checked_at": "2026-11-04T00:14:47.541818+00:00",
+      "checked_at": "2026-11-05T00:33:52.221924+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -389,7 +389,7 @@
     },
     "2026-10-27": {
       "state": "indexed",
-      "checked_at": "2026-11-04T00:15:01.550675+00:00",
+      "checked_at": "2026-11-05T00:34:05.423358+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -399,7 +399,7 @@
     },
     "2026-10-28": {
       "state": "indexed",
-      "checked_at": "2026-11-04T00:15:16.314105+00:00",
+      "checked_at": "2026-11-05T00:34:18.798453+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -409,7 +409,7 @@
     },
     "2026-10-29": {
       "state": "indexed",
-      "checked_at": "2026-11-04T00:15:31.657039+00:00",
+      "checked_at": "2026-11-05T00:34:33.149860+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -419,7 +419,7 @@
     },
     "2026-10-30": {
       "state": "indexed",
-      "checked_at": "2026-11-04T00:15:46.843604+00:00",
+      "checked_at": "2026-11-05T00:34:47.311241+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -429,7 +429,7 @@
     },
     "2026-10-31": {
       "state": "indexed",
-      "checked_at": "2026-11-04T00:16:01.839713+00:00",
+      "checked_at": "2026-11-05T00:35:00.863447+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -439,7 +439,7 @@
     },
     "2026-11-01": {
       "state": "indexed",
-      "checked_at": "2026-11-04T00:16:16.344915+00:00",
+      "checked_at": "2026-11-05T00:35:13.750512+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -449,58 +449,83 @@
     },
     "2026-11-02": {
       "state": "indexed",
-      "checked_at": "2026-11-04T09:09:13.062729+00:00",
+      "checked_at": "2026-11-05T00:35:27.382423+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
       "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
-      "branch_scan": "public owned repositories, max 20 branches each"
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
     },
     "2026-11-03": {
       "state": "indexed",
-      "checked_at": "2026-11-04T22:39:43.159062+00:00",
+      "checked_at": "2026-11-05T00:35:41.979804+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
       "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
-      "branch_scan": "public owned repositories, max 20 branches each"
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
     },
     "2026-11-04": {
       "state": "indexed",
-      "checked_at": "2026-11-04T22:39:57.652041+00:00",
+      "checked_at": "2026-11-05T00:35:55.620105+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
       "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
-      "branch_scan": "public owned repositories, max 20 branches each"
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
     },
     "2026-11-05": {
       "state": "indexed",
-      "checked_at": "2026-11-04T22:40:10.944312+00:00",
+      "checked_at": "2026-11-05T00:36:08.654011+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
       "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
-      "branch_scan": "public owned repositories, max 20 branches each"
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
     }
   },
   "days": {
     "2026-11-05": [
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-05",
+        "time": "09:25",
+        "at": "2026-11-05T09:25:21+09:00",
+        "title": "Merge pull request #219 from kody-gsm/develop",
+        "repo": "kody-gsm/Jobdom_Fromt",
+        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/23971a546616046e7dcaac45a6af85a0f36a62f7",
+        "sha": "23971a546616",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-05",
+        "time": "09:25",
+        "at": "2026-11-05T09:25:21+09:00",
+        "title": "release : 튜토리얼 강조 버튼 클릭 수정 운영 반영",
+        "repo": "kody-gsm/Jobdom_Fromt",
+        "url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/219",
+        "number": 219,
+        "status": "merged",
+        "commits_url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/219/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
       {
         "kind": "pr",
         "event": "opened",
         "date": "2026-11-05",
         "time": "07:20",
         "at": "2026-11-05T07:20:12+09:00",
-        "title": "feat : add interview pass report for students and career teachers",
+        "title": "feat : 학생 면접 합격 보고와 진로 선생님 합격 보고 목록 추가",
         "repo": "kody-gsm/Jobdom_Fromt",
         "url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/218",
         "number": 218,
@@ -513,12 +538,24 @@
     ],
     "2026-11-04": [
       {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-04",
+        "time": "20:39",
+        "at": "2026-11-04T20:39:07+09:00",
+        "title": "Merge pull request #217 from kody-gsm/fix/tutorial-cancel",
+        "repo": "kody-gsm/Jobdom_Fromt",
+        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/198679a8c0034299cc184f676e6e5f9a0cb6fe68",
+        "sha": "198679a8c003",
+        "source": "commit-search"
+      },
+      {
         "kind": "pr",
         "event": "merged",
         "date": "2026-11-04",
         "time": "20:39",
         "at": "2026-11-04T20:39:07+09:00",
-        "title": "fix : let every highlighted control work during tutorial steps",
+        "title": "fix : 튜토리얼 모든 단계에서 강조된 버튼 누를 수 있게 수정",
         "repo": "kody-gsm/Jobdom_Fromt",
         "url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/217",
         "number": 217,
@@ -530,12 +567,24 @@
         ]
       },
       {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-04",
+        "time": "20:31",
+        "at": "2026-11-04T20:31:49+09:00",
+        "title": "fix : let every highlighted control work during tutorial steps",
+        "repo": "kody-gsm/Jobdom_Fromt",
+        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/1b012cbc788258ac1b39d6a83b6e4f5c2626797f",
+        "sha": "1b012cbc7882",
+        "source": "commit-search"
+      },
+      {
         "kind": "pr",
         "event": "merged",
         "date": "2026-11-04",
         "time": "18:15",
         "at": "2026-11-04T18:15:17+09:00",
-        "title": "release : tutorial hands-on practice and Seoul region",
+        "title": "release : 튜토리얼 직접 해보기와 서울 지역 운영 반영",
         "repo": "kody-gsm/Jobdom_Fromt",
         "url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/216",
         "number": 216,
@@ -576,7 +625,7 @@
         "date": "2026-11-04",
         "time": "18:11",
         "at": "2026-11-04T18:11:29+09:00",
-        "title": "feat : let users try forms and notifications hands-on in the tutorial",
+        "title": "feat : 튜토리얼에서 폼 만들기와 알림을 직접 해보기",
         "repo": "kody-gsm/Jobdom_Fromt",
         "url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/215",
         "number": 215,
@@ -617,7 +666,7 @@
         "date": "2026-11-04",
         "time": "17:38",
         "at": "2026-11-04T17:38:00+09:00",
-        "title": "perf : run Vercel functions in Seoul",
+        "title": "perf : Vercel 서버 함수 실행 지역을 서울로 지정",
         "repo": "kody-gsm/Jobdom_Fromt",
         "url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/214",
         "number": 214,
@@ -658,7 +707,7 @@
         "date": "2026-11-04",
         "time": "17:21",
         "at": "2026-11-04T17:21:24+09:00",
-        "title": "fix : seed tutorial recruits for every filter",
+        "title": "fix : 튜토리얼 필터마다 연습 공고 추가",
         "repo": "kody-gsm/Jobdom_Fromt",
         "url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/213",
         "number": 213,
