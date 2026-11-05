@@ -1,44 +1,9 @@
-### Today · 2026-11-05
+### Today · 2026-11-06
 
-**18 Commits** · **18 PRs** · **0 Issues**
+**0 Commits** · **0 PRs** · **0 Issues**
 
 | 시간(KST) | 종류 | 작업 | 저장소 |
 |:--:|:--|:--|:--|
-| 17:46 | PR | [translate: 채점 결과·메뉴 용어 통일과 사용자·관리자 화면의 영어·중국어 문구 번역 (opened/merged)](https://github.com/gsmoj/gsmoj/pull/81) | gsmoj/gsmoj |
-| 17:46 | Commit | [Merge pull request #81 from gsmoj/translate/korean-terms](https://github.com/gsmoj/gsmoj/commit/310c10bb0be5fbb1a13ee2820eb43218dcdc08b9) | gsmoj/gsmoj |
-| 17:40 | Commit | [Merge pull request #80 from gsmoj/feat/assessment-plan-remaining](https://github.com/gsmoj/gsmoj/commit/c20bed1927fb5cd011de7787823e19d6194c7e92) | gsmoj/gsmoj |
-| 17:40 | PR | [feat(contest): 수행평가 문제 공개·교사 미리 보기·감지 기준값 구현과 시간대·검사 스크립트 정리 (opened/merged)](https://github.com/gsmoj/gsmoj/pull/80) | gsmoj/gsmoj |
-| 17:29 | Commit | [Merge pull request #79 from gsmoj/fix/admin-menu-and-tools](https://github.com/gsmoj/gsmoj/commit/50a0dc4fdde249ff5d13b8cdc22f4113c0473400) | gsmoj/gsmoj |
-| 17:29 | PR | [fix(admin): 관리자 메뉴 권한 불일치와 백업·DB 업데이트·문제 관리 도구 오류 수정 (opened/merged)](https://github.com/gsmoj/gsmoj/pull/79) | gsmoj/gsmoj |
-| 17:28 | PR | [fix: 특정 입력의 PHP 오류와 로그인·회원정보·제출 화면의 잘못된 동작 수정 (opened/merged)](https://github.com/gsmoj/gsmoj/pull/78) | gsmoj/gsmoj |
-| 17:28 | Commit | [Merge pull request #78 from gsmoj/fix/php-warnings-user-flows](https://github.com/gsmoj/gsmoj/commit/b79489418bee00d32db49b07ece94606b6fe9ef7) | gsmoj/gsmoj |
-| 17:00 | PR | [fix: 메인 페이지와 관리자 화면이 PHP 오류로 끊기던 경로 수정 (merged)](https://github.com/gsmoj/gsmoj/pull/76) | gsmoj/gsmoj |
-| 17:00 | Commit | [Merge pull request #76 from gsmoj/fix/php-fatal-paths](https://github.com/gsmoj/gsmoj/commit/13acaf0d0428ae81e9ceeb6aa13d5f3e4c910aad) | gsmoj/gsmoj |
-| 17:00 | Commit | [Merge pull request #75 from gsmoj/fix/teacher-privilege-scope](https://github.com/gsmoj/gsmoj/commit/e7f1a682a47d67a1b107b2ca1657b4fd0a4d9fd6) | gsmoj/gsmoj |
-| 17:00 | PR | [fix(admin): 교사·대회 생성자가 다른 대회와 다른 교사 수행평가에 접근하던 권한 범위 축소 (merged)](https://github.com/gsmoj/gsmoj/pull/75) | gsmoj/gsmoj |
-| 17:00 | Commit | [Merge pull request #74 from gsmoj/fix/online-log-exposure](https://github.com/gsmoj/gsmoj/commit/5f5392bd973b688fde3c1ded36fabb49fccb9551) | gsmoj/gsmoj |
-| 17:00 | PR | [fix: 접속자 화면의 로그인 기록·IP를 관리자에게만 공개하고 대회 서브넷 제한 우회 차단 (merged)](https://github.com/gsmoj/gsmoj/pull/74) | gsmoj/gsmoj |
-| 17:00 | Commit | [Merge pull request #71 from gsmoj/fix/admin-tool-privilege](https://github.com/gsmoj/gsmoj/commit/ab0e1d79250feec8173775aebd1d8959c3014090) | gsmoj/gsmoj |
-| 17:00 | PR | [fix(admin): 파일 관리자·시스템 설정·계정 생성 도구의 권한과 입력 검증 강화 (merged)](https://github.com/gsmoj/gsmoj/pull/71) | gsmoj/gsmoj |
-| 17:00 | Commit | [Merge pull request #70 from gsmoj/fix/assessment-result-exposure](https://github.com/gsmoj/gsmoj/commit/bcfb8a10a58f6c3f8d37ff8b599242d2eec5b730) | gsmoj/gsmoj |
-| 17:00 | PR | [fix(contest): 수행평가 진행 중 문제 목록·반 통계·다른 대회 순위·연습 제출로 결과가 드러나던 경로 차단 (merged)](https://github.com/gsmoj/gsmoj/pull/70) | gsmoj/gsmoj |
-| 17:00 | Commit | [Merge pull request #69 from gsmoj/fix/escape-admin-output](https://github.com/gsmoj/gsmoj/commit/678955575ad65fb3c16c11a62aa7807b2b7cd252) | gsmoj/gsmoj |
-| 17:00 | PR | [fix: 관리자 목록 화면과 소스 원문 응답의 입력값 출력 이스케이프 (merged)](https://github.com/gsmoj/gsmoj/pull/69) | gsmoj/gsmoj |
-| 17:00 | Commit | [Merge pull request #66 from gsmoj/fix/admin-token-check](https://github.com/gsmoj/gsmoj/commit/16a9b0adcba3ae80a5b734dfc8c93922afaa544a) | gsmoj/gsmoj |
-| 17:00 | PR | [fix(admin): 관리자 작업의 GET·POST 키 검증 우회 차단 (merged)](https://github.com/gsmoj/gsmoj/pull/66) | gsmoj/gsmoj |
-| 16:59 | PR | [fix(user): 회원정보의 이메일 변경을 막고 가입 인증 코드·보안문자 재사용 차단 (merged)](https://github.com/gsmoj/gsmoj/pull/65) | gsmoj/gsmoj |
-| 16:59 | Commit | [Merge pull request #65 from gsmoj/fix/account-email-verification](https://github.com/gsmoj/gsmoj/commit/68d8e19a137fe5b6584334f5d0e8ac79234a4efe) | gsmoj/gsmoj |
-| 16:59 | Commit | [Merge pull request #73 from gsmoj/chore/untrack-ide-settings](https://github.com/gsmoj/gsmoj/commit/3cdcc07160e65e34c530f1f441cfc3cf931684c7) | gsmoj/gsmoj |
-| 16:59 | PR | [chore: 서버 접속 정보가 든 IDE 설정 파일을 저장소 추적에서 제외 (merged)](https://github.com/gsmoj/gsmoj/pull/73) | gsmoj/gsmoj |
-| 11:43 | PR | [[user] 모바일 navbar 배치 개선 (opened)](https://github.com/team-washer/Washer-Client-v2/pull/44) | team-washer/Washer-Client-v2 |
-| 11:04 | Commit | [Merge pull request #43 from team-washer/feat/admin-user-page](https://github.com/team-washer/Washer-Client-v2/commit/63ff61682360c8666a260a814bef72fc219d0e71) | team-washer/Washer-Client-v2 |
-| 11:04 | PR | [[admin] 관리자 계정의 사용자 페이지 이용 지원 (merged)](https://github.com/team-washer/Washer-Client-v2/pull/43) | team-washer/Washer-Client-v2 |
-| 09:45 | PR | [release : 면접 합격 보고 운영 반영 (opened/merged)](https://github.com/kody-gsm/Jobdom_Fromt/pull/220) | kody-gsm/Jobdom_Fromt |
-| 09:45 | Commit | [Merge pull request #220 from kody-gsm/develop](https://github.com/kody-gsm/Jobdom_Fromt/commit/ea55246af98c134fadef9217dc33ced7d8883064) | kody-gsm/Jobdom_Fromt |
-| 09:43 | PR | [feat : 학생 면접 합격 보고와 진로 선생님 합격 보고 목록 추가 (opened/merged)](https://github.com/kody-gsm/Jobdom_Fromt/pull/218) | kody-gsm/Jobdom_Fromt |
-| 09:43 | Commit | [Merge pull request #218 from kody-gsm/feat/pass-report](https://github.com/kody-gsm/Jobdom_Fromt/commit/0e4a1d908e276db712533792962053f3d5d0c019) | kody-gsm/Jobdom_Fromt |
-| 09:25 | Commit | [Merge pull request #219 from kody-gsm/develop](https://github.com/kody-gsm/Jobdom_Fromt/commit/23971a546616046e7dcaac45a6af85a0f36a62f7) | kody-gsm/Jobdom_Fromt |
-| 09:25 | PR | [release : 튜토리얼 강조 버튼 클릭 수정 운영 반영 (opened/merged)](https://github.com/kody-gsm/Jobdom_Fromt/pull/219) | kody-gsm/Jobdom_Fromt |
-| 00:53 | Commit | [feat : match pass report to interview-only backend and add teacher list](https://github.com/kody-gsm/Jobdom_Fromt/commit/6bf6e33e258f299c0b6f42ed351051c0649e7f86) | kody-gsm/Jobdom_Fromt |
+| — | — | 기록 없음 | — |
 
 [View all activity →](https://sunwoo162.github.io/sunwoo162/)
