@@ -1,7 +1,7 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-11-08T23:12:27.225966+00:00",
+  "updated_at": "2026-11-08T23:42:25.070567+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
@@ -499,37 +499,57 @@
     },
     "2026-11-07": {
       "state": "indexed",
-      "checked_at": "2026-11-08T23:12:03.797241+00:00",
+      "checked_at": "2026-11-08T23:41:55.315532+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
       "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
+      "branch_scan": "public owned repositories, max 20 branches each"
     },
     "2026-11-08": {
       "state": "indexed",
-      "checked_at": "2026-11-08T23:12:15.573087+00:00",
+      "checked_at": "2026-11-08T23:42:08.150444+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
       "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
+      "branch_scan": "public owned repositories, max 20 branches each"
     },
     "2026-11-09": {
       "state": "indexed",
-      "checked_at": "2026-11-08T23:12:27.225884+00:00",
+      "checked_at": "2026-11-08T23:42:21.305216+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
       "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
+      "branch_scan": "public owned repositories, max 20 branches each"
     }
   },
   "days": {
-    "2026-11-09": [],
+    "2026-11-09": [
+      {
+        "kind": "pr",
+        "event": "opened",
+        "date": "2026-11-09",
+        "time": "08:32",
+        "at": "2026-11-09T08:32:52+09:00",
+        "title": "실제 데이터 전환, AI 근거·신뢰성 표시, 스마트 마을 판정 개선, 오프라인 시연",
+        "repo": "jyx-07/gridwitness-frontend",
+        "url": "https://github.com/jyx-07/gridwitness-frontend/pull/1",
+        "number": 1,
+        "status": "open",
+        "commits_url": "https://github.com/jyx-07/gridwitness-frontend/pull/1/commits",
+        "events": [
+          "opened"
+        ]
+      }
+    ],
     "2026-11-08": [],
     "2026-11-07": [],
     "2026-11-06": [],
