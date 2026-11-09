@@ -1,7 +1,7 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-11-09T06:23:48.149383+00:00",
+  "updated_at": "2026-11-09T17:28:38.358510+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
@@ -510,7 +510,7 @@
     },
     "2026-11-08": {
       "state": "indexed",
-      "checked_at": "2026-11-09T06:23:31.039250+00:00",
+      "checked_at": "2026-11-09T17:28:08.231881+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -521,7 +521,18 @@
     },
     "2026-11-09": {
       "state": "indexed",
-      "checked_at": "2026-11-09T06:23:44.379961+00:00",
+      "checked_at": "2026-11-09T17:28:21.363123+00:00",
+      "sources": [
+        "github-commit-search",
+        "github-issue-search"
+      ],
+      "notes": [],
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
+      "branch_scan": "public owned repositories, max 20 branches each"
+    },
+    "2026-11-10": {
+      "state": "indexed",
+      "checked_at": "2026-11-09T17:28:35.013905+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -532,7 +543,24 @@
     }
   },
   "days": {
+    "2026-11-10": [],
     "2026-11-09": [
+      {
+        "kind": "pr",
+        "event": "opened",
+        "date": "2026-11-09",
+        "time": "17:26",
+        "at": "2026-11-09T17:26:13+09:00",
+        "title": "스마트 마을: 실물 배치·배선 맞춤, 사건 녹화 v3.1, 원인 분류 모델",
+        "repo": "jyx-07/gridwitness-frontend",
+        "url": "https://github.com/jyx-07/gridwitness-frontend/pull/2",
+        "number": 2,
+        "status": "open",
+        "commits_url": "https://github.com/jyx-07/gridwitness-frontend/pull/2/commits",
+        "events": [
+          "opened"
+        ]
+      },
       {
         "kind": "pr",
         "event": "merged",
