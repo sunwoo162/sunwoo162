@@ -1,7 +1,7 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-11-09T17:28:38.358510+00:00",
+  "updated_at": "2026-11-10T01:30:57.862886+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
@@ -510,7 +510,7 @@
     },
     "2026-11-08": {
       "state": "indexed",
-      "checked_at": "2026-11-09T17:28:08.231881+00:00",
+      "checked_at": "2026-11-10T01:30:26.265346+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -521,7 +521,7 @@
     },
     "2026-11-09": {
       "state": "indexed",
-      "checked_at": "2026-11-09T17:28:21.363123+00:00",
+      "checked_at": "2026-11-10T01:30:39.664816+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -532,7 +532,7 @@
     },
     "2026-11-10": {
       "state": "indexed",
-      "checked_at": "2026-11-09T17:28:35.013905+00:00",
+      "checked_at": "2026-11-10T01:30:53.161008+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -543,7 +543,147 @@
     }
   },
   "days": {
-    "2026-11-10": [],
+    "2026-11-10": [
+      {
+        "kind": "pr",
+        "event": "opened",
+        "date": "2026-11-10",
+        "time": "10:30",
+        "at": "2026-11-10T10:30:22+09:00",
+        "title": "GitHub Pages: call the API server directly (no /gw-api proxy on Pages)",
+        "repo": "jyx-07/gridwitness-frontend",
+        "url": "https://github.com/jyx-07/gridwitness-frontend/pull/6",
+        "number": 6,
+        "status": "open",
+        "commits_url": "https://github.com/jyx-07/gridwitness-frontend/pull/6/commits",
+        "events": [
+          "opened"
+        ]
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-10",
+        "time": "10:25",
+        "at": "2026-11-10T10:25:22+09:00",
+        "title": "Village: match the real model and the Uno sketch v3.1 (fixes #4)",
+        "repo": "jyx-07/gridwitness-frontend",
+        "url": "https://github.com/jyx-07/gridwitness-frontend/pull/5",
+        "number": 5,
+        "status": "merged",
+        "commits_url": "https://github.com/jyx-07/gridwitness-frontend/pull/5/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-10",
+        "time": "10:24",
+        "at": "2026-11-10T10:24:22+09:00",
+        "title": "Field assistant refuses '스위치 내려줘'-style control requests; audit labels for assistant answers and field notes",
+        "repo": "jyx-07/gridwitness-frontend",
+        "url": "https://github.com/jyx-07/gridwitness-frontend/commit/976f970fa564b72b17611928fdd2d6814ad77be8",
+        "sha": "976f970fa564",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-10",
+        "time": "10:22",
+        "at": "2026-11-10T10:22:20+09:00",
+        "title": "Village anomaly table re-measured on 2026-11-09 (current hardware)",
+        "repo": "jyx-07/gridwitness-frontend",
+        "url": "https://github.com/jyx-07/gridwitness-frontend/commit/01b77b500649b94df5d49c799296f98dce86a41e",
+        "sha": "01b77b500649",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-10",
+        "time": "10:22",
+        "at": "2026-11-10T10:22:20+09:00",
+        "title": "Village event cause model: 148 checked recordings, fresh held-out round",
+        "repo": "jyx-07/gridwitness-frontend",
+        "url": "https://github.com/jyx-07/gridwitness-frontend/commit/72e948a044cf1f3c228baf505fb7a3e7c2239b83",
+        "sha": "72e948a044cf",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-10",
+        "time": "10:22",
+        "at": "2026-11-10T10:22:19+09:00",
+        "title": "Village event cause model retrained on checked recordings (v31b)",
+        "repo": "jyx-07/gridwitness-frontend",
+        "url": "https://github.com/jyx-07/gridwitness-frontend/commit/55ab9c48b1aa9f15eafa002f836bafd098b4dcce",
+        "sha": "55ab9c48b1aa",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-10",
+        "time": "10:22",
+        "at": "2026-11-10T10:22:19+09:00",
+        "title": "Village event cause model retrained on v3.1 recordings (10 ms)",
+        "repo": "jyx-07/gridwitness-frontend",
+        "url": "https://github.com/jyx-07/gridwitness-frontend/commit/64367429949411d7973b547629107f10dd038d99",
+        "sha": "643674299494",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-10",
+        "time": "10:22",
+        "at": "2026-11-10T10:22:19+09:00",
+        "title": "Village: house 2 and 3 names follow the real wiring everywhere (D4 = house 3, D5 = house 2)",
+        "repo": "jyx-07/gridwitness-frontend",
+        "url": "https://github.com/jyx-07/gridwitness-frontend/commit/e0b99c845295ad48a6ab20baf35cd35a00dbf82d",
+        "sha": "e0b99c845295",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-10",
+        "time": "10:22",
+        "at": "2026-11-10T10:22:19+09:00",
+        "title": "Village sketch v3.1: record events at 10 ms (0.6 s before, 2.0 s after)",
+        "repo": "jyx-07/gridwitness-frontend",
+        "url": "https://github.com/jyx-07/gridwitness-frontend/commit/21ba06655a6b1dd22f2f3b418290abb15582ee74",
+        "sha": "21ba06655a6b",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-10",
+        "time": "10:22",
+        "at": "2026-11-10T10:22:19+09:00",
+        "title": "Village event cause model trained on real events from the model (jumper wires)",
+        "repo": "jyx-07/gridwitness-frontend",
+        "url": "https://github.com/jyx-07/gridwitness-frontend/commit/5a25fce633236f7abe94ca4d243115b00efba9e7",
+        "sha": "5a25fce63323",
+        "source": "commit-search"
+      },
+      {
+        "kind": "issue",
+        "event": "opened",
+        "date": "2026-11-10",
+        "time": "10:16",
+        "at": "2026-11-10T10:16:23+09:00",
+        "title": "실물 마을 모형과 main 불일치: 주택 2·3 핀, 스케치 v3.1, 원인 모델 (시연 영향)",
+        "repo": "jyx-07/gridwitness-frontend",
+        "url": "https://github.com/jyx-07/gridwitness-frontend/issues/4"
+      }
+    ],
     "2026-11-09": [
       {
         "kind": "pr",
@@ -555,7 +695,7 @@
         "repo": "jyx-07/gridwitness-frontend",
         "url": "https://github.com/jyx-07/gridwitness-frontend/pull/2",
         "number": 2,
-        "status": "open",
+        "status": "closed",
         "commits_url": "https://github.com/jyx-07/gridwitness-frontend/pull/2/commits",
         "events": [
           "opened"
