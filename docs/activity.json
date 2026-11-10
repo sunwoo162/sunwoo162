@@ -1,7 +1,7 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-11-10T01:30:57.862886+00:00",
+  "updated_at": "2026-11-10T02:27:54.061539+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
@@ -329,7 +329,7 @@
     },
     "2026-10-21": {
       "state": "indexed",
-      "checked_at": "2026-11-08T23:08:19.856901+00:00",
+      "checked_at": "2026-11-10T02:23:13.941833+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -339,7 +339,7 @@
     },
     "2026-10-22": {
       "state": "indexed",
-      "checked_at": "2026-11-08T23:08:33.459927+00:00",
+      "checked_at": "2026-11-10T02:23:28.347213+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -349,7 +349,7 @@
     },
     "2026-10-23": {
       "state": "indexed",
-      "checked_at": "2026-11-08T23:08:46.666061+00:00",
+      "checked_at": "2026-11-10T02:23:41.661617+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -359,7 +359,7 @@
     },
     "2026-10-24": {
       "state": "indexed",
-      "checked_at": "2026-11-08T23:08:59.166746+00:00",
+      "checked_at": "2026-11-10T02:23:54.271479+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -369,7 +369,7 @@
     },
     "2026-10-25": {
       "state": "indexed",
-      "checked_at": "2026-11-08T23:09:11.785986+00:00",
+      "checked_at": "2026-11-10T02:24:07.562374+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -379,7 +379,7 @@
     },
     "2026-10-26": {
       "state": "indexed",
-      "checked_at": "2026-11-08T23:09:25.159943+00:00",
+      "checked_at": "2026-11-10T02:24:21.724200+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -389,7 +389,7 @@
     },
     "2026-10-27": {
       "state": "indexed",
-      "checked_at": "2026-11-08T23:09:38.040737+00:00",
+      "checked_at": "2026-11-10T02:24:35.926082+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -399,7 +399,7 @@
     },
     "2026-10-28": {
       "state": "indexed",
-      "checked_at": "2026-11-08T23:09:51.055021+00:00",
+      "checked_at": "2026-11-10T02:24:50.795022+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -409,7 +409,7 @@
     },
     "2026-10-29": {
       "state": "indexed",
-      "checked_at": "2026-11-08T23:10:04.760742+00:00",
+      "checked_at": "2026-11-10T02:25:05.540531+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -419,7 +419,7 @@
     },
     "2026-10-30": {
       "state": "indexed",
-      "checked_at": "2026-11-08T23:10:18.313373+00:00",
+      "checked_at": "2026-11-10T02:25:20.373198+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -429,7 +429,7 @@
     },
     "2026-10-31": {
       "state": "indexed",
-      "checked_at": "2026-11-08T23:10:31.554670+00:00",
+      "checked_at": "2026-11-10T02:25:34.995779+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -439,7 +439,7 @@
     },
     "2026-11-01": {
       "state": "indexed",
-      "checked_at": "2026-11-08T23:10:44.239774+00:00",
+      "checked_at": "2026-11-10T02:25:48.563475+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -449,7 +449,7 @@
     },
     "2026-11-02": {
       "state": "indexed",
-      "checked_at": "2026-11-08T23:10:57.234554+00:00",
+      "checked_at": "2026-11-10T02:26:02.399245+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -459,7 +459,7 @@
     },
     "2026-11-03": {
       "state": "indexed",
-      "checked_at": "2026-11-08T23:11:11.579526+00:00",
+      "checked_at": "2026-11-10T02:26:17.755126+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -469,7 +469,7 @@
     },
     "2026-11-04": {
       "state": "indexed",
-      "checked_at": "2026-11-08T23:11:24.813935+00:00",
+      "checked_at": "2026-11-10T02:26:32.287537+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -479,7 +479,7 @@
     },
     "2026-11-05": {
       "state": "indexed",
-      "checked_at": "2026-11-08T23:11:38.469330+00:00",
+      "checked_at": "2026-11-10T02:26:47.391164+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -489,7 +489,7 @@
     },
     "2026-11-06": {
       "state": "indexed",
-      "checked_at": "2026-11-08T23:11:52.099488+00:00",
+      "checked_at": "2026-11-10T02:27:01.785954+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -499,66 +499,133 @@
     },
     "2026-11-07": {
       "state": "indexed",
-      "checked_at": "2026-11-09T06:23:18.084948+00:00",
+      "checked_at": "2026-11-10T02:27:14.141381+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
       "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
-      "branch_scan": "public owned repositories, max 20 branches each"
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
     },
     "2026-11-08": {
       "state": "indexed",
-      "checked_at": "2026-11-10T01:30:26.265346+00:00",
+      "checked_at": "2026-11-10T02:27:26.989173+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
       "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
-      "branch_scan": "public owned repositories, max 20 branches each"
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
     },
     "2026-11-09": {
       "state": "indexed",
-      "checked_at": "2026-11-10T01:30:39.664816+00:00",
+      "checked_at": "2026-11-10T02:27:40.500180+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
       "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
-      "branch_scan": "public owned repositories, max 20 branches each"
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
     },
     "2026-11-10": {
       "state": "indexed",
-      "checked_at": "2026-11-10T01:30:53.161008+00:00",
+      "checked_at": "2026-11-10T02:27:54.061476+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
       "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
-      "branch_scan": "public owned repositories, max 20 branches each"
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
     }
   },
   "days": {
     "2026-11-10": [
       {
         "kind": "pr",
-        "event": "opened",
+        "event": "merged",
         "date": "2026-11-10",
-        "time": "10:30",
-        "at": "2026-11-10T10:30:22+09:00",
+        "time": "10:50",
+        "at": "2026-11-10T10:50:22+09:00",
+        "title": "Settings: server analysis models are connected (remove the 'no model' notice)",
+        "repo": "jyx-07/gridwitness-frontend",
+        "url": "https://github.com/jyx-07/gridwitness-frontend/pull/8",
+        "number": 8,
+        "status": "merged",
+        "commits_url": "https://github.com/jyx-07/gridwitness-frontend/pull/8/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-10",
+        "time": "10:49",
+        "at": "2026-11-10T10:49:55+09:00",
+        "title": "Open cases from another device with their analysis (field assistant showed '분석 전')",
+        "repo": "jyx-07/gridwitness-frontend",
+        "url": "https://github.com/jyx-07/gridwitness-frontend/pull/7",
+        "number": 7,
+        "status": "merged",
+        "commits_url": "https://github.com/jyx-07/gridwitness-frontend/pull/7/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-10",
+        "time": "10:46",
+        "at": "2026-11-10T10:46:17+09:00",
+        "title": "Settings: the server has analysis models connected (CN Xiong 2020, RU OscGrid); remove the 'no model' notice",
+        "repo": "jyx-07/gridwitness-frontend",
+        "url": "https://github.com/jyx-07/gridwitness-frontend/commit/090f0b3c0ece89ace3fa2c1f9c9f0bd7515e2252",
+        "sha": "090f0b3c0ece",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-10",
+        "time": "10:40",
+        "at": "2026-11-10T10:40:32+09:00",
         "title": "GitHub Pages: call the API server directly (no /gw-api proxy on Pages)",
         "repo": "jyx-07/gridwitness-frontend",
         "url": "https://github.com/jyx-07/gridwitness-frontend/pull/6",
         "number": 6,
-        "status": "open",
+        "status": "merged",
         "commits_url": "https://github.com/jyx-07/gridwitness-frontend/pull/6/commits",
         "events": [
-          "opened"
+          "opened",
+          "merged"
         ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-10",
+        "time": "10:40",
+        "at": "2026-11-10T10:40:04+09:00",
+        "title": "Open cases registered on another device with their waveform, diagnosis, analysis and reviews",
+        "repo": "jyx-07/gridwitness-frontend",
+        "url": "https://github.com/jyx-07/gridwitness-frontend/commit/91ed1bb64a244be603bf5d7167767c9087731897",
+        "sha": "91ed1bb64a24",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-10",
+        "time": "10:29",
+        "at": "2026-11-10T10:29:53+09:00",
+        "title": "GitHub Pages build calls the API server directly (no /gw-api proxy there)",
+        "repo": "jyx-07/gridwitness-frontend",
+        "url": "https://github.com/jyx-07/gridwitness-frontend/commit/815840396e71fe1e345204325b265d798836de9b",
+        "sha": "815840396e71",
+        "source": "commit-search"
       },
       {
         "kind": "pr",
