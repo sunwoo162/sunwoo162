@@ -1,9 +1,11 @@
 ### Today · 2026-11-11
 
-**24 Commits** · **9 PRs** · **0 Issues**
+**25 Commits** · **10 PRs** · **0 Issues**
 
 | 시간(KST) | 종류 | 작업 | 저장소 |
 |:--:|:--|:--|:--|
+| 22:36 | Commit | [Merge pull request #44 from team-washer/fix/user-navbar-mobile-layout](https://github.com/team-washer/Washer-Client-v2/commit/a652231cd71b1c07f05cb0a0cc3cd4d000df7124) | team-washer/Washer-Client-v2 |
+| 22:36 | PR | [[user] 모바일 navbar 배치 개선 (merged)](https://github.com/team-washer/Washer-Client-v2/pull/44) | team-washer/Washer-Client-v2 |
 | 10:17 | Commit | [Merge pull request #25 from parkskin/fix/village-alert-behavior](https://github.com/parkskin/gridwitness-frontend/commit/5d29f1fe44480b3471258550a80e6512da9301c0) | parkskin/gridwitness-frontend |
 | 10:17 | PR | [fix: keep village incident alerts non-blocking (opened/merged)](https://github.com/parkskin/gridwitness-frontend/pull/25) | parkskin/gridwitness-frontend |
 | 10:15 | Commit | [fix: keep event AI verdicts visible and clarify thresholds](https://github.com/parkskin/gridwitness-frontend/commit/909b1461ba4ea3f5c325165f6a954702c8e15ea5) | parkskin/gridwitness-frontend |

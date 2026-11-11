@@ -1,7 +1,7 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-11-11T06:13:51.094530+00:00",
+  "updated_at": "2026-11-11T14:27:24.546640+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
@@ -519,7 +519,7 @@
     },
     "2026-11-09": {
       "state": "indexed",
-      "checked_at": "2026-11-11T06:13:11.576970+00:00",
+      "checked_at": "2026-11-11T14:26:44.946356+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -530,7 +530,7 @@
     },
     "2026-11-10": {
       "state": "indexed",
-      "checked_at": "2026-11-11T06:13:26.785778+00:00",
+      "checked_at": "2026-11-11T14:27:00.309169+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -541,7 +541,7 @@
     },
     "2026-11-11": {
       "state": "indexed",
-      "checked_at": "2026-11-11T06:13:42.193921+00:00",
+      "checked_at": "2026-11-11T14:27:16.583191+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -553,6 +553,34 @@
   },
   "days": {
     "2026-11-11": [
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-11",
+        "time": "22:36",
+        "at": "2026-11-11T22:36:52+09:00",
+        "title": "Merge pull request #44 from team-washer/fix/user-navbar-mobile-layout",
+        "repo": "team-washer/Washer-Client-v2",
+        "url": "https://github.com/team-washer/Washer-Client-v2/commit/a652231cd71b1c07f05cb0a0cc3cd4d000df7124",
+        "sha": "a652231cd71b",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-11",
+        "time": "22:36",
+        "at": "2026-11-11T22:36:52+09:00",
+        "title": "[user] 모바일 navbar 배치 개선",
+        "repo": "team-washer/Washer-Client-v2",
+        "url": "https://github.com/team-washer/Washer-Client-v2/pull/44",
+        "number": 44,
+        "status": "merged",
+        "commits_url": "https://github.com/team-washer/Washer-Client-v2/pull/44/commits",
+        "events": [
+          "merged"
+        ]
+      },
       {
         "kind": "commit",
         "event": "committed",
@@ -1751,6 +1779,30 @@
           "opened",
           "merged"
         ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-09",
+        "time": "08:58",
+        "at": "2026-11-09T08:58:27+09:00",
+        "title": "test(layout): navbar aria-label 검사를 속성 순서와 무관하게 변경",
+        "repo": "team-washer/Washer-Client-v2",
+        "url": "https://github.com/team-washer/Washer-Client-v2/commit/ff0c196d3af5ffa7b84857b155de141688f20630",
+        "sha": "ff0c196d3af5",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-09",
+        "time": "08:58",
+        "at": "2026-11-09T08:58:27+09:00",
+        "title": "fix(layout): lg 이상 관리자 페이지 버튼 높이를 로그아웃 버튼과 맞춤",
+        "repo": "team-washer/Washer-Client-v2",
+        "url": "https://github.com/team-washer/Washer-Client-v2/commit/501f141553486d760f20cb56e8ff290e4603e92c",
+        "sha": "501f14155348",
+        "source": "commit-search"
       },
       {
         "kind": "commit",
