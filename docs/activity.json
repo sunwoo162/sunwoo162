@@ -1,7 +1,7 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-11-11T00:18:39.239213+00:00",
+  "updated_at": "2026-11-11T06:13:51.094530+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
@@ -519,37 +519,153 @@
     },
     "2026-11-09": {
       "state": "indexed",
-      "checked_at": "2026-11-11T00:18:11.258063+00:00",
+      "checked_at": "2026-11-11T06:13:11.576970+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
       "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
+      "branch_scan": "public owned repositories, max 20 branches each"
     },
     "2026-11-10": {
       "state": "indexed",
-      "checked_at": "2026-11-11T00:18:25.263245+00:00",
+      "checked_at": "2026-11-11T06:13:26.785778+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
       "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
+      "branch_scan": "public owned repositories, max 20 branches each"
     },
     "2026-11-11": {
       "state": "indexed",
-      "checked_at": "2026-11-11T00:18:39.239069+00:00",
+      "checked_at": "2026-11-11T06:13:42.193921+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
       "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
+      "branch_scan": "public owned repositories, max 20 branches each"
     }
   },
   "days": {
     "2026-11-11": [
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-11",
+        "time": "10:17",
+        "at": "2026-11-11T10:17:42+09:00",
+        "title": "Merge pull request #25 from parkskin/fix/village-alert-behavior",
+        "repo": "parkskin/gridwitness-frontend",
+        "url": "https://github.com/parkskin/gridwitness-frontend/commit/5d29f1fe44480b3471258550a80e6512da9301c0",
+        "sha": "5d29f1fe4448",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-11",
+        "time": "10:17",
+        "at": "2026-11-11T10:17:42+09:00",
+        "title": "fix: keep village incident alerts non-blocking",
+        "repo": "parkskin/gridwitness-frontend",
+        "url": "https://github.com/parkskin/gridwitness-frontend/pull/25",
+        "number": 25,
+        "status": "merged",
+        "commits_url": "https://github.com/parkskin/gridwitness-frontend/pull/25/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-11",
+        "time": "10:15",
+        "at": "2026-11-11T10:15:42+09:00",
+        "title": "fix: keep event AI verdicts visible and clarify thresholds",
+        "repo": "parkskin/gridwitness-frontend",
+        "url": "https://github.com/parkskin/gridwitness-frontend/commit/909b1461ba4ea3f5c325165f6a954702c8e15ea5",
+        "sha": "909b1461ba4e",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-11",
+        "time": "10:05",
+        "at": "2026-11-11T10:05:01+09:00",
+        "title": "fix: require FRTU status in answer summary",
+        "repo": "parkskin/gridwitness-frontend",
+        "url": "https://github.com/parkskin/gridwitness-frontend/commit/be7db7e3b0d5344c93d4c4db3515e5013d32b8eb",
+        "sha": "be7db7e3b0d5",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-11",
+        "time": "10:03",
+        "at": "2026-11-11T10:03:09+09:00",
+        "title": "fix: append FRTU details when omitted",
+        "repo": "parkskin/gridwitness-frontend",
+        "url": "https://github.com/parkskin/gridwitness-frontend/commit/ab37e8000387da9098a4869b1dba22ab37878023",
+        "sha": "ab37e8000387",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-11",
+        "time": "10:00",
+        "at": "2026-11-11T10:00:15+09:00",
+        "title": "fix: include FRTU readings in status answers",
+        "repo": "parkskin/gridwitness-frontend",
+        "url": "https://github.com/parkskin/gridwitness-frontend/commit/e7cc999c3a77b2be7a9250a3c50f46983d094d82",
+        "sha": "e7cc999c3a77",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-11",
+        "time": "09:57",
+        "at": "2026-11-11T09:57:46+09:00",
+        "title": "fix: hide unhelpful branch measurement caveat",
+        "repo": "parkskin/gridwitness-frontend",
+        "url": "https://github.com/parkskin/gridwitness-frontend/commit/c2bd01e8ead0a40cf2e0918fd50d825c438f2147",
+        "sha": "c2bd01e8ead0",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-11",
+        "time": "09:51",
+        "at": "2026-11-11T09:51:02+09:00",
+        "title": "fix: simplify village assistant status copy",
+        "repo": "parkskin/gridwitness-frontend",
+        "url": "https://github.com/parkskin/gridwitness-frontend/commit/f0c9b667bbdd2a3f3744aa40d9f51e54f991dfa9",
+        "sha": "f0c9b667bbdd",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-11",
+        "time": "09:45",
+        "at": "2026-11-11T09:45:27+09:00",
+        "title": "fix: keep village incident alerts non-blocking",
+        "repo": "parkskin/gridwitness-frontend",
+        "url": "https://github.com/parkskin/gridwitness-frontend/commit/f2a476f1732d37936e8218814f40aef11c6756b3",
+        "sha": "f2a476f1732d",
+        "source": "commit-search"
+      },
       {
         "kind": "commit",
         "event": "committed",
@@ -652,6 +768,18 @@
         "kind": "commit",
         "event": "committed",
         "date": "2026-11-11",
+        "time": "03:50",
+        "at": "2026-11-11T03:50:21+09:00",
+        "title": "Merge pull request #21 from parkskin/fix/measured-frtu-data-main",
+        "repo": "sunwoo162/gridwitness-frontend",
+        "url": "https://github.com/sunwoo162/gridwitness-frontend/commit/4d5d8cfeb46fb669bdf112cb02104dd46beaa1ca",
+        "sha": "4d5d8cfeb46f",
+        "source": "branch-scan"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-11",
         "time": "03:49",
         "at": "2026-11-11T03:49:05+09:00",
         "title": "fix: describe village assistant LLM and rules fallback",
@@ -690,6 +818,18 @@
         "source": "commit-search"
       },
       {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-11",
+        "time": "02:42",
+        "at": "2026-11-11T02:42:05+09:00",
+        "title": "fix: label live incident model scores as uncalibrated (#20)",
+        "repo": "sunwoo162/gridwitness-frontend",
+        "url": "https://github.com/sunwoo162/gridwitness-frontend/commit/f2a165a5d28d4292d26326664a5d1b95191738e9",
+        "sha": "f2a165a5d28d",
+        "source": "branch-scan"
+      },
+      {
         "kind": "pr",
         "event": "merged",
         "date": "2026-11-11",
@@ -717,6 +857,18 @@
         "url": "https://github.com/parkskin/gridwitness-frontend/commit/d2452922f388d9acbcff8bbd0ebc2b8b4240b0da",
         "sha": "d2452922f388",
         "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-11",
+        "time": "02:35",
+        "at": "2026-11-11T02:35:08+09:00",
+        "title": "fix: clarify fallback model scores are not probabilities (#19)",
+        "repo": "sunwoo162/gridwitness-frontend",
+        "url": "https://github.com/sunwoo162/gridwitness-frontend/commit/d2452922f388d9acbcff8bbd0ebc2b8b4240b0da",
+        "sha": "d2452922f388",
+        "source": "branch-scan"
       },
       {
         "kind": "pr",
@@ -751,6 +903,18 @@
         "kind": "commit",
         "event": "committed",
         "date": "2026-11-11",
+        "time": "02:31",
+        "at": "2026-11-11T02:31:44+09:00",
+        "title": "fix: keep model scores uncalibrated in assistant evidence (#18)",
+        "repo": "sunwoo162/gridwitness-frontend",
+        "url": "https://github.com/sunwoo162/gridwitness-frontend/commit/b9f71546687ad08b108afb803a57a4b7bceff62f",
+        "sha": "b9f71546687a",
+        "source": "branch-scan"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-11",
         "time": "02:24",
         "at": "2026-11-11T02:24:38+09:00",
         "title": "fix: stop presenting model scores as probabilities (#17)",
@@ -775,6 +939,18 @@
           "opened",
           "merged"
         ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-11",
+        "time": "02:24",
+        "at": "2026-11-11T02:24:38+09:00",
+        "title": "fix: stop presenting model scores as probabilities (#17)",
+        "repo": "sunwoo162/gridwitness-frontend",
+        "url": "https://github.com/sunwoo162/gridwitness-frontend/commit/af153491fb3fa0a77eede5160beb478f224a9060",
+        "sha": "af153491fb3f",
+        "source": "branch-scan"
       },
       {
         "kind": "pr",
@@ -804,6 +980,18 @@
         "url": "https://github.com/parkskin/gridwitness-frontend/commit/37edd2cf2cd5d477984e64efd61dd9b6fca26479",
         "sha": "37edd2cf2cd5",
         "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-11",
+        "time": "01:50",
+        "at": "2026-11-11T01:50:47+09:00",
+        "title": "Report live UNO sensor availability in architecture view (#16)",
+        "repo": "sunwoo162/gridwitness-frontend",
+        "url": "https://github.com/sunwoo162/gridwitness-frontend/commit/37edd2cf2cd5d477984e64efd61dd9b6fca26479",
+        "sha": "37edd2cf2cd5",
+        "source": "branch-scan"
       }
     ],
     "2026-11-10": [
@@ -835,6 +1023,18 @@
         "url": "https://github.com/parkskin/gridwitness-frontend/commit/4436ac270c671f40ec84184f68f61ffed2cd7de2",
         "sha": "4436ac270c67",
         "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-10",
+        "time": "23:43",
+        "at": "2026-11-10T23:43:03+09:00",
+        "title": "Merge pull request #10 from parkskin/docs/api-access-code",
+        "repo": "sunwoo162/gridwitness-frontend",
+        "url": "https://github.com/sunwoo162/gridwitness-frontend/commit/4436ac270c671f40ec84184f68f61ffed2cd7de2",
+        "sha": "4436ac270c67",
+        "source": "branch-scan"
       },
       {
         "kind": "commit",
@@ -881,6 +1081,18 @@
         "kind": "commit",
         "event": "committed",
         "date": "2026-11-10",
+        "time": "23:20",
+        "at": "2026-11-10T23:20:08+09:00",
+        "title": "Merge pull request #8 from parkskin/docs/deployment-status-20261110",
+        "repo": "sunwoo162/gridwitness-frontend",
+        "url": "https://github.com/sunwoo162/gridwitness-frontend/commit/17a369e1fd11d329286998416796b2e5d6902682",
+        "sha": "17a369e1fd11",
+        "source": "branch-scan"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-10",
         "time": "23:19",
         "at": "2026-11-10T23:19:28+09:00",
         "title": "Document village assistant deployment verification",
@@ -917,6 +1129,18 @@
         "url": "https://github.com/parkskin/gridwitness-frontend/commit/817f45c5c182db89415807f65f6bdc285ae974c9",
         "sha": "817f45c5c182",
         "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-10",
+        "time": "23:09",
+        "at": "2026-11-10T23:09:32+09:00",
+        "title": "Merge pull request #7 from parkskin/feat/village-chat-history",
+        "repo": "sunwoo162/gridwitness-frontend",
+        "url": "https://github.com/sunwoo162/gridwitness-frontend/commit/817f45c5c182db89415807f65f6bdc285ae974c9",
+        "sha": "817f45c5c182",
+        "source": "branch-scan"
       },
       {
         "kind": "commit",
@@ -963,6 +1187,18 @@
         "kind": "commit",
         "event": "committed",
         "date": "2026-11-10",
+        "time": "22:44",
+        "at": "2026-11-10T22:44:48+09:00",
+        "title": "Connect village assistant to server LLM (#6)",
+        "repo": "sunwoo162/gridwitness-frontend",
+        "url": "https://github.com/sunwoo162/gridwitness-frontend/commit/7ca917c8dd8110ebcccacbfd9c8daf6c8b03e0e4",
+        "sha": "7ca917c8dd81",
+        "source": "branch-scan"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-10",
         "time": "21:50",
         "at": "2026-11-10T21:50:19+09:00",
         "title": "fix: audit API readiness and public data requests (#2)",
@@ -987,6 +1223,18 @@
           "opened",
           "merged"
         ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-10",
+        "time": "21:50",
+        "at": "2026-11-10T21:50:19+09:00",
+        "title": "fix: audit API readiness and public data requests (#2)",
+        "repo": "sunwoo162/gridwitness-frontend",
+        "url": "https://github.com/sunwoo162/gridwitness-frontend/commit/5d09db79b69473d2cb88af840491ba6b25efba0f",
+        "sha": "5d09db79b694",
+        "source": "branch-scan"
       },
       {
         "kind": "pr",
@@ -1016,6 +1264,18 @@
         "url": "https://github.com/parkskin/gridwitness-frontend/commit/a54e534160b468af450ab643db26e37c37aeb4f7",
         "sha": "a54e534160b4",
         "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-10",
+        "time": "18:22",
+        "at": "2026-11-10T18:22:17+09:00",
+        "title": "fix: preserve only measured FRTU waveform data (#1)",
+        "repo": "sunwoo162/gridwitness-frontend",
+        "url": "https://github.com/sunwoo162/gridwitness-frontend/commit/a54e534160b468af450ab643db26e37c37aeb4f7",
+        "sha": "a54e534160b4",
+        "source": "branch-scan"
       },
       {
         "kind": "pr",
