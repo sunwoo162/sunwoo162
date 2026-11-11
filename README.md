@@ -1,43 +1,9 @@
-### Today · 2026-11-11
+### Today · 2026-11-12
 
-**25 Commits** · **10 PRs** · **0 Issues**
+**0 Commits** · **0 PRs** · **0 Issues**
 
 | 시간(KST) | 종류 | 작업 | 저장소 |
 |:--:|:--|:--|:--|
-| 22:36 | Commit | [Merge pull request #44 from team-washer/fix/user-navbar-mobile-layout](https://github.com/team-washer/Washer-Client-v2/commit/a652231cd71b1c07f05cb0a0cc3cd4d000df7124) | team-washer/Washer-Client-v2 |
-| 22:36 | PR | [[user] 모바일 navbar 배치 개선 (merged)](https://github.com/team-washer/Washer-Client-v2/pull/44) | team-washer/Washer-Client-v2 |
-| 10:17 | Commit | [Merge pull request #25 from parkskin/fix/village-alert-behavior](https://github.com/parkskin/gridwitness-frontend/commit/5d29f1fe44480b3471258550a80e6512da9301c0) | parkskin/gridwitness-frontend |
-| 10:17 | PR | [fix: keep village incident alerts non-blocking (opened/merged)](https://github.com/parkskin/gridwitness-frontend/pull/25) | parkskin/gridwitness-frontend |
-| 10:15 | Commit | [fix: keep event AI verdicts visible and clarify thresholds](https://github.com/parkskin/gridwitness-frontend/commit/909b1461ba4ea3f5c325165f6a954702c8e15ea5) | parkskin/gridwitness-frontend |
-| 10:05 | Commit | [fix: require FRTU status in answer summary](https://github.com/parkskin/gridwitness-frontend/commit/be7db7e3b0d5344c93d4c4db3515e5013d32b8eb) | parkskin/gridwitness-frontend |
-| 10:03 | Commit | [fix: append FRTU details when omitted](https://github.com/parkskin/gridwitness-frontend/commit/ab37e8000387da9098a4869b1dba22ab37878023) | parkskin/gridwitness-frontend |
-| 10:00 | Commit | [fix: include FRTU readings in status answers](https://github.com/parkskin/gridwitness-frontend/commit/e7cc999c3a77b2be7a9250a3c50f46983d094d82) | parkskin/gridwitness-frontend |
-| 09:57 | Commit | [fix: hide unhelpful branch measurement caveat](https://github.com/parkskin/gridwitness-frontend/commit/c2bd01e8ead0a40cf2e0918fd50d825c438f2147) | parkskin/gridwitness-frontend |
-| 09:51 | Commit | [fix: simplify village assistant status copy](https://github.com/parkskin/gridwitness-frontend/commit/f0c9b667bbdd2a3f3744aa40d9f51e54f991dfa9) | parkskin/gridwitness-frontend |
-| 09:45 | Commit | [fix: keep village incident alerts non-blocking](https://github.com/parkskin/gridwitness-frontend/commit/f2a476f1732d37936e8218814f40aef11c6756b3) | parkskin/gridwitness-frontend |
-| 08:12 | Commit | [Merge pull request #24 from parkskin/feat/uno-display-and-live-data](https://github.com/parkskin/gridwitness-frontend/commit/545d005d1ad8e8baad305d64212f9792b0f538ac) | parkskin/gridwitness-frontend |
-| 08:12 | PR | [feat: align UNO telemetry and lamp FRTU demo (opened/merged)](https://github.com/parkskin/gridwitness-frontend/pull/24) | parkskin/gridwitness-frontend |
-| 08:05 | PR | [feat: add presentation-only lamp FRTU demo values (opened)](https://github.com/jyx-07/gridwitness-frontend/pull/14) | jyx-07/gridwitness-frontend |
-| 07:59 | Commit | [feat: add presentation-only lamp FRTU demo values](https://github.com/parkskin/gridwitness-frontend/commit/c63c18f6a7ddfc2846d4fa98cd691b774e9f5534) | parkskin/gridwitness-frontend |
-| 06:41 | Commit | [Merge ParksKin main into workspace](https://github.com/parkskin/gridwitness-frontend/commit/fea551aa7896c1302caf02524afe3af81984b21d) | parkskin/gridwitness-frontend |
-| 03:50 | PR | [fix: describe village assistant LLM fallback accurately (opened/merged)](https://github.com/parkskin/gridwitness-frontend/pull/21) | parkskin/gridwitness-frontend |
-| 03:50 | Commit | [Merge pull request #21 from parkskin/fix/measured-frtu-data-main](https://github.com/parkskin/gridwitness-frontend/commit/4d5d8cfeb46fb669bdf112cb02104dd46beaa1ca) | parkskin/gridwitness-frontend |
-| 03:50 | Commit | [Merge pull request #21 from parkskin/fix/measured-frtu-data-main](https://github.com/sunwoo162/gridwitness-frontend/commit/4d5d8cfeb46fb669bdf112cb02104dd46beaa1ca) | sunwoo162/gridwitness-frontend |
-| 03:49 | Commit | [fix: describe village assistant LLM and rules fallback](https://github.com/parkskin/gridwitness-frontend/commit/f6da6abb93bee0161f2c258408fd511a3967c0c7) | parkskin/gridwitness-frontend |
-| 02:42 | PR | [fix: label live incident model scores as uncalibrated (opened/merged)](https://github.com/parkskin/gridwitness-frontend/pull/20) | parkskin/gridwitness-frontend |
-| 02:42 | Commit | [fix: label live incident model scores as uncalibrated (#20)](https://github.com/parkskin/gridwitness-frontend/commit/f2a165a5d28d4292d26326664a5d1b95191738e9) | parkskin/gridwitness-frontend |
-| 02:42 | Commit | [fix: label live incident model scores as uncalibrated (#20)](https://github.com/sunwoo162/gridwitness-frontend/commit/f2a165a5d28d4292d26326664a5d1b95191738e9) | sunwoo162/gridwitness-frontend |
-| 02:35 | PR | [fix: clarify fallback model scores are not probabilities (opened/merged)](https://github.com/parkskin/gridwitness-frontend/pull/19) | parkskin/gridwitness-frontend |
-| 02:35 | Commit | [fix: clarify fallback model scores are not probabilities (#19)](https://github.com/parkskin/gridwitness-frontend/commit/d2452922f388d9acbcff8bbd0ebc2b8b4240b0da) | parkskin/gridwitness-frontend |
-| 02:35 | Commit | [fix: clarify fallback model scores are not probabilities (#19)](https://github.com/sunwoo162/gridwitness-frontend/commit/d2452922f388d9acbcff8bbd0ebc2b8b4240b0da) | sunwoo162/gridwitness-frontend |
-| 02:31 | PR | [fix: keep model scores uncalibrated in assistant evidence (opened/merged)](https://github.com/parkskin/gridwitness-frontend/pull/18) | parkskin/gridwitness-frontend |
-| 02:31 | Commit | [fix: keep model scores uncalibrated in assistant evidence (#18)](https://github.com/parkskin/gridwitness-frontend/commit/b9f71546687ad08b108afb803a57a4b7bceff62f) | parkskin/gridwitness-frontend |
-| 02:31 | Commit | [fix: keep model scores uncalibrated in assistant evidence (#18)](https://github.com/sunwoo162/gridwitness-frontend/commit/b9f71546687ad08b108afb803a57a4b7bceff62f) | sunwoo162/gridwitness-frontend |
-| 02:24 | Commit | [fix: stop presenting model scores as probabilities (#17)](https://github.com/parkskin/gridwitness-frontend/commit/af153491fb3fa0a77eede5160beb478f224a9060) | parkskin/gridwitness-frontend |
-| 02:24 | PR | [fix: stop presenting model scores as probabilities (opened/merged)](https://github.com/parkskin/gridwitness-frontend/pull/17) | parkskin/gridwitness-frontend |
-| 02:24 | Commit | [fix: stop presenting model scores as probabilities (#17)](https://github.com/sunwoo162/gridwitness-frontend/commit/af153491fb3fa0a77eede5160beb478f224a9060) | sunwoo162/gridwitness-frontend |
-| 01:50 | PR | [fix: report actual UNO zone sensor status (opened/merged)](https://github.com/parkskin/gridwitness-frontend/pull/16) | parkskin/gridwitness-frontend |
-| 01:50 | Commit | [Report live UNO sensor availability in architecture view (#16)](https://github.com/parkskin/gridwitness-frontend/commit/37edd2cf2cd5d477984e64efd61dd9b6fca26479) | parkskin/gridwitness-frontend |
-| 01:50 | Commit | [Report live UNO sensor availability in architecture view (#16)](https://github.com/sunwoo162/gridwitness-frontend/commit/37edd2cf2cd5d477984e64efd61dd9b6fca26479) | sunwoo162/gridwitness-frontend |
+| — | — | 기록 없음 | — |
 
 [View all activity →](https://sunwoo162.github.io/sunwoo162/)
