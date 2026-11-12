@@ -1,7 +1,7 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-11-11T21:56:48.346282+00:00",
+  "updated_at": "2026-11-12T01:45:12.371123+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
@@ -349,7 +349,7 @@
     },
     "2026-10-23": {
       "state": "indexed",
-      "checked_at": "2026-11-11T00:14:18.553628+00:00",
+      "checked_at": "2026-11-12T01:40:27.471615+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -359,7 +359,7 @@
     },
     "2026-10-24": {
       "state": "indexed",
-      "checked_at": "2026-11-11T00:14:31.209403+00:00",
+      "checked_at": "2026-11-12T01:40:40.753500+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -369,7 +369,7 @@
     },
     "2026-10-25": {
       "state": "indexed",
-      "checked_at": "2026-11-11T00:14:44.453242+00:00",
+      "checked_at": "2026-11-12T01:40:54.295563+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -379,7 +379,7 @@
     },
     "2026-10-26": {
       "state": "indexed",
-      "checked_at": "2026-11-11T00:14:58.375626+00:00",
+      "checked_at": "2026-11-12T01:41:09.047921+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -389,7 +389,7 @@
     },
     "2026-10-27": {
       "state": "indexed",
-      "checked_at": "2026-11-11T00:15:12.342316+00:00",
+      "checked_at": "2026-11-12T01:41:22.929331+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -399,7 +399,7 @@
     },
     "2026-10-28": {
       "state": "indexed",
-      "checked_at": "2026-11-11T00:15:26.232037+00:00",
+      "checked_at": "2026-11-12T01:41:37.335000+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -409,7 +409,7 @@
     },
     "2026-10-29": {
       "state": "indexed",
-      "checked_at": "2026-11-11T00:15:40.517325+00:00",
+      "checked_at": "2026-11-12T01:41:52.244516+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -419,7 +419,7 @@
     },
     "2026-10-30": {
       "state": "indexed",
-      "checked_at": "2026-11-11T00:15:54.835553+00:00",
+      "checked_at": "2026-11-12T01:42:07.604669+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -429,7 +429,7 @@
     },
     "2026-10-31": {
       "state": "indexed",
-      "checked_at": "2026-11-11T00:16:08.825881+00:00",
+      "checked_at": "2026-11-12T01:42:22.039803+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -439,7 +439,7 @@
     },
     "2026-11-01": {
       "state": "indexed",
-      "checked_at": "2026-11-11T00:16:21.995534+00:00",
+      "checked_at": "2026-11-12T01:42:35.618806+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -449,7 +449,7 @@
     },
     "2026-11-02": {
       "state": "indexed",
-      "checked_at": "2026-11-11T00:16:35.437795+00:00",
+      "checked_at": "2026-11-12T01:42:49.515073+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -459,7 +459,7 @@
     },
     "2026-11-03": {
       "state": "indexed",
-      "checked_at": "2026-11-11T00:16:50.024017+00:00",
+      "checked_at": "2026-11-12T01:43:04.901584+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -469,7 +469,7 @@
     },
     "2026-11-04": {
       "state": "indexed",
-      "checked_at": "2026-11-11T00:17:03.684062+00:00",
+      "checked_at": "2026-11-12T01:43:19.274070+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -479,7 +479,7 @@
     },
     "2026-11-05": {
       "state": "indexed",
-      "checked_at": "2026-11-11T00:17:18.625337+00:00",
+      "checked_at": "2026-11-12T01:43:34.600458+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -489,7 +489,7 @@
     },
     "2026-11-06": {
       "state": "indexed",
-      "checked_at": "2026-11-11T00:17:33.183080+00:00",
+      "checked_at": "2026-11-12T01:43:49.535929+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -499,7 +499,7 @@
     },
     "2026-11-07": {
       "state": "indexed",
-      "checked_at": "2026-11-11T00:17:45.433811+00:00",
+      "checked_at": "2026-11-12T01:44:02.285752+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -509,7 +509,7 @@
     },
     "2026-11-08": {
       "state": "indexed",
-      "checked_at": "2026-11-11T00:17:58.107705+00:00",
+      "checked_at": "2026-11-12T01:44:15.410018+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -519,47 +519,45 @@
     },
     "2026-11-09": {
       "state": "indexed",
-      "checked_at": "2026-11-11T14:26:44.946356+00:00",
+      "checked_at": "2026-11-12T01:44:28.550509+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
       "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
-      "branch_scan": "public owned repositories, max 20 branches each"
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
     },
     "2026-11-10": {
       "state": "indexed",
-      "checked_at": "2026-11-11T21:56:10.073446+00:00",
+      "checked_at": "2026-11-12T01:44:43.085486+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
       "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
-      "branch_scan": "public owned repositories, max 20 branches each"
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
     },
     "2026-11-11": {
       "state": "indexed",
-      "checked_at": "2026-11-11T21:56:25.794220+00:00",
+      "checked_at": "2026-11-12T01:44:58.090473+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
       "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
-      "branch_scan": "public owned repositories, max 20 branches each"
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
     },
     "2026-11-12": {
-      "state": "indexed",
-      "checked_at": "2026-11-11T21:56:39.892854+00:00",
+      "state": "limited",
+      "checked_at": "2026-11-12T01:45:12.370927+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
-      "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
-      "branch_scan": "public owned repositories, max 20 branches each"
+      "notes": [
+        "커밋 (검색 결과 제한/불완전)"
+      ],
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
     }
   },
   "days": {
@@ -808,18 +806,6 @@
         "kind": "commit",
         "event": "committed",
         "date": "2026-11-11",
-        "time": "03:50",
-        "at": "2026-11-11T03:50:21+09:00",
-        "title": "Merge pull request #21 from parkskin/fix/measured-frtu-data-main",
-        "repo": "sunwoo162/gridwitness-frontend",
-        "url": "https://github.com/sunwoo162/gridwitness-frontend/commit/4d5d8cfeb46fb669bdf112cb02104dd46beaa1ca",
-        "sha": "4d5d8cfeb46f",
-        "source": "branch-scan"
-      },
-      {
-        "kind": "commit",
-        "event": "committed",
-        "date": "2026-11-11",
         "time": "03:49",
         "at": "2026-11-11T03:49:05+09:00",
         "title": "fix: describe village assistant LLM and rules fallback",
@@ -858,18 +844,6 @@
         "source": "commit-search"
       },
       {
-        "kind": "commit",
-        "event": "committed",
-        "date": "2026-11-11",
-        "time": "02:42",
-        "at": "2026-11-11T02:42:05+09:00",
-        "title": "fix: label live incident model scores as uncalibrated (#20)",
-        "repo": "sunwoo162/gridwitness-frontend",
-        "url": "https://github.com/sunwoo162/gridwitness-frontend/commit/f2a165a5d28d4292d26326664a5d1b95191738e9",
-        "sha": "f2a165a5d28d",
-        "source": "branch-scan"
-      },
-      {
         "kind": "pr",
         "event": "merged",
         "date": "2026-11-11",
@@ -897,18 +871,6 @@
         "url": "https://github.com/parkskin/gridwitness-frontend/commit/d2452922f388d9acbcff8bbd0ebc2b8b4240b0da",
         "sha": "d2452922f388",
         "source": "commit-search"
-      },
-      {
-        "kind": "commit",
-        "event": "committed",
-        "date": "2026-11-11",
-        "time": "02:35",
-        "at": "2026-11-11T02:35:08+09:00",
-        "title": "fix: clarify fallback model scores are not probabilities (#19)",
-        "repo": "sunwoo162/gridwitness-frontend",
-        "url": "https://github.com/sunwoo162/gridwitness-frontend/commit/d2452922f388d9acbcff8bbd0ebc2b8b4240b0da",
-        "sha": "d2452922f388",
-        "source": "branch-scan"
       },
       {
         "kind": "pr",
@@ -943,18 +905,6 @@
         "kind": "commit",
         "event": "committed",
         "date": "2026-11-11",
-        "time": "02:31",
-        "at": "2026-11-11T02:31:44+09:00",
-        "title": "fix: keep model scores uncalibrated in assistant evidence (#18)",
-        "repo": "sunwoo162/gridwitness-frontend",
-        "url": "https://github.com/sunwoo162/gridwitness-frontend/commit/b9f71546687ad08b108afb803a57a4b7bceff62f",
-        "sha": "b9f71546687a",
-        "source": "branch-scan"
-      },
-      {
-        "kind": "commit",
-        "event": "committed",
-        "date": "2026-11-11",
         "time": "02:24",
         "at": "2026-11-11T02:24:38+09:00",
         "title": "fix: stop presenting model scores as probabilities (#17)",
@@ -979,18 +929,6 @@
           "opened",
           "merged"
         ]
-      },
-      {
-        "kind": "commit",
-        "event": "committed",
-        "date": "2026-11-11",
-        "time": "02:24",
-        "at": "2026-11-11T02:24:38+09:00",
-        "title": "fix: stop presenting model scores as probabilities (#17)",
-        "repo": "sunwoo162/gridwitness-frontend",
-        "url": "https://github.com/sunwoo162/gridwitness-frontend/commit/af153491fb3fa0a77eede5160beb478f224a9060",
-        "sha": "af153491fb3f",
-        "source": "branch-scan"
       },
       {
         "kind": "pr",
@@ -1020,18 +958,6 @@
         "url": "https://github.com/parkskin/gridwitness-frontend/commit/37edd2cf2cd5d477984e64efd61dd9b6fca26479",
         "sha": "37edd2cf2cd5",
         "source": "commit-search"
-      },
-      {
-        "kind": "commit",
-        "event": "committed",
-        "date": "2026-11-11",
-        "time": "01:50",
-        "at": "2026-11-11T01:50:47+09:00",
-        "title": "Report live UNO sensor availability in architecture view (#16)",
-        "repo": "sunwoo162/gridwitness-frontend",
-        "url": "https://github.com/sunwoo162/gridwitness-frontend/commit/37edd2cf2cd5d477984e64efd61dd9b6fca26479",
-        "sha": "37edd2cf2cd5",
-        "source": "branch-scan"
       }
     ],
     "2026-11-10": [
@@ -1063,18 +989,6 @@
         "url": "https://github.com/parkskin/gridwitness-frontend/commit/4436ac270c671f40ec84184f68f61ffed2cd7de2",
         "sha": "4436ac270c67",
         "source": "commit-search"
-      },
-      {
-        "kind": "commit",
-        "event": "committed",
-        "date": "2026-11-10",
-        "time": "23:43",
-        "at": "2026-11-10T23:43:03+09:00",
-        "title": "Merge pull request #10 from parkskin/docs/api-access-code",
-        "repo": "sunwoo162/gridwitness-frontend",
-        "url": "https://github.com/sunwoo162/gridwitness-frontend/commit/4436ac270c671f40ec84184f68f61ffed2cd7de2",
-        "sha": "4436ac270c67",
-        "source": "branch-scan"
       },
       {
         "kind": "commit",
@@ -1121,18 +1035,6 @@
         "kind": "commit",
         "event": "committed",
         "date": "2026-11-10",
-        "time": "23:20",
-        "at": "2026-11-10T23:20:08+09:00",
-        "title": "Merge pull request #8 from parkskin/docs/deployment-status-20261110",
-        "repo": "sunwoo162/gridwitness-frontend",
-        "url": "https://github.com/sunwoo162/gridwitness-frontend/commit/17a369e1fd11d329286998416796b2e5d6902682",
-        "sha": "17a369e1fd11",
-        "source": "branch-scan"
-      },
-      {
-        "kind": "commit",
-        "event": "committed",
-        "date": "2026-11-10",
         "time": "23:19",
         "at": "2026-11-10T23:19:28+09:00",
         "title": "Document village assistant deployment verification",
@@ -1169,18 +1071,6 @@
         "url": "https://github.com/parkskin/gridwitness-frontend/commit/817f45c5c182db89415807f65f6bdc285ae974c9",
         "sha": "817f45c5c182",
         "source": "commit-search"
-      },
-      {
-        "kind": "commit",
-        "event": "committed",
-        "date": "2026-11-10",
-        "time": "23:09",
-        "at": "2026-11-10T23:09:32+09:00",
-        "title": "Merge pull request #7 from parkskin/feat/village-chat-history",
-        "repo": "sunwoo162/gridwitness-frontend",
-        "url": "https://github.com/sunwoo162/gridwitness-frontend/commit/817f45c5c182db89415807f65f6bdc285ae974c9",
-        "sha": "817f45c5c182",
-        "source": "branch-scan"
       },
       {
         "kind": "commit",
@@ -1227,18 +1117,6 @@
         "kind": "commit",
         "event": "committed",
         "date": "2026-11-10",
-        "time": "22:44",
-        "at": "2026-11-10T22:44:48+09:00",
-        "title": "Connect village assistant to server LLM (#6)",
-        "repo": "sunwoo162/gridwitness-frontend",
-        "url": "https://github.com/sunwoo162/gridwitness-frontend/commit/7ca917c8dd8110ebcccacbfd9c8daf6c8b03e0e4",
-        "sha": "7ca917c8dd81",
-        "source": "branch-scan"
-      },
-      {
-        "kind": "commit",
-        "event": "committed",
-        "date": "2026-11-10",
         "time": "21:50",
         "at": "2026-11-10T21:50:19+09:00",
         "title": "fix: audit API readiness and public data requests (#2)",
@@ -1263,18 +1141,6 @@
           "opened",
           "merged"
         ]
-      },
-      {
-        "kind": "commit",
-        "event": "committed",
-        "date": "2026-11-10",
-        "time": "21:50",
-        "at": "2026-11-10T21:50:19+09:00",
-        "title": "fix: audit API readiness and public data requests (#2)",
-        "repo": "sunwoo162/gridwitness-frontend",
-        "url": "https://github.com/sunwoo162/gridwitness-frontend/commit/5d09db79b69473d2cb88af840491ba6b25efba0f",
-        "sha": "5d09db79b694",
-        "source": "branch-scan"
       },
       {
         "kind": "pr",
@@ -1304,18 +1170,6 @@
         "url": "https://github.com/parkskin/gridwitness-frontend/commit/a54e534160b468af450ab643db26e37c37aeb4f7",
         "sha": "a54e534160b4",
         "source": "commit-search"
-      },
-      {
-        "kind": "commit",
-        "event": "committed",
-        "date": "2026-11-10",
-        "time": "18:22",
-        "at": "2026-11-10T18:22:17+09:00",
-        "title": "fix: preserve only measured FRTU waveform data (#1)",
-        "repo": "sunwoo162/gridwitness-frontend",
-        "url": "https://github.com/sunwoo162/gridwitness-frontend/commit/a54e534160b468af450ab643db26e37c37aeb4f7",
-        "sha": "a54e534160b4",
-        "source": "branch-scan"
       },
       {
         "kind": "pr",
@@ -2609,11 +2463,47 @@
         "repo": "team-washer/Washer-Client-v2",
         "url": "https://github.com/team-washer/Washer-Client-v2/pull/44",
         "number": 44,
-        "status": "open",
+        "status": "merged",
         "commits_url": "https://github.com/team-washer/Washer-Client-v2/pull/44/commits",
         "events": [
           "opened"
         ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-05",
+        "time": "11:37",
+        "at": "2026-11-05T11:37:15+09:00",
+        "title": "fix(machine): 기기 예약 안내 문구를 단어 단위로 줄바꿈",
+        "repo": "team-washer/Washer-Client-v2",
+        "url": "https://github.com/team-washer/Washer-Client-v2/commit/eae0d3feeedc05f5cd096f6f5dfa076321ca8dca",
+        "sha": "eae0d3feeedc",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-05",
+        "time": "11:37",
+        "at": "2026-11-05T11:37:15+09:00",
+        "title": "fix(layout): 좁은 화면에서 navbar 알림 배지와 로고 배치 조정",
+        "repo": "team-washer/Washer-Client-v2",
+        "url": "https://github.com/team-washer/Washer-Client-v2/commit/ea418c15dc6f0a7c59d2bfba853fba02423536a8",
+        "sha": "ea418c15dc6f",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-05",
+        "time": "11:08",
+        "at": "2026-11-05T11:08:46+09:00",
+        "title": "fix(layout): 모바일 navbar의 관리자 페이지 버튼을 아이콘으로 축소",
+        "repo": "team-washer/Washer-Client-v2",
+        "url": "https://github.com/team-washer/Washer-Client-v2/commit/67f8e3d3c70e9e8af8faa058c2604b7b836d2993",
+        "sha": "67f8e3d3c70e",
+        "source": "commit-search"
       },
       {
         "kind": "commit",
