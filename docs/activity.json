@@ -1,7 +1,7 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-11-12T02:58:10.933574+00:00",
+  "updated_at": "2026-11-12T11:03:57.720518+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
@@ -529,7 +529,7 @@
     },
     "2026-11-10": {
       "state": "indexed",
-      "checked_at": "2026-11-12T02:57:33.370706+00:00",
+      "checked_at": "2026-11-12T11:03:20.153523+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -540,7 +540,7 @@
     },
     "2026-11-11": {
       "state": "indexed",
-      "checked_at": "2026-11-12T02:57:48.498817+00:00",
+      "checked_at": "2026-11-12T11:03:36.062619+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -551,7 +551,7 @@
     },
     "2026-11-12": {
       "state": "indexed",
-      "checked_at": "2026-11-12T02:58:02.513844+00:00",
+      "checked_at": "2026-11-12T11:03:50.953368+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -562,7 +562,269 @@
     }
   },
   "days": {
-    "2026-11-12": [],
+    "2026-11-12": [
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-12",
+        "time": "19:50",
+        "at": "2026-11-12T19:50:06+09:00",
+        "title": "feat: Database 계약 기능 구현",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/10",
+        "number": 10,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/10/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-12",
+        "time": "19:50",
+        "at": "2026-11-12T19:50:05+09:00",
+        "title": "feat: Database 계약 기능 구현 (#10)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/bdbf4160d812adaa146c6017610166032e6be3d8",
+        "sha": "bdbf4160d812",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-12",
+        "time": "16:38",
+        "at": "2026-11-12T16:38:57+09:00",
+        "title": "feat: Database 목록 화면 구현",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/9",
+        "number": 9,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/9/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-12",
+        "time": "16:38",
+        "at": "2026-11-12T16:38:56+09:00",
+        "title": "feat: Database 목록 화면 구현 (#9)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/e7377bd3f1571c246d5b4eb56f8aaa7041d91d54",
+        "sha": "e7377bd3f157",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-12",
+        "time": "16:14",
+        "at": "2026-11-12T16:14:00+09:00",
+        "title": "feat: Database 목록 API 기반 추가 (#8)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/2c5d247672a679c1f1f23810ff20968ae3cb7488",
+        "sha": "2c5d247672a6",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-12",
+        "time": "16:14",
+        "at": "2026-11-12T16:14:00+09:00",
+        "title": "feat: Database 목록 API 기반 추가",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/8",
+        "number": 8,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/8/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-12",
+        "time": "16:02",
+        "at": "2026-11-12T16:02:48+09:00",
+        "title": "feat: 인증 사용자 정보 세션 연결",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/7",
+        "number": 7,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/7/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-12",
+        "time": "16:02",
+        "at": "2026-11-12T16:02:47+09:00",
+        "title": "feat: 인증 사용자 정보 세션 연결 (#7)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/571b85692bedf475a8e7d69a9ecfc6882ea7c598",
+        "sha": "571b85692bed",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-12",
+        "time": "15:57",
+        "at": "2026-11-12T15:57:13+09:00",
+        "title": "feat: 학생 앱 공통 셸 구현",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/6",
+        "number": 6,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/6/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-12",
+        "time": "15:57",
+        "at": "2026-11-12T15:57:12+09:00",
+        "title": "feat: 학생 앱 공통 셸 구현 (#6)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/a8a99fd3c50d22805317dda66f83ad8f560427f8",
+        "sha": "a8a99fd3c50d",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-12",
+        "time": "15:46",
+        "at": "2026-11-12T15:46:15+09:00",
+        "title": "feat: DataGSM 인증 콜백과 오류 처리",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/5",
+        "number": 5,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/5/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-12",
+        "time": "15:46",
+        "at": "2026-11-12T15:46:14+09:00",
+        "title": "feat: DataGSM 인증 콜백과 오류 처리 (#5)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/15d48b0025c1e5cd8ef2a54dee41360c47e0c7c6",
+        "sha": "15d48b0025c1",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-12",
+        "time": "15:36",
+        "at": "2026-11-12T15:36:48+09:00",
+        "title": "feat: DataGSM 로그인 화면 구현",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/4",
+        "number": 4,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/4/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-12",
+        "time": "15:36",
+        "at": "2026-11-12T15:36:47+09:00",
+        "title": "feat: DataGSM 로그인 화면 구현 (#4)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/dccc78293fa16ccbd6b88ea8238d8242b5be090f",
+        "sha": "dccc78293fa1",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-12",
+        "time": "15:17",
+        "at": "2026-11-12T15:17:43+09:00",
+        "title": "fix: Figma 공통 컴포넌트 디자인 대조 반영",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/3",
+        "number": 3,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/3/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-12",
+        "time": "15:17",
+        "at": "2026-11-12T15:17:42+09:00",
+        "title": "fix: Figma 공통 컴포넌트 디자인 대조 반영 (#3)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/022ad82c7c2ab27b69c60d9e7b6b7188966f676b",
+        "sha": "022ad82c7c2a",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-12",
+        "time": "14:43",
+        "at": "2026-11-12T14:43:23+09:00",
+        "title": "feat: Figma 공통 컴포넌트 기반 추가",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/2",
+        "number": 2,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/2/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-12",
+        "time": "14:43",
+        "at": "2026-11-12T14:43:22+09:00",
+        "title": "feat: Figma 공통 컴포넌트 기반 추가 (#2)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/f3468d23bb4c03a6bfb50875b43dfa0694d36f8a",
+        "sha": "f3468d23bb4c",
+        "source": "commit-search"
+      }
+    ],
     "2026-11-11": [
       {
         "kind": "commit",

@@ -1,9 +1,26 @@
 ### Today · 2026-11-12
 
-**0 Commits** · **0 PRs** · **0 Issues**
+**9 Commits** · **9 PRs** · **0 Issues**
 
 | 시간(KST) | 종류 | 작업 | 저장소 |
 |:--:|:--|:--|:--|
-| — | — | 기록 없음 | — |
+| 19:50 | PR | [feat: Database 계약 기능 구현 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/10) | GSMSV/GSMSV-Client-V2 |
+| 19:50 | Commit | [feat: Database 계약 기능 구현 (#10)](https://github.com/GSMSV/GSMSV-Client-V2/commit/bdbf4160d812adaa146c6017610166032e6be3d8) | GSMSV/GSMSV-Client-V2 |
+| 16:38 | PR | [feat: Database 목록 화면 구현 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/9) | GSMSV/GSMSV-Client-V2 |
+| 16:38 | Commit | [feat: Database 목록 화면 구현 (#9)](https://github.com/GSMSV/GSMSV-Client-V2/commit/e7377bd3f1571c246d5b4eb56f8aaa7041d91d54) | GSMSV/GSMSV-Client-V2 |
+| 16:14 | Commit | [feat: Database 목록 API 기반 추가 (#8)](https://github.com/GSMSV/GSMSV-Client-V2/commit/2c5d247672a679c1f1f23810ff20968ae3cb7488) | GSMSV/GSMSV-Client-V2 |
+| 16:14 | PR | [feat: Database 목록 API 기반 추가 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/8) | GSMSV/GSMSV-Client-V2 |
+| 16:02 | PR | [feat: 인증 사용자 정보 세션 연결 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/7) | GSMSV/GSMSV-Client-V2 |
+| 16:02 | Commit | [feat: 인증 사용자 정보 세션 연결 (#7)](https://github.com/GSMSV/GSMSV-Client-V2/commit/571b85692bedf475a8e7d69a9ecfc6882ea7c598) | GSMSV/GSMSV-Client-V2 |
+| 15:57 | PR | [feat: 학생 앱 공통 셸 구현 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/6) | GSMSV/GSMSV-Client-V2 |
+| 15:57 | Commit | [feat: 학생 앱 공통 셸 구현 (#6)](https://github.com/GSMSV/GSMSV-Client-V2/commit/a8a99fd3c50d22805317dda66f83ad8f560427f8) | GSMSV/GSMSV-Client-V2 |
+| 15:46 | PR | [feat: DataGSM 인증 콜백과 오류 처리 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/5) | GSMSV/GSMSV-Client-V2 |
+| 15:46 | Commit | [feat: DataGSM 인증 콜백과 오류 처리 (#5)](https://github.com/GSMSV/GSMSV-Client-V2/commit/15d48b0025c1e5cd8ef2a54dee41360c47e0c7c6) | GSMSV/GSMSV-Client-V2 |
+| 15:36 | PR | [feat: DataGSM 로그인 화면 구현 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/4) | GSMSV/GSMSV-Client-V2 |
+| 15:36 | Commit | [feat: DataGSM 로그인 화면 구현 (#4)](https://github.com/GSMSV/GSMSV-Client-V2/commit/dccc78293fa16ccbd6b88ea8238d8242b5be090f) | GSMSV/GSMSV-Client-V2 |
+| 15:17 | PR | [fix: Figma 공통 컴포넌트 디자인 대조 반영 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/3) | GSMSV/GSMSV-Client-V2 |
+| 15:17 | Commit | [fix: Figma 공통 컴포넌트 디자인 대조 반영 (#3)](https://github.com/GSMSV/GSMSV-Client-V2/commit/022ad82c7c2ab27b69c60d9e7b6b7188966f676b) | GSMSV/GSMSV-Client-V2 |
+| 14:43 | PR | [feat: Figma 공통 컴포넌트 기반 추가 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/2) | GSMSV/GSMSV-Client-V2 |
+| 14:43 | Commit | [feat: Figma 공통 컴포넌트 기반 추가 (#2)](https://github.com/GSMSV/GSMSV-Client-V2/commit/f3468d23bb4c03a6bfb50875b43dfa0694d36f8a) | GSMSV/GSMSV-Client-V2 |
 
 [View all activity →](https://sunwoo162.github.io/sunwoo162/)
