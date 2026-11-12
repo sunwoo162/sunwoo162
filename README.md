@@ -1,26 +1,36 @@
-### Today · 2026-11-12
+### Today · 2026-11-13
 
-**9 Commits** · **9 PRs** · **0 Issues**
+**13 Commits** · **15 PRs** · **0 Issues**
 
 | 시간(KST) | 종류 | 작업 | 저장소 |
 |:--:|:--|:--|:--|
-| 19:50 | PR | [feat: Database 계약 기능 구현 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/10) | GSMSV/GSMSV-Client-V2 |
-| 19:50 | Commit | [feat: Database 계약 기능 구현 (#10)](https://github.com/GSMSV/GSMSV-Client-V2/commit/bdbf4160d812adaa146c6017610166032e6be3d8) | GSMSV/GSMSV-Client-V2 |
-| 16:38 | PR | [feat: Database 목록 화면 구현 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/9) | GSMSV/GSMSV-Client-V2 |
-| 16:38 | Commit | [feat: Database 목록 화면 구현 (#9)](https://github.com/GSMSV/GSMSV-Client-V2/commit/e7377bd3f1571c246d5b4eb56f8aaa7041d91d54) | GSMSV/GSMSV-Client-V2 |
-| 16:14 | Commit | [feat: Database 목록 API 기반 추가 (#8)](https://github.com/GSMSV/GSMSV-Client-V2/commit/2c5d247672a679c1f1f23810ff20968ae3cb7488) | GSMSV/GSMSV-Client-V2 |
-| 16:14 | PR | [feat: Database 목록 API 기반 추가 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/8) | GSMSV/GSMSV-Client-V2 |
-| 16:02 | PR | [feat: 인증 사용자 정보 세션 연결 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/7) | GSMSV/GSMSV-Client-V2 |
-| 16:02 | Commit | [feat: 인증 사용자 정보 세션 연결 (#7)](https://github.com/GSMSV/GSMSV-Client-V2/commit/571b85692bedf475a8e7d69a9ecfc6882ea7c598) | GSMSV/GSMSV-Client-V2 |
-| 15:57 | PR | [feat: 학생 앱 공통 셸 구현 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/6) | GSMSV/GSMSV-Client-V2 |
-| 15:57 | Commit | [feat: 학생 앱 공통 셸 구현 (#6)](https://github.com/GSMSV/GSMSV-Client-V2/commit/a8a99fd3c50d22805317dda66f83ad8f560427f8) | GSMSV/GSMSV-Client-V2 |
-| 15:46 | PR | [feat: DataGSM 인증 콜백과 오류 처리 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/5) | GSMSV/GSMSV-Client-V2 |
-| 15:46 | Commit | [feat: DataGSM 인증 콜백과 오류 처리 (#5)](https://github.com/GSMSV/GSMSV-Client-V2/commit/15d48b0025c1e5cd8ef2a54dee41360c47e0c7c6) | GSMSV/GSMSV-Client-V2 |
-| 15:36 | PR | [feat: DataGSM 로그인 화면 구현 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/4) | GSMSV/GSMSV-Client-V2 |
-| 15:36 | Commit | [feat: DataGSM 로그인 화면 구현 (#4)](https://github.com/GSMSV/GSMSV-Client-V2/commit/dccc78293fa16ccbd6b88ea8238d8242b5be090f) | GSMSV/GSMSV-Client-V2 |
-| 15:17 | PR | [fix: Figma 공통 컴포넌트 디자인 대조 반영 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/3) | GSMSV/GSMSV-Client-V2 |
-| 15:17 | Commit | [fix: Figma 공통 컴포넌트 디자인 대조 반영 (#3)](https://github.com/GSMSV/GSMSV-Client-V2/commit/022ad82c7c2ab27b69c60d9e7b6b7188966f676b) | GSMSV/GSMSV-Client-V2 |
-| 14:43 | PR | [feat: Figma 공통 컴포넌트 기반 추가 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/2) | GSMSV/GSMSV-Client-V2 |
-| 14:43 | Commit | [feat: Figma 공통 컴포넌트 기반 추가 (#2)](https://github.com/GSMSV/GSMSV-Client-V2/commit/f3468d23bb4c03a6bfb50875b43dfa0694d36f8a) | GSMSV/GSMSV-Client-V2 |
+| 01:22 | PR | [feat(frontend): 승인 대기 팀의 초대 진입 연결 (opened)](https://github.com/GSMSV/GSMSV-Client-V2/pull/37) | GSMSV/GSMSV-Client-V2 |
+| 01:18 | PR | [feat(frontend): 계정 설정 화면 연결 (opened)](https://github.com/GSMSV/GSMSV-Client-V2/pull/36) | GSMSV/GSMSV-Client-V2 |
+| 01:11 | PR | [feat(frontend): 프로필 패널 연결 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/35) | GSMSV/GSMSV-Client-V2 |
+| 01:10 | Commit | [feat(frontend): 프로필 패널 연결 (#35)](https://github.com/GSMSV/GSMSV-Client-V2/commit/9c8c6414f7714be215b5d2342f4c058c57e61d0a) | GSMSV/GSMSV-Client-V2 |
+| 01:10 | PR | [feat(frontend): 팀 홈 Database 사용량 연결 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/34) | GSMSV/GSMSV-Client-V2 |
+| 01:10 | Commit | [feat(frontend): 팀 홈 Database 사용량 연결 (#34)](https://github.com/GSMSV/GSMSV-Client-V2/commit/df49749cbda7c9fdd47ce20c47d92d52b8d7391f) | GSMSV/GSMSV-Client-V2 |
+| 01:01 | Commit | [fix(frontend): 관리자 인프라 재시도 동작 수정 (#33)](https://github.com/GSMSV/GSMSV-Client-V2/commit/0b9a8beb42e31e6ed3cb2d832ae4479bdc3ffa88) | GSMSV/GSMSV-Client-V2 |
+| 01:01 | PR | [fix(frontend): 관리자 인프라 재시도 동작 수정 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/33) | GSMSV/GSMSV-Client-V2 |
+| 00:44 | PR | [feat(frontend): 앱 생성 범위 선택 연결 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/32) | GSMSV/GSMSV-Client-V2 |
+| 00:44 | Commit | [feat(frontend): 앱 생성 범위 선택 연결 (#32)](https://github.com/GSMSV/GSMSV-Client-V2/commit/9acf6f624da05bcf735eb2026b807896469e19e8) | GSMSV/GSMSV-Client-V2 |
+| 00:36 | PR | [feat(frontend): Database 화면 범위 선택 연결 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/30) | GSMSV/GSMSV-Client-V2 |
+| 00:36 | Commit | [feat(frontend): Database 화면 범위 선택 연결 (#30)](https://github.com/GSMSV/GSMSV-Client-V2/commit/f8842dec584aa8ffd7bc27ceed3df518edf2cdbc) | GSMSV/GSMSV-Client-V2 |
+| 00:34 | PR | [fix(frontend): 계정 화면 범위 이동 연결 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/31) | GSMSV/GSMSV-Client-V2 |
+| 00:34 | Commit | [fix(frontend): 계정 화면 범위 이동 연결 (#31)](https://github.com/GSMSV/GSMSV-Client-V2/commit/3a9fd4b5ba8decb21915e4f5d269b7e5a13a8543) | GSMSV/GSMSV-Client-V2 |
+| 00:27 | Commit | [feat(frontend): 팀 Apps 생성 연결 (#24)](https://github.com/GSMSV/GSMSV-Client-V2/commit/d56d48ba1b67d7d9846865d6fd4f9d04d1e9ed7e) | GSMSV/GSMSV-Client-V2 |
+| 00:27 | PR | [feat(frontend): 팀 Apps 생성 연결 (merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/24) | GSMSV/GSMSV-Client-V2 |
+| 00:22 | PR | [fix(frontend): 팀 설정 앱 이동 범위 유지 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/29) | GSMSV/GSMSV-Client-V2 |
+| 00:22 | Commit | [fix(frontend): 팀 설정 앱 이동 범위 유지 (#29)](https://github.com/GSMSV/GSMSV-Client-V2/commit/0171ced57b216cc7ed48fb49369c9aa341b95fd8) | GSMSV/GSMSV-Client-V2 |
+| 00:21 | Commit | [feat(frontend): 앱 상세 범위 선택 연결 (#28)](https://github.com/GSMSV/GSMSV-Client-V2/commit/0414776984e4c52b7c5f97a814e1556047c68556) | GSMSV/GSMSV-Client-V2 |
+| 00:21 | PR | [feat(frontend): 앱 상세 범위 선택 연결 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/28) | GSMSV/GSMSV-Client-V2 |
+| 00:15 | PR | [fix(frontend): 팀 Database 상세 이동 범위 유지 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/27) | GSMSV/GSMSV-Client-V2 |
+| 00:15 | Commit | [fix(frontend): 팀 Database 상세 이동 범위 유지 (#27)](https://github.com/GSMSV/GSMSV-Client-V2/commit/c9f5b0c46b4e8c96bcd9b2705fb9280897bfe49a) | GSMSV/GSMSV-Client-V2 |
+| 00:12 | PR | [feat(frontend): Database 팀 범위 연결 (merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/23) | GSMSV/GSMSV-Client-V2 |
+| 00:12 | Commit | [feat(frontend): Database 팀 범위 연결 (#23)](https://github.com/GSMSV/GSMSV-Client-V2/commit/a70947f086a29650a8146ae3c5c4de3c4655731d) | GSMSV/GSMSV-Client-V2 |
+| 00:04 | PR | [fix(frontend): 팀 앱 상세 이동 범위 유지 (merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/26) | GSMSV/GSMSV-Client-V2 |
+| 00:04 | Commit | [fix(frontend): 팀 앱 상세 이동 범위 유지 (#26)](https://github.com/GSMSV/GSMSV-Client-V2/commit/145d4637a4d3cb9bc31ab88c9a03dec8c24f23f8) | GSMSV/GSMSV-Client-V2 |
+| 00:03 | PR | [feat(frontend): 팀 Database 발급 연결 (merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/25) | GSMSV/GSMSV-Client-V2 |
+| 00:03 | Commit | [feat(frontend): 팀 Database 발급 연결 (#25)](https://github.com/GSMSV/GSMSV-Client-V2/commit/8efd646ef034a2cddcc0b1c5b445243d947d424c) | GSMSV/GSMSV-Client-V2 |
 
 [View all activity →](https://sunwoo162.github.io/sunwoo162/)
