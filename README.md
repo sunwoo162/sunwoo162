@@ -1,9 +1,31 @@
 ### Today · 2026-11-13
 
-**21 Commits** · **21 PRs** · **0 Issues**
+**32 Commits** · **32 PRs** · **0 Issues**
 
 | 시간(KST) | 종류 | 작업 | 저장소 |
 |:--:|:--|:--|:--|
+| 13:58 | PR | [fix(frontend): Apps 생성 화면의 샘플 입력 제거 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/54) | GSMSV/GSMSV-Client-V2 |
+| 13:58 | Commit | [fix(frontend): Apps 생성 화면의 샘플 입력 제거 (#54)](https://github.com/GSMSV/GSMSV-Client-V2/commit/a4eb50cce2196d4cd8e9760a6644e59c962b08c4) | GSMSV/GSMSV-Client-V2 |
+| 13:52 | PR | [fix(frontend): 앱 삭제 안내를 Figma 문구에 맞춤 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/53) | GSMSV/GSMSV-Client-V2 |
+| 13:52 | Commit | [fix(frontend): 앱 삭제 안내를 Figma 문구에 맞춤 (#53)](https://github.com/GSMSV/GSMSV-Client-V2/commit/93a953b5f7effa358c4c7f9b45b86885fc7ffe8c) | GSMSV/GSMSV-Client-V2 |
+| 13:46 | Commit | [fix(frontend): 앱 상태 표시를 화면 전체에 통일 (#52)](https://github.com/GSMSV/GSMSV-Client-V2/commit/6eaa5a6021a8b0fe609893b79cd300b48e549c5c) | GSMSV/GSMSV-Client-V2 |
+| 13:46 | PR | [fix(frontend): 앱 상태 표시를 화면 전체에 통일 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/52) | GSMSV/GSMSV-Client-V2 |
+| 13:42 | PR | [fix(frontend): 앱 카드 상태를 API 값으로 표시 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/51) | GSMSV/GSMSV-Client-V2 |
+| 13:42 | Commit | [fix(frontend): 앱 카드 상태를 API 값으로 표시 (#51)](https://github.com/GSMSV/GSMSV-Client-V2/commit/b07892e4a3f73d64ceeda96ed84d5d2c57a2bd52) | GSMSV/GSMSV-Client-V2 |
+| 13:40 | PR | [fix(frontend): Database 상세 화면을 Figma에 맞춤 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/50) | GSMSV/GSMSV-Client-V2 |
+| 13:40 | Commit | [fix(frontend): Database 상세 화면을 Figma에 맞춤 (#50)](https://github.com/GSMSV/GSMSV-Client-V2/commit/23e0b691c65f2565b182e3305d6da81ba60a4acf) | GSMSV/GSMSV-Client-V2 |
+| 13:31 | PR | [fix(frontend): 관리자 인프라 요약 Figma 구성 복원 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/49) | GSMSV/GSMSV-Client-V2 |
+| 13:31 | Commit | [fix(frontend): 관리자 인프라 요약 Figma 구성 복원 (#49)](https://github.com/GSMSV/GSMSV-Client-V2/commit/40b539173c274774dd4e55355a2c3c01fc66948e) | GSMSV/GSMSV-Client-V2 |
+| 13:23 | Commit | [feat(frontend): 관리자 전체 VM 목록 연결 (#48)](https://github.com/GSMSV/GSMSV-Client-V2/commit/02f73047613de168a61104b6dd16b2054e761dec) | GSMSV/GSMSV-Client-V2 |
+| 13:23 | PR | [feat(frontend): 관리자 전체 VM 목록 연결 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/48) | GSMSV/GSMSV-Client-V2 |
+| 12:53 | PR | [feat(frontend): Serverless 관리 화면 구현 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/47) | GSMSV/GSMSV-Client-V2 |
+| 12:53 | Commit | [feat(frontend): Serverless 관리 화면 구현 (#47)](https://github.com/GSMSV/GSMSV-Client-V2/commit/665ce17fc2245ffb96b5c0529b3aa26eed8fd349) | GSMSV/GSMSV-Client-V2 |
+| 11:29 | Commit | [fix(frontend): Database 백업 용량 단위 수정 (#46)](https://github.com/GSMSV/GSMSV-Client-V2/commit/fa2b3cebeb2557fd54563fe04a967df3fb3d5574) | GSMSV/GSMSV-Client-V2 |
+| 11:29 | PR | [fix(frontend): Database 백업 용량 단위 수정 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/46) | GSMSV/GSMSV-Client-V2 |
+| 11:24 | PR | [feat(frontend): 공개 상태 1분 자동 갱신 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/45) | GSMSV/GSMSV-Client-V2 |
+| 11:24 | Commit | [feat(frontend): 공개 상태 1분 자동 갱신 (#45)](https://github.com/GSMSV/GSMSV-Client-V2/commit/6d29896761df24a98adf3430c30538c24a0b1b05) | GSMSV/GSMSV-Client-V2 |
+| 11:10 | PR | [feat(frontend): 전역 리소스 검색 패널 연결 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/44) | GSMSV/GSMSV-Client-V2 |
+| 11:10 | Commit | [feat(frontend): 전역 리소스 검색 패널 연결 (#44)](https://github.com/GSMSV/GSMSV-Client-V2/commit/28340ce519974f5879399ac8bb4b3b39c7ca4afb) | GSMSV/GSMSV-Client-V2 |
 | 08:28 | PR | [feat(frontend): 승인 대기 팀의 초대 멤버 표시 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/43) | GSMSV/GSMSV-Client-V2 |
 | 08:28 | Commit | [feat(frontend): 승인 대기 팀의 초대 멤버 표시 (#43)](https://github.com/GSMSV/GSMSV-Client-V2/commit/f081ef5e07377dbffd280f0288f57354a197b74c) | GSMSV/GSMSV-Client-V2 |
 | 08:24 | PR | [feat(frontend): 팀 Apps 사용량 표시 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/42) | GSMSV/GSMSV-Client-V2 |

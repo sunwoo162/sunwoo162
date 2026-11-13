@@ -1,7 +1,7 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-11-13T00:45:39.408829+00:00",
+  "updated_at": "2026-11-13T07:56:27.700217+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
@@ -538,40 +538,360 @@
       "commit_scope": "GitHub commit-search index (not all unmerged branches)"
     },
     "2026-11-11": {
-      "state": "limited",
-      "checked_at": "2026-11-13T00:45:10.118405+00:00",
+      "state": "indexed",
+      "checked_at": "2026-11-13T07:55:44.565213+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
-      "notes": [
-        "커밋 (검색 결과 제한/불완전)"
-      ],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
+      "notes": [],
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
+      "branch_scan": "public owned repositories, max 20 branches each"
     },
     "2026-11-12": {
       "state": "indexed",
-      "checked_at": "2026-11-13T00:45:25.164997+00:00",
+      "checked_at": "2026-11-13T07:56:00.551811+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
       "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
+      "branch_scan": "public owned repositories, max 20 branches each"
     },
     "2026-11-13": {
       "state": "indexed",
-      "checked_at": "2026-11-13T00:45:39.408704+00:00",
+      "checked_at": "2026-11-13T07:56:15.792396+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
       "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
+      "branch_scan": "public owned repositories, max 20 branches each"
     }
   },
   "days": {
     "2026-11-13": [
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-13",
+        "time": "13:58",
+        "at": "2026-11-13T13:58:47+09:00",
+        "title": "fix(frontend): Apps 생성 화면의 샘플 입력 제거",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/54",
+        "number": 54,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/54/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-13",
+        "time": "13:58",
+        "at": "2026-11-13T13:58:46+09:00",
+        "title": "fix(frontend): Apps 생성 화면의 샘플 입력 제거 (#54)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/a4eb50cce2196d4cd8e9760a6644e59c962b08c4",
+        "sha": "a4eb50cce219",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-13",
+        "time": "13:52",
+        "at": "2026-11-13T13:52:48+09:00",
+        "title": "fix(frontend): 앱 삭제 안내를 Figma 문구에 맞춤",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/53",
+        "number": 53,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/53/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-13",
+        "time": "13:52",
+        "at": "2026-11-13T13:52:47+09:00",
+        "title": "fix(frontend): 앱 삭제 안내를 Figma 문구에 맞춤 (#53)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/93a953b5f7effa358c4c7f9b45b86885fc7ffe8c",
+        "sha": "93a953b5f7ef",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-13",
+        "time": "13:46",
+        "at": "2026-11-13T13:46:20+09:00",
+        "title": "fix(frontend): 앱 상태 표시를 화면 전체에 통일 (#52)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/6eaa5a6021a8b0fe609893b79cd300b48e549c5c",
+        "sha": "6eaa5a6021a8",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-13",
+        "time": "13:46",
+        "at": "2026-11-13T13:46:20+09:00",
+        "title": "fix(frontend): 앱 상태 표시를 화면 전체에 통일",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/52",
+        "number": 52,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/52/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-13",
+        "time": "13:42",
+        "at": "2026-11-13T13:42:08+09:00",
+        "title": "fix(frontend): 앱 카드 상태를 API 값으로 표시",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/51",
+        "number": 51,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/51/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-13",
+        "time": "13:42",
+        "at": "2026-11-13T13:42:07+09:00",
+        "title": "fix(frontend): 앱 카드 상태를 API 값으로 표시 (#51)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/b07892e4a3f73d64ceeda96ed84d5d2c57a2bd52",
+        "sha": "b07892e4a3f7",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-13",
+        "time": "13:40",
+        "at": "2026-11-13T13:40:02+09:00",
+        "title": "fix(frontend): Database 상세 화면을 Figma에 맞춤",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/50",
+        "number": 50,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/50/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-13",
+        "time": "13:40",
+        "at": "2026-11-13T13:40:01+09:00",
+        "title": "fix(frontend): Database 상세 화면을 Figma에 맞춤 (#50)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/23e0b691c65f2565b182e3305d6da81ba60a4acf",
+        "sha": "23e0b691c65f",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-13",
+        "time": "13:31",
+        "at": "2026-11-13T13:31:24+09:00",
+        "title": "fix(frontend): 관리자 인프라 요약 Figma 구성 복원",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/49",
+        "number": 49,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/49/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-13",
+        "time": "13:31",
+        "at": "2026-11-13T13:31:23+09:00",
+        "title": "fix(frontend): 관리자 인프라 요약 Figma 구성 복원 (#49)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/40b539173c274774dd4e55355a2c3c01fc66948e",
+        "sha": "40b539173c27",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-13",
+        "time": "13:23",
+        "at": "2026-11-13T13:23:08+09:00",
+        "title": "feat(frontend): 관리자 전체 VM 목록 연결 (#48)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/02f73047613de168a61104b6dd16b2054e761dec",
+        "sha": "02f73047613d",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-13",
+        "time": "13:23",
+        "at": "2026-11-13T13:23:08+09:00",
+        "title": "feat(frontend): 관리자 전체 VM 목록 연결",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/48",
+        "number": 48,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/48/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-13",
+        "time": "12:53",
+        "at": "2026-11-13T12:53:06+09:00",
+        "title": "feat(frontend): Serverless 관리 화면 구현",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/47",
+        "number": 47,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/47/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-13",
+        "time": "12:53",
+        "at": "2026-11-13T12:53:05+09:00",
+        "title": "feat(frontend): Serverless 관리 화면 구현 (#47)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/665ce17fc2245ffb96b5c0529b3aa26eed8fd349",
+        "sha": "665ce17fc224",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-13",
+        "time": "11:29",
+        "at": "2026-11-13T11:29:42+09:00",
+        "title": "fix(frontend): Database 백업 용량 단위 수정 (#46)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/fa2b3cebeb2557fd54563fe04a967df3fb3d5574",
+        "sha": "fa2b3cebeb25",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-13",
+        "time": "11:29",
+        "at": "2026-11-13T11:29:42+09:00",
+        "title": "fix(frontend): Database 백업 용량 단위 수정",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/46",
+        "number": 46,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/46/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-13",
+        "time": "11:24",
+        "at": "2026-11-13T11:24:45+09:00",
+        "title": "feat(frontend): 공개 상태 1분 자동 갱신",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/45",
+        "number": 45,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/45/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-13",
+        "time": "11:24",
+        "at": "2026-11-13T11:24:44+09:00",
+        "title": "feat(frontend): 공개 상태 1분 자동 갱신 (#45)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/6d29896761df24a98adf3430c30538c24a0b1b05",
+        "sha": "6d29896761df",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-13",
+        "time": "11:10",
+        "at": "2026-11-13T11:10:39+09:00",
+        "title": "feat(frontend): 전역 리소스 검색 패널 연결",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/44",
+        "number": 44,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/44/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-13",
+        "time": "11:10",
+        "at": "2026-11-13T11:10:38+09:00",
+        "title": "feat(frontend): 전역 리소스 검색 패널 연결 (#44)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/28340ce519974f5879399ac8bb4b3b39c7ca4afb",
+        "sha": "28340ce51997",
+        "source": "commit-search"
+      },
       {
         "kind": "pr",
         "event": "merged",
@@ -2097,6 +2417,18 @@
         "kind": "commit",
         "event": "committed",
         "date": "2026-11-11",
+        "time": "03:50",
+        "at": "2026-11-11T03:50:21+09:00",
+        "title": "Merge pull request #21 from parkskin/fix/measured-frtu-data-main",
+        "repo": "sunwoo162/gridwitness-frontend",
+        "url": "https://github.com/sunwoo162/gridwitness-frontend/commit/4d5d8cfeb46fb669bdf112cb02104dd46beaa1ca",
+        "sha": "4d5d8cfeb46f",
+        "source": "branch-scan"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-11",
         "time": "03:49",
         "at": "2026-11-11T03:49:05+09:00",
         "title": "fix: describe village assistant LLM and rules fallback",
@@ -2135,6 +2467,18 @@
         "source": "commit-search"
       },
       {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-11",
+        "time": "02:42",
+        "at": "2026-11-11T02:42:05+09:00",
+        "title": "fix: label live incident model scores as uncalibrated (#20)",
+        "repo": "sunwoo162/gridwitness-frontend",
+        "url": "https://github.com/sunwoo162/gridwitness-frontend/commit/f2a165a5d28d4292d26326664a5d1b95191738e9",
+        "sha": "f2a165a5d28d",
+        "source": "branch-scan"
+      },
+      {
         "kind": "pr",
         "event": "merged",
         "date": "2026-11-11",
@@ -2162,6 +2506,18 @@
         "url": "https://github.com/parkskin/gridwitness-frontend/commit/d2452922f388d9acbcff8bbd0ebc2b8b4240b0da",
         "sha": "d2452922f388",
         "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-11",
+        "time": "02:35",
+        "at": "2026-11-11T02:35:08+09:00",
+        "title": "fix: clarify fallback model scores are not probabilities (#19)",
+        "repo": "sunwoo162/gridwitness-frontend",
+        "url": "https://github.com/sunwoo162/gridwitness-frontend/commit/d2452922f388d9acbcff8bbd0ebc2b8b4240b0da",
+        "sha": "d2452922f388",
+        "source": "branch-scan"
       },
       {
         "kind": "pr",
@@ -2196,6 +2552,18 @@
         "kind": "commit",
         "event": "committed",
         "date": "2026-11-11",
+        "time": "02:31",
+        "at": "2026-11-11T02:31:44+09:00",
+        "title": "fix: keep model scores uncalibrated in assistant evidence (#18)",
+        "repo": "sunwoo162/gridwitness-frontend",
+        "url": "https://github.com/sunwoo162/gridwitness-frontend/commit/b9f71546687ad08b108afb803a57a4b7bceff62f",
+        "sha": "b9f71546687a",
+        "source": "branch-scan"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-11",
         "time": "02:24",
         "at": "2026-11-11T02:24:38+09:00",
         "title": "fix: stop presenting model scores as probabilities (#17)",
@@ -2220,6 +2588,18 @@
           "opened",
           "merged"
         ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-11",
+        "time": "02:24",
+        "at": "2026-11-11T02:24:38+09:00",
+        "title": "fix: stop presenting model scores as probabilities (#17)",
+        "repo": "sunwoo162/gridwitness-frontend",
+        "url": "https://github.com/sunwoo162/gridwitness-frontend/commit/af153491fb3fa0a77eede5160beb478f224a9060",
+        "sha": "af153491fb3f",
+        "source": "branch-scan"
       },
       {
         "kind": "pr",
@@ -2249,6 +2629,18 @@
         "url": "https://github.com/parkskin/gridwitness-frontend/commit/37edd2cf2cd5d477984e64efd61dd9b6fca26479",
         "sha": "37edd2cf2cd5",
         "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-11",
+        "time": "01:50",
+        "at": "2026-11-11T01:50:47+09:00",
+        "title": "Report live UNO sensor availability in architecture view (#16)",
+        "repo": "sunwoo162/gridwitness-frontend",
+        "url": "https://github.com/sunwoo162/gridwitness-frontend/commit/37edd2cf2cd5d477984e64efd61dd9b6fca26479",
+        "sha": "37edd2cf2cd5",
+        "source": "branch-scan"
       }
     ],
     "2026-11-10": [
