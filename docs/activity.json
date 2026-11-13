@@ -1,7 +1,7 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-11-12T18:55:17.632405+00:00",
+  "updated_at": "2026-11-13T00:21:29.952430+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
@@ -540,7 +540,7 @@
     },
     "2026-11-11": {
       "state": "indexed",
-      "checked_at": "2026-11-12T18:54:29.541219+00:00",
+      "checked_at": "2026-11-13T00:20:49.922482+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -551,7 +551,7 @@
     },
     "2026-11-12": {
       "state": "indexed",
-      "checked_at": "2026-11-12T18:54:46.674975+00:00",
+      "checked_at": "2026-11-13T00:21:05.077009+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -562,7 +562,7 @@
     },
     "2026-11-13": {
       "state": "indexed",
-      "checked_at": "2026-11-12T18:55:02.276956+00:00",
+      "checked_at": "2026-11-13T00:21:19.486230+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -576,35 +576,235 @@
     "2026-11-13": [
       {
         "kind": "pr",
-        "event": "opened",
+        "event": "merged",
         "date": "2026-11-13",
-        "time": "01:22",
-        "at": "2026-11-13T01:22:12+09:00",
-        "title": "feat(frontend): 승인 대기 팀의 초대 진입 연결",
+        "time": "08:28",
+        "at": "2026-11-13T08:28:53+09:00",
+        "title": "feat(frontend): 승인 대기 팀의 초대 멤버 표시",
         "repo": "GSMSV/GSMSV-Client-V2",
-        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/37",
-        "number": 37,
-        "status": "open",
-        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/37/commits",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/43",
+        "number": 43,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/43/commits",
         "events": [
-          "opened"
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-13",
+        "time": "08:28",
+        "at": "2026-11-13T08:28:52+09:00",
+        "title": "feat(frontend): 승인 대기 팀의 초대 멤버 표시 (#43)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/f081ef5e07377dbffd280f0288f57354a197b74c",
+        "sha": "f081ef5e0737",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-13",
+        "time": "08:24",
+        "at": "2026-11-13T08:24:25+09:00",
+        "title": "feat(frontend): 팀 Apps 사용량 표시",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/42",
+        "number": 42,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/42/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-13",
+        "time": "08:24",
+        "at": "2026-11-13T08:24:24+09:00",
+        "title": "feat(frontend): 팀 Apps 사용량 표시 (#42)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/60f700606483b4e9a9208fabca20b6ddfc6097cf",
+        "sha": "60f700606483",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-13",
+        "time": "08:22",
+        "at": "2026-11-13T08:22:00+09:00",
+        "title": "fix(frontend): Database 접속 안내 수정",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/41",
+        "number": 41,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/41/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-13",
+        "time": "08:21",
+        "at": "2026-11-13T08:21:59+09:00",
+        "title": "fix(frontend): Database 접속 안내 수정 (#41)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/6c54d972846bbf4d1346e13794459f140f93f86d",
+        "sha": "6c54d972846b",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-13",
+        "time": "08:00",
+        "at": "2026-11-13T08:00:03+09:00",
+        "title": "feat(frontend): 인증 Docs와 FAQ 화면 연결",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/40",
+        "number": 40,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/40/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-13",
+        "time": "08:00",
+        "at": "2026-11-13T08:00:02+09:00",
+        "title": "feat(frontend): 인증 Docs와 FAQ 화면 연결 (#40)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/99e1340ec6de1ef6a8ab3a6f456d24d12a1158c9",
+        "sha": "99e1340ec6de",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-13",
+        "time": "07:36",
+        "at": "2026-11-13T07:36:43+09:00",
+        "title": "feat(frontend): 공개 Docs 화면 연결 (#39)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/b3a8a565a14cbb55a840d1a06d63c357f6fd7e1e",
+        "sha": "b3a8a565a14c",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-13",
+        "time": "07:36",
+        "at": "2026-11-13T07:36:43+09:00",
+        "title": "feat(frontend): 공개 Docs 화면 연결",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/39",
+        "number": 39,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/39/commits",
+        "events": [
+          "opened",
+          "merged"
         ]
       },
       {
         "kind": "pr",
-        "event": "opened",
+        "event": "merged",
         "date": "2026-11-13",
-        "time": "01:18",
-        "at": "2026-11-13T01:18:53+09:00",
+        "time": "07:10",
+        "at": "2026-11-13T07:10:00+09:00",
+        "title": "feat(frontend): 팀 Database 생성 진입 연결",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/38",
+        "number": 38,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/38/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-13",
+        "time": "07:09",
+        "at": "2026-11-13T07:09:59+09:00",
+        "title": "feat(frontend): 팀 Database 생성 진입 연결 (#38)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/1e5cc925968fa5186b8513bf4969fbe1b128f101",
+        "sha": "1e5cc925968f",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-13",
+        "time": "07:01",
+        "at": "2026-11-13T07:01:37+09:00",
+        "title": "feat(frontend): 계정 설정 화면 연결 (#36)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/addc809462d4452133fa0550a801829c8465610b",
+        "sha": "addc809462d4",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-13",
+        "time": "07:01",
+        "at": "2026-11-13T07:01:37+09:00",
         "title": "feat(frontend): 계정 설정 화면 연결",
         "repo": "GSMSV/GSMSV-Client-V2",
         "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/36",
         "number": 36,
-        "status": "open",
+        "status": "merged",
         "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/36/commits",
         "events": [
-          "opened"
+          "opened",
+          "merged"
         ]
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-13",
+        "time": "06:43",
+        "at": "2026-11-13T06:43:41+09:00",
+        "title": "feat(frontend): 승인 대기 팀의 초대 진입 연결",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/37",
+        "number": 37,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/37/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-13",
+        "time": "06:43",
+        "at": "2026-11-13T06:43:40+09:00",
+        "title": "feat(frontend): 승인 대기 팀의 초대 진입 연결 (#37)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/de47ad0c09da259bc5aa4f2122965356364f4a14",
+        "sha": "de47ad0c09da",
+        "source": "commit-search"
       },
       {
         "kind": "pr",
