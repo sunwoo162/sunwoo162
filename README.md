@@ -1,9 +1,45 @@
 ### Today · 2026-11-14
 
-**2 Commits** · **2 PRs** · **0 Issues**
+**19 Commits** · **21 PRs** · **0 Issues**
 
 | 시간(KST) | 종류 | 작업 | 저장소 |
 |:--:|:--|:--|:--|
+| 18:05 | PR | [fix(frontend): 백업 화면 쿼리 콘솔 이동 연결 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/75) | GSMSV/GSMSV-Client-V2 |
+| 18:05 | Commit | [fix(frontend): 백업 화면 쿼리 콘솔 이동 연결 (#75)](https://github.com/GSMSV/GSMSV-Client-V2/commit/29227772c5898b328bc046b8a375c6bd5795b81d) | GSMSV/GSMSV-Client-V2 |
+| 18:04 | PR | [feat(frontend): 공개 상태 이력 목데이터 연결 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/74) | GSMSV/GSMSV-Client-V2 |
+| 18:04 | Commit | [feat(frontend): 공개 상태 이력 목데이터 연결 (#74)](https://github.com/GSMSV/GSMSV-Client-V2/commit/5a1d2ae3157a01d477c68e23ecb7d189c54d2d65) | GSMSV/GSMSV-Client-V2 |
+| 17:19 | Commit | [feat(frontend): Serverless Trigger 추가 흐름 연결 (#71)](https://github.com/GSMSV/GSMSV-Client-V2/commit/6b63d3bfe601ee533315fe0e7ffa67fb4da084f3) | GSMSV/GSMSV-Client-V2 |
+| 17:19 | PR | [feat(frontend): Serverless Trigger 추가 흐름 연결 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/71) | GSMSV/GSMSV-Client-V2 |
+| 15:44 | PR | [feat(frontend): Apps 생성과 운영 상태 목데이터 연결 (opened)](https://github.com/GSMSV/GSMSV-Client-V2/pull/73) | GSMSV/GSMSV-Client-V2 |
+| 15:31 | PR | [feat(frontend): 계정 설정 상태와 흐름 목데이터 연결 (opened)](https://github.com/GSMSV/GSMSV-Client-V2/pull/72) | GSMSV/GSMSV-Client-V2 |
+| 15:26 | PR | [feat(frontend): 팀·개인 VM 목데이터 흐름 정합 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/69) | GSMSV/GSMSV-Client-V2 |
+| 15:26 | Commit | [feat(frontend): 팀·개인 VM 목데이터 흐름 정합 (#69)](https://github.com/GSMSV/GSMSV-Client-V2/commit/33a7a9d0806033b4912040691ce702eb8b7a0564) | GSMSV/GSMSV-Client-V2 |
+| 15:21 | PR | [feat(frontend): Database 목록과 관리 흐름 목데이터 연결 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/64) | GSMSV/GSMSV-Client-V2 |
+| 15:21 | Commit | [feat(frontend): Database 목록과 관리 흐름 목데이터 연결 (#64)](https://github.com/GSMSV/GSMSV-Client-V2/commit/dd5d0b7410c02c83f6af54fd013e48f070c4a78c) | GSMSV/GSMSV-Client-V2 |
+| 14:35 | Commit | [feat(frontend): 관리자 인프라 목데이터 화면 연결 (#70)](https://github.com/GSMSV/GSMSV-Client-V2/commit/680e697063158eabc4b6bbcbe0ba22cb21ecad6b) | GSMSV/GSMSV-Client-V2 |
+| 14:35 | PR | [feat(frontend): 관리자 인프라 목데이터 화면 연결 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/70) | GSMSV/GSMSV-Client-V2 |
+| 14:00 | Commit | [fix(frontend): 데모 메뉴 경로 연결 (#68)](https://github.com/GSMSV/GSMSV-Client-V2/commit/e7a43d4157a6a199988d39c048b885c8225a2ea5) | GSMSV/GSMSV-Client-V2 |
+| 14:00 | PR | [fix(frontend): 데모 메뉴 경로 연결 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/68) | GSMSV/GSMSV-Client-V2 |
+| 13:53 | PR | [fix(frontend): 계정 데모 fixture 프로덕션 분리 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/67) | GSMSV/GSMSV-Client-V2 |
+| 13:53 | Commit | [fix(frontend): 계정 데모 fixture 프로덕션 분리 (#67)](https://github.com/GSMSV/GSMSV-Client-V2/commit/94a731318ef647e8828c10723f9e6afbcf41fd8e) | GSMSV/GSMSV-Client-V2 |
+| 13:52 | PR | [feat(frontend): 데모 홈과 팀 범위 연결 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/66) | GSMSV/GSMSV-Client-V2 |
+| 13:52 | Commit | [feat(frontend): 데모 홈과 팀 범위 연결 (#66)](https://github.com/GSMSV/GSMSV-Client-V2/commit/85e1f5d171536b809981acb88baffc0c4e4a207c) | GSMSV/GSMSV-Client-V2 |
+| 13:33 | PR | [feat(frontend): Serverless 데모 흐름을 저장형으로 연결 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/65) | GSMSV/GSMSV-Client-V2 |
+| 13:33 | Commit | [feat(frontend): Serverless 데모 흐름을 저장형으로 연결 (#65)](https://github.com/GSMSV/GSMSV-Client-V2/commit/f5fc9cec5d96dbc43baa02651ce627786525f687) | GSMSV/GSMSV-Client-V2 |
+| 13:27 | PR | [feat(frontend): 팀 로컬 데모 흐름 연결 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/63) | GSMSV/GSMSV-Client-V2 |
+| 13:27 | Commit | [feat(frontend): 팀 로컬 데모 흐름 연결 (#63)](https://github.com/GSMSV/GSMSV-Client-V2/commit/ae1835e22d3beaa0bff3e7058f27d5f1c972c5e7) | GSMSV/GSMSV-Client-V2 |
+| 13:12 | Commit | [feat(frontend): Apps 목록 목데이터 연결 (#62)](https://github.com/GSMSV/GSMSV-Client-V2/commit/51af43d1f284ac78e62b0f49bc8ff87feb6b4897) | GSMSV/GSMSV-Client-V2 |
+| 13:12 | PR | [feat(frontend): Apps 목록 목데이터 연결 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/62) | GSMSV/GSMSV-Client-V2 |
+| 13:03 | Commit | [feat(frontend): 홈 데모 상태와 화면 경로 연결 (#61)](https://github.com/GSMSV/GSMSV-Client-V2/commit/bac7d485e549f44853b42c518124bb2cae63eaa3) | GSMSV/GSMSV-Client-V2 |
+| 13:03 | PR | [feat(frontend): 홈 데모 상태와 화면 경로 연결 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/61) | GSMSV/GSMSV-Client-V2 |
+| 12:51 | Commit | [feat(frontend): DB·관리자 데모 워크플로 구현 (#59)](https://github.com/GSMSV/GSMSV-Client-V2/commit/b58e266453dc6bd26b773e42b6146ae6a3338e5f) | GSMSV/GSMSV-Client-V2 |
+| 12:51 | PR | [feat(frontend): DB·관리자 데모 워크플로 구현 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/59) | GSMSV/GSMSV-Client-V2 |
+| 12:51 | Commit | [feat(frontend): Apps 서비스 목데이터 화면 구현 (#60)](https://github.com/GSMSV/GSMSV-Client-V2/commit/ce74ee57efc169ec09f21e9547af0f04cca88169) | GSMSV/GSMSV-Client-V2 |
+| 12:51 | PR | [feat(frontend): Apps 서비스 목데이터 화면 구현 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/60) | GSMSV/GSMSV-Client-V2 |
+| 12:51 | PR | [feat(frontend): VM 화면 목데이터 흐름 구현 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/58) | GSMSV/GSMSV-Client-V2 |
+| 12:51 | Commit | [feat(frontend): VM 화면 목데이터 흐름 구현 (#58)](https://github.com/GSMSV/GSMSV-Client-V2/commit/19de4857f11db2f047fa571afcfa35fa5d8934a8) | GSMSV/GSMSV-Client-V2 |
+| 12:39 | PR | [feat(frontend): 계정 설정 목데이터 화면 구현 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/57) | GSMSV/GSMSV-Client-V2 |
+| 12:39 | Commit | [feat(frontend): 계정 설정 목데이터 화면 구현 (#57)](https://github.com/GSMSV/GSMSV-Client-V2/commit/2351026f140a827fc2abf3a81510aa18732b2dcc) | GSMSV/GSMSV-Client-V2 |
 | 12:09 | PR | [feat(frontend): 로컬 목데이터 미리보기 기반 추가 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/56) | GSMSV/GSMSV-Client-V2 |
 | 12:09 | Commit | [feat(frontend): 로컬 목데이터 미리보기 기반 추가 (#56)](https://github.com/GSMSV/GSMSV-Client-V2/commit/e528cc267b446c417927569f12e2a0c014c34841) | GSMSV/GSMSV-Client-V2 |
 | 11:51 | PR | [fix(frontend): 팀 VM 생성 버튼의 미지원 경로 방지 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/55) | GSMSV/GSMSV-Client-V2 |
