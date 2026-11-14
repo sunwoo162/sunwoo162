@@ -1,7 +1,7 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-11-14T10:28:40.376919+00:00",
+  "updated_at": "2026-11-14T17:06:14.381193+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
@@ -560,7 +560,7 @@
     },
     "2026-11-13": {
       "state": "indexed",
-      "checked_at": "2026-11-14T10:28:22.523446+00:00",
+      "checked_at": "2026-11-14T17:05:44.845212+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -571,7 +571,18 @@
     },
     "2026-11-14": {
       "state": "indexed",
-      "checked_at": "2026-11-14T10:28:35.799984+00:00",
+      "checked_at": "2026-11-14T17:05:59.060017+00:00",
+      "sources": [
+        "github-commit-search",
+        "github-issue-search"
+      ],
+      "notes": [],
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
+      "branch_scan": "public owned repositories, max 20 branches each"
+    },
+    "2026-11-15": {
+      "state": "indexed",
+      "checked_at": "2026-11-14T17:06:13.009777+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -582,7 +593,895 @@
     }
   },
   "days": {
+    "2026-11-15": [
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-15",
+        "time": "00:19",
+        "at": "2026-11-15T00:19:26+09:00",
+        "title": "feat(frontend): Database 발급 완료 흐름 연결",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/101",
+        "number": 101,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/101/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-15",
+        "time": "00:19",
+        "at": "2026-11-15T00:19:25+09:00",
+        "title": "feat(frontend): Database 발급 완료 흐름 연결 (#101)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/19f5876aaa55174b62a15d307d316b3fb50f0ae5",
+        "sha": "19f5876aaa55",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-15",
+        "time": "00:15",
+        "at": "2026-11-15T00:15:38+09:00",
+        "title": "fix(frontend): 팀 전용 Database 한도 적용",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/99",
+        "number": 99,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/99/commits",
+        "events": [
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-15",
+        "time": "00:15",
+        "at": "2026-11-15T00:15:37+09:00",
+        "title": "fix(frontend): 팀 전용 Database 한도 적용 (#99)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/2c7ec88a18979e9ccb38b6176fabc021c853a046",
+        "sha": "2c7ec88a1897",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-15",
+        "time": "00:13",
+        "at": "2026-11-15T00:13:09+09:00",
+        "title": "fix(frontend): 개인 VM 생성 흐름 연결",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/102",
+        "number": 102,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/102/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-15",
+        "time": "00:13",
+        "at": "2026-11-15T00:13:08+09:00",
+        "title": "fix(frontend): 개인 VM 생성 흐름 연결 (#102)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/bb69db9729d345dba3d2696905334e7d7a253a2e",
+        "sha": "bb69db9729d3",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-15",
+        "time": "00:10",
+        "at": "2026-11-15T00:10:45+09:00",
+        "title": "fix(frontend): Database 상세 쿼리 설정 연결 (#100)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/4dd850171c40af8aa23ff2397cd7c0511bdff398",
+        "sha": "4dd850171c40",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-15",
+        "time": "00:10",
+        "at": "2026-11-15T00:10:45+09:00",
+        "title": "fix(frontend): Database 상세 쿼리 설정 연결",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/100",
+        "number": 100,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/100/commits",
+        "events": [
+          "merged"
+        ]
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-15",
+        "time": "00:07",
+        "at": "2026-11-15T00:07:26+09:00",
+        "title": "fix(frontend): 관리자 전체 VM 경로 연결",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/98",
+        "number": 98,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/98/commits",
+        "events": [
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-15",
+        "time": "00:07",
+        "at": "2026-11-15T00:07:25+09:00",
+        "title": "fix(frontend): 관리자 전체 VM 경로 연결 (#98)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/2e410e52e6b92d53bd39a965b1e13fec7228c743",
+        "sha": "2e410e52e6b9",
+        "source": "commit-search"
+      }
+    ],
     "2026-11-14": [
+      {
+        "kind": "pr",
+        "event": "opened",
+        "date": "2026-11-14",
+        "time": "23:59",
+        "at": "2026-11-14T23:59:53+09:00",
+        "title": "fix(frontend): Database 상세 쿼리 설정 연결",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/100",
+        "number": 100,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/100/commits",
+        "events": [
+          "opened"
+        ]
+      },
+      {
+        "kind": "pr",
+        "event": "opened",
+        "date": "2026-11-14",
+        "time": "23:58",
+        "at": "2026-11-14T23:58:58+09:00",
+        "title": "fix(frontend): 팀 전용 Database 한도 적용",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/99",
+        "number": 99,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/99/commits",
+        "events": [
+          "opened"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-14",
+        "time": "23:49",
+        "at": "2026-11-14T23:49:01+09:00",
+        "title": "feat(frontend): 앱 설정 로컬 저장 연결 (#97)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/44509d62cf75c5ab2231c46ec1be4f1cb67ac847",
+        "sha": "44509d62cf75",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-14",
+        "time": "23:49",
+        "at": "2026-11-14T23:49:01+09:00",
+        "title": "feat(frontend): 앱 설정 로컬 저장 연결",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/97",
+        "number": 97,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/97/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "pr",
+        "event": "opened",
+        "date": "2026-11-14",
+        "time": "23:48",
+        "at": "2026-11-14T23:48:25+09:00",
+        "title": "fix(frontend): 관리자 전체 VM 경로 연결",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/98",
+        "number": 98,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/98/commits",
+        "events": [
+          "opened"
+        ]
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-14",
+        "time": "23:36",
+        "at": "2026-11-14T23:36:47+09:00",
+        "title": "fix(frontend): 문의 및 CLI 승인 만료 처리",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/94",
+        "number": 94,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/94/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-14",
+        "time": "23:36",
+        "at": "2026-11-14T23:36:46+09:00",
+        "title": "fix(frontend): 문의 및 CLI 승인 만료 처리 (#94)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/7c2e8efb604b69020f84add627cfde50b4eff7a8",
+        "sha": "7c2e8efb604b",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-14",
+        "time": "23:35",
+        "at": "2026-11-14T23:35:52+09:00",
+        "title": "feat(frontend): 역할 선택 화면 연결 (#95)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/046001d80620f618f2902070e30e4c0cc4bc0846",
+        "sha": "046001d80620",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-14",
+        "time": "23:35",
+        "at": "2026-11-14T23:35:52+09:00",
+        "title": "feat(frontend): 역할 선택 화면 연결",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/95",
+        "number": 95,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/95/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-14",
+        "time": "23:35",
+        "at": "2026-11-14T23:35:04+09:00",
+        "title": "fix(frontend): VM Figma 상태 흐름 연결",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/96",
+        "number": 96,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/96/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-14",
+        "time": "23:35",
+        "at": "2026-11-14T23:35:03+09:00",
+        "title": "fix(frontend): VM Figma 상태 흐름 연결 (#96)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/0200df51106aba301ed7db3e2e7dc2aceb2afc61",
+        "sha": "0200df51106a",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-14",
+        "time": "23:25",
+        "at": "2026-11-14T23:25:03+09:00",
+        "title": "fix(frontend): Database 목데이터 저장 실패 처리",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/93",
+        "number": 93,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/93/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-14",
+        "time": "23:25",
+        "at": "2026-11-14T23:25:02+09:00",
+        "title": "fix(frontend): Database 목데이터 저장 실패 처리 (#93)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/9a9a11409df76e84a334ae7e0b216485eaef3375",
+        "sha": "9a9a11409df7",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-14",
+        "time": "23:24",
+        "at": "2026-11-14T23:24:51+09:00",
+        "title": "fix(frontend): 전용 Database 신청 팀 역할 제한 (#92)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/68a62e6fcc68b6bccf3b20940976bc93aaa9015d",
+        "sha": "68a62e6fcc68",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-14",
+        "time": "23:24",
+        "at": "2026-11-14T23:24:51+09:00",
+        "title": "fix(frontend): 전용 Database 신청 팀 역할 제한",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/92",
+        "number": 92,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/92/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-14",
+        "time": "23:19",
+        "at": "2026-11-14T23:19:01+09:00",
+        "title": "fix(frontend): Serverless Database 예시 Figma와 일치",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/91",
+        "number": 91,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/91/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-14",
+        "time": "23:18",
+        "at": "2026-11-14T23:18:59+09:00",
+        "title": "fix(frontend): Serverless Database 예시 Figma와 일치 (#91)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/9b9acfd762d5f72641d776e30ccec417fee4c55b",
+        "sha": "9b9acfd762d5",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-14",
+        "time": "22:55",
+        "at": "2026-11-14T22:55:51+09:00",
+        "title": "feat(frontend): 전용 Database 승인 생성 연결 (#90)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/6e556eab0e80e249119a287a16b1ce419681b807",
+        "sha": "6e556eab0e80",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-14",
+        "time": "22:55",
+        "at": "2026-11-14T22:55:51+09:00",
+        "title": "feat(frontend): 전용 Database 승인 생성 연결",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/90",
+        "number": 90,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/90/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-14",
+        "time": "22:55",
+        "at": "2026-11-14T22:55:11+09:00",
+        "title": "feat(frontend): 팀 신청 및 승인 흐름 연결",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/89",
+        "number": 89,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/89/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-14",
+        "time": "22:55",
+        "at": "2026-11-14T22:55:10+09:00",
+        "title": "feat(frontend): 팀 신청 및 승인 흐름 연결 (#89)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/ba9aaa7b6b1ff374ebaf9d5c1af25a8fd47a6ea3",
+        "sha": "ba9aaa7b6b1f",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-14",
+        "time": "22:48",
+        "at": "2026-11-14T22:48:17+09:00",
+        "title": "fix(frontend): 팀원 스냅샷 관리 제한",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/88",
+        "number": 88,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/88/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-14",
+        "time": "22:48",
+        "at": "2026-11-14T22:48:16+09:00",
+        "title": "fix(frontend): 팀원 스냅샷 관리 제한 (#88)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/07e737234c5af23736d3c04d01e6bb131bd21993",
+        "sha": "07e737234c5a",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-14",
+        "time": "22:42",
+        "at": "2026-11-14T22:42:14+09:00",
+        "title": "fix(frontend): Serverless 환경변수 편집 연결 (#87)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/c8f49e6692e8dbe31c11d8ee576146f80f02418b",
+        "sha": "c8f49e6692e8",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-14",
+        "time": "22:42",
+        "at": "2026-11-14T22:42:14+09:00",
+        "title": "fix(frontend): Serverless 환경변수 편집 연결",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/87",
+        "number": 87,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/87/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-14",
+        "time": "22:24",
+        "at": "2026-11-14T22:24:27+09:00",
+        "title": "fix(frontend): 프로덕션 목데이터 번들 분리",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/86",
+        "number": 86,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/86/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-14",
+        "time": "22:24",
+        "at": "2026-11-14T22:24:26+09:00",
+        "title": "fix(frontend): 프로덕션 목데이터 번들 분리 (#86)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/f0a44d49bd8ea6dd9e046a32d4d3a74242fa028f",
+        "sha": "f0a44d49bd8e",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-14",
+        "time": "21:42",
+        "at": "2026-11-14T21:42:20+09:00",
+        "title": "feat(frontend): 로컬 데모 범위 선택 연결",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/85",
+        "number": 85,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/85/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-14",
+        "time": "21:42",
+        "at": "2026-11-14T21:42:19+09:00",
+        "title": "feat(frontend): 로컬 데모 범위 선택 연결 (#85)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/7ef81e1e341a7701b63a8d05edb8aa2e73dc0bd4",
+        "sha": "7ef81e1e341a",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-14",
+        "time": "21:12",
+        "at": "2026-11-14T21:12:17+09:00",
+        "title": "feat(frontend): Serverless 환경변수와 도메인 흐름 목데이터 연결",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/80",
+        "number": 80,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/80/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-14",
+        "time": "21:12",
+        "at": "2026-11-14T21:12:16+09:00",
+        "title": "feat(frontend): Serverless 환경변수와 도메인 흐름 목데이터 연결 (#80)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/940bc974dfd4dc846bc8d5d82a681efc9f2c808a",
+        "sha": "940bc974dfd4",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-14",
+        "time": "21:11",
+        "at": "2026-11-14T21:11:58+09:00",
+        "title": "feat(frontend): VM 설정과 전원 흐름 목데이터 연결",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/79",
+        "number": 79,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/79/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-14",
+        "time": "21:11",
+        "at": "2026-11-14T21:11:57+09:00",
+        "title": "feat(frontend): VM 설정과 전원 흐름 목데이터 연결 (#79)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/c0b55985bbe5c2ed38528ce23bd65dbd305f6493",
+        "sha": "c0b55985bbe5",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-14",
+        "time": "21:08",
+        "at": "2026-11-14T21:08:46+09:00",
+        "title": "feat(frontend): 팀 할당량 요청과 Docs 문의 연결",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/84",
+        "number": 84,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/84/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-14",
+        "time": "21:08",
+        "at": "2026-11-14T21:08:45+09:00",
+        "title": "feat(frontend): 팀 할당량 요청과 Docs 문의 연결 (#84)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/99c39167470ee71b94032892c2f899ed4593ecc9",
+        "sha": "99c39167470e",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-14",
+        "time": "21:02",
+        "at": "2026-11-14T21:02:07+09:00",
+        "title": "feat(frontend): 공통 화면 이동 이탈 확인 적용",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/83",
+        "number": 83,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/83/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-14",
+        "time": "21:02",
+        "at": "2026-11-14T21:02:06+09:00",
+        "title": "feat(frontend): 공통 화면 이동 이탈 확인 적용 (#83)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/a87016a012899d04ecff6e740a7e68d58bace308",
+        "sha": "a87016a01289",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-14",
+        "time": "20:48",
+        "at": "2026-11-14T20:48:28+09:00",
+        "title": "feat(frontend): 설정 이탈 확인 대화상자 적용",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/82",
+        "number": 82,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/82/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-14",
+        "time": "20:48",
+        "at": "2026-11-14T20:48:27+09:00",
+        "title": "feat(frontend): 설정 이탈 확인 대화상자 적용 (#82)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/f596dbf48c62c246f3cf48b75df4f3ef6766616e",
+        "sha": "f596dbf48c62",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-14",
+        "time": "20:44",
+        "at": "2026-11-14T20:44:23+09:00",
+        "title": "feat(frontend): 앱 설정 입력 흐름 개선 (#81)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/6b9e78ace8db886d56118e14762c0b9be432e77f",
+        "sha": "6b9e78ace8db",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-14",
+        "time": "20:44",
+        "at": "2026-11-14T20:44:23+09:00",
+        "title": "feat(frontend): 앱 설정 입력 흐름 개선",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/81",
+        "number": 81,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/81/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-14",
+        "time": "20:35",
+        "at": "2026-11-14T20:35:41+09:00",
+        "title": "feat(frontend): VM Network와 Snapshot 상태 흐름 연결 (#78)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/859d0f0f1f710401d13fc7ba7ca6d08c28b2841d",
+        "sha": "859d0f0f1f71",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-14",
+        "time": "20:35",
+        "at": "2026-11-14T20:35:41+09:00",
+        "title": "feat(frontend): VM Network와 Snapshot 상태 흐름 연결",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/78",
+        "number": 78,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/78/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-14",
+        "time": "20:25",
+        "at": "2026-11-14T20:25:38+09:00",
+        "title": "feat(frontend): 데이터베이스 상태 목데이터 보완",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/77",
+        "number": 77,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/77/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-14",
+        "time": "20:25",
+        "at": "2026-11-14T20:25:37+09:00",
+        "title": "feat(frontend): 데이터베이스 상태 목데이터 보완 (#77)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/12b117548b812953c3ccc78850dc497e178d534a",
+        "sha": "12b117548b81",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-14",
+        "time": "20:23",
+        "at": "2026-11-14T20:23:57+09:00",
+        "title": "feat(frontend): 관리자 VM 상세 목데이터 흐름 연결 (#76)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/160640d611494d8c07daec334838127560391f42",
+        "sha": "160640d61149",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-14",
+        "time": "20:23",
+        "at": "2026-11-14T20:23:57+09:00",
+        "title": "feat(frontend): 관리자 VM 상세 목데이터 흐름 연결",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/76",
+        "number": 76,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/76/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-14",
+        "time": "20:09",
+        "at": "2026-11-14T20:09:02+09:00",
+        "title": "feat(frontend): Apps 생성과 운영 상태 목데이터 연결 (#73)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/2d695c79052c87fc03b62c525e9f47f554b17716",
+        "sha": "2d695c79052c",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-14",
+        "time": "20:09",
+        "at": "2026-11-14T20:09:02+09:00",
+        "title": "feat(frontend): Apps 생성과 운영 상태 목데이터 연결",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/73",
+        "number": 73,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/73/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-14",
+        "time": "19:38",
+        "at": "2026-11-14T19:38:11+09:00",
+        "title": "feat(frontend): 계정 설정 상태와 흐름 목데이터 연결",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/72",
+        "number": 72,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/72/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-14",
+        "time": "19:38",
+        "at": "2026-11-14T19:38:10+09:00",
+        "title": "feat(frontend): 계정 설정 상태와 흐름 목데이터 연결 (#72)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/f1d59ca11fc4d14effe0af6dee45cafcb85cdefe",
+        "sha": "f1d59ca11fc4",
+        "source": "commit-search"
+      },
       {
         "kind": "pr",
         "event": "merged",
@@ -668,38 +1567,6 @@
         "events": [
           "opened",
           "merged"
-        ]
-      },
-      {
-        "kind": "pr",
-        "event": "opened",
-        "date": "2026-11-14",
-        "time": "15:44",
-        "at": "2026-11-14T15:44:17+09:00",
-        "title": "feat(frontend): Apps 생성과 운영 상태 목데이터 연결",
-        "repo": "GSMSV/GSMSV-Client-V2",
-        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/73",
-        "number": 73,
-        "status": "open",
-        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/73/commits",
-        "events": [
-          "opened"
-        ]
-      },
-      {
-        "kind": "pr",
-        "event": "opened",
-        "date": "2026-11-14",
-        "time": "15:31",
-        "at": "2026-11-14T15:31:03+09:00",
-        "title": "feat(frontend): 계정 설정 상태와 흐름 목데이터 연결",
-        "repo": "GSMSV/GSMSV-Client-V2",
-        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/72",
-        "number": 72,
-        "status": "open",
-        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/72/commits",
-        "events": [
-          "opened"
         ]
       },
       {
