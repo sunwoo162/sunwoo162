@@ -1,7 +1,7 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-11-14T00:32:57.838925+00:00",
+  "updated_at": "2026-11-14T03:13:11.732826+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
@@ -549,37 +549,99 @@
     },
     "2026-11-12": {
       "state": "indexed",
-      "checked_at": "2026-11-14T00:32:29.679571+00:00",
+      "checked_at": "2026-11-14T03:12:40.722024+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
       "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
+      "branch_scan": "public owned repositories, max 20 branches each"
     },
     "2026-11-13": {
       "state": "indexed",
-      "checked_at": "2026-11-14T00:32:44.369833+00:00",
+      "checked_at": "2026-11-14T03:12:54.406183+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
       "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
+      "branch_scan": "public owned repositories, max 20 branches each"
     },
     "2026-11-14": {
       "state": "indexed",
-      "checked_at": "2026-11-14T00:32:57.838811+00:00",
+      "checked_at": "2026-11-14T03:13:07.368008+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
       "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
+      "branch_scan": "public owned repositories, max 20 branches each"
     }
   },
   "days": {
-    "2026-11-14": [],
+    "2026-11-14": [
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-14",
+        "time": "12:09",
+        "at": "2026-11-14T12:09:06+09:00",
+        "title": "feat(frontend): 로컬 목데이터 미리보기 기반 추가",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/56",
+        "number": 56,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/56/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-14",
+        "time": "12:09",
+        "at": "2026-11-14T12:09:05+09:00",
+        "title": "feat(frontend): 로컬 목데이터 미리보기 기반 추가 (#56)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/e528cc267b446c417927569f12e2a0c014c34841",
+        "sha": "e528cc267b44",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-14",
+        "time": "11:51",
+        "at": "2026-11-14T11:51:48+09:00",
+        "title": "fix(frontend): 팀 VM 생성 버튼의 미지원 경로 방지",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/55",
+        "number": 55,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/55/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-14",
+        "time": "11:51",
+        "at": "2026-11-14T11:51:47+09:00",
+        "title": "fix(frontend): 팀 VM 생성 버튼의 미지원 경로 방지 (#55)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/ad8a16744c57849fade7f76ad83a24890f15d6d9",
+        "sha": "ad8a16744c57",
+        "source": "commit-search"
+      }
+    ],
     "2026-11-13": [
       {
         "kind": "pr",
