@@ -1,9 +1,11 @@
 ### Today · 2026-11-16
 
-**17 Commits** · **17 PRs** · **0 Issues**
+**18 Commits** · **18 PRs** · **0 Issues**
 
 | 시간(KST) | 종류 | 작업 | 저장소 |
 |:--:|:--|:--|:--|
+| 07:55 | PR | [fix(frontend): 로그인·역할 선택 로고와 여백을 창 높이에 비례하게 조정 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/162) | GSMSV/GSMSV-Client-V2 |
+| 07:55 | Commit | [fix(frontend): 로그인·역할 선택 로고와 여백을 창 높이에 비례하게 조정 (#162)](https://github.com/GSMSV/GSMSV-Client-V2/commit/4bc169e038f577eacd19544d799a3c88f67a7e83) | GSMSV/GSMSV-Client-V2 |
 | 06:04 | PR | [fix(frontend): 로딩 카드 배경·페이지 번호 생략·관리자 데모 이름 보완 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/161) | GSMSV/GSMSV-Client-V2 |
 | 06:04 | Commit | [fix(frontend): 로딩 카드 배경·페이지 번호 생략·관리자 데모 이름 보완 (#161)](https://github.com/GSMSV/GSMSV-Client-V2/commit/7df04ed9e9893c2f4e0ad46064ee5cd226668997) | GSMSV/GSMSV-Client-V2 |
 | 06:00 | Commit | [fix(frontend): Apps 화면을 Figma 배너·카드·폼 구성에 맞춤 (#158)](https://github.com/GSMSV/GSMSV-Client-V2/commit/a8e3ec570da6cfa8725d2bb037f4c77553cec69e) | GSMSV/GSMSV-Client-V2 |
