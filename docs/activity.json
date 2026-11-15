@@ -1,7 +1,7 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-11-15T17:08:37.518206+00:00",
+  "updated_at": "2026-11-15T21:48:10.728065+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
@@ -570,7 +570,7 @@
     },
     "2026-11-14": {
       "state": "indexed",
-      "checked_at": "2026-11-15T17:07:57.359579+00:00",
+      "checked_at": "2026-11-15T21:47:28.649229+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -581,7 +581,7 @@
     },
     "2026-11-15": {
       "state": "indexed",
-      "checked_at": "2026-11-15T17:08:21.865190+00:00",
+      "checked_at": "2026-11-15T21:47:54.343653+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -592,7 +592,7 @@
     },
     "2026-11-16": {
       "state": "indexed",
-      "checked_at": "2026-11-15T17:08:35.884338+00:00",
+      "checked_at": "2026-11-15T21:48:08.955702+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -604,6 +604,209 @@
   },
   "days": {
     "2026-11-16": [
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-16",
+        "time": "06:04",
+        "at": "2026-11-16T06:04:12+09:00",
+        "title": "fix(frontend): 로딩 카드 배경·페이지 번호 생략·관리자 데모 이름 보완",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/161",
+        "number": 161,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/161/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-16",
+        "time": "06:04",
+        "at": "2026-11-16T06:04:11+09:00",
+        "title": "fix(frontend): 로딩 카드 배경·페이지 번호 생략·관리자 데모 이름 보완 (#161)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/7df04ed9e9893c2f4e0ad46064ee5cd226668997",
+        "sha": "7df04ed9e989",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-16",
+        "time": "06:00",
+        "at": "2026-11-16T06:00:08+09:00",
+        "title": "fix(frontend): Apps 화면을 Figma 배너·카드·폼 구성에 맞춤 (#158)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/a8e3ec570da6cfa8725d2bb037f4c77553cec69e",
+        "sha": "a8e3ec570da6",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-16",
+        "time": "06:00",
+        "at": "2026-11-16T06:00:08+09:00",
+        "title": "fix(frontend): Apps 화면을 Figma 배너·카드·폼 구성에 맞춤",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/158",
+        "number": 158,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/158/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-16",
+        "time": "05:57",
+        "at": "2026-11-16T05:57:49+09:00",
+        "title": "fix(frontend): Database 화면을 Figma 시안과 맞춤 (#160)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/29fdd2355d7a81e42a8662e7520f6a6409ebe7ce",
+        "sha": "29fdd2355d7a",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-16",
+        "time": "05:57",
+        "at": "2026-11-16T05:57:49+09:00",
+        "title": "fix(frontend): Database 화면을 Figma 시안과 맞춤",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/160",
+        "number": 160,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/160/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-16",
+        "time": "05:57",
+        "at": "2026-11-16T05:57:30+09:00",
+        "title": "fix(frontend): 팀·관리자 화면을 Figma 시각 기준에 맞춤 (#159)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/d69cb20e4b4f8577291e442497e81afa7e6fec5f",
+        "sha": "d69cb20e4b4f",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-16",
+        "time": "05:57",
+        "at": "2026-11-16T05:57:30+09:00",
+        "title": "fix(frontend): 팀·관리자 화면을 Figma 시각 기준에 맞춤",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/159",
+        "number": 159,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/159/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-16",
+        "time": "05:57",
+        "at": "2026-11-16T05:57:08+09:00",
+        "title": "fix(frontend): Serverless 화면 Figma 시각 차이 보완",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/157",
+        "number": 157,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/157/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-16",
+        "time": "05:57",
+        "at": "2026-11-16T05:57:07+09:00",
+        "title": "fix(frontend): Serverless 화면 Figma 시각 차이 보완 (#157)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/483cd2b0edf4f3a0e386f8e63065d2632848a515",
+        "sha": "483cd2b0edf4",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-16",
+        "time": "05:56",
+        "at": "2026-11-16T05:56:33+09:00",
+        "title": "fix(frontend): 학생 셸·홈·Docs·문의·상태·CLI·계정 설정을 Figma에 맞춤",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/156",
+        "number": 156,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/156/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-16",
+        "time": "05:56",
+        "at": "2026-11-16T05:56:32+09:00",
+        "title": "fix(frontend): 학생 셸·홈·Docs·문의·상태·CLI·계정 설정을 Figma에 맞춤 (#156)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/471260488342f587f9496425ace115da73eb20ff",
+        "sha": "471260488342",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-16",
+        "time": "05:39",
+        "at": "2026-11-16T05:39:10+09:00",
+        "title": "fix(frontend): VM 화면 Figma 레이아웃·정보 행·배너 맞춤",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/155",
+        "number": 155,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/155/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-16",
+        "time": "05:39",
+        "at": "2026-11-16T05:39:09+09:00",
+        "title": "fix(frontend): VM 화면 Figma 레이아웃·정보 행·배너 맞춤 (#155)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/e0343be7d9840d6a46df275722f2931fe15d4ceb",
+        "sha": "e0343be7d984",
+        "source": "commit-search"
+      },
       {
         "kind": "pr",
         "event": "merged",

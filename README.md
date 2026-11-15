@@ -1,9 +1,23 @@
 ### Today · 2026-11-16
 
-**10 Commits** · **10 PRs** · **0 Issues**
+**17 Commits** · **17 PRs** · **0 Issues**
 
 | 시간(KST) | 종류 | 작업 | 저장소 |
 |:--:|:--|:--|:--|
+| 06:04 | PR | [fix(frontend): 로딩 카드 배경·페이지 번호 생략·관리자 데모 이름 보완 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/161) | GSMSV/GSMSV-Client-V2 |
+| 06:04 | Commit | [fix(frontend): 로딩 카드 배경·페이지 번호 생략·관리자 데모 이름 보완 (#161)](https://github.com/GSMSV/GSMSV-Client-V2/commit/7df04ed9e9893c2f4e0ad46064ee5cd226668997) | GSMSV/GSMSV-Client-V2 |
+| 06:00 | Commit | [fix(frontend): Apps 화면을 Figma 배너·카드·폼 구성에 맞춤 (#158)](https://github.com/GSMSV/GSMSV-Client-V2/commit/a8e3ec570da6cfa8725d2bb037f4c77553cec69e) | GSMSV/GSMSV-Client-V2 |
+| 06:00 | PR | [fix(frontend): Apps 화면을 Figma 배너·카드·폼 구성에 맞춤 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/158) | GSMSV/GSMSV-Client-V2 |
+| 05:57 | Commit | [fix(frontend): Database 화면을 Figma 시안과 맞춤 (#160)](https://github.com/GSMSV/GSMSV-Client-V2/commit/29fdd2355d7a81e42a8662e7520f6a6409ebe7ce) | GSMSV/GSMSV-Client-V2 |
+| 05:57 | PR | [fix(frontend): Database 화면을 Figma 시안과 맞춤 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/160) | GSMSV/GSMSV-Client-V2 |
+| 05:57 | Commit | [fix(frontend): 팀·관리자 화면을 Figma 시각 기준에 맞춤 (#159)](https://github.com/GSMSV/GSMSV-Client-V2/commit/d69cb20e4b4f8577291e442497e81afa7e6fec5f) | GSMSV/GSMSV-Client-V2 |
+| 05:57 | PR | [fix(frontend): 팀·관리자 화면을 Figma 시각 기준에 맞춤 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/159) | GSMSV/GSMSV-Client-V2 |
+| 05:57 | PR | [fix(frontend): Serverless 화면 Figma 시각 차이 보완 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/157) | GSMSV/GSMSV-Client-V2 |
+| 05:57 | Commit | [fix(frontend): Serverless 화면 Figma 시각 차이 보완 (#157)](https://github.com/GSMSV/GSMSV-Client-V2/commit/483cd2b0edf4f3a0e386f8e63065d2632848a515) | GSMSV/GSMSV-Client-V2 |
+| 05:56 | PR | [fix(frontend): 학생 셸·홈·Docs·문의·상태·CLI·계정 설정을 Figma에 맞춤 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/156) | GSMSV/GSMSV-Client-V2 |
+| 05:56 | Commit | [fix(frontend): 학생 셸·홈·Docs·문의·상태·CLI·계정 설정을 Figma에 맞춤 (#156)](https://github.com/GSMSV/GSMSV-Client-V2/commit/471260488342f587f9496425ace115da73eb20ff) | GSMSV/GSMSV-Client-V2 |
+| 05:39 | PR | [fix(frontend): VM 화면 Figma 레이아웃·정보 행·배너 맞춤 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/155) | GSMSV/GSMSV-Client-V2 |
+| 05:39 | Commit | [fix(frontend): VM 화면 Figma 레이아웃·정보 행·배너 맞춤 (#155)](https://github.com/GSMSV/GSMSV-Client-V2/commit/e0343be7d9840d6a46df275722f2931fe15d4ceb) | GSMSV/GSMSV-Client-V2 |
 | 01:18 | PR | [fix(frontend): 학생 셸 Figma 통일·문의 여백·데모 이름·첫 방문 진입 보완 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/154) | GSMSV/GSMSV-Client-V2 |
 | 01:18 | Commit | [fix(frontend): 학생 셸 Figma 통일·문의 여백·데모 이름·첫 방문 진입 보완 (#154)](https://github.com/GSMSV/GSMSV-Client-V2/commit/e331d270822256a7ca011f6f44ee47b91181f8ed) | GSMSV/GSMSV-Client-V2 |
 | 01:08 | PR | [fix(frontend): 로그인·역할 선택·초대 수락 화면을 창 높이에 맞춤 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/153) | GSMSV/GSMSV-Client-V2 |
