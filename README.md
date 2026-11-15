@@ -1,32 +1,28 @@
-### Today · 2026-11-15
+### Today · 2026-11-16
 
-**9 Commits** · **15 PRs** · **0 Issues**
+**10 Commits** · **10 PRs** · **0 Issues**
 
 | 시간(KST) | 종류 | 작업 | 저장소 |
 |:--:|:--|:--|:--|
-| 17:16 | PR | [fix(frontend): 팀 초대 화면 반응형 적용 (opened)](https://github.com/GSMSV/GSMSV-Client-V2/pull/112) | GSMSV/GSMSV-Client-V2 |
-| 17:11 | PR | [fix(frontend): 관리자 계정 점검 흐름 구현 (opened)](https://github.com/GSMSV/GSMSV-Client-V2/pull/111) | GSMSV/GSMSV-Client-V2 |
-| 17:11 | PR | [fix(frontend): Apps 데모 흐름 접근성 보완 (opened)](https://github.com/GSMSV/GSMSV-Client-V2/pull/110) | GSMSV/GSMSV-Client-V2 |
-| 17:11 | PR | [fix(frontend): VM 상태별 관리 흐름 구현 (opened)](https://github.com/GSMSV/GSMSV-Client-V2/pull/109) | GSMSV/GSMSV-Client-V2 |
-| 17:11 | PR | [fix(frontend): Serverless 실행 확인 흐름 보완 (opened)](https://github.com/GSMSV/GSMSV-Client-V2/pull/108) | GSMSV/GSMSV-Client-V2 |
-| 17:11 | PR | [fix(frontend): 반응형 공통 셸과 로그인 화면 개선 (opened)](https://github.com/GSMSV/GSMSV-Client-V2/pull/107) | GSMSV/GSMSV-Client-V2 |
-| 17:09 | PR | [fix(frontend): 문의와 관리자 삭제 확인 흐름 보완 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/106) | GSMSV/GSMSV-Client-V2 |
-| 17:09 | Commit | [fix(frontend): 문의와 관리자 삭제 확인 흐름 보완 (#106)](https://github.com/GSMSV/GSMSV-Client-V2/commit/fdf34bf373f458fbffb9a0ad08a77b61988ae573) | GSMSV/GSMSV-Client-V2 |
-| 17:01 | PR | [fix(frontend): 첫 방문 VM 안내 문구를 Figma와 일치 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/105) | GSMSV/GSMSV-Client-V2 |
-| 17:01 | Commit | [fix(frontend): 첫 방문 VM 안내 문구를 Figma와 일치 (#105)](https://github.com/GSMSV/GSMSV-Client-V2/commit/99e4cf6abad2cabb5b51507ce6d0665a9a1cc361) | GSMSV/GSMSV-Client-V2 |
-| 16:37 | PR | [fix(frontend): 데모 로그아웃과 공개 화면 접근 수정 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/103) | GSMSV/GSMSV-Client-V2 |
-| 16:37 | Commit | [fix(frontend): 데모 로그아웃과 공개 화면 접근 수정 (#103)](https://github.com/GSMSV/GSMSV-Client-V2/commit/942e598c73095512213db76a5ba162209b01cc3b) | GSMSV/GSMSV-Client-V2 |
-| 16:36 | PR | [feat(frontend): 미리보기 진입 제거 및 관리자 경로 연결 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/104) | GSMSV/GSMSV-Client-V2 |
-| 16:36 | Commit | [feat(frontend): 미리보기 진입 제거 및 관리자 경로 연결 (#104)](https://github.com/GSMSV/GSMSV-Client-V2/commit/22c54cc1e7a780c839ea4c09751dc42d4b65c7df) | GSMSV/GSMSV-Client-V2 |
-| 00:19 | PR | [feat(frontend): Database 발급 완료 흐름 연결 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/101) | GSMSV/GSMSV-Client-V2 |
-| 00:19 | Commit | [feat(frontend): Database 발급 완료 흐름 연결 (#101)](https://github.com/GSMSV/GSMSV-Client-V2/commit/19f5876aaa55174b62a15d307d316b3fb50f0ae5) | GSMSV/GSMSV-Client-V2 |
-| 00:15 | PR | [fix(frontend): 팀 전용 Database 한도 적용 (merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/99) | GSMSV/GSMSV-Client-V2 |
-| 00:15 | Commit | [fix(frontend): 팀 전용 Database 한도 적용 (#99)](https://github.com/GSMSV/GSMSV-Client-V2/commit/2c7ec88a18979e9ccb38b6176fabc021c853a046) | GSMSV/GSMSV-Client-V2 |
-| 00:13 | PR | [fix(frontend): 개인 VM 생성 흐름 연결 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/102) | GSMSV/GSMSV-Client-V2 |
-| 00:13 | Commit | [fix(frontend): 개인 VM 생성 흐름 연결 (#102)](https://github.com/GSMSV/GSMSV-Client-V2/commit/bb69db9729d345dba3d2696905334e7d7a253a2e) | GSMSV/GSMSV-Client-V2 |
-| 00:10 | Commit | [fix(frontend): Database 상세 쿼리 설정 연결 (#100)](https://github.com/GSMSV/GSMSV-Client-V2/commit/4dd850171c40af8aa23ff2397cd7c0511bdff398) | GSMSV/GSMSV-Client-V2 |
-| 00:10 | PR | [fix(frontend): Database 상세 쿼리 설정 연결 (merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/100) | GSMSV/GSMSV-Client-V2 |
-| 00:07 | PR | [fix(frontend): 관리자 전체 VM 경로 연결 (merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/98) | GSMSV/GSMSV-Client-V2 |
-| 00:07 | Commit | [fix(frontend): 관리자 전체 VM 경로 연결 (#98)](https://github.com/GSMSV/GSMSV-Client-V2/commit/2e410e52e6b92d53bd39a965b1e13fec7228c743) | GSMSV/GSMSV-Client-V2 |
+| 01:18 | PR | [fix(frontend): 학생 셸 Figma 통일·문의 여백·데모 이름·첫 방문 진입 보완 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/154) | GSMSV/GSMSV-Client-V2 |
+| 01:18 | Commit | [fix(frontend): 학생 셸 Figma 통일·문의 여백·데모 이름·첫 방문 진입 보완 (#154)](https://github.com/GSMSV/GSMSV-Client-V2/commit/e331d270822256a7ca011f6f44ee47b91181f8ed) | GSMSV/GSMSV-Client-V2 |
+| 01:08 | PR | [fix(frontend): 로그인·역할 선택·초대 수락 화면을 창 높이에 맞춤 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/153) | GSMSV/GSMSV-Client-V2 |
+| 01:08 | Commit | [fix(frontend): 로그인·역할 선택·초대 수락 화면을 창 높이에 맞춤 (#153)](https://github.com/GSMSV/GSMSV-Client-V2/commit/306b01f81465cf7970a0381dbb212de7c70d0a6d) | GSMSV/GSMSV-Client-V2 |
+| 00:49 | PR | [fix(frontend): 관리자 전용형 Database 승인 로딩·오류 상태 연결 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/152) | GSMSV/GSMSV-Client-V2 |
+| 00:49 | Commit | [fix(frontend): 관리자 전용형 Database 승인 로딩·오류 상태 연결 (#152)](https://github.com/GSMSV/GSMSV-Client-V2/commit/d1c7f9671b1bc7538cd6f1361a0525adf7ee869a) | GSMSV/GSMSV-Client-V2 |
+| 00:45 | Commit | [feat(frontend): Database 목데이터 상태·로딩·오류 흐름 연결 (#149)](https://github.com/GSMSV/GSMSV-Client-V2/commit/83f11d42129ffc3e8b7434ea12dd9cff2fee15a1) | GSMSV/GSMSV-Client-V2 |
+| 00:45 | PR | [feat(frontend): Database 목데이터 상태·로딩·오류 흐름 연결 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/149) | GSMSV/GSMSV-Client-V2 |
+| 00:44 | PR | [feat(frontend): 팀·관리자 Figma 상태와 이동 경로 맞춤 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/148) | GSMSV/GSMSV-Client-V2 |
+| 00:44 | Commit | [feat(frontend): 팀·관리자 Figma 상태와 이동 경로 맞춤 (#148)](https://github.com/GSMSV/GSMSV-Client-V2/commit/b9a44524649626ffc1638b7d81a858a4d96847f2) | GSMSV/GSMSV-Client-V2 |
+| 00:43 | Commit | [feat(frontend): VM Figma 상태·흐름 목데이터 보완 (#151)](https://github.com/GSMSV/GSMSV-Client-V2/commit/43f797d4f3ce809a52475bfad5315013bf252f96) | GSMSV/GSMSV-Client-V2 |
+| 00:43 | PR | [feat(frontend): VM Figma 상태·흐름 목데이터 보완 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/151) | GSMSV/GSMSV-Client-V2 |
+| 00:43 | PR | [feat(frontend): Serverless Figma 상태·흐름 목데이터 연결 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/150) | GSMSV/GSMSV-Client-V2 |
+| 00:43 | Commit | [feat(frontend): Serverless Figma 상태·흐름 목데이터 연결 (#150)](https://github.com/GSMSV/GSMSV-Client-V2/commit/ffb433530a7f28275818343150921c81ed426f52) | GSMSV/GSMSV-Client-V2 |
+| 00:33 | PR | [feat(frontend): 홈·셸·Docs·CLI Figma 상태와 공통 예외 화면 연결 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/147) | GSMSV/GSMSV-Client-V2 |
+| 00:33 | Commit | [feat(frontend): 홈·셸·Docs·CLI Figma 상태와 공통 예외 화면 연결 (#147)](https://github.com/GSMSV/GSMSV-Client-V2/commit/f96f7988c098b4b30c91b85131ea490e380d7464) | GSMSV/GSMSV-Client-V2 |
+| 00:26 | PR | [feat(frontend): Apps·계정 설정 목데이터 로딩·오류 상태 연결 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/146) | GSMSV/GSMSV-Client-V2 |
+| 00:26 | Commit | [feat(frontend): Apps·계정 설정 목데이터 로딩·오류 상태 연결 (#146)](https://github.com/GSMSV/GSMSV-Client-V2/commit/781dc44f36560c2820d52de5612f2b060df73f30) | GSMSV/GSMSV-Client-V2 |
+| 00:05 | PR | [feat(frontend): 목데이터 로딩·오류 상태 시뮬레이션 기반 추가 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/145) | GSMSV/GSMSV-Client-V2 |
+| 00:05 | Commit | [feat(frontend): 목데이터 로딩·오류 상태 시뮬레이션 기반 추가 (#145)](https://github.com/GSMSV/GSMSV-Client-V2/commit/67938503405aa4c0fdf1246dbf2bb19f63a05c3f) | GSMSV/GSMSV-Client-V2 |
 
 [View all activity →](https://sunwoo162.github.io/sunwoo162/)
