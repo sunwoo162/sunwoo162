@@ -1,7 +1,7 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-11-15T01:54:24.398243+00:00",
+  "updated_at": "2026-11-15T09:23:05.604019+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
@@ -559,7 +559,7 @@
     },
     "2026-11-13": {
       "state": "indexed",
-      "checked_at": "2026-11-15T01:53:51.847364+00:00",
+      "checked_at": "2026-11-15T09:22:35.243261+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -570,7 +570,7 @@
     },
     "2026-11-14": {
       "state": "indexed",
-      "checked_at": "2026-11-15T01:54:07.221411+00:00",
+      "checked_at": "2026-11-15T09:22:49.434268+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -581,7 +581,7 @@
     },
     "2026-11-15": {
       "state": "indexed",
-      "checked_at": "2026-11-15T01:54:22.277858+00:00",
+      "checked_at": "2026-11-15T09:23:03.849535+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -593,6 +593,218 @@
   },
   "days": {
     "2026-11-15": [
+      {
+        "kind": "pr",
+        "event": "opened",
+        "date": "2026-11-15",
+        "time": "17:16",
+        "at": "2026-11-15T17:16:40+09:00",
+        "title": "fix(frontend): 팀 초대 화면 반응형 적용",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/112",
+        "number": 112,
+        "status": "open",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/112/commits",
+        "events": [
+          "opened"
+        ]
+      },
+      {
+        "kind": "pr",
+        "event": "opened",
+        "date": "2026-11-15",
+        "time": "17:11",
+        "at": "2026-11-15T17:11:23+09:00",
+        "title": "fix(frontend): 관리자 계정 점검 흐름 구현",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/111",
+        "number": 111,
+        "status": "open",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/111/commits",
+        "events": [
+          "opened"
+        ]
+      },
+      {
+        "kind": "pr",
+        "event": "opened",
+        "date": "2026-11-15",
+        "time": "17:11",
+        "at": "2026-11-15T17:11:20+09:00",
+        "title": "fix(frontend): Apps 데모 흐름 접근성 보완",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/110",
+        "number": 110,
+        "status": "open",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/110/commits",
+        "events": [
+          "opened"
+        ]
+      },
+      {
+        "kind": "pr",
+        "event": "opened",
+        "date": "2026-11-15",
+        "time": "17:11",
+        "at": "2026-11-15T17:11:17+09:00",
+        "title": "fix(frontend): VM 상태별 관리 흐름 구현",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/109",
+        "number": 109,
+        "status": "open",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/109/commits",
+        "events": [
+          "opened"
+        ]
+      },
+      {
+        "kind": "pr",
+        "event": "opened",
+        "date": "2026-11-15",
+        "time": "17:11",
+        "at": "2026-11-15T17:11:14+09:00",
+        "title": "fix(frontend): Serverless 실행 확인 흐름 보완",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/108",
+        "number": 108,
+        "status": "open",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/108/commits",
+        "events": [
+          "opened"
+        ]
+      },
+      {
+        "kind": "pr",
+        "event": "opened",
+        "date": "2026-11-15",
+        "time": "17:11",
+        "at": "2026-11-15T17:11:11+09:00",
+        "title": "fix(frontend): 반응형 공통 셸과 로그인 화면 개선",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/107",
+        "number": 107,
+        "status": "open",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/107/commits",
+        "events": [
+          "opened"
+        ]
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-15",
+        "time": "17:09",
+        "at": "2026-11-15T17:09:05+09:00",
+        "title": "fix(frontend): 문의와 관리자 삭제 확인 흐름 보완",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/106",
+        "number": 106,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/106/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-15",
+        "time": "17:09",
+        "at": "2026-11-15T17:09:04+09:00",
+        "title": "fix(frontend): 문의와 관리자 삭제 확인 흐름 보완 (#106)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/fdf34bf373f458fbffb9a0ad08a77b61988ae573",
+        "sha": "fdf34bf373f4",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-15",
+        "time": "17:01",
+        "at": "2026-11-15T17:01:14+09:00",
+        "title": "fix(frontend): 첫 방문 VM 안내 문구를 Figma와 일치",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/105",
+        "number": 105,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/105/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-15",
+        "time": "17:01",
+        "at": "2026-11-15T17:01:13+09:00",
+        "title": "fix(frontend): 첫 방문 VM 안내 문구를 Figma와 일치 (#105)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/99e4cf6abad2cabb5b51507ce6d0665a9a1cc361",
+        "sha": "99e4cf6abad2",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-15",
+        "time": "16:37",
+        "at": "2026-11-15T16:37:25+09:00",
+        "title": "fix(frontend): 데모 로그아웃과 공개 화면 접근 수정",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/103",
+        "number": 103,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/103/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-15",
+        "time": "16:37",
+        "at": "2026-11-15T16:37:24+09:00",
+        "title": "fix(frontend): 데모 로그아웃과 공개 화면 접근 수정 (#103)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/942e598c73095512213db76a5ba162209b01cc3b",
+        "sha": "942e598c7309",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-15",
+        "time": "16:36",
+        "at": "2026-11-15T16:36:16+09:00",
+        "title": "feat(frontend): 미리보기 진입 제거 및 관리자 경로 연결",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/104",
+        "number": 104,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/104/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-15",
+        "time": "16:36",
+        "at": "2026-11-15T16:36:14+09:00",
+        "title": "feat(frontend): 미리보기 진입 제거 및 관리자 경로 연결 (#104)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/22c54cc1e7a780c839ea4c09751dc42d4b65c7df",
+        "sha": "22c54cc1e7a7",
+        "source": "commit-search"
+      },
       {
         "kind": "pr",
         "event": "merged",

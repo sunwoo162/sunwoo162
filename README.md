@@ -1,9 +1,23 @@
 ### Today · 2026-11-15
 
-**5 Commits** · **5 PRs** · **0 Issues**
+**9 Commits** · **15 PRs** · **0 Issues**
 
 | 시간(KST) | 종류 | 작업 | 저장소 |
 |:--:|:--|:--|:--|
+| 17:16 | PR | [fix(frontend): 팀 초대 화면 반응형 적용 (opened)](https://github.com/GSMSV/GSMSV-Client-V2/pull/112) | GSMSV/GSMSV-Client-V2 |
+| 17:11 | PR | [fix(frontend): 관리자 계정 점검 흐름 구현 (opened)](https://github.com/GSMSV/GSMSV-Client-V2/pull/111) | GSMSV/GSMSV-Client-V2 |
+| 17:11 | PR | [fix(frontend): Apps 데모 흐름 접근성 보완 (opened)](https://github.com/GSMSV/GSMSV-Client-V2/pull/110) | GSMSV/GSMSV-Client-V2 |
+| 17:11 | PR | [fix(frontend): VM 상태별 관리 흐름 구현 (opened)](https://github.com/GSMSV/GSMSV-Client-V2/pull/109) | GSMSV/GSMSV-Client-V2 |
+| 17:11 | PR | [fix(frontend): Serverless 실행 확인 흐름 보완 (opened)](https://github.com/GSMSV/GSMSV-Client-V2/pull/108) | GSMSV/GSMSV-Client-V2 |
+| 17:11 | PR | [fix(frontend): 반응형 공통 셸과 로그인 화면 개선 (opened)](https://github.com/GSMSV/GSMSV-Client-V2/pull/107) | GSMSV/GSMSV-Client-V2 |
+| 17:09 | PR | [fix(frontend): 문의와 관리자 삭제 확인 흐름 보완 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/106) | GSMSV/GSMSV-Client-V2 |
+| 17:09 | Commit | [fix(frontend): 문의와 관리자 삭제 확인 흐름 보완 (#106)](https://github.com/GSMSV/GSMSV-Client-V2/commit/fdf34bf373f458fbffb9a0ad08a77b61988ae573) | GSMSV/GSMSV-Client-V2 |
+| 17:01 | PR | [fix(frontend): 첫 방문 VM 안내 문구를 Figma와 일치 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/105) | GSMSV/GSMSV-Client-V2 |
+| 17:01 | Commit | [fix(frontend): 첫 방문 VM 안내 문구를 Figma와 일치 (#105)](https://github.com/GSMSV/GSMSV-Client-V2/commit/99e4cf6abad2cabb5b51507ce6d0665a9a1cc361) | GSMSV/GSMSV-Client-V2 |
+| 16:37 | PR | [fix(frontend): 데모 로그아웃과 공개 화면 접근 수정 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/103) | GSMSV/GSMSV-Client-V2 |
+| 16:37 | Commit | [fix(frontend): 데모 로그아웃과 공개 화면 접근 수정 (#103)](https://github.com/GSMSV/GSMSV-Client-V2/commit/942e598c73095512213db76a5ba162209b01cc3b) | GSMSV/GSMSV-Client-V2 |
+| 16:36 | PR | [feat(frontend): 미리보기 진입 제거 및 관리자 경로 연결 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/104) | GSMSV/GSMSV-Client-V2 |
+| 16:36 | Commit | [feat(frontend): 미리보기 진입 제거 및 관리자 경로 연결 (#104)](https://github.com/GSMSV/GSMSV-Client-V2/commit/22c54cc1e7a780c839ea4c09751dc42d4b65c7df) | GSMSV/GSMSV-Client-V2 |
 | 00:19 | PR | [feat(frontend): Database 발급 완료 흐름 연결 (opened/merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/101) | GSMSV/GSMSV-Client-V2 |
 | 00:19 | Commit | [feat(frontend): Database 발급 완료 흐름 연결 (#101)](https://github.com/GSMSV/GSMSV-Client-V2/commit/19f5876aaa55174b62a15d307d316b3fb50f0ae5) | GSMSV/GSMSV-Client-V2 |
 | 00:15 | PR | [fix(frontend): 팀 전용 Database 한도 적용 (merged)](https://github.com/GSMSV/GSMSV-Client-V2/pull/99) | GSMSV/GSMSV-Client-V2 |
