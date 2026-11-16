@@ -1,7 +1,7 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-11-15T23:35:59.337242+00:00",
+  "updated_at": "2026-11-16T02:04:38.860145+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
@@ -569,37 +569,85 @@
     },
     "2026-11-14": {
       "state": "indexed",
-      "checked_at": "2026-11-15T23:35:15.903263+00:00",
+      "checked_at": "2026-11-16T02:03:56.289076+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
       "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
+      "branch_scan": "public owned repositories, max 20 branches each"
     },
     "2026-11-15": {
       "state": "indexed",
-      "checked_at": "2026-11-15T23:35:43.669538+00:00",
+      "checked_at": "2026-11-16T02:04:22.433482+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
       "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
+      "branch_scan": "public owned repositories, max 20 branches each"
     },
     "2026-11-16": {
       "state": "indexed",
-      "checked_at": "2026-11-15T23:35:59.337140+00:00",
+      "checked_at": "2026-11-16T02:04:36.893551+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
       "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
+      "branch_scan": "public owned repositories, max 20 branches each"
     }
   },
   "days": {
     "2026-11-16": [
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-16",
+        "time": "09:08",
+        "at": "2026-11-16T09:08:29+09:00",
+        "title": "fix(frontend): 검색·알림 팝오버 위치를 트리거에 정렬",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/164",
+        "number": 164,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/164/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-16",
+        "time": "09:08",
+        "at": "2026-11-16T09:08:28+09:00",
+        "title": "fix(frontend): 검색·알림 팝오버 위치를 트리거에 정렬 (#164)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/40c499387182e850b653ea259891a47fb62c2c97",
+        "sha": "40c499387182",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "opened",
+        "date": "2026-11-16",
+        "time": "08:53",
+        "at": "2026-11-16T08:53:45+09:00",
+        "title": "docs(frontend): Figma 커버리지 현황 최신화",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/163",
+        "number": 163,
+        "status": "open",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/163/commits",
+        "events": [
+          "opened"
+        ]
+      },
       {
         "kind": "pr",
         "event": "merged",
