@@ -1,7 +1,7 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-11-16T02:04:38.860145+00:00",
+  "updated_at": "2026-11-16T09:39:40.508886+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
@@ -569,7 +569,7 @@
     },
     "2026-11-14": {
       "state": "indexed",
-      "checked_at": "2026-11-16T02:03:56.289076+00:00",
+      "checked_at": "2026-11-16T09:38:53.864498+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -580,7 +580,7 @@
     },
     "2026-11-15": {
       "state": "indexed",
-      "checked_at": "2026-11-16T02:04:22.433482+00:00",
+      "checked_at": "2026-11-16T09:39:22.211288+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -591,7 +591,7 @@
     },
     "2026-11-16": {
       "state": "indexed",
-      "checked_at": "2026-11-16T02:04:36.893551+00:00",
+      "checked_at": "2026-11-16T09:39:38.611152+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -603,6 +603,180 @@
   },
   "days": {
     "2026-11-16": [
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-16",
+        "time": "18:23",
+        "at": "2026-11-16T18:23:07+09:00",
+        "title": "Merge pull request #101 from gsmoj/feat/reinfo-and-hidden-tags",
+        "repo": "gsmoj/gsmoj",
+        "url": "https://github.com/gsmoj/gsmoj/commit/d38801327b4cba89edf30f544eaa820e95ea7292",
+        "sha": "d38801327b4c",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-16",
+        "time": "18:23",
+        "at": "2026-11-16T18:23:07+09:00",
+        "title": "feat: 채점 결과 상세 디자인 정리와 문제 분류 숨김, 분류 필터 오류 수정",
+        "repo": "gsmoj/gsmoj",
+        "url": "https://github.com/gsmoj/gsmoj/pull/101",
+        "number": 101,
+        "status": "merged",
+        "commits_url": "https://github.com/gsmoj/gsmoj/pull/101/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-16",
+        "time": "18:22",
+        "at": "2026-11-16T18:22:47+09:00",
+        "title": "Merge pull request #99 from gsmoj/feat/access-denied-notice",
+        "repo": "gsmoj/gsmoj",
+        "url": "https://github.com/gsmoj/gsmoj/commit/d72eaa566c87046178dbf70bd94e652927a0d69d",
+        "sha": "d72eaa566c87",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-16",
+        "time": "18:22",
+        "at": "2026-11-16T18:22:47+09:00",
+        "title": "feat(status): 다른 사람의 채점 기록 접근 시 오류 박스 대신 안내 화면 표시",
+        "repo": "gsmoj/gsmoj",
+        "url": "https://github.com/gsmoj/gsmoj/pull/99",
+        "number": 99,
+        "status": "merged",
+        "commits_url": "https://github.com/gsmoj/gsmoj/pull/99/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-16",
+        "time": "17:55",
+        "at": "2026-11-16T17:55:08+09:00",
+        "title": "feat(contest): 상단 메뉴의 대회 목록이 전체 보기로 열리도록 변경",
+        "repo": "gsmoj/gsmoj",
+        "url": "https://github.com/gsmoj/gsmoj/pull/97",
+        "number": 97,
+        "status": "merged",
+        "commits_url": "https://github.com/gsmoj/gsmoj/pull/97/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-16",
+        "time": "17:55",
+        "at": "2026-11-16T17:55:07+09:00",
+        "title": "Merge pull request #97 from gsmoj/feat/contest-list-default-all",
+        "repo": "gsmoj/gsmoj",
+        "url": "https://github.com/gsmoj/gsmoj/commit/3abb7772caf2145fd102c1b0407a0c2dabee8850",
+        "sha": "3abb7772caf2",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-16",
+        "time": "17:44",
+        "at": "2026-11-16T17:44:01+09:00",
+        "title": "feat(contest): 수행평가 종료 후 접근 차단 및 상태 배지 제거·채점 현황 본인 제출만 표시",
+        "repo": "gsmoj/gsmoj",
+        "url": "https://github.com/gsmoj/gsmoj/pull/93",
+        "number": 93,
+        "status": "merged",
+        "commits_url": "https://github.com/gsmoj/gsmoj/pull/93/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-16",
+        "time": "17:44",
+        "at": "2026-11-16T17:44:00+09:00",
+        "title": "Merge pull request #93 from gsmoj/feat/assessment-page-cleanup",
+        "repo": "gsmoj/gsmoj",
+        "url": "https://github.com/gsmoj/gsmoj/commit/1d65a2a73470d600e9f4118e3f1657b9173e646e",
+        "sha": "1d65a2a73470",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-16",
+        "time": "17:24",
+        "at": "2026-11-16T17:24:02+09:00",
+        "title": "Merge pull request #91 from gsmoj/feat/contest-time-over-notice",
+        "repo": "gsmoj/gsmoj",
+        "url": "https://github.com/gsmoj/gsmoj/commit/90af6d8d1d9dd1c4d7642a8e5cba163a1c8772e4",
+        "sha": "90af6d8d1d9d",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-16",
+        "time": "17:24",
+        "at": "2026-11-16T17:24:02+09:00",
+        "title": "feat(contest): 수행평가 제한시간 종료 화면을 안내 전용 화면으로 정리",
+        "repo": "gsmoj/gsmoj",
+        "url": "https://github.com/gsmoj/gsmoj/pull/91",
+        "number": 91,
+        "status": "merged",
+        "commits_url": "https://github.com/gsmoj/gsmoj/pull/91/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-16",
+        "time": "11:15",
+        "at": "2026-11-16T11:15:41+09:00",
+        "title": "fix(frontend): 첫 접속 시 로그인 화면 표시",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/165",
+        "number": 165,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/165/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-16",
+        "time": "11:15",
+        "at": "2026-11-16T11:15:40+09:00",
+        "title": "fix(frontend): 첫 접속 시 로그인 화면 표시 (#165)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/de56667ffdc2557d5f6751275173179e60db118c",
+        "sha": "de56667ffdc2",
+        "source": "commit-search"
+      },
       {
         "kind": "pr",
         "event": "merged",
