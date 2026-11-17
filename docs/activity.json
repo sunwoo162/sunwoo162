@@ -1,7 +1,7 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-11-17T03:51:56.537539+00:00",
+  "updated_at": "2026-11-17T13:23:44.306062+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
@@ -579,7 +579,7 @@
     },
     "2026-11-15": {
       "state": "limited",
-      "checked_at": "2026-11-17T03:51:19.040041+00:00",
+      "checked_at": "2026-11-17T13:22:33.708565+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -592,7 +592,7 @@
     },
     "2026-11-16": {
       "state": "limited",
-      "checked_at": "2026-11-17T03:51:33.804220+00:00",
+      "checked_at": "2026-11-17T13:22:51.465553+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -605,7 +605,7 @@
     },
     "2026-11-17": {
       "state": "limited",
-      "checked_at": "2026-11-17T03:51:46.937704+00:00",
+      "checked_at": "2026-11-17T13:23:29.957277+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -618,7 +618,429 @@
     }
   },
   "days": {
-    "2026-11-17": [],
+    "2026-11-17": [
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-17",
+        "time": "20:28",
+        "at": "2026-11-17T20:28:30+09:00",
+        "title": "chore: develop을 main에 릴리스 (Serverless·Database 실제 실행)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/182",
+        "number": 182,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/182/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-17",
+        "time": "20:28",
+        "at": "2026-11-17T20:28:06+09:00",
+        "title": "feat(frontend): Database를 브라우저 SQLite로 실제 실행",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/181",
+        "number": 181,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/181/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-17",
+        "time": "20:28",
+        "at": "2026-11-17T20:28:05+09:00",
+        "title": "feat(frontend): Database를 브라우저 SQLite로 실제 실행 (#181)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/f6c1ac8db25c950bd50487fdecfe8834ae8d85d3",
+        "sha": "f6c1ac8db25c",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-17",
+        "time": "20:26",
+        "at": "2026-11-17T20:26:58+09:00",
+        "title": "feat(frontend): Serverless 함수를 Web Worker에서 실제로 실행",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/180",
+        "number": 180,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/180/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-17",
+        "time": "20:26",
+        "at": "2026-11-17T20:26:57+09:00",
+        "title": "feat(frontend): Serverless 함수를 Web Worker에서 실제로 실행 (#180)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/afc66d111ae5b1138f9d9ed5904011a6e44ca11b",
+        "sha": "afc66d111ae5",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-17",
+        "time": "19:55",
+        "at": "2026-11-17T19:55:53+09:00",
+        "title": "feat(frontend): 준비된 VM 9대를 용도별로 고정 (#179)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/b60e4fdfdceae59a6e7deb486e8c638e83b468af",
+        "sha": "b60e4fdfdcea",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-17",
+        "time": "19:55",
+        "at": "2026-11-17T19:55:53+09:00",
+        "title": "feat(frontend): 준비된 VM 9대를 용도별로 고정",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/179",
+        "number": 179,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/179/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-17",
+        "time": "19:37",
+        "at": "2026-11-17T19:37:43+09:00",
+        "title": "일반 사이트에서 VM 생성 바로 사용",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/178",
+        "number": 178,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/178/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-17",
+        "time": "19:36",
+        "at": "2026-11-17T19:36:53+09:00",
+        "title": "일반 사이트에서 VM 생성 바로 사용",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/177",
+        "number": 177,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/177/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-17",
+        "time": "19:36",
+        "at": "2026-11-17T19:36:52+09:00",
+        "title": "일반 사이트에서 VM 생성 바로 사용 (#177)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/89df1716119758edff43cb5d5c0a69a1c46103e2",
+        "sha": "89df17161197",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-17",
+        "time": "18:46",
+        "at": "2026-11-17T18:46:09+09:00",
+        "title": "feat(frontend): 사용자 입력 기반 체험 환경 main 반영",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/176",
+        "number": 176,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/176/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-17",
+        "time": "18:34",
+        "at": "2026-11-17T18:34:39+09:00",
+        "title": "feat(frontend): 사용자 입력 기반 체험 환경과 VM SSH 배정",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/175",
+        "number": 175,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/175/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-17",
+        "time": "18:34",
+        "at": "2026-11-17T18:34:38+09:00",
+        "title": "feat(frontend): 사용자 입력 기반 체험 환경과 VM SSH 배정",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/98506ae823f1b4fe86f9a027475f2884a7e4e9bc",
+        "sha": "98506ae823f1",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-17",
+        "time": "16:20",
+        "at": "2026-11-17T16:20:03+09:00",
+        "title": "fix: enable direct links to SPA pages on Vercel",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/174",
+        "number": 174,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/174/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-17",
+        "time": "16:10",
+        "at": "2026-11-17T16:10:32+09:00",
+        "title": "fix: unblock develop Vercel build",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/173",
+        "number": 173,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/173/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-17",
+        "time": "16:10",
+        "at": "2026-11-17T16:10:31+09:00",
+        "title": "fix: unblock develop Vercel build (#173)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/8d98e6d92ad6c0f3635acf27e70a09d44d8dd0e0",
+        "sha": "8d98e6d92ad6",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-17",
+        "time": "16:04",
+        "at": "2026-11-17T16:04:04+09:00",
+        "title": "fix: make main Vercel build independent of Node types",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/172",
+        "number": 172,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/172/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-17",
+        "time": "15:18",
+        "at": "2026-11-17T15:18:57+09:00",
+        "title": "chore: develop을 main에 첫 릴리스",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/169",
+        "number": 169,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/169/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-17",
+        "time": "15:18",
+        "at": "2026-11-17T15:18:38+09:00",
+        "title": "fix(frontend): VM 목데이터 상호작용 QA 수정",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/171",
+        "number": 171,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/171/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-17",
+        "time": "15:18",
+        "at": "2026-11-17T15:18:37+09:00",
+        "title": "fix(frontend): VM 목데이터 상호작용 QA 수정 (#171)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/e68c0b74bcee0caa4918bb638a5156e2befab726",
+        "sha": "e68c0b74bcee",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-17",
+        "time": "15:16",
+        "at": "2026-11-17T15:16:06+09:00",
+        "title": "feat(frontend): 로컬 개발·미리보기에서 /api를 V2 백엔드로 프록시",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/170",
+        "number": 170,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/170/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-17",
+        "time": "15:16",
+        "at": "2026-11-17T15:16:05+09:00",
+        "title": "feat(frontend): 로컬 개발·미리보기에서 /api를 V2 백엔드로 프록시 (#170)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/31110182aadd4ad3496fa319b357b27ba73aed13",
+        "sha": "31110182aadd",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-17",
+        "time": "14:20",
+        "at": "2026-11-17T14:20:07+09:00",
+        "title": "fix(frontend): 인증·팀·알림 API를 서버 main 계약에 맞춤 (#168)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/cdda12067f946bd84ee08111bd3d980046817ffb",
+        "sha": "cdda12067f94",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-17",
+        "time": "14:20",
+        "at": "2026-11-17T14:20:07+09:00",
+        "title": "fix(frontend): 인증·팀·알림 API를 서버 main 계약에 맞춤",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/168",
+        "number": 168,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/168/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-17",
+        "time": "14:17",
+        "at": "2026-11-17T14:17:44+09:00",
+        "title": "fix(frontend): DB·앱·관리자 자원 API 계약을 서버 main에 맞춤",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/167",
+        "number": 167,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/167/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-17",
+        "time": "14:17",
+        "at": "2026-11-17T14:17:43+09:00",
+        "title": "fix(frontend): DB·앱·관리자 자원 API 계약을 서버 main에 맞춤 (#167)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/6197d7ff1fa32db7fe9804e8ca8217772de9fefe",
+        "sha": "6197d7ff1fa3",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-17",
+        "time": "14:13",
+        "at": "2026-11-17T14:13:59+09:00",
+        "title": "feat(frontend): 401 응답 시 토큰을 한 번 갱신하고 요청 재시도",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/166",
+        "number": 166,
+        "status": "merged",
+        "commits_url": "https://github.com/GSMSV/GSMSV-Client-V2/pull/166/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-17",
+        "time": "14:13",
+        "at": "2026-11-17T14:13:58+09:00",
+        "title": "feat(frontend): 401 응답 시 토큰을 한 번 갱신하고 요청 재시도 (#166)",
+        "repo": "GSMSV/GSMSV-Client-V2",
+        "url": "https://github.com/GSMSV/GSMSV-Client-V2/commit/124814ea556f23e2f76834dae0bf6e9bbcd411f9",
+        "sha": "124814ea556f",
+        "source": "commit-search"
+      }
+    ],
     "2026-11-16": [
       {
         "kind": "commit",
