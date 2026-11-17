@@ -1,7 +1,7 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-11-17T13:23:44.306062+00:00",
+  "updated_at": "2026-11-17T22:21:37.184339+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
@@ -592,7 +592,7 @@
     },
     "2026-11-16": {
       "state": "limited",
-      "checked_at": "2026-11-17T13:22:51.465553+00:00",
+      "checked_at": "2026-11-17T22:20:54.021019+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -605,7 +605,20 @@
     },
     "2026-11-17": {
       "state": "limited",
-      "checked_at": "2026-11-17T13:23:29.957277+00:00",
+      "checked_at": "2026-11-17T22:21:09.342963+00:00",
+      "sources": [
+        "github-commit-search",
+        "github-issue-search"
+      ],
+      "notes": [
+        "sunwoo162/iseol-bot 브랜치가 20개를 넘어 일부만 조회"
+      ],
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
+      "branch_scan": "public owned repositories, max 20 branches each"
+    },
+    "2026-11-18": {
+      "state": "limited",
+      "checked_at": "2026-11-17T22:21:23.821760+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -618,6 +631,7 @@
     }
   },
   "days": {
+    "2026-11-18": [],
     "2026-11-17": [
       {
         "kind": "pr",
