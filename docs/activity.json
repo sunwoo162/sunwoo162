@@ -1,7 +1,7 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-11-18T13:57:22.741112+00:00",
+  "updated_at": "2026-11-18T21:56:00.384750+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
@@ -602,7 +602,7 @@
     },
     "2026-11-17": {
       "state": "limited",
-      "checked_at": "2026-11-18T13:56:56.405087+00:00",
+      "checked_at": "2026-11-18T21:55:20.399007+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -615,7 +615,20 @@
     },
     "2026-11-18": {
       "state": "limited",
-      "checked_at": "2026-11-18T13:57:11.375172+00:00",
+      "checked_at": "2026-11-18T21:55:35.534518+00:00",
+      "sources": [
+        "github-commit-search",
+        "github-issue-search"
+      ],
+      "notes": [
+        "sunwoo162/iseol-bot 브랜치가 20개를 넘어 일부만 조회"
+      ],
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
+      "branch_scan": "public owned repositories, max 20 branches each"
+    },
+    "2026-11-19": {
+      "state": "limited",
+      "checked_at": "2026-11-18T21:55:49.404194+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -628,6 +641,36 @@
     }
   },
   "days": {
+    "2026-11-19": [
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-19",
+        "time": "00:48",
+        "at": "2026-11-19T00:48:52+09:00",
+        "title": "Merge pull request #231 from kody-gsm/develop",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/commit/99bd00dfb96e3997ba2319a213a51e555d9639c4",
+        "sha": "99bd00dfb96e",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-19",
+        "time": "00:48",
+        "at": "2026-11-19T00:48:52+09:00",
+        "title": "release : develop 변경을 main에 반영",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/pull/231",
+        "number": 231,
+        "status": "merged",
+        "commits_url": "https://github.com/kody-gsm/Jobdom_Front/pull/231/commits",
+        "events": [
+          "merged"
+        ]
+      }
+    ],
     "2026-11-18": [
       {
         "kind": "pr",
@@ -639,7 +682,7 @@
         "repo": "kody-gsm/Jobdom_Front",
         "url": "https://github.com/kody-gsm/Jobdom_Front/pull/231",
         "number": 231,
-        "status": "open",
+        "status": "merged",
         "commits_url": "https://github.com/kody-gsm/Jobdom_Front/pull/231/commits",
         "events": [
           "opened"
@@ -661,6 +704,54 @@
           "opened",
           "merged"
         ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-18",
+        "time": "21:05",
+        "at": "2026-11-18T21:05:46+09:00",
+        "title": "Merge pull request #230 from kody-gsm/fix/student-page-layout",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/commit/0cae4708eeedd38b81c349d0efb1797e6c77e200",
+        "sha": "0cae4708eeed",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-18",
+        "time": "20:55",
+        "at": "2026-11-18T20:55:06+09:00",
+        "title": "Merge remote-tracking branch 'origin/develop' into fix/student-page-layout",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/commit/0582d8107be6743d5d712150bdbedaf28473d201",
+        "sha": "0582d8107be6",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-18",
+        "time": "20:54",
+        "at": "2026-11-18T20:54:59+09:00",
+        "title": "fix : Improve student tutorial and page layout",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/commit/b948941e24cdd6d67e073772f2c31c1f511525e0",
+        "sha": "b948941e24cd",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-18",
+        "time": "16:18",
+        "at": "2026-11-18T16:18:54+09:00",
+        "title": "Merge pull request #229 from kody-gsm/fix/notification-sse-reconnect",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/commit/a5572998a65c4c953b52870c49a250e022c37a9f",
+        "sha": "a5572998a65c",
+        "source": "commit-search"
       },
       {
         "kind": "pr",

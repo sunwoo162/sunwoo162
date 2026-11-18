@@ -1,26 +1,10 @@
-### Today · 2026-11-18 · 일부 수집
+### Today · 2026-11-19 · 일부 수집
 
-**9 Commits** · **9 PRs** · **0 Issues**
+**1 Commits** · **1 PRs** · **0 Issues**
 
 | 시간(KST) | 종류 | 작업 | 저장소 |
 |:--:|:--|:--|:--|
-| 21:06 | PR | [release : develop 변경을 main에 반영 (opened)](https://github.com/kody-gsm/Jobdom_Front/pull/231) | kody-gsm/Jobdom_Front |
-| 21:05 | PR | [fix : 학생 페이지 레이아웃과 튜토리얼 개선 (opened/merged)](https://github.com/kody-gsm/Jobdom_Front/pull/230) | kody-gsm/Jobdom_Front |
-| 15:52 | PR | [release: sync develop to main (opened/merged)](https://github.com/kody-gsm/Jobdom_Front/pull/228) | kody-gsm/Jobdom_Front |
-| 15:52 | Commit | [Merge pull request #228 from kody-gsm/release/develop-to-main-20261118](https://github.com/kody-gsm/Jobdom_Front/commit/7a1086c44d4e6e3921be62a544bf1503bf4fb0b6) | kody-gsm/Jobdom_Front |
-| 15:32 | PR | [fix: open consent details from signup checkboxes (opened/merged)](https://github.com/kody-gsm/Jobdom_Front/pull/227) | kody-gsm/Jobdom_Front |
-| 15:32 | Commit | [fix: open signup consent details from checkboxes (#227)](https://github.com/kody-gsm/Jobdom_Front/commit/55e5cfb78c0a40680e590f54de78a98da0ba3803) | kody-gsm/Jobdom_Front |
-| 14:21 | PR | [fix: align verification timer with backend and restore WEE periods (opened/merged)](https://github.com/kody-gsm/Jobdom_Front/pull/226) | kody-gsm/Jobdom_Front |
-| 14:21 | Commit | [fix: align verification timer and restore WEE periods (#226)](https://github.com/kody-gsm/Jobdom_Front/commit/82539f4f2395b556d223f8f3e57a5ebf61912566) | kody-gsm/Jobdom_Front |
-| 14:07 | Commit | [fix: hide late student consultation periods (#225)](https://github.com/kody-gsm/Jobdom_Front/commit/7e572076daff58ac684b379492f2b966ae8ef818) | kody-gsm/Jobdom_Front |
-| 14:07 | PR | [fix: hide 8th and 9th periods in student counseling requests (opened/merged)](https://github.com/kody-gsm/Jobdom_Front/pull/225) | kody-gsm/Jobdom_Front |
-| 13:44 | Commit | [feat: connect student account withdrawal to backend (#224)](https://github.com/kody-gsm/Jobdom_Front/commit/dca35d3ca3005f8d92c4b40d42d17474d43b06af) | kody-gsm/Jobdom_Front |
-| 13:44 | PR | [feat: connect student account withdrawal to backend (opened/merged)](https://github.com/kody-gsm/Jobdom_Front/pull/224) | kody-gsm/Jobdom_Front |
-| 11:01 | Commit | [Merge pull request #222 from kody-gsm/fix/student-profile-account-actions](https://github.com/kody-gsm/Jobdom_Front/commit/df0b2c4136385c920dcf5338bb1b3af739b04823) | kody-gsm/Jobdom_Front |
-| 11:01 | PR | [fix : 학생 프로필 하단에 로그아웃과 회원 탈퇴 배치 (opened/merged)](https://github.com/kody-gsm/Jobdom_Front/pull/222) | kody-gsm/Jobdom_Front |
-| 10:58 | Commit | [fix : show account actions at bottom of student profile](https://github.com/kody-gsm/Jobdom_Front/commit/4a7dce89e482bdeab70c12f914256cd3a6ba7670) | kody-gsm/Jobdom_Front |
-| 10:52 | Commit | [Merge pull request #221 from kody-gsm/feat/student-withdrawal-develop](https://github.com/kody-gsm/Jobdom_Front/commit/0d72ecc7902541273b3b589a3f498aa979735fc4) | kody-gsm/Jobdom_Front |
-| 10:52 | PR | [feat : 학생 프로필 회원 탈퇴 안내 화면 추가 (opened/merged)](https://github.com/kody-gsm/Jobdom_Front/pull/221) | kody-gsm/Jobdom_Front |
-| 08:27 | Commit | [feat : add student withdrawal placeholder UI](https://github.com/kody-gsm/Jobdom_Front/commit/ccc1fe0f5f3f7a503f311b24f56d7645db3b400b) | kody-gsm/Jobdom_Front |
+| 00:48 | Commit | [Merge pull request #231 from kody-gsm/develop](https://github.com/kody-gsm/Jobdom_Front/commit/99bd00dfb96e3997ba2319a213a51e555d9639c4) | kody-gsm/Jobdom_Front |
+| 00:48 | PR | [release : develop 변경을 main에 반영 (merged)](https://github.com/kody-gsm/Jobdom_Front/pull/231) | kody-gsm/Jobdom_Front |
 
 [View all activity →](https://sunwoo162.github.io/sunwoo162/)
