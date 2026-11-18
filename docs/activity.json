@@ -1,7 +1,7 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-11-18T01:56:58.408937+00:00",
+  "updated_at": "2026-11-18T04:18:51.065206+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
@@ -588,38 +588,64 @@
       "commit_scope": "GitHub commit-search index (not all unmerged branches)"
     },
     "2026-11-16": {
-      "state": "indexed",
-      "checked_at": "2026-11-18T01:56:30.494039+00:00",
+      "state": "limited",
+      "checked_at": "2026-11-18T04:18:10.148669+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
-      "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
+      "notes": [
+        "sunwoo162/iseol-bot 브랜치가 20개를 넘어 일부만 조회"
+      ],
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
+      "branch_scan": "public owned repositories, max 20 branches each"
     },
     "2026-11-17": {
-      "state": "indexed",
-      "checked_at": "2026-11-18T01:56:44.692286+00:00",
+      "state": "limited",
+      "checked_at": "2026-11-18T04:18:25.000251+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
-      "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
+      "notes": [
+        "sunwoo162/iseol-bot 브랜치가 20개를 넘어 일부만 조회"
+      ],
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
+      "branch_scan": "public owned repositories, max 20 branches each"
     },
     "2026-11-18": {
-      "state": "indexed",
-      "checked_at": "2026-11-18T01:56:58.408859+00:00",
+      "state": "limited",
+      "checked_at": "2026-11-18T04:18:39.570779+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
-      "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
+      "notes": [
+        "sunwoo162/iseol-bot 브랜치가 20개를 넘어 일부만 조회"
+      ],
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
+      "branch_scan": "public owned repositories, max 20 branches each"
     }
   },
   "days": {
     "2026-11-18": [
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-18",
+        "time": "11:01",
+        "at": "2026-11-18T11:01:58+09:00",
+        "title": "fix : 학생 프로필 하단에 로그아웃과 회원 탈퇴 배치",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/pull/222",
+        "number": 222,
+        "status": "merged",
+        "commits_url": "https://github.com/kody-gsm/Jobdom_Front/pull/222/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
       {
         "kind": "pr",
         "event": "merged",
