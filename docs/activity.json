@@ -1,7 +1,7 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-11-18T04:18:51.065206+00:00",
+  "updated_at": "2026-11-18T13:57:22.741112+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
@@ -589,7 +589,7 @@
     },
     "2026-11-16": {
       "state": "limited",
-      "checked_at": "2026-11-18T04:18:10.148669+00:00",
+      "checked_at": "2026-11-18T13:56:41.481269+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -602,7 +602,7 @@
     },
     "2026-11-17": {
       "state": "limited",
-      "checked_at": "2026-11-18T04:18:25.000251+00:00",
+      "checked_at": "2026-11-18T13:56:56.405087+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -615,7 +615,7 @@
     },
     "2026-11-18": {
       "state": "limited",
-      "checked_at": "2026-11-18T04:18:39.570779+00:00",
+      "checked_at": "2026-11-18T13:57:11.375172+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -629,6 +629,196 @@
   },
   "days": {
     "2026-11-18": [
+      {
+        "kind": "pr",
+        "event": "opened",
+        "date": "2026-11-18",
+        "time": "21:06",
+        "at": "2026-11-18T21:06:50+09:00",
+        "title": "release : develop 변경을 main에 반영",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/pull/231",
+        "number": 231,
+        "status": "open",
+        "commits_url": "https://github.com/kody-gsm/Jobdom_Front/pull/231/commits",
+        "events": [
+          "opened"
+        ]
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-18",
+        "time": "21:05",
+        "at": "2026-11-18T21:05:47+09:00",
+        "title": "fix : 학생 페이지 레이아웃과 튜토리얼 개선",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/pull/230",
+        "number": 230,
+        "status": "merged",
+        "commits_url": "https://github.com/kody-gsm/Jobdom_Front/pull/230/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-18",
+        "time": "15:52",
+        "at": "2026-11-18T15:52:07+09:00",
+        "title": "release: sync develop to main",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/pull/228",
+        "number": 228,
+        "status": "merged",
+        "commits_url": "https://github.com/kody-gsm/Jobdom_Front/pull/228/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-18",
+        "time": "15:52",
+        "at": "2026-11-18T15:52:06+09:00",
+        "title": "Merge pull request #228 from kody-gsm/release/develop-to-main-20261118",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/commit/7a1086c44d4e6e3921be62a544bf1503bf4fb0b6",
+        "sha": "7a1086c44d4e",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-18",
+        "time": "15:32",
+        "at": "2026-11-18T15:32:39+09:00",
+        "title": "fix: open consent details from signup checkboxes",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/pull/227",
+        "number": 227,
+        "status": "merged",
+        "commits_url": "https://github.com/kody-gsm/Jobdom_Front/pull/227/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-18",
+        "time": "15:32",
+        "at": "2026-11-18T15:32:38+09:00",
+        "title": "fix: open signup consent details from checkboxes (#227)",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/commit/55e5cfb78c0a40680e590f54de78a98da0ba3803",
+        "sha": "55e5cfb78c0a",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-18",
+        "time": "14:21",
+        "at": "2026-11-18T14:21:28+09:00",
+        "title": "fix: align verification timer with backend and restore WEE periods",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/pull/226",
+        "number": 226,
+        "status": "merged",
+        "commits_url": "https://github.com/kody-gsm/Jobdom_Front/pull/226/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-18",
+        "time": "14:21",
+        "at": "2026-11-18T14:21:27+09:00",
+        "title": "fix: align verification timer and restore WEE periods (#226)",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/commit/82539f4f2395b556d223f8f3e57a5ebf61912566",
+        "sha": "82539f4f2395",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-18",
+        "time": "14:07",
+        "at": "2026-11-18T14:07:16+09:00",
+        "title": "fix: hide late student consultation periods (#225)",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/commit/7e572076daff58ac684b379492f2b966ae8ef818",
+        "sha": "7e572076daff",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-18",
+        "time": "14:07",
+        "at": "2026-11-18T14:07:16+09:00",
+        "title": "fix: hide 8th and 9th periods in student counseling requests",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/pull/225",
+        "number": 225,
+        "status": "merged",
+        "commits_url": "https://github.com/kody-gsm/Jobdom_Front/pull/225/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-18",
+        "time": "13:44",
+        "at": "2026-11-18T13:44:55+09:00",
+        "title": "feat: connect student account withdrawal to backend (#224)",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/commit/dca35d3ca3005f8d92c4b40d42d17474d43b06af",
+        "sha": "dca35d3ca300",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-18",
+        "time": "13:44",
+        "at": "2026-11-18T13:44:55+09:00",
+        "title": "feat: connect student account withdrawal to backend",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/pull/224",
+        "number": 224,
+        "status": "merged",
+        "commits_url": "https://github.com/kody-gsm/Jobdom_Front/pull/224/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-18",
+        "time": "11:01",
+        "at": "2026-11-18T11:01:58+09:00",
+        "title": "Merge pull request #222 from kody-gsm/fix/student-profile-account-actions",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/commit/df0b2c4136385c920dcf5338bb1b3af739b04823",
+        "sha": "df0b2c413638",
+        "source": "commit-search"
+      },
       {
         "kind": "pr",
         "event": "merged",
@@ -647,6 +837,30 @@
         ]
       },
       {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-18",
+        "time": "10:58",
+        "at": "2026-11-18T10:58:42+09:00",
+        "title": "fix : show account actions at bottom of student profile",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/commit/4a7dce89e482bdeab70c12f914256cd3a6ba7670",
+        "sha": "4a7dce89e482",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-18",
+        "time": "10:52",
+        "at": "2026-11-18T10:52:41+09:00",
+        "title": "Merge pull request #221 from kody-gsm/feat/student-withdrawal-develop",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/commit/0d72ecc7902541273b3b589a3f498aa979735fc4",
+        "sha": "0d72ecc79025",
+        "source": "commit-search"
+      },
+      {
         "kind": "pr",
         "event": "merged",
         "date": "2026-11-18",
@@ -662,6 +876,18 @@
           "opened",
           "merged"
         ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-18",
+        "time": "08:27",
+        "at": "2026-11-18T08:27:23+09:00",
+        "title": "feat : add student withdrawal placeholder UI",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/commit/ccc1fe0f5f3f7a503f311b24f56d7645db3b400b",
+        "sha": "ccc1fe0f5f3f",
+        "source": "commit-search"
       }
     ],
     "2026-11-17": [
