@@ -1,7 +1,7 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-11-17T22:21:37.184339+00:00",
+  "updated_at": "2026-11-18T01:56:58.408937+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
@@ -409,7 +409,7 @@
     },
     "2026-10-29": {
       "state": "indexed",
-      "checked_at": "2026-11-17T02:37:25.485489+00:00",
+      "checked_at": "2026-11-18T01:52:06.407957+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -419,7 +419,7 @@
     },
     "2026-10-30": {
       "state": "indexed",
-      "checked_at": "2026-11-17T02:37:40.299951+00:00",
+      "checked_at": "2026-11-18T01:52:20.649774+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -429,7 +429,7 @@
     },
     "2026-10-31": {
       "state": "indexed",
-      "checked_at": "2026-11-17T02:37:54.726723+00:00",
+      "checked_at": "2026-11-18T01:52:34.356885+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -439,7 +439,7 @@
     },
     "2026-11-01": {
       "state": "indexed",
-      "checked_at": "2026-11-17T02:38:08.071326+00:00",
+      "checked_at": "2026-11-18T01:52:47.722284+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -449,7 +449,7 @@
     },
     "2026-11-02": {
       "state": "indexed",
-      "checked_at": "2026-11-17T02:38:21.938232+00:00",
+      "checked_at": "2026-11-18T01:53:01.121608+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -459,7 +459,7 @@
     },
     "2026-11-03": {
       "state": "indexed",
-      "checked_at": "2026-11-17T02:39:09.995975+00:00",
+      "checked_at": "2026-11-18T01:53:16.002661+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -469,7 +469,7 @@
     },
     "2026-11-04": {
       "state": "indexed",
-      "checked_at": "2026-11-17T02:39:24.485946+00:00",
+      "checked_at": "2026-11-18T01:53:30.089520+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -479,7 +479,7 @@
     },
     "2026-11-05": {
       "state": "indexed",
-      "checked_at": "2026-11-17T02:39:39.900406+00:00",
+      "checked_at": "2026-11-18T01:53:44.548689+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -489,7 +489,7 @@
     },
     "2026-11-06": {
       "state": "indexed",
-      "checked_at": "2026-11-17T02:39:54.745223+00:00",
+      "checked_at": "2026-11-18T01:53:58.564780+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -499,7 +499,7 @@
     },
     "2026-11-07": {
       "state": "indexed",
-      "checked_at": "2026-11-17T02:40:07.050780+00:00",
+      "checked_at": "2026-11-18T01:54:10.997550+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -509,7 +509,7 @@
     },
     "2026-11-08": {
       "state": "indexed",
-      "checked_at": "2026-11-17T02:40:20.194725+00:00",
+      "checked_at": "2026-11-18T01:54:23.894258+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -519,7 +519,7 @@
     },
     "2026-11-09": {
       "state": "indexed",
-      "checked_at": "2026-11-17T02:40:33.700946+00:00",
+      "checked_at": "2026-11-18T01:54:36.892166+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -529,7 +529,7 @@
     },
     "2026-11-10": {
       "state": "indexed",
-      "checked_at": "2026-11-17T02:40:48.346188+00:00",
+      "checked_at": "2026-11-18T01:54:50.930553+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -539,7 +539,7 @@
     },
     "2026-11-11": {
       "state": "indexed",
-      "checked_at": "2026-11-17T02:41:03.615089+00:00",
+      "checked_at": "2026-11-18T01:55:05.323713+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -549,7 +549,7 @@
     },
     "2026-11-12": {
       "state": "indexed",
-      "checked_at": "2026-11-17T02:41:19.142259+00:00",
+      "checked_at": "2026-11-18T01:55:20.543252+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -559,7 +559,7 @@
     },
     "2026-11-13": {
       "state": "indexed",
-      "checked_at": "2026-11-17T02:41:33.818969+00:00",
+      "checked_at": "2026-11-18T01:55:34.803889+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -569,7 +569,7 @@
     },
     "2026-11-14": {
       "state": "indexed",
-      "checked_at": "2026-11-17T02:41:48.623123+00:00",
+      "checked_at": "2026-11-18T01:55:49.173085+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -578,60 +578,66 @@
       "commit_scope": "GitHub commit-search index (not all unmerged branches)"
     },
     "2026-11-15": {
-      "state": "limited",
-      "checked_at": "2026-11-17T13:22:33.708565+00:00",
+      "state": "indexed",
+      "checked_at": "2026-11-18T01:56:14.910260+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
-      "notes": [
-        "sunwoo162/iseol-bot 브랜치가 20개를 넘어 일부만 조회"
-      ],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
-      "branch_scan": "public owned repositories, max 20 branches each"
+      "notes": [],
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
     },
     "2026-11-16": {
-      "state": "limited",
-      "checked_at": "2026-11-17T22:20:54.021019+00:00",
+      "state": "indexed",
+      "checked_at": "2026-11-18T01:56:30.494039+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
-      "notes": [
-        "sunwoo162/iseol-bot 브랜치가 20개를 넘어 일부만 조회"
-      ],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
-      "branch_scan": "public owned repositories, max 20 branches each"
+      "notes": [],
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
     },
     "2026-11-17": {
-      "state": "limited",
-      "checked_at": "2026-11-17T22:21:09.342963+00:00",
+      "state": "indexed",
+      "checked_at": "2026-11-18T01:56:44.692286+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
-      "notes": [
-        "sunwoo162/iseol-bot 브랜치가 20개를 넘어 일부만 조회"
-      ],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
-      "branch_scan": "public owned repositories, max 20 branches each"
+      "notes": [],
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
     },
     "2026-11-18": {
-      "state": "limited",
-      "checked_at": "2026-11-17T22:21:23.821760+00:00",
+      "state": "indexed",
+      "checked_at": "2026-11-18T01:56:58.408859+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
-      "notes": [
-        "sunwoo162/iseol-bot 브랜치가 20개를 넘어 일부만 조회"
-      ],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
-      "branch_scan": "public owned repositories, max 20 branches each"
+      "notes": [],
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
     }
   },
   "days": {
-    "2026-11-18": [],
+    "2026-11-18": [
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-18",
+        "time": "10:52",
+        "at": "2026-11-18T10:52:41+09:00",
+        "title": "feat : 학생 프로필 회원 탈퇴 안내 화면 추가",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/pull/221",
+        "number": 221,
+        "status": "merged",
+        "commits_url": "https://github.com/kody-gsm/Jobdom_Front/pull/221/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      }
+    ],
     "2026-11-17": [
       {
         "kind": "pr",
@@ -8036,11 +8042,11 @@
         "time": "09:45",
         "at": "2026-11-05T09:45:56+09:00",
         "title": "release : 면접 합격 보고 운영 반영",
-        "repo": "kody-gsm/Jobdom_Fromt",
-        "url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/220",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/pull/220",
         "number": 220,
         "status": "merged",
-        "commits_url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/220/commits",
+        "commits_url": "https://github.com/kody-gsm/Jobdom_Front/pull/220/commits",
         "events": [
           "opened",
           "merged"
@@ -8053,8 +8059,8 @@
         "time": "09:45",
         "at": "2026-11-05T09:45:55+09:00",
         "title": "Merge pull request #220 from kody-gsm/develop",
-        "repo": "kody-gsm/Jobdom_Fromt",
-        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/ea55246af98c134fadef9217dc33ced7d8883064",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/commit/ea55246af98c134fadef9217dc33ced7d8883064",
         "sha": "ea55246af98c",
         "source": "commit-search"
       },
@@ -8065,11 +8071,11 @@
         "time": "09:43",
         "at": "2026-11-05T09:43:51+09:00",
         "title": "feat : 학생 면접 합격 보고와 진로 선생님 합격 보고 목록 추가",
-        "repo": "kody-gsm/Jobdom_Fromt",
-        "url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/218",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/pull/218",
         "number": 218,
         "status": "merged",
-        "commits_url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/218/commits",
+        "commits_url": "https://github.com/kody-gsm/Jobdom_Front/pull/218/commits",
         "events": [
           "opened",
           "merged"
@@ -8082,8 +8088,8 @@
         "time": "09:43",
         "at": "2026-11-05T09:43:50+09:00",
         "title": "Merge pull request #218 from kody-gsm/feat/pass-report",
-        "repo": "kody-gsm/Jobdom_Fromt",
-        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/0e4a1d908e276db712533792962053f3d5d0c019",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/commit/0e4a1d908e276db712533792962053f3d5d0c019",
         "sha": "0e4a1d908e27",
         "source": "commit-search"
       },
@@ -8094,8 +8100,8 @@
         "time": "09:25",
         "at": "2026-11-05T09:25:21+09:00",
         "title": "Merge pull request #219 from kody-gsm/develop",
-        "repo": "kody-gsm/Jobdom_Fromt",
-        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/23971a546616046e7dcaac45a6af85a0f36a62f7",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/commit/23971a546616046e7dcaac45a6af85a0f36a62f7",
         "sha": "23971a546616",
         "source": "commit-search"
       },
@@ -8106,11 +8112,11 @@
         "time": "09:25",
         "at": "2026-11-05T09:25:21+09:00",
         "title": "release : 튜토리얼 강조 버튼 클릭 수정 운영 반영",
-        "repo": "kody-gsm/Jobdom_Fromt",
-        "url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/219",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/pull/219",
         "number": 219,
         "status": "merged",
-        "commits_url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/219/commits",
+        "commits_url": "https://github.com/kody-gsm/Jobdom_Front/pull/219/commits",
         "events": [
           "opened",
           "merged"
@@ -8123,8 +8129,8 @@
         "time": "00:53",
         "at": "2026-11-05T00:53:05+09:00",
         "title": "feat : match pass report to interview-only backend and add teacher list",
-        "repo": "kody-gsm/Jobdom_Fromt",
-        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/6bf6e33e258f299c0b6f42ed351051c0649e7f86",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/commit/6bf6e33e258f299c0b6f42ed351051c0649e7f86",
         "sha": "6bf6e33e258f",
         "source": "commit-search"
       }
@@ -8137,8 +8143,8 @@
         "time": "20:51",
         "at": "2026-11-04T20:51:34+09:00",
         "title": "feat : add student pass report page with company name submit",
-        "repo": "kody-gsm/Jobdom_Fromt",
-        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/948217c26322d3b0a3e59583fe328c6a57929a1d",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/commit/948217c26322d3b0a3e59583fe328c6a57929a1d",
         "sha": "948217c26322",
         "source": "commit-search"
       },
@@ -8149,8 +8155,8 @@
         "time": "20:39",
         "at": "2026-11-04T20:39:07+09:00",
         "title": "Merge pull request #217 from kody-gsm/fix/tutorial-cancel",
-        "repo": "kody-gsm/Jobdom_Fromt",
-        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/198679a8c0034299cc184f676e6e5f9a0cb6fe68",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/commit/198679a8c0034299cc184f676e6e5f9a0cb6fe68",
         "sha": "198679a8c003",
         "source": "commit-search"
       },
@@ -8161,11 +8167,11 @@
         "time": "20:39",
         "at": "2026-11-04T20:39:07+09:00",
         "title": "fix : 튜토리얼 모든 단계에서 강조된 버튼 누를 수 있게 수정",
-        "repo": "kody-gsm/Jobdom_Fromt",
-        "url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/217",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/pull/217",
         "number": 217,
         "status": "merged",
-        "commits_url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/217/commits",
+        "commits_url": "https://github.com/kody-gsm/Jobdom_Front/pull/217/commits",
         "events": [
           "opened",
           "merged"
@@ -8178,8 +8184,8 @@
         "time": "20:31",
         "at": "2026-11-04T20:31:49+09:00",
         "title": "fix : let every highlighted control work during tutorial steps",
-        "repo": "kody-gsm/Jobdom_Fromt",
-        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/1b012cbc788258ac1b39d6a83b6e4f5c2626797f",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/commit/1b012cbc788258ac1b39d6a83b6e4f5c2626797f",
         "sha": "1b012cbc7882",
         "source": "commit-search"
       },
@@ -8190,11 +8196,11 @@
         "time": "18:15",
         "at": "2026-11-04T18:15:17+09:00",
         "title": "release : 튜토리얼 직접 해보기와 서울 지역 운영 반영",
-        "repo": "kody-gsm/Jobdom_Fromt",
-        "url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/216",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/pull/216",
         "number": 216,
         "status": "merged",
-        "commits_url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/216/commits",
+        "commits_url": "https://github.com/kody-gsm/Jobdom_Front/pull/216/commits",
         "events": [
           "opened",
           "merged"
@@ -8207,8 +8213,8 @@
         "time": "18:15",
         "at": "2026-11-04T18:15:16+09:00",
         "title": "Merge pull request #216 from kody-gsm/develop",
-        "repo": "kody-gsm/Jobdom_Fromt",
-        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/dde1461386dd46b90ca924b4a02ecdd09491791a",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/commit/dde1461386dd46b90ca924b4a02ecdd09491791a",
         "sha": "dde1461386dd",
         "source": "commit-search"
       },
@@ -8219,8 +8225,8 @@
         "time": "18:11",
         "at": "2026-11-04T18:11:29+09:00",
         "title": "Merge pull request #215 from kody-gsm/feat/tutorial-hands-on",
-        "repo": "kody-gsm/Jobdom_Fromt",
-        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/364527c56d29935846019bf638af56632dc63703",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/commit/364527c56d29935846019bf638af56632dc63703",
         "sha": "364527c56d29",
         "source": "commit-search"
       },
@@ -8231,11 +8237,11 @@
         "time": "18:11",
         "at": "2026-11-04T18:11:29+09:00",
         "title": "feat : 튜토리얼에서 폼 만들기와 알림을 직접 해보기",
-        "repo": "kody-gsm/Jobdom_Fromt",
-        "url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/215",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/pull/215",
         "number": 215,
         "status": "merged",
-        "commits_url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/215/commits",
+        "commits_url": "https://github.com/kody-gsm/Jobdom_Front/pull/215/commits",
         "events": [
           "opened",
           "merged"
@@ -8248,8 +8254,8 @@
         "time": "18:10",
         "at": "2026-11-04T18:10:02+09:00",
         "title": "feat : let users try forms and notifications hands-on in the tutorial",
-        "repo": "kody-gsm/Jobdom_Fromt",
-        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/c10210b3d8a106f44725dbea80508456aa83c0f1",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/commit/c10210b3d8a106f44725dbea80508456aa83c0f1",
         "sha": "c10210b3d8a1",
         "source": "commit-search"
       },
@@ -8260,8 +8266,8 @@
         "time": "17:38",
         "at": "2026-11-04T17:38:00+09:00",
         "title": "Merge pull request #214 from kody-gsm/perf/vercel-seoul-region",
-        "repo": "kody-gsm/Jobdom_Fromt",
-        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/1599a00e13c2d5d927a10ce91e8dee3acee7e5ec",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/commit/1599a00e13c2d5d927a10ce91e8dee3acee7e5ec",
         "sha": "1599a00e13c2",
         "source": "commit-search"
       },
@@ -8272,11 +8278,11 @@
         "time": "17:38",
         "at": "2026-11-04T17:38:00+09:00",
         "title": "perf : Vercel 서버 함수 실행 지역을 서울로 지정",
-        "repo": "kody-gsm/Jobdom_Fromt",
-        "url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/214",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/pull/214",
         "number": 214,
         "status": "merged",
-        "commits_url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/214/commits",
+        "commits_url": "https://github.com/kody-gsm/Jobdom_Front/pull/214/commits",
         "events": [
           "opened",
           "merged"
@@ -8289,8 +8295,8 @@
         "time": "17:24",
         "at": "2026-11-04T17:24:37+09:00",
         "title": "perf : run Vercel functions in Seoul",
-        "repo": "kody-gsm/Jobdom_Fromt",
-        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/6c601e665cbcb4f147f1b1d974d2c53ed62ee3a8",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/commit/6c601e665cbcb4f147f1b1d974d2c53ed62ee3a8",
         "sha": "6c601e665cbc",
         "source": "commit-search"
       },
@@ -8301,8 +8307,8 @@
         "time": "17:21",
         "at": "2026-11-04T17:21:24+09:00",
         "title": "Merge pull request #213 from kody-gsm/fix/tutorial-practice-filter-data",
-        "repo": "kody-gsm/Jobdom_Fromt",
-        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/a4b5d36d5c9f035ff6edf4d3f26056062d7f671a",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/commit/a4b5d36d5c9f035ff6edf4d3f26056062d7f671a",
         "sha": "a4b5d36d5c9f",
         "source": "commit-search"
       },
@@ -8313,11 +8319,11 @@
         "time": "17:21",
         "at": "2026-11-04T17:21:24+09:00",
         "title": "fix : 튜토리얼 필터마다 연습 공고 추가",
-        "repo": "kody-gsm/Jobdom_Fromt",
-        "url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/213",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/pull/213",
         "number": 213,
         "status": "merged",
-        "commits_url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/213/commits",
+        "commits_url": "https://github.com/kody-gsm/Jobdom_Front/pull/213/commits",
         "events": [
           "opened",
           "merged"
@@ -8330,8 +8336,8 @@
         "time": "15:18",
         "at": "2026-11-04T15:18:24+09:00",
         "title": "fix : seed tutorial recruits for every filter",
-        "repo": "kody-gsm/Jobdom_Fromt",
-        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/f68e4c10c42d80c6ca6e7c91690575e14fcfe482",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/commit/f68e4c10c42d80c6ca6e7c91690575e14fcfe482",
         "sha": "f68e4c10c42d",
         "source": "commit-search"
       },
@@ -8342,8 +8348,8 @@
         "time": "13:02",
         "at": "2026-11-04T13:02:21+09:00",
         "title": "Merge pull request #212 from kody-gsm/develop",
-        "repo": "kody-gsm/Jobdom_Fromt",
-        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/5ddf5cd2383bc19ec2370466265a88b19ab9610e",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/commit/5ddf5cd2383bc19ec2370466265a88b19ab9610e",
         "sha": "5ddf5cd2383b",
         "source": "commit-search"
       },
@@ -8354,11 +8360,11 @@
         "time": "13:02",
         "at": "2026-11-04T13:02:21+09:00",
         "title": "release : frontend efficiency and tutorial overlay fixes",
-        "repo": "kody-gsm/Jobdom_Fromt",
-        "url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/212",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/pull/212",
         "number": 212,
         "status": "merged",
-        "commits_url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/212/commits",
+        "commits_url": "https://github.com/kody-gsm/Jobdom_Front/pull/212/commits",
         "events": [
           "opened",
           "merged"
@@ -8371,11 +8377,11 @@
         "time": "12:59",
         "at": "2026-11-04T12:59:52+09:00",
         "title": "fix : keep tutorial highlights clickable and stop auto page jumps",
-        "repo": "kody-gsm/Jobdom_Fromt",
-        "url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/211",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/pull/211",
         "number": 211,
         "status": "merged",
-        "commits_url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/211/commits",
+        "commits_url": "https://github.com/kody-gsm/Jobdom_Front/pull/211/commits",
         "events": [
           "opened",
           "merged"
@@ -8388,8 +8394,8 @@
         "time": "12:59",
         "at": "2026-11-04T12:59:51+09:00",
         "title": "Merge pull request #211 from kody-gsm/fix/tutorial-overlay-issues",
-        "repo": "kody-gsm/Jobdom_Fromt",
-        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/d9ad16b25f31884d8d7d88d2fcf3b2fd8e448ea8",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/commit/d9ad16b25f31884d8d7d88d2fcf3b2fd8e448ea8",
         "sha": "d9ad16b25f31",
         "source": "commit-search"
       },
@@ -8400,8 +8406,8 @@
         "time": "12:20",
         "at": "2026-11-04T12:20:57+09:00",
         "title": "fix : keep tutorial highlights clickable and stop auto page jumps",
-        "repo": "kody-gsm/Jobdom_Fromt",
-        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/d217adcf78df52c0442a2b91d806610fc5ea6e8d",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/commit/d217adcf78df52c0442a2b91d806610fc5ea6e8d",
         "sha": "d217adcf78df",
         "source": "commit-search"
       },
@@ -8412,11 +8418,11 @@
         "time": "12:03",
         "at": "2026-11-04T12:03:58+09:00",
         "title": "perf : cut wasted calls and renders across the frontend",
-        "repo": "kody-gsm/Jobdom_Fromt",
-        "url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/210",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/pull/210",
         "number": 210,
         "status": "merged",
-        "commits_url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/210/commits",
+        "commits_url": "https://github.com/kody-gsm/Jobdom_Front/pull/210/commits",
         "events": [
           "opened",
           "merged"
@@ -8429,8 +8435,8 @@
         "time": "12:03",
         "at": "2026-11-04T12:03:57+09:00",
         "title": "Merge pull request #210 from kody-gsm/perf/frontend-backend-efficiency",
-        "repo": "kody-gsm/Jobdom_Fromt",
-        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/87a1aebefebcb29758754ac193037de155c03928",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/commit/87a1aebefebcb29758754ac193037de155c03928",
         "sha": "87a1aebefebc",
         "source": "commit-search"
       },
@@ -8441,8 +8447,8 @@
         "time": "00:55",
         "at": "2026-11-04T00:55:41+09:00",
         "title": "fix : trim student screen renders and recruit detail waterfall",
-        "repo": "kody-gsm/Jobdom_Fromt",
-        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/81d863286a7f1ef3475eb250df0ac06f69c34b2c",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/commit/81d863286a7f1ef3475eb250df0ac06f69c34b2c",
         "sha": "81d863286a7f",
         "source": "commit-search"
       },
@@ -8453,8 +8459,8 @@
         "time": "00:55",
         "at": "2026-11-04T00:55:41+09:00",
         "title": "fix : update teacher screens locally instead of refetching after each change",
-        "repo": "kody-gsm/Jobdom_Fromt",
-        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/cb118d321043e3861da348ea7a89cfd8f65920dd",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/commit/cb118d321043e3861da348ea7a89cfd8f65920dd",
         "sha": "cb118d321043",
         "source": "commit-search"
       },
@@ -8465,8 +8471,8 @@
         "time": "00:55",
         "at": "2026-11-04T00:55:40+09:00",
         "title": "fix : cut wasted auth, notification and font requests across the app",
-        "repo": "kody-gsm/Jobdom_Fromt",
-        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/750b9f4bc0ee066fe3194d4113056f20af00fe6c",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/commit/750b9f4bc0ee066fe3194d4113056f20af00fe6c",
         "sha": "750b9f4bc0ee",
         "source": "commit-search"
       }
@@ -8479,8 +8485,8 @@
         "time": "20:16",
         "at": "2026-11-03T20:16:00+09:00",
         "title": "chore : trigger production deployment",
-        "repo": "kody-gsm/Jobdom_Fromt",
-        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/bbc05a060027e42996ccee973ae04cfc7f52f5d3",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/commit/bbc05a060027e42996ccee973ae04cfc7f52f5d3",
         "sha": "bbc05a060027",
         "source": "commit-search"
       },
@@ -8491,11 +8497,11 @@
         "time": "19:50",
         "at": "2026-11-03T19:50:13+09:00",
         "title": "release : 연습용 튜토리얼과 렌더링 효율 개선 운영 반영",
-        "repo": "kody-gsm/Jobdom_Fromt",
-        "url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/209",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/pull/209",
         "number": 209,
         "status": "merged",
-        "commits_url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/209/commits",
+        "commits_url": "https://github.com/kody-gsm/Jobdom_Front/pull/209/commits",
         "events": [
           "opened",
           "merged"
@@ -8508,8 +8514,8 @@
         "time": "19:50",
         "at": "2026-11-03T19:50:12+09:00",
         "title": "Merge pull request #209 from kody-gsm/develop",
-        "repo": "kody-gsm/Jobdom_Fromt",
-        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/602b964fdf68036042ed474f5c299e13212d6772",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/commit/602b964fdf68036042ed474f5c299e13212d6772",
         "sha": "602b964fdf68",
         "source": "commit-search"
       },
@@ -8520,8 +8526,8 @@
         "time": "19:46",
         "at": "2026-11-03T19:46:49+09:00",
         "title": "Merge pull request #208 from kody-gsm/feat/tutorial-practice-sandbox",
-        "repo": "kody-gsm/Jobdom_Fromt",
-        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/b07ab1c64b05dbf941faeab462199026edac7d7e",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/commit/b07ab1c64b05dbf941faeab462199026edac7d7e",
         "sha": "b07ab1c64b05",
         "source": "commit-search"
       },
@@ -8532,11 +8538,11 @@
         "time": "19:46",
         "at": "2026-11-03T19:46:49+09:00",
         "title": "feat : 연습용 데이터로 직접 해보는 튜토리얼과 렌더링 효율 개선",
-        "repo": "kody-gsm/Jobdom_Fromt",
-        "url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/208",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/pull/208",
         "number": 208,
         "status": "merged",
-        "commits_url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/208/commits",
+        "commits_url": "https://github.com/kody-gsm/Jobdom_Front/pull/208/commits",
         "events": [
           "opened",
           "merged"
@@ -8549,8 +8555,8 @@
         "time": "17:40",
         "at": "2026-11-03T17:40:18+09:00",
         "title": "fix : pause unread notification polling on hidden tabs",
-        "repo": "kody-gsm/Jobdom_Fromt",
-        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/6c7939e62b12af518bc862b9a98622d1baa30028",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/commit/6c7939e62b12af518bc862b9a98622d1baa30028",
         "sha": "6c7939e62b12",
         "source": "commit-search"
       },
@@ -8561,8 +8567,8 @@
         "time": "17:40",
         "at": "2026-11-03T17:40:17+09:00",
         "title": "fix : load teacher recruit and submission sheets faster and fresher",
-        "repo": "kody-gsm/Jobdom_Fromt",
-        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/5484f5970e9cc796a5365931935cad9e66b64ea4",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/commit/5484f5970e9cc796a5365931935cad9e66b64ea4",
         "sha": "5484f5970e9c",
         "source": "commit-search"
       },
@@ -8573,8 +8579,8 @@
         "time": "17:40",
         "at": "2026-11-03T17:40:17+09:00",
         "title": "fix : stop teacher schedule from re-rendering and refetching needlessly",
-        "repo": "kody-gsm/Jobdom_Fromt",
-        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/0fb5d59c5331f40833e88b9ae238b219003717b4",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/commit/0fb5d59c5331f40833e88b9ae238b219003717b4",
         "sha": "0fb5d59c5331",
         "source": "commit-search"
       },
@@ -8585,8 +8591,8 @@
         "time": "17:28",
         "at": "2026-11-03T17:28:55+09:00",
         "title": "feat : let users practice the role tutorial on real screens with sandbox data",
-        "repo": "kody-gsm/Jobdom_Fromt",
-        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/0a53affa12024cbfaf18d578b9210d6c13b49b3e",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/commit/0a53affa12024cbfaf18d578b9210d6c13b49b3e",
         "sha": "0a53affa1202",
         "source": "commit-search"
       },
@@ -8597,11 +8603,11 @@
         "time": "14:51",
         "at": "2026-11-03T14:51:51+09:00",
         "title": "release : 튜토리얼 강조 끊김과 영역 묶음 개선 반영",
-        "repo": "kody-gsm/Jobdom_Fromt",
-        "url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/207",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/pull/207",
         "number": 207,
         "status": "merged",
-        "commits_url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/207/commits",
+        "commits_url": "https://github.com/kody-gsm/Jobdom_Front/pull/207/commits",
         "events": [
           "opened",
           "merged"
@@ -8614,8 +8620,8 @@
         "time": "14:51",
         "at": "2026-11-03T14:51:50+09:00",
         "title": "Merge pull request #207 from kody-gsm/develop",
-        "repo": "kody-gsm/Jobdom_Fromt",
-        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/139c15083f5a6fc20c89c0498890b596382f76a7",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/commit/139c15083f5a6fc20c89c0498890b596382f76a7",
         "sha": "139c15083f5a",
         "source": "commit-search"
       },
@@ -8626,8 +8632,8 @@
         "time": "14:39",
         "at": "2026-11-03T14:39:45+09:00",
         "title": "Merge pull request #206 from kody-gsm/fix/tutorial-spotlight-smooth",
-        "repo": "kody-gsm/Jobdom_Fromt",
-        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/02e5ca240ba24126454f818876305776102c1403",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/commit/02e5ca240ba24126454f818876305776102c1403",
         "sha": "02e5ca240ba2",
         "source": "commit-search"
       },
@@ -8638,11 +8644,11 @@
         "time": "14:39",
         "at": "2026-11-03T14:39:45+09:00",
         "title": "fix : 튜토리얼 강조 끊김과 영역 묶음 개선",
-        "repo": "kody-gsm/Jobdom_Fromt",
-        "url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/206",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/pull/206",
         "number": 206,
         "status": "merged",
-        "commits_url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/206/commits",
+        "commits_url": "https://github.com/kody-gsm/Jobdom_Front/pull/206/commits",
         "events": [
           "opened",
           "merged"
@@ -8655,8 +8661,8 @@
         "time": "14:35",
         "at": "2026-11-03T14:35:46+09:00",
         "title": "fix : track tutorial spotlight per frame without re-rendering",
-        "repo": "kody-gsm/Jobdom_Fromt",
-        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/dd0412d423013e113c28590803820cede4f32ee9",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/commit/dd0412d423013e113c28590803820cede4f32ee9",
         "sha": "dd0412d42301",
         "source": "commit-search"
       },
@@ -8684,11 +8690,11 @@
         "time": "14:13",
         "at": "2026-11-03T14:13:45+09:00",
         "title": "release : 튜토리얼 실제 화면 안내 개편 및 회원가입 인증코드 안내 반영",
-        "repo": "kody-gsm/Jobdom_Fromt",
-        "url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/205",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/pull/205",
         "number": 205,
         "status": "merged",
-        "commits_url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/205/commits",
+        "commits_url": "https://github.com/kody-gsm/Jobdom_Front/pull/205/commits",
         "events": [
           "opened",
           "merged"
@@ -8701,8 +8707,8 @@
         "time": "14:13",
         "at": "2026-11-03T14:13:44+09:00",
         "title": "Merge pull request #205 from kody-gsm/develop",
-        "repo": "kody-gsm/Jobdom_Fromt",
-        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/7ae6c5baea16a0f3ed540c1245872ec061044e16",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/commit/7ae6c5baea16a0f3ed540c1245872ec061044e16",
         "sha": "7ae6c5baea16",
         "source": "commit-search"
       },
@@ -8713,8 +8719,8 @@
         "time": "14:09",
         "at": "2026-11-03T14:09:32+09:00",
         "title": "Merge pull request #204 from kody-gsm/feat/tutorial-real-screen-tour",
-        "repo": "kody-gsm/Jobdom_Fromt",
-        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/7ccea427d78faa829b25a3133e2382733d7b117c",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/commit/7ccea427d78faa829b25a3133e2382733d7b117c",
         "sha": "7ccea427d78f",
         "source": "commit-search"
       },
@@ -8725,11 +8731,11 @@
         "time": "14:09",
         "at": "2026-11-03T14:09:32+09:00",
         "title": "feat : 튜토리얼을 실제 화면 위 안내로 개편하고 프로필 다시 보기 추가",
-        "repo": "kody-gsm/Jobdom_Fromt",
-        "url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/204",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/pull/204",
         "number": 204,
         "status": "merged",
-        "commits_url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/204/commits",
+        "commits_url": "https://github.com/kody-gsm/Jobdom_Front/pull/204/commits",
         "events": [
           "opened",
           "merged"
@@ -8742,8 +8748,8 @@
         "time": "13:08",
         "at": "2026-11-03T13:08:15+09:00",
         "title": "feat : run role tutorial on the real screens with profile replay",
-        "repo": "kody-gsm/Jobdom_Fromt",
-        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/5bad24073a3e13159466e0bbfdebf0a82b30d2f4",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/commit/5bad24073a3e13159466e0bbfdebf0a82b30d2f4",
         "sha": "5bad24073a3e",
         "source": "commit-search"
       },
@@ -8754,8 +8760,8 @@
         "time": "13:08",
         "at": "2026-11-03T13:08:15+09:00",
         "title": "fix : show teacher header on wee teacher profile",
-        "repo": "kody-gsm/Jobdom_Fromt",
-        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/2d2eee13ceceef669d7621b7c90c483fb38954e6",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/commit/2d2eee13ceceef669d7621b7c90c483fb38954e6",
         "sha": "2d2eee13cece",
         "source": "commit-search"
       },
@@ -8766,11 +8772,11 @@
         "time": "12:50",
         "at": "2026-11-03T12:50:49+09:00",
         "title": "fix : 회원가입 인증코드 발송 안내 추가 및 학교 계정 이메일 조건 완화",
-        "repo": "kody-gsm/Jobdom_Fromt",
-        "url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/203",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/pull/203",
         "number": 203,
         "status": "merged",
-        "commits_url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/203/commits",
+        "commits_url": "https://github.com/kody-gsm/Jobdom_Front/pull/203/commits",
         "events": [
           "opened",
           "merged"
@@ -8783,8 +8789,8 @@
         "time": "12:50",
         "at": "2026-11-03T12:50:48+09:00",
         "title": "Merge pull request #203 from kody-gsm/fix/signup-email-code-notice",
-        "repo": "kody-gsm/Jobdom_Fromt",
-        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/416d48c4bad17fabc232f9a2c5d9ae2b512f3242",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/commit/416d48c4bad17fabc232f9a2c5d9ae2b512f3242",
         "sha": "416d48c4bad1",
         "source": "commit-search"
       },
@@ -8795,8 +8801,8 @@
         "time": "12:48",
         "at": "2026-11-03T12:48:24+09:00",
         "title": "fix : show verification code send result on signup",
-        "repo": "kody-gsm/Jobdom_Fromt",
-        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/9b33ce8cbb417884b1cf1ddabbd124f1554345f9",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/commit/9b33ce8cbb417884b1cf1ddabbd124f1554345f9",
         "sha": "9b33ce8cbb41",
         "source": "commit-search"
       },
@@ -8807,8 +8813,8 @@
         "time": "12:48",
         "at": "2026-11-03T12:48:24+09:00",
         "title": "fix : accept any gsm.hs.kr school account on signup",
-        "repo": "kody-gsm/Jobdom_Fromt",
-        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/e97b899efcd01ddaf573bd7baaf3e2b61a0b53fd",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/commit/e97b899efcd01ddaf573bd7baaf3e2b61a0b53fd",
         "sha": "e97b899efcd0",
         "source": "commit-search"
       },
@@ -9708,8 +9714,8 @@
         "time": "09:46",
         "at": "2026-10-30T09:46:12+09:00",
         "title": "Merge pull request #202 from kody-gsm/fix/student-flow-efficiency",
-        "repo": "kody-gsm/Jobdom_Fromt",
-        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/15dd29e7e7ebac9efec8f69693497099d8e48836",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/commit/15dd29e7e7ebac9efec8f69693497099d8e48836",
         "sha": "15dd29e7e7eb",
         "source": "commit-search"
       },
@@ -9720,11 +9726,11 @@
         "time": "09:46",
         "at": "2026-10-30T09:46:12+09:00",
         "title": "fix : 학생 페이지 상태 오류·불필요한 요청 개선",
-        "repo": "kody-gsm/Jobdom_Fromt",
-        "url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/202",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/pull/202",
         "number": 202,
         "status": "merged",
-        "commits_url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/202/commits",
+        "commits_url": "https://github.com/kody-gsm/Jobdom_Front/pull/202/commits",
         "events": [
           "opened",
           "merged"
@@ -9737,8 +9743,8 @@
         "time": "08:40",
         "at": "2026-10-30T08:40:19+09:00",
         "title": "fix : refresh student reservation views with current server data",
-        "repo": "kody-gsm/Jobdom_Fromt",
-        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/9c987f1de9b3a41778c3241699f646fadd23b8f0",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/commit/9c987f1de9b3a41778c3241699f646fadd23b8f0",
         "sha": "9c987f1de9b3",
         "source": "commit-search"
       },
@@ -9749,8 +9755,8 @@
         "time": "08:40",
         "at": "2026-10-30T08:40:19+09:00",
         "title": "fix : reconcile notification reads across token refresh",
-        "repo": "kody-gsm/Jobdom_Fromt",
-        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/b5c2a74e264af27c7b5bcb0e5414a7d1f9e150fd",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/commit/b5c2a74e264af27c7b5bcb0e5414a7d1f9e150fd",
         "sha": "b5c2a74e264a",
         "source": "commit-search"
       },
@@ -9761,8 +9767,8 @@
         "time": "08:40",
         "at": "2026-10-30T08:40:18+09:00",
         "title": "fix : coordinate login restoration with background token refresh",
-        "repo": "kody-gsm/Jobdom_Fromt",
-        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/74f2ff72f65114ce389f5c778af857fd62832beb",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/commit/74f2ff72f65114ce389f5c778af857fd62832beb",
         "sha": "74f2ff72f651",
         "source": "commit-search"
       },
@@ -9773,8 +9779,8 @@
         "time": "08:40",
         "at": "2026-10-30T08:40:17+09:00",
         "title": "fix : save consultation edits during unfinished draft restoration",
-        "repo": "kody-gsm/Jobdom_Fromt",
-        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/54c9c7d52972aacd5cfe449dd09aded36d5cf71a",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/commit/54c9c7d52972aacd5cfe449dd09aded36d5cf71a",
         "sha": "54c9c7d52972",
         "source": "commit-search"
       },
@@ -9785,8 +9791,8 @@
         "time": "08:26",
         "at": "2026-10-30T08:26:07+09:00",
         "title": "fix : coalesce notification refreshes and isolate subscriptions",
-        "repo": "kody-gsm/Jobdom_Fromt",
-        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/92611b941ab3af98e151a522a45dca18a89d0dd1",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/commit/92611b941ab3af98e151a522a45dca18a89d0dd1",
         "sha": "92611b941ab3",
         "source": "commit-search"
       },
@@ -9797,8 +9803,8 @@
         "time": "08:26",
         "at": "2026-10-30T08:26:06+09:00",
         "title": "fix : streamline student form reads and refresh deadline states",
-        "repo": "kody-gsm/Jobdom_Fromt",
-        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/4dbdcc2b58f623a2d3408f3a1b3dffdf7454f176",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/commit/4dbdcc2b58f623a2d3408f3a1b3dffdf7454f176",
         "sha": "4dbdcc2b58f6",
         "source": "commit-search"
       },
@@ -9809,8 +9815,8 @@
         "time": "08:26",
         "at": "2026-10-30T08:26:00+09:00",
         "title": "fix : preserve consultation drafts and prevent repeated submissions",
-        "repo": "kody-gsm/Jobdom_Fromt",
-        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/1499545f3d57dbb14b6d08f38259016b80d3e680",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/commit/1499545f3d57dbb14b6d08f38259016b80d3e680",
         "sha": "1499545f3d57",
         "source": "commit-search"
       },
@@ -9821,8 +9827,8 @@
         "time": "08:25",
         "at": "2026-10-30T08:25:59+09:00",
         "title": "fix : preserve session ownership and authentication expiry",
-        "repo": "kody-gsm/Jobdom_Fromt",
-        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/a473acd450f4a6932d749654fe3ac43d798373eb",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/commit/a473acd450f4a6932d749654fe3ac43d798373eb",
         "sha": "a473acd450f4",
         "source": "commit-search"
       },
@@ -9833,8 +9839,8 @@
         "time": "08:25",
         "at": "2026-10-30T08:25:52+09:00",
         "title": "fix : bound authenticated requests and scope cache invalidation",
-        "repo": "kody-gsm/Jobdom_Fromt",
-        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/c0d05ed46aafe3d82f63633a1d7a8ae4fbcc3434",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/commit/c0d05ed46aafe3d82f63633a1d7a8ae4fbcc3434",
         "sha": "c0d05ed46aaf",
         "source": "commit-search"
       }
@@ -10044,11 +10050,11 @@
         "time": "08:48",
         "at": "2026-10-29T08:48:12+09:00",
         "title": "fix : 비밀번호 재설정 프론트 학교 이메일 제한 제거",
-        "repo": "kody-gsm/Jobdom_Fromt",
-        "url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/199",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/pull/199",
         "number": 199,
         "status": "merged",
-        "commits_url": "https://github.com/kody-gsm/Jobdom_Fromt/pull/199/commits",
+        "commits_url": "https://github.com/kody-gsm/Jobdom_Front/pull/199/commits",
         "events": [
           "opened",
           "merged"
@@ -10061,8 +10067,8 @@
         "time": "08:48",
         "at": "2026-10-29T08:48:11+09:00",
         "title": "Merge pull request #199 from kody-gsm/fix/password-reset-email",
-        "repo": "kody-gsm/Jobdom_Fromt",
-        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/64c04eb2d33e37beb12ebd90e34de3be1a7abad8",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/commit/64c04eb2d33e37beb12ebd90e34de3be1a7abad8",
         "sha": "64c04eb2d33e",
         "source": "commit-search"
       },
@@ -10073,8 +10079,8 @@
         "time": "08:43",
         "at": "2026-10-29T08:43:14+09:00",
         "title": "fix : allow general emails for password reset",
-        "repo": "kody-gsm/Jobdom_Fromt",
-        "url": "https://github.com/kody-gsm/Jobdom_Fromt/commit/066d174502e73085d8973cac1b8cb2e84d3c81f2",
+        "repo": "kody-gsm/Jobdom_Front",
+        "url": "https://github.com/kody-gsm/Jobdom_Front/commit/066d174502e73085d8973cac1b8cb2e84d3c81f2",
         "sha": "066d174502e7",
         "source": "commit-search"
       }
