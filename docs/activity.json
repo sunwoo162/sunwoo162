@@ -1,7 +1,7 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-11-19T03:25:21.941498+00:00",
+  "updated_at": "2026-11-19T13:02:22.044660+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
@@ -599,7 +599,7 @@
     },
     "2026-11-17": {
       "state": "limited",
-      "checked_at": "2026-11-19T03:24:42.490709+00:00",
+      "checked_at": "2026-11-19T13:01:41.029482+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -612,7 +612,7 @@
     },
     "2026-11-18": {
       "state": "limited",
-      "checked_at": "2026-11-19T03:24:56.994955+00:00",
+      "checked_at": "2026-11-19T13:01:56.447945+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -625,7 +625,7 @@
     },
     "2026-11-19": {
       "state": "limited",
-      "checked_at": "2026-11-19T03:25:10.989834+00:00",
+      "checked_at": "2026-11-19T13:02:10.957241+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -639,6 +639,151 @@
   },
   "days": {
     "2026-11-19": [
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-19",
+        "time": "18:13",
+        "at": "2026-11-19T18:13:45+09:00",
+        "title": "feat(status): 학생에게 틀린 테스트의 정답·출력 비교를 숨기고 결과 종류만 구분해 표시",
+        "repo": "gsmoj/gsmoj",
+        "url": "https://github.com/gsmoj/gsmoj/pull/107",
+        "number": 107,
+        "status": "merged",
+        "commits_url": "https://github.com/gsmoj/gsmoj/pull/107/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-19",
+        "time": "18:13",
+        "at": "2026-11-19T18:13:44+09:00",
+        "title": "Merge pull request #107 from gsmoj/feat/hide-wrong-answer-diff",
+        "repo": "gsmoj/gsmoj",
+        "url": "https://github.com/gsmoj/gsmoj/commit/0f4fe04f6dca0bd301eaef00a7386743bf38a43b",
+        "sha": "0f4fe04f6dca",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-19",
+        "time": "18:04",
+        "at": "2026-11-19T18:04:01+09:00",
+        "title": "style(template): 코스 목록을 한 줄씩 나열하고 설명은 한 줄로 줄여 표시",
+        "repo": "gsmoj/gsmoj",
+        "url": "https://github.com/gsmoj/gsmoj/pull/106",
+        "number": 106,
+        "status": "merged",
+        "commits_url": "https://github.com/gsmoj/gsmoj/pull/106/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-19",
+        "time": "18:04",
+        "at": "2026-11-19T18:04:00+09:00",
+        "title": "Merge pull request #106 from gsmoj/style/course-list-rows",
+        "repo": "gsmoj/gsmoj",
+        "url": "https://github.com/gsmoj/gsmoj/commit/15ebbefa334546fe448aa13b6dd88bf2294f94de",
+        "sha": "15ebbefa3345",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-19",
+        "time": "17:42",
+        "at": "2026-11-19T17:42:43+09:00",
+        "title": "Merge pull request #105 from gsmoj/translate/workbook-rename-course",
+        "repo": "gsmoj/gsmoj",
+        "url": "https://github.com/gsmoj/gsmoj/commit/48705277668210494ebbac516cf0fd9c69968529",
+        "sha": "487052776682",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-19",
+        "time": "17:42",
+        "at": "2026-11-19T17:42:43+09:00",
+        "title": "translate: 문제집 기능의 화면 이름을 \"코스\"로 변경",
+        "repo": "gsmoj/gsmoj",
+        "url": "https://github.com/gsmoj/gsmoj/pull/105",
+        "number": 105,
+        "status": "merged",
+        "commits_url": "https://github.com/gsmoj/gsmoj/pull/105/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-19",
+        "time": "17:20",
+        "at": "2026-11-19T17:20:21+09:00",
+        "title": "feat(admin): 문제집 편집에서 문제를 체크해 넣고 끌어서 순서를 바꾸도록 변경",
+        "repo": "gsmoj/gsmoj",
+        "url": "https://github.com/gsmoj/gsmoj/pull/104",
+        "number": 104,
+        "status": "merged",
+        "commits_url": "https://github.com/gsmoj/gsmoj/pull/104/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-19",
+        "time": "17:20",
+        "at": "2026-11-19T17:20:20+09:00",
+        "title": "Merge pull request #104 from gsmoj/feat/workbook-picker",
+        "repo": "gsmoj/gsmoj",
+        "url": "https://github.com/gsmoj/gsmoj/commit/4234ad0efdf287d867e2dcc37cfc32c2be7ac182",
+        "sha": "4234ad0efdf2",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-19",
+        "time": "17:01",
+        "at": "2026-11-19T17:01:15+09:00",
+        "title": "Merge pull request #103 from gsmoj/feat/problem-workbook",
+        "repo": "gsmoj/gsmoj",
+        "url": "https://github.com/gsmoj/gsmoj/commit/008348c03d975e151c879cc297def71f3df92da9",
+        "sha": "008348c03d97",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-19",
+        "time": "17:01",
+        "at": "2026-11-19T17:01:15+09:00",
+        "title": "feat: 관리자가 순서를 정해 묶는 문제집 기능 추가",
+        "repo": "gsmoj/gsmoj",
+        "url": "https://github.com/gsmoj/gsmoj/pull/103",
+        "number": 103,
+        "status": "merged",
+        "commits_url": "https://github.com/gsmoj/gsmoj/pull/103/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
       {
         "kind": "commit",
         "event": "committed",
