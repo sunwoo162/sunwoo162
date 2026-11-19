@@ -1,7 +1,7 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-11-19T01:33:28.910467+00:00",
+  "updated_at": "2026-11-19T03:25:21.941498+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
@@ -598,34 +598,43 @@
       "commit_scope": "GitHub commit-search index (not all unmerged branches)"
     },
     "2026-11-17": {
-      "state": "indexed",
-      "checked_at": "2026-11-19T01:33:01.900306+00:00",
+      "state": "limited",
+      "checked_at": "2026-11-19T03:24:42.490709+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
-      "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
+      "notes": [
+        "sunwoo162/iseol-bot 브랜치가 20개를 넘어 일부만 조회"
+      ],
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
+      "branch_scan": "public owned repositories, max 20 branches each"
     },
     "2026-11-18": {
-      "state": "indexed",
-      "checked_at": "2026-11-19T01:33:15.797490+00:00",
+      "state": "limited",
+      "checked_at": "2026-11-19T03:24:56.994955+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
-      "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
+      "notes": [
+        "sunwoo162/iseol-bot 브랜치가 20개를 넘어 일부만 조회"
+      ],
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
+      "branch_scan": "public owned repositories, max 20 branches each"
     },
     "2026-11-19": {
-      "state": "indexed",
-      "checked_at": "2026-11-19T01:33:28.910391+00:00",
+      "state": "limited",
+      "checked_at": "2026-11-19T03:25:10.989834+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
-      "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
+      "notes": [
+        "sunwoo162/iseol-bot 브랜치가 20개를 넘어 일부만 조회"
+      ],
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
+      "branch_scan": "public owned repositories, max 20 branches each"
     }
   },
   "days": {
