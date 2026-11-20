@@ -1,7 +1,7 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-11-20T11:41:03.241209+00:00",
+  "updated_at": "2026-11-20T20:14:24.275527+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
@@ -620,7 +620,7 @@
     },
     "2026-11-19": {
       "state": "indexed",
-      "checked_at": "2026-11-20T11:40:47.943651+00:00",
+      "checked_at": "2026-11-20T20:13:56.787889+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -630,20 +630,30 @@
       "branch_scan": "public owned repositories, max 20 branches each"
     },
     "2026-11-20": {
-      "state": "limited",
-      "checked_at": "2026-11-20T11:41:01.341285+00:00",
+      "state": "indexed",
+      "checked_at": "2026-11-20T20:14:10.334930+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
-      "notes": [
-        "커밋 (검색 결과 제한/불완전)"
+      "notes": [],
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
+      "branch_scan": "public owned repositories, max 20 branches each"
+    },
+    "2026-11-21": {
+      "state": "indexed",
+      "checked_at": "2026-11-20T20:14:22.622229+00:00",
+      "sources": [
+        "github-commit-search",
+        "github-issue-search"
       ],
+      "notes": [],
       "commit_scope": "GitHub commit-search index (not all unmerged branches)",
       "branch_scan": "public owned repositories, max 20 branches each"
     }
   },
   "days": {
+    "2026-11-21": [],
     "2026-11-20": [],
     "2026-11-19": [
       {
