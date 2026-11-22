@@ -1,7 +1,7 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-11-22T00:00:16.644020+00:00",
+  "updated_at": "2026-11-22T03:13:11.827156+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
@@ -628,39 +628,84 @@
       "commit_scope": "GitHub commit-search index (not all unmerged branches)"
     },
     "2026-11-20": {
-      "state": "indexed",
-      "checked_at": "2026-11-21T23:59:51.271767+00:00",
+      "state": "limited",
+      "checked_at": "2026-11-22T03:12:37.762842+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
-      "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
+      "notes": [
+        "sunwoo162/iseol-bot 브랜치가 20개를 넘어 일부만 조회"
+      ],
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
+      "branch_scan": "public owned repositories, max 20 branches each"
     },
     "2026-11-21": {
-      "state": "indexed",
-      "checked_at": "2026-11-22T00:00:03.790893+00:00",
+      "state": "limited",
+      "checked_at": "2026-11-22T03:12:50.029453+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
-      "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
+      "notes": [
+        "sunwoo162/iseol-bot 브랜치가 20개를 넘어 일부만 조회"
+      ],
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
+      "branch_scan": "public owned repositories, max 20 branches each"
     },
     "2026-11-22": {
-      "state": "indexed",
-      "checked_at": "2026-11-22T00:00:16.643946+00:00",
+      "state": "limited",
+      "checked_at": "2026-11-22T03:13:02.188417+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
-      "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
+      "notes": [
+        "sunwoo162/iseol-bot 브랜치가 20개를 넘어 일부만 조회"
+      ],
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
+      "branch_scan": "public owned repositories, max 20 branches each"
     }
   },
   "days": {
     "2026-11-22": [],
     "2026-11-21": [
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-21",
+        "time": "23:50",
+        "at": "2026-11-21T23:50:17+09:00",
+        "title": "docs: operate unified Iseol contests/jobs discovery to Discord and CareerOn safely",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/35fb6235cb344d6013842790904f6d6b935cf800",
+        "sha": "35fb6235cb34",
+        "source": "branch-scan"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-21",
+        "time": "23:49",
+        "at": "2026-11-21T23:49:51+09:00",
+        "title": "test(bridge): verify signed job payload and durable retry through existing Iseol bridge",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/ef2486b914a476c7a08d5b31654b61b98fc4c634",
+        "sha": "ef2486b914a4",
+        "source": "branch-scan"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-21",
+        "time": "23:48",
+        "at": "2026-11-21T23:48:09+09:00",
+        "title": "fix(jobs): correct TypeScript source result predicate",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/2767d7fb6fecc1051adbdfd837c75e846315cf40",
+        "sha": "2767d7fb6fec",
+        "source": "branch-scan"
+      },
       {
         "kind": "pr",
         "event": "opened",
@@ -678,6 +723,78 @@
         ]
       },
       {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-21",
+        "time": "23:46",
+        "at": "2026-11-21T23:46:23+09:00",
+        "title": "test(jobs): HTML/ATS parsing, bad encodings, source outages, Discord dedup and retry",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/a7b80560cf1528c75fefe9da825deeb23709dd71",
+        "sha": "a7b80560cf15",
+        "source": "branch-scan"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-21",
+        "time": "23:45",
+        "at": "2026-11-21T23:45:07+09:00",
+        "title": "feat(jobs): wire Iseol discovery to Discord and signed CareerOn delivery",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/130c06d731a8663ee5c3aad4f3bd7aa4a4f7da16",
+        "sha": "130c06d731a8",
+        "source": "branch-scan"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-21",
+        "time": "23:45",
+        "at": "2026-11-21T23:45:00+09:00",
+        "title": "feat(jobs): daily discovery, durable deduplicated Discord feed and CareerOn fan-out",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/b6b188ffe7e590d231a240dda7ba3d0c7919d708",
+        "sha": "b6b188ffe7e5",
+        "source": "branch-scan"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-21",
+        "time": "23:44",
+        "at": "2026-11-21T23:44:19+09:00",
+        "title": "feat(bridge): deliver both contests and jobs through one signed durable CareerOn outbox",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/d99f3707345dce98ffa33f0b7f493b9511c5e94f",
+        "sha": "d99f3707345d",
+        "source": "branch-scan"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-21",
+        "time": "23:43",
+        "at": "2026-11-21T23:43:48+09:00",
+        "title": "feat(jobs): source-configured HTML and ATS discovery with fail-closed parsing",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/efdf6abbe80d7d97770a9ee378bb308a78cd422d",
+        "sha": "efdf6abbe80d",
+        "source": "branch-scan"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-21",
+        "time": "23:40",
+        "at": "2026-11-21T23:40:38+09:00",
+        "title": "fix(contest): surface machine-readable source health and keep snapshots on empty scrape",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/fa378bab9e297ed3d9d3a152a305c9a328d09208",
+        "sha": "fa378bab9e29",
+        "source": "branch-scan"
+      },
+      {
         "kind": "pr",
         "event": "opened",
         "date": "2026-11-21",
@@ -692,6 +809,54 @@
         "events": [
           "opened"
         ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-21",
+        "time": "23:39",
+        "at": "2026-11-21T23:39:06+09:00",
+        "title": "test(scraper): strict charset detection and fail-closed HTML quality",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/3c69cedc00f99237f97e23c53170fe0d3d0b47fe",
+        "sha": "3c69cedc00f9",
+        "source": "branch-scan"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-21",
+        "time": "23:38",
+        "at": "2026-11-21T23:38:40+09:00",
+        "title": "fix(contest): narrow decoded charset candidates for strict TypeScript",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/e32d7de7b5404fe9bf946e8d1be7c3642d931151",
+        "sha": "e32d7de7b540",
+        "source": "branch-scan"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-21",
+        "time": "23:38",
+        "at": "2026-11-21T23:38:14+09:00",
+        "title": "fix(contest): decode source charset, reject broken HTML and report failed detail pages",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/f4cd6854dd165bd7e3083f8d6fe747cc08e6eb41",
+        "sha": "f4cd6854dd16",
+        "source": "branch-scan"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-21",
+        "time": "23:38",
+        "at": "2026-11-21T23:38:00+09:00",
+        "title": "feat(contest): strict charset-aware HTML reader and quality diagnostics",
+        "repo": "sunwoo162/iseol-bot",
+        "url": "https://github.com/sunwoo162/iseol-bot/commit/5a6a03905e523ca65c83fb6e6a3530a1fd0e9f8f",
+        "sha": "5a6a03905e52",
+        "source": "branch-scan"
       }
     ],
     "2026-11-20": [],
