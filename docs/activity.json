@@ -1,7 +1,7 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-11-23T00:51:09.929016+00:00",
+  "updated_at": "2026-11-23T09:00:51.258199+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
@@ -639,7 +639,7 @@
     },
     "2026-11-21": {
       "state": "limited",
-      "checked_at": "2026-11-23T00:50:34.920836+00:00",
+      "checked_at": "2026-11-23T09:00:11.253982+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -652,7 +652,7 @@
     },
     "2026-11-22": {
       "state": "limited",
-      "checked_at": "2026-11-23T00:50:47.350272+00:00",
+      "checked_at": "2026-11-23T09:00:25.107973+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -665,7 +665,7 @@
     },
     "2026-11-23": {
       "state": "limited",
-      "checked_at": "2026-11-23T00:50:59.462441+00:00",
+      "checked_at": "2026-11-23T09:00:38.361276+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -678,7 +678,44 @@
     }
   },
   "days": {
-    "2026-11-23": [],
+    "2026-11-23": [
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-23",
+        "time": "10:12",
+        "at": "2026-11-23T10:12:51+09:00",
+        "title": "first commit",
+        "repo": "tutorio-app/Ai",
+        "url": "https://github.com/tutorio-app/Ai/commit/c5898274ff8c2f7bda346d36b29523c3c843677b",
+        "sha": "c5898274ff8c",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-23",
+        "time": "10:12",
+        "at": "2026-11-23T10:12:48+09:00",
+        "title": "first commit",
+        "repo": "tutorio-app/Backend",
+        "url": "https://github.com/tutorio-app/Backend/commit/69e6152378dbd12350c8f03c298799ad6f1913c7",
+        "sha": "69e6152378db",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-23",
+        "time": "10:12",
+        "at": "2026-11-23T10:12:45+09:00",
+        "title": "first commit",
+        "repo": "tutorio-app/Frontend",
+        "url": "https://github.com/tutorio-app/Frontend/commit/2c9051430e25d3c51a8b364eb4eb515b8577da1d",
+        "sha": "2c9051430e25",
+        "source": "commit-search"
+      }
+    ],
     "2026-11-22": [],
     "2026-11-21": [
       {
