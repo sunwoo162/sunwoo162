@@ -1,7 +1,7 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-11-23T09:00:51.258199+00:00",
+  "updated_at": "2026-11-23T21:20:05.821188+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
@@ -651,33 +651,41 @@
       "branch_scan": "public owned repositories, max 20 branches each"
     },
     "2026-11-22": {
-      "state": "limited",
-      "checked_at": "2026-11-23T09:00:25.107973+00:00",
+      "state": "indexed",
+      "checked_at": "2026-11-23T21:19:37.644837+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
-      "notes": [
-        "sunwoo162/iseol-bot 브랜치가 20개를 넘어 일부만 조회"
-      ],
+      "notes": [],
       "commit_scope": "GitHub commit-search index (not all unmerged branches)",
       "branch_scan": "public owned repositories, max 20 branches each"
     },
     "2026-11-23": {
-      "state": "limited",
-      "checked_at": "2026-11-23T09:00:38.361276+00:00",
+      "state": "indexed",
+      "checked_at": "2026-11-23T21:19:50.604725+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
-      "notes": [
-        "sunwoo162/iseol-bot 브랜치가 20개를 넘어 일부만 조회"
+      "notes": [],
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
+      "branch_scan": "public owned repositories, max 20 branches each"
+    },
+    "2026-11-24": {
+      "state": "indexed",
+      "checked_at": "2026-11-23T21:20:03.502226+00:00",
+      "sources": [
+        "github-commit-search",
+        "github-issue-search"
       ],
+      "notes": [],
       "commit_scope": "GitHub commit-search index (not all unmerged branches)",
       "branch_scan": "public owned repositories, max 20 branches each"
     }
   },
   "days": {
+    "2026-11-24": [],
     "2026-11-23": [
       {
         "kind": "commit",
