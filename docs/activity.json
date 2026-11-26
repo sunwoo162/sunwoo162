@@ -1,7 +1,7 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-11-26T05:01:14.951153+00:00",
+  "updated_at": "2026-11-26T15:12:39.331678+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
@@ -680,7 +680,7 @@
     },
     "2026-11-25": {
       "state": "indexed",
-      "checked_at": "2026-11-26T05:01:00.197043+00:00",
+      "checked_at": "2026-11-26T15:12:10.287429+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -691,7 +691,18 @@
     },
     "2026-11-26": {
       "state": "indexed",
-      "checked_at": "2026-11-26T05:01:12.751145+00:00",
+      "checked_at": "2026-11-26T15:12:23.862769+00:00",
+      "sources": [
+        "github-commit-search",
+        "github-issue-search"
+      ],
+      "notes": [],
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
+      "branch_scan": "public owned repositories, max 20 branches each"
+    },
+    "2026-11-27": {
+      "state": "indexed",
+      "checked_at": "2026-11-26T15:12:37.575347+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -702,7 +713,67 @@
     }
   },
   "days": {
-    "2026-11-26": [],
+    "2026-11-27": [],
+    "2026-11-26": [
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-26",
+        "time": "17:19",
+        "at": "2026-11-26T17:19:05+09:00",
+        "title": "fix(template): 코스 목록 진행 막대가 푼 문제 수와 관계없이 일정 길이로 차 보이던 오류 수정",
+        "repo": "gsmoj/gsmoj",
+        "url": "https://github.com/gsmoj/gsmoj/pull/111",
+        "number": 111,
+        "status": "merged",
+        "commits_url": "https://github.com/gsmoj/gsmoj/pull/111/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-26",
+        "time": "17:19",
+        "at": "2026-11-26T17:19:04+09:00",
+        "title": "Merge pull request #111 from gsmoj/fix/course-progress-bar",
+        "repo": "gsmoj/gsmoj",
+        "url": "https://github.com/gsmoj/gsmoj/commit/9bc67d9621fda0ce2e8765c3e1584ed3abac8534",
+        "sha": "9bc67d9621fd",
+        "source": "commit-search"
+      },
+      {
+        "kind": "commit",
+        "event": "committed",
+        "date": "2026-11-26",
+        "time": "17:16",
+        "at": "2026-11-26T17:16:38+09:00",
+        "title": "Merge pull request #110 from gsmoj/fix/problem-rate-by-submissions",
+        "repo": "gsmoj/gsmoj",
+        "url": "https://github.com/gsmoj/gsmoj/commit/f28c22f2f7a91f9a7aea859052fb899180cfa06d",
+        "sha": "f28c22f2f7a9",
+        "source": "commit-search"
+      },
+      {
+        "kind": "pr",
+        "event": "merged",
+        "date": "2026-11-26",
+        "time": "17:16",
+        "at": "2026-11-26T17:16:38+09:00",
+        "title": "fix(ranklist): 정답률을 푼 문제 수 ÷ 실제 제출 횟수로 계산해 100%로만 보이던 오류 수정",
+        "repo": "gsmoj/gsmoj",
+        "url": "https://github.com/gsmoj/gsmoj/pull/110",
+        "number": 110,
+        "status": "merged",
+        "commits_url": "https://github.com/gsmoj/gsmoj/pull/110/commits",
+        "events": [
+          "opened",
+          "merged"
+        ]
+      }
+    ],
     "2026-11-25": [],
     "2026-11-24": [],
     "2026-11-23": [
