@@ -1,7 +1,7 @@
 {
   "user": "sunwoo162",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-11-28T01:58:24.321995+00:00",
+  "updated_at": "2026-11-28T02:14:34.773566+00:00",
   "coverage": {
     "2026-10-16": {
       "state": "indexed",
@@ -509,7 +509,7 @@
     },
     "2026-11-08": {
       "state": "indexed",
-      "checked_at": "2026-11-27T02:24:09.564176+00:00",
+      "checked_at": "2026-11-28T02:09:50.319567+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -519,7 +519,7 @@
     },
     "2026-11-09": {
       "state": "indexed",
-      "checked_at": "2026-11-27T02:24:22.526840+00:00",
+      "checked_at": "2026-11-28T02:10:03.330642+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -529,7 +529,7 @@
     },
     "2026-11-10": {
       "state": "indexed",
-      "checked_at": "2026-11-27T02:24:36.837124+00:00",
+      "checked_at": "2026-11-28T02:10:17.863065+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -539,7 +539,7 @@
     },
     "2026-11-11": {
       "state": "indexed",
-      "checked_at": "2026-11-27T02:24:51.542437+00:00",
+      "checked_at": "2026-11-28T02:10:32.910962+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -549,7 +549,7 @@
     },
     "2026-11-12": {
       "state": "indexed",
-      "checked_at": "2026-11-27T02:25:07.484077+00:00",
+      "checked_at": "2026-11-28T02:10:48.548574+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -559,7 +559,7 @@
     },
     "2026-11-13": {
       "state": "indexed",
-      "checked_at": "2026-11-27T02:25:22.273217+00:00",
+      "checked_at": "2026-11-28T02:11:03.170193+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -569,7 +569,7 @@
     },
     "2026-11-14": {
       "state": "indexed",
-      "checked_at": "2026-11-27T02:25:37.475123+00:00",
+      "checked_at": "2026-11-28T02:11:17.844574+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -579,7 +579,7 @@
     },
     "2026-11-15": {
       "state": "indexed",
-      "checked_at": "2026-11-27T02:26:04.327654+00:00",
+      "checked_at": "2026-11-28T02:11:44.247724+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -589,7 +589,7 @@
     },
     "2026-11-16": {
       "state": "indexed",
-      "checked_at": "2026-11-27T02:26:20.290170+00:00",
+      "checked_at": "2026-11-28T02:11:59.811365+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -599,7 +599,7 @@
     },
     "2026-11-17": {
       "state": "indexed",
-      "checked_at": "2026-11-27T02:26:35.170637+00:00",
+      "checked_at": "2026-11-28T02:12:14.098423+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -609,7 +609,7 @@
     },
     "2026-11-18": {
       "state": "indexed",
-      "checked_at": "2026-11-27T02:26:50.480332+00:00",
+      "checked_at": "2026-11-28T02:12:28.543464+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -619,7 +619,7 @@
     },
     "2026-11-19": {
       "state": "indexed",
-      "checked_at": "2026-11-27T02:27:04.966972+00:00",
+      "checked_at": "2026-11-28T02:12:42.325447+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -629,7 +629,7 @@
     },
     "2026-11-20": {
       "state": "indexed",
-      "checked_at": "2026-11-27T02:27:18.251432+00:00",
+      "checked_at": "2026-11-28T02:12:55.710224+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -639,7 +639,7 @@
     },
     "2026-11-21": {
       "state": "indexed",
-      "checked_at": "2026-11-27T02:27:30.728321+00:00",
+      "checked_at": "2026-11-28T02:13:08.384585+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -649,7 +649,7 @@
     },
     "2026-11-22": {
       "state": "indexed",
-      "checked_at": "2026-11-27T02:27:43.488189+00:00",
+      "checked_at": "2026-11-28T02:13:20.943771+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -659,7 +659,7 @@
     },
     "2026-11-23": {
       "state": "indexed",
-      "checked_at": "2026-11-27T02:27:55.669998+00:00",
+      "checked_at": "2026-11-28T02:13:33.134843+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -669,7 +669,7 @@
     },
     "2026-11-24": {
       "state": "indexed",
-      "checked_at": "2026-11-27T02:29:15.652386+00:00",
+      "checked_at": "2026-11-28T02:13:45.128269+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
@@ -679,47 +679,43 @@
     },
     "2026-11-25": {
       "state": "indexed",
-      "checked_at": "2026-11-27T08:26:35.275620+00:00",
+      "checked_at": "2026-11-28T02:13:57.240491+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
       "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
-      "branch_scan": "public owned repositories, max 20 branches each"
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
     },
     "2026-11-26": {
       "state": "indexed",
-      "checked_at": "2026-11-28T01:57:58.306092+00:00",
+      "checked_at": "2026-11-28T02:14:09.968939+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
       "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
-      "branch_scan": "public owned repositories, max 20 branches each"
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
     },
     "2026-11-27": {
       "state": "indexed",
-      "checked_at": "2026-11-28T01:58:11.023345+00:00",
+      "checked_at": "2026-11-28T02:14:22.743094+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
       "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
-      "branch_scan": "public owned repositories, max 20 branches each"
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
     },
     "2026-11-28": {
       "state": "indexed",
-      "checked_at": "2026-11-28T01:58:22.804981+00:00",
+      "checked_at": "2026-11-28T02:14:34.773496+00:00",
       "sources": [
         "github-commit-search",
         "github-issue-search"
       ],
       "notes": [],
-      "commit_scope": "GitHub commit-search index (not all unmerged branches)",
-      "branch_scan": "public owned repositories, max 20 branches each"
+      "commit_scope": "GitHub commit-search index (not all unmerged branches)"
     }
   },
   "days": {
